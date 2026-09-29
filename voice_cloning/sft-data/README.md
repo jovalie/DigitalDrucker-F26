@@ -18,7 +18,9 @@ drucker_sft_12h.tar
 ## Unpack and use
 
 ```bash
-git lfs install && git lfs pull            # after cloning
+git lfs install                            # once per machine, BEFORE cloning
+# (cloned already? `git lfs install --local && git lfs pull` inside the repo)
+md5sum drucker_sft_12h.tar                 # 253eec6773344093d06dd01cd56a2dad
 tar -xf drucker_sft_12h.tar -C /scratch/$USER/
 D=/scratch/$USER/drucker
 # wav.scp holds absolute paths from the machine that built the archive — rewrite them:

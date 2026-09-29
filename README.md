@@ -7,6 +7,21 @@ lecture corpus.
 Everything here was developed and validated on `qclgpu` (4× Tesla V100-32GB, ComfyUI 0.37.0,
 torch 2.7.1+cu126). GPUs with more VRAM (A100/H100) work too and relax the memory tricks noted below.
 
+## Cloning (Git LFS is required)
+
+Large audio/video artefacts (reference clips, the 12 h SFT dataset) are stored in Git LFS, so
+**install it before cloning** or you will get pointer files instead of media:
+
+```bash
+git lfs install                 # once per machine
+git clone git@github.com:jovalie/DigitalDrucker-F26.git
+# already cloned without lfs? then:
+cd DigitalDrucker-F26 && git lfs install --local && git lfs pull
+```
+
+`git lfs ls-files` lists the 18 tracked objects; `voice_cloning/sft-data/drucker_sft_12h.tar`
+is 1.3 GB.
+
 ## Repo map
 
 | Path | What it is |
