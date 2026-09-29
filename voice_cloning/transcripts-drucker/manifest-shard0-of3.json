@@ -1,0 +1,275 @@
+{
+  "items": {
+    "3552": {
+      "status": "ok",
+      "duration_s": 1803.1,
+      "wall_s": 34.7,
+      "rtf": 52.01,
+      "segments": 144,
+      "chars": 8555,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:17:33+00:00"
+    },
+    "3555": {
+      "status": "ok",
+      "duration_s": 1792.5,
+      "wall_s": 55.3,
+      "rtf": 32.44,
+      "segments": 192,
+      "chars": 15138,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:18:29+00:00"
+    },
+    "3558": {
+      "status": "ok",
+      "duration_s": 1786.0,
+      "wall_s": 33.6,
+      "rtf": 53.17,
+      "segments": 137,
+      "chars": 8107,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:19:02+00:00"
+    },
+    "3561": {
+      "status": "ok",
+      "duration_s": 1791.3,
+      "wall_s": 73.2,
+      "rtf": 24.48,
+      "segments": 316,
+      "chars": 21393,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:20:16+00:00"
+    },
+    "4794": {
+      "status": "ok",
+      "duration_s": 1492.6,
+      "wall_s": 4.9,
+      "rtf": 306.06,
+      "segments": 0,
+      "chars": 0,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:20:20+00:00"
+    },
+    "4849": {
+      "status": "ok",
+      "duration_s": 2587.3,
+      "wall_s": 81.1,
+      "rtf": 31.9,
+      "segments": 224,
+      "chars": 20515,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:21:42+00:00"
+    },
+    "4900": {
+      "status": "ok",
+      "duration_s": 1862.2,
+      "wall_s": 5.9,
+      "rtf": 317.28,
+      "segments": 0,
+      "chars": 0,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:21:48+00:00"
+    },
+    "4940": {
+      "status": "ok",
+      "duration_s": 1466.3,
+      "wall_s": 56.9,
+      "rtf": 25.77,
+      "segments": 227,
+      "chars": 14654,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:22:44+00:00"
+    },
+    "4943": {
+      "status": "ok",
+      "duration_s": 2785.2,
+      "wall_s": 108.2,
+      "rtf": 25.75,
+      "segments": 388,
+      "chars": 28180,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:24:33+00:00"
+    },
+    "4946": {
+      "status": "ok",
+      "duration_s": 1360.3,
+      "wall_s": 14.7,
+      "rtf": 92.75,
+      "segments": 55,
+      "chars": 3000,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:24:47+00:00"
+    },
+    "5000": {
+      "status": "ok",
+      "duration_s": 3590.8,
+      "wall_s": 151.8,
+      "rtf": 23.66,
+      "segments": 653,
+      "chars": 35158,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:27:19+00:00"
+    },
+    "5003": {
+      "status": "ok",
+      "duration_s": 3594.5,
+      "wall_s": 126.7,
+      "rtf": 28.37,
+      "segments": 423,
+      "chars": 30052,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:29:26+00:00"
+    },
+    "5006": {
+      "status": "ok",
+      "duration_s": 3600.3,
+      "wall_s": 140.0,
+      "rtf": 25.72,
+      "segments": 476,
+      "chars": 33870,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:31:46+00:00"
+    },
+    "5009": {
+      "status": "ok",
+      "duration_s": 2673.5,
+      "wall_s": 75.4,
+      "rtf": 35.46,
+      "segments": 290,
+      "chars": 18605,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:33:02+00:00"
+    },
+    "5012": {
+      "status": "ok",
+      "duration_s": 2694.4,
+      "wall_s": 43.9,
+      "rtf": 61.31,
+      "segments": 133,
+      "chars": 10636,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:33:46+00:00"
+    },
+    "5015": {
+      "status": "ok",
+      "duration_s": 2643.4,
+      "wall_s": 85.4,
+      "rtf": 30.94,
+      "segments": 276,
+      "chars": 21618,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:35:11+00:00"
+    },
+    "5018": {
+      "status": "ok",
+      "duration_s": 2701.6,
+      "wall_s": 71.3,
+      "rtf": 37.89,
+      "segments": 226,
+      "chars": 17417,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:36:22+00:00"
+    },
+    "5021": {
+      "status": "ok",
+      "duration_s": 2707.4,
+      "wall_s": 55.8,
+      "rtf": 48.55,
+      "segments": 179,
+      "chars": 10518,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:37:18+00:00"
+    },
+    "5024": {
+      "status": "ok",
+      "duration_s": 2711.5,
+      "wall_s": 107.0,
+      "rtf": 25.35,
+      "segments": 360,
+      "chars": 26175,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:39:05+00:00"
+    },
+    "5027": {
+      "status": "ok",
+      "duration_s": 1812.5,
+      "wall_s": 40.9,
+      "rtf": 44.28,
+      "segments": 131,
+      "chars": 10862,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:39:46+00:00"
+    },
+    "5030": {
+      "status": "ok",
+      "duration_s": 2747.5,
+      "wall_s": 10.2,
+      "rtf": 269.27,
+      "segments": 5,
+      "chars": 266,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:39:57+00:00"
+    },
+    "5033": {
+      "status": "ok",
+      "duration_s": 2382.4,
+      "wall_s": 74.2,
+      "rtf": 32.11,
+      "segments": 253,
+      "chars": 17450,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:41:11+00:00"
+    },
+    "5036": {
+      "status": "ok",
+      "duration_s": 2707.7,
+      "wall_s": 43.4,
+      "rtf": 62.37,
+      "segments": 122,
+      "chars": 10141,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:41:54+00:00"
+    },
+    "5039": {
+      "status": "ok",
+      "duration_s": 1682.1,
+      "wall_s": 62.0,
+      "rtf": 27.11,
+      "segments": 179,
+      "chars": 17404,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:42:56+00:00"
+    },
+    "5107": {
+      "status": "ok",
+      "duration_s": 3605.6,
+      "wall_s": 115.9,
+      "rtf": 31.11,
+      "segments": 446,
+      "chars": 27368,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:44:52+00:00"
+    },
+    "5113": {
+      "status": "ok",
+      "duration_s": 3593.5,
+      "wall_s": 135.6,
+      "rtf": 26.5,
+      "segments": 391,
+      "chars": 34299,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:47:08+00:00"
+    },
+    "5117": {
+      "status": "ok",
+      "duration_s": 2439.9,
+      "wall_s": 105.3,
+      "rtf": 23.16,
+      "segments": 461,
+      "chars": 27190,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:48:53+00:00"
+    }
+  },
+  "updated_utc": "2026-09-29T02:48:53+00:00"
+}

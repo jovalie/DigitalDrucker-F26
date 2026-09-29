@@ -1,0 +1,3248 @@
+{
+ "pointer": "4938",
+ "media": "4938.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 3388.9,
+ "segments": [
+  {
+   "start": 11.42,
+   "end": 13.5,
+   "text": "That's easy. It's a boss."
+  },
+  {
+   "start": 14.88,
+   "end": 21.02,
+   "text": "Every manager I know finds managing his boss the most difficult of his tasks."
+  },
+  {
+   "start": 21.81,
+   "end": 23.55,
+   "text": "Very few managers even try."
+  },
+  {
+   "start": 24.09,
+   "end": 36.82,
+   "text": "Well, I think this is one of the few kind of dependable symptoms"
+  },
+  {
+   "start": 36.82,
+   "end": 42.66,
+   "text": "as to which of the younger people in your organization are going to go places"
+  },
+  {
+   "start": 42.66,
+   "end": 45.46,
+   "text": "and which ones are going to go nowhere."
+  },
+  {
+   "start": 45.46,
+   "end": 52.1,
+   "text": "the ones who only talk about how they suffer from the boss"
+  },
+  {
+   "start": 52.1,
+   "end": 55.76,
+   "text": "and how incompetent he is and how impossible he is."
+  },
+  {
+   "start": 56.26,
+   "end": 58.4,
+   "text": "Well, they are not going to go any place."
+  },
+  {
+   "start": 59.04,
+   "end": 65.51,
+   "text": "One can spot the comers because they do something about managing the boss,"
+  },
+  {
+   "start": 66.38,
+   "end": 68.36,
+   "text": "and it's really quite simple."
+  },
+  {
+   "start": 69.19,
+   "end": 77.85,
+   "text": "When you talk about something different,"
+  },
+  {
+   "start": 78.92,
+   "end": 81.16,
+   "text": "which polishing the apple is, so to speak,"
+  },
+  {
+   "start": 81.7,
+   "end": 84.8,
+   "text": "a subordinate clause rather than the main one."
+  },
+  {
+   "start": 84.8,
+   "end": 87.16,
+   "text": "It almost depends on the boss what you do."
+  },
+  {
+   "start": 87.46,
+   "end": 92.52,
+   "text": "The first thing to know is that the boss is a human being,"
+  },
+  {
+   "start": 93.96,
+   "end": 97.68,
+   "text": "perversely insisting on behaving like a human being,"
+  },
+  {
+   "start": 97.86,
+   "end": 100.24,
+   "text": "neither a monster nor an angel,"
+  },
+  {
+   "start": 101.02,
+   "end": 106.48,
+   "text": "and therefore he has to be treated as a human being and as an individual."
+  },
+  {
+   "start": 108.17,
+   "end": 110.27,
+   "text": "And some you polish the apple for,"
+  },
+  {
+   "start": 110.49,
+   "end": 113.27,
+   "text": "and others that's the worst thing you could possibly do."
+  },
+  {
+   "start": 113.27,
+   "end": 120.73,
+   "text": "The second thing is that no matter how able and competent he is,"
+  },
+  {
+   "start": 121.39,
+   "end": 123.11,
+   "text": "he is not the mind reader."
+  },
+  {
+   "start": 124.13,
+   "end": 130.69,
+   "text": "And therefore, you have to make sure that he understands what you're trying to do."
+  },
+  {
+   "start": 130.85,
+   "end": 137.07,
+   "text": "And the third thing is that sure, he does not give you enough of his time,"
+  },
+  {
+   "start": 138.2,
+   "end": 143.06,
+   "text": "but he gives you more time as a rule than he should and more than he has."
+  },
+  {
+   "start": 143.06,
+   "end": 149.02,
+   "text": "and it's up to you to make sure that you get the right amount of time"
+  },
+  {
+   "start": 149.02,
+   "end": 150.86,
+   "text": "and that it's productive time."
+  },
+  {
+   "start": 151.77,
+   "end": 159.02,
+   "text": "Finally, it's more dangerous to underrate the boss than to overrate him."
+  },
+  {
+   "start": 159.92,
+   "end": 165.79,
+   "text": "The most serious mistake you can make is to underrate the boss"
+  },
+  {
+   "start": 165.79,
+   "end": 167.91,
+   "text": "and be caught doing it."
+  },
+  {
+   "start": 168.37,
+   "end": 172.37,
+   "text": "Those are kind of very simple, stupid rules."
+  },
+  {
+   "start": 172.37,
+   "end": 178.75,
+   "text": "very few managers know them, and even fewer do something about them."
+  },
+  {
+   "start": 183.39,
+   "end": 184.11,
+   "text": "How do all this?"
+  },
+  {
+   "start": 184.35,
+   "end": 190.23,
+   "text": "I'm always amazed just to be very primitive, but these are primitive things."
+  },
+  {
+   "start": 190.61,
+   "end": 195.41,
+   "text": "I'm always amazed by the fact that almost nobody seems to know"
+  },
+  {
+   "start": 195.41,
+   "end": 199.73,
+   "text": "that the human race is divided into readers and listeners"
+  },
+  {
+   "start": 199.73,
+   "end": 202.97,
+   "text": "the way it's divided into right-handers and left-handers,"
+  },
+  {
+   "start": 203.57,
+   "end": 207.33,
+   "text": "and that the first thing you have to do is look at your boss and say,"
+  },
+  {
+   "start": 207.33,
+   "end": 210.61,
+   "text": "how does he function, what makes him tick."
+  },
+  {
+   "start": 211.17,
+   "end": 213.31,
+   "text": "If you have a reader for a boss,"
+  },
+  {
+   "start": 214.22,
+   "end": 217.19,
+   "text": "let's say his name is Dwight Eisenhower,"
+  },
+  {
+   "start": 218.51,
+   "end": 221.35,
+   "text": "because he was a perfect example of a reader,"
+  },
+  {
+   "start": 221.43,
+   "end": 223.07,
+   "text": "or John Kennedy, another reader."
+  },
+  {
+   "start": 223.47,
+   "end": 225.05,
+   "text": "You don't go and talk to him."
+  },
+  {
+   "start": 226.12,
+   "end": 230.0,
+   "text": "You make sure he can read first, then you can talk."
+  },
+  {
+   "start": 230.44,
+   "end": 231.64,
+   "text": "If you have a listener,"
+  },
+  {
+   "start": 233.09,
+   "end": 237.44,
+   "text": "and let's say his name is Franklin Roosevelt or Harry Truman,"
+  },
+  {
+   "start": 237.44,
+   "end": 241.23,
+   "text": "you don't send in a memorandum first."
+  },
+  {
+   "start": 241.39,
+   "end": 244.83,
+   "text": "You go in and talk first, and you can leave a memorandum."
+  },
+  {
+   "start": 245.48,
+   "end": 248.9,
+   "text": "If you have a man who likes to be flattered"
+  },
+  {
+   "start": 248.9,
+   "end": 251.98,
+   "text": "because he needs a little reassurance,"
+  },
+  {
+   "start": 252.54,
+   "end": 254.68,
+   "text": "well, then you see a few nice things."
+  },
+  {
+   "start": 255.44,
+   "end": 259.88,
+   "text": "And if you notice a man is embarrassed, as I am, for instance,"
+  },
+  {
+   "start": 259.96,
+   "end": 263.62,
+   "text": "one of the things I dislike the most is when people tell me"
+  },
+  {
+   "start": 263.62,
+   "end": 265.16,
+   "text": "about how good my last book is."
+  },
+  {
+   "start": 265.34,
+   "end": 267.78,
+   "text": "It's stupid. It embarrasses me."
+  },
+  {
+   "start": 268.52,
+   "end": 270.52,
+   "text": "You have a boss who likes to be flattered."
+  },
+  {
+   "start": 270.52,
+   "end": 271.94,
+   "text": "All right, it's cheap."
+  },
+  {
+   "start": 271.94,
+   "end": 276.8,
+   "text": "You have a boss who has to have facts and figures,"
+  },
+  {
+   "start": 277.3,
+   "end": 279.64,
+   "text": "an old financial man, again, like myself."
+  },
+  {
+   "start": 280.5,
+   "end": 284.78,
+   "text": "Well, then you just lift 150 pages out of the statistical abstract."
+  },
+  {
+   "start": 285.7,
+   "end": 289.24,
+   "text": "You have a boss who wants one page of recommendations."
+  },
+  {
+   "start": 289.44,
+   "end": 290.7,
+   "text": "Well, that's what he gets."
+  },
+  {
+   "start": 291.36,
+   "end": 295.26,
+   "text": "He accepts the fact that he's a human being,"
+  },
+  {
+   "start": 296.08,
+   "end": 301.44,
+   "text": "that he's unlikely to be changed by you, set in his ways,"
+  },
+  {
+   "start": 301.44,
+   "end": 304.38,
+   "text": "and that it's up to you to make him function."
+  },
+  {
+   "start": 304.86,
+   "end": 306.98,
+   "text": "People who want to manage their boss"
+  },
+  {
+   "start": 306.98,
+   "end": 311.12,
+   "text": "first find out whom it is they want to manage."
+  },
+  {
+   "start": 311.7,
+   "end": 313.26,
+   "text": "One doesn't manage a boss,"
+  },
+  {
+   "start": 313.72,
+   "end": 315.48,
+   "text": "one works with a human being."
+  },
+  {
+   "start": 323.86,
+   "end": 325.24,
+   "text": "I don't know about generally,"
+  },
+  {
+   "start": 325.44,
+   "end": 328.28,
+   "text": "but your batting average is going to be a great deal better."
+  },
+  {
+   "start": 328.88,
+   "end": 331.62,
+   "text": "This may strike you as perfectly trivial, Elizabeth."
+  },
+  {
+   "start": 331.62,
+   "end": 336.71,
+   "text": "Learn also the good words and the bad words."
+  },
+  {
+   "start": 336.71,
+   "end": 342.72,
+   "text": "I once worked with perhaps the ablest man among all my clients."
+  },
+  {
+   "start": 343.68,
+   "end": 346.16,
+   "text": "We all had to learn never to say control."
+  },
+  {
+   "start": 347.79,
+   "end": 350.91,
+   "text": "He was an engineer and an autocrat and a pedant,"
+  },
+  {
+   "start": 351.94,
+   "end": 355.22,
+   "text": "but control was a bad, bad, bad word."
+  },
+  {
+   "start": 356.52,
+   "end": 358.22,
+   "text": "We had to learn to say measurement."
+  },
+  {
+   "start": 359.01,
+   "end": 363.47,
+   "text": "If you said control, his mind just snapped shut,"
+  },
+  {
+   "start": 363.87,
+   "end": 365.65,
+   "text": "and for the next six weeks,"
+  },
+  {
+   "start": 365.65,
+   "end": 370.11,
+   "text": "all he could do is deliver sermons on why control is bad."
+  },
+  {
+   "start": 371.01,
+   "end": 379.92,
+   "text": "everybody has worth magic. It's my job to work with this person as my resource."
+  },
+  {
+   "start": 379.92,
+   "end": 385.12,
+   "text": "Resources always have to be worked the way they are, not the way I want them to be."
+  },
+  {
+   "start": 385.84,
+   "end": 392.72,
+   "text": "Yes, it's manipulative. It's your job to manipulate in the sense of adapting yourself"
+  },
+  {
+   "start": 392.72,
+   "end": 397.22,
+   "text": "to the way an individual is put together."
+  },
+  {
+   "start": 397.22,
+   "end": 416.28,
+   "text": "them. Well, we don't only assume this about the boss, you know, children assume it about their"
+  },
+  {
+   "start": 416.28,
+   "end": 421.68,
+   "text": "parents and parents assume it about their children and teachers about their students and students"
+  },
+  {
+   "start": 421.68,
+   "end": 428.24,
+   "text": "about their teachers. Apparently, the most difficult thing to accept is that first insight"
+  },
+  {
+   "start": 428.24,
+   "end": 435.44,
+   "text": "of modern psychology. Modern psychology started around 1880 with the starting discovery that what"
+  },
+  {
+   "start": 435.44,
+   "end": 443.43,
+   "text": "is obvious to me nobody else can see at all. Very few people accept this. Particularly in dealing"
+  },
+  {
+   "start": 443.43,
+   "end": 450.71,
+   "text": "with your boss, you better keep it in mind. It's your job to make sure he knows what you are trying"
+  },
+  {
+   "start": 450.71,
+   "end": 461.77,
+   "text": "to do. He knows what you need. He knows what you expect from him. And if you just blithely go ahead"
+  },
+  {
+   "start": 461.77,
+   "end": 464.01,
+   "text": "assuming it's so obvious what I'm doing."
+  },
+  {
+   "start": 464.11,
+   "end": 465.93,
+   "text": "Any goddamn fool must see it."
+  },
+  {
+   "start": 466.55,
+   "end": 468.05,
+   "text": "Well, then everybody will see now"
+  },
+  {
+   "start": 468.05,
+   "end": 470.29,
+   "text": "what the dickness is that fellow up to."
+  },
+  {
+   "start": 470.93,
+   "end": 472.27,
+   "text": "I can't figure it out."
+  },
+  {
+   "start": 473.04,
+   "end": 474.22,
+   "text": "To manage your boss,"
+  },
+  {
+   "start": 474.38,
+   "end": 476.56,
+   "text": "think through what you're trying to do,"
+  },
+  {
+   "start": 476.94,
+   "end": 480.04,
+   "text": "including those things your boss better not know about."
+  },
+  {
+   "start": 480.18,
+   "end": 482.64,
+   "text": "In every organization,"
+  },
+  {
+   "start": 482.8,
+   "end": 485.18,
+   "text": "there's a becoming amount of sabotage,"
+  },
+  {
+   "start": 485.8,
+   "end": 487.7,
+   "text": "and it's needed, but not too much."
+  },
+  {
+   "start": 489.14,
+   "end": 492.2,
+   "text": "But what are the things people have to know?"
+  },
+  {
+   "start": 492.2,
+   "end": 496.54,
+   "text": "what are you trying to do, what can they expect from you,"
+  },
+  {
+   "start": 496.94,
+   "end": 499.2,
+   "text": "what are you not going to do,"
+  },
+  {
+   "start": 499.92,
+   "end": 504.54,
+   "text": "and then make sure that fellow on whom you depend so heavily,"
+  },
+  {
+   "start": 505.14,
+   "end": 509.98,
+   "text": "the fellow in that office next door who is your boss,"
+  },
+  {
+   "start": 510.36,
+   "end": 514.71,
+   "text": "understands it, not necessarily approves, but understands it,"
+  },
+  {
+   "start": 514.77,
+   "end": 517.98,
+   "text": "so that he isn't surprised."
+  },
+  {
+   "start": 519.39,
+   "end": 522.63,
+   "text": "One doesn't surprise the boss because there are no pleasant surprises."
+  },
+  {
+   "start": 522.63,
+   "end": 530.62,
+   "text": "surprises. One doesn't baffle him. One goes in or one writes to him, depending on how he receives,"
+  },
+  {
+   "start": 531.14,
+   "end": 538.16,
+   "text": "and says, this is what I'm trying to do. This is what I am not going to do. I know we have"
+  },
+  {
+   "start": 538.16,
+   "end": 544.99,
+   "text": "that problem with the branch office in England, and I'm not going to tackle it because I think"
+  },
+  {
+   "start": 544.99,
+   "end": 552.14,
+   "text": "that if we leave it alone, they'll work it out. I'll check it. And if they don't work it out in"
+  },
+  {
+   "start": 552.14,
+   "end": 555.48,
+   "text": "Six months from now, I'll come down on them like a ton of bricks."
+  },
+  {
+   "start": 556.18,
+   "end": 561.92,
+   "text": "So that he doesn't say, well, doesn't that fellow see the mess we are in there in the London office?"
+  },
+  {
+   "start": 562.08,
+   "end": 564.16,
+   "text": "Why doesn't he do anything about it?"
+  },
+  {
+   "start": 564.44,
+   "end": 565.86,
+   "text": "Is he asleep or what?"
+  },
+  {
+   "start": 565.86,
+   "end": 568.41,
+   "text": "He knows you have made a decision."
+  },
+  {
+   "start": 569.93,
+   "end": 574.53,
+   "text": "You're giving those English people another six months to straighten it out."
+  },
+  {
+   "start": 575.51,
+   "end": 578.49,
+   "text": "All right, if they don't straighten it out, you'll have to tackle it."
+  },
+  {
+   "start": 578.65,
+   "end": 579.65,
+   "text": "But that's a decision."
+  },
+  {
+   "start": 580.39,
+   "end": 581.95,
+   "text": "Don't say it's obvious."
+  },
+  {
+   "start": 581.95,
+   "end": 590.13,
+   "text": "It is, except the fact that mind readers exist only in science fiction novels."
+  },
+  {
+   "start": 590.75,
+   "end": 593.15,
+   "text": "They do not exist in the executive office."
+  },
+  {
+   "start": 609.29,
+   "end": 610.53,
+   "text": "That depends on the boss."
+  },
+  {
+   "start": 610.87,
+   "end": 611.29,
+   "text": "I suppose."
+  },
+  {
+   "start": 611.31,
+   "end": 617.22,
+   "text": "There are some bosses where one doesn't do it because they don't like it."
+  },
+  {
+   "start": 617.48,
+   "end": 619.68,
+   "text": "But let me say one thing one never does."
+  },
+  {
+   "start": 621.05,
+   "end": 623.45,
+   "text": "One never hides problems."
+  },
+  {
+   "start": 624.01,
+   "end": 626.79,
+   "text": "One never brushes an elephant under the rug."
+  },
+  {
+   "start": 627.84,
+   "end": 635.82,
+   "text": "Well, it's true to him."
+  },
+  {
+   "start": 635.82,
+   "end": 638.04,
+   "text": "It's also very unfair to yourself."
+  },
+  {
+   "start": 638.62,
+   "end": 644.86,
+   "text": "I wish every young man or woman had the good fortune I had when I was in my early 20s."
+  },
+  {
+   "start": 645.6,
+   "end": 651.58,
+   "text": "The old wise man who was the senior partner of the firm I worked for called me in and said,"
+  },
+  {
+   "start": 651.7,
+   "end": 654.08,
+   "text": "Mr. Drucker, you have been a goddamn fool again."
+  },
+  {
+   "start": 654.4,
+   "end": 656.5,
+   "text": "You have been hiding a problem."
+  },
+  {
+   "start": 656.68,
+   "end": 659.86,
+   "text": "You have done it now twice, and if you do it a third time,"
+  },
+  {
+   "start": 660.3,
+   "end": 663.34,
+   "text": "I make damn sure that you go to work for the competition."
+  },
+  {
+   "start": 663.34,
+   "end": 665.62,
+   "text": "I never did it again."
+  },
+  {
+   "start": 665.62,
+   "end": 670.69,
+   "text": "but I needed, we had thought I was a conceited pup"
+  },
+  {
+   "start": 670.69,
+   "end": 673.45,
+   "text": "and I needed rough treatment, and I got it."
+  },
+  {
+   "start": 674.62,
+   "end": 677.7,
+   "text": "That is a lesson most younger people need to be taught."
+  },
+  {
+   "start": 678.44,
+   "end": 681.04,
+   "text": "Their instinctive reaction is, here is a problem,"
+  },
+  {
+   "start": 681.54,
+   "end": 686.28,
+   "text": "and let's hide it because it'll go away if we hide it."
+  },
+  {
+   "start": 686.62,
+   "end": 689.2,
+   "text": "Well, maybe it will, maybe it won't,"
+  },
+  {
+   "start": 689.26,
+   "end": 690.62,
+   "text": "but if it doesn't, you're in trouble."
+  },
+  {
+   "start": 691.16,
+   "end": 697.17,
+   "text": "One thinks through how one warns the boss of impending problems."
+  },
+  {
+   "start": 697.17,
+   "end": 703.9,
+   "text": "If you work for me, you better come in and tell me what you plan to do about it."
+  },
+  {
+   "start": 704.02,
+   "end": 708.16,
+   "text": "If you work for a friend of mine for whom I have very great respect,"
+  },
+  {
+   "start": 709.07,
+   "end": 712.51,
+   "text": "you better come in and say there is a cloud on the horizon."
+  },
+  {
+   "start": 712.89,
+   "end": 714.67,
+   "text": "I think I know how to deal with it."
+  },
+  {
+   "start": 714.99,
+   "end": 717.41,
+   "text": "If it gets any bigger, I'll let you know. Goodbye."
+  },
+  {
+   "start": 718.19,
+   "end": 722.7,
+   "text": "He doesn't want to know how you propose to do your job."
+  },
+  {
+   "start": 723.06,
+   "end": 725.56,
+   "text": "He thinks that that's your business, and he may be right."
+  },
+  {
+   "start": 727.03,
+   "end": 729.47,
+   "text": "Other people want to be part of the problem."
+  },
+  {
+   "start": 729.47,
+   "end": 732.91,
+   "text": "where you go in and say, look, I see this coming,"
+  },
+  {
+   "start": 733.39,
+   "end": 738.83,
+   "text": "and I thought I might impose on you a time to get your advice,"
+  },
+  {
+   "start": 739.66,
+   "end": 742.94,
+   "text": "to feel that after all, what the superior is there for."
+  },
+  {
+   "start": 743.32,
+   "end": 746.48,
+   "text": "He's a coach. He's a problem shooter."
+  },
+  {
+   "start": 746.48,
+   "end": 750.86,
+   "text": "So one looks at the individual, but one makes absolutely sure"
+  },
+  {
+   "start": 750.86,
+   "end": 753.34,
+   "text": "that there are no surprises."
+  },
+  {
+   "start": 754.4,
+   "end": 757.72,
+   "text": "It isn't important whether you crow about your successes"
+  },
+  {
+   "start": 757.72,
+   "end": 762.7,
+   "text": "or try to minimize your mistakes, those are fairly unimportant."
+  },
+  {
+   "start": 763.22,
+   "end": 766.88,
+   "text": "What is terribly important is the rule, no surprises."
+  },
+  {
+   "start": 767.32,
+   "end": 772.0,
+   "text": "It's your job to make sure your boss is never going to be surprised"
+  },
+  {
+   "start": 772.0,
+   "end": 774.86,
+   "text": "because he has a boss too, you know."
+  },
+  {
+   "start": 774.86,
+   "end": 782.16,
+   "text": "And his boss takes a very dim view of that sudden storm"
+  },
+  {
+   "start": 782.16,
+   "end": 785.14,
+   "text": "and then you find out it's been brewing for six months"
+  },
+  {
+   "start": 785.14,
+   "end": 787.09,
+   "text": "and nobody told him about it."
+  },
+  {
+   "start": 787.17,
+   "end": 787.69,
+   "text": "Yes, sir."
+  },
+  {
+   "start": 787.69,
+   "end": 799.19,
+   "text": "But also if you had come in six months earlier and said,"
+  },
+  {
+   "start": 799.19,
+   "end": 804.19,
+   "text": "that account is an old customer and it looks delinquent,"
+  },
+  {
+   "start": 804.19,
+   "end": 808.19,
+   "text": "or it looks to me as if the relationship were in trouble."
+  },
+  {
+   "start": 808.19,
+   "end": 811.19,
+   "text": "Well, maybe you can still fix it."
+  },
+  {
+   "start": 811.19,
+   "end": 815.91,
+   "text": "Then the boss can telephone and talk to the purchasing agent"
+  },
+  {
+   "start": 815.91,
+   "end": 817.91,
+   "text": "and find out what's wrong and still fix it."
+  },
+  {
+   "start": 817.91,
+   "end": 822.91,
+   "text": "Six months later, you have had acrimonious correspondence"
+  },
+  {
+   "start": 822.91,
+   "end": 830.11,
+   "text": "filling three file folders, and you have completely destroyed the relationship, or the account"
+  },
+  {
+   "start": 830.11,
+   "end": 836.25,
+   "text": "has become delinquent, and you now are hanging by with a bad credit, and then it's your fault."
+  },
+  {
+   "start": 836.61,
+   "end": 842.17,
+   "text": "If you come in and say, here's that old relationship once I changed purchasing agent, and the new"
+  },
+  {
+   "start": 842.17,
+   "end": 848.22,
+   "text": "man doesn't really like us, I think the account is in danger."
+  },
+  {
+   "start": 850.25,
+   "end": 852.77,
+   "text": "Well, that's what a boss is for, then."
+  },
+  {
+   "start": 853.8,
+   "end": 854.66,
+   "text": "He might mobilize."
+  },
+  {
+   "start": 854.66,
+   "end": 863.04,
+   "text": "his boss who has known the chief executive officer of that customer firm for 20 years"
+  },
+  {
+   "start": 863.04,
+   "end": 868.9,
+   "text": "and takes him out for dinner or out on the golf course and finds out what is the real trouble"
+  },
+  {
+   "start": 868.9,
+   "end": 874.67,
+   "text": "or maybe tells him there's trouble and that man then can move in and say,"
+  },
+  {
+   "start": 874.67,
+   "end": 878.29,
+   "text": "well, we've been friends with these people for years, what's going on here?"
+  },
+  {
+   "start": 878.71,
+   "end": 880.35,
+   "text": "And you can still straighten it out."
+  },
+  {
+   "start": 880.41,
+   "end": 885.33,
+   "text": "If you wait six months, you have lost that account, and indeed you have."
+  },
+  {
+   "start": 911.3,
+   "end": 917.42,
+   "text": "I think this is crucial because you have to balance conflicting demands."
+  },
+  {
+   "start": 917.6,
+   "end": 924.12,
+   "text": "On the one hand, don't forget the very good, very sound, very wise old German peasant proverb,"
+  },
+  {
+   "start": 925.58,
+   "end": 929.88,
+   "text": "don't go near your prince unless he calls for you at least twice."
+  },
+  {
+   "start": 930.44,
+   "end": 938.25,
+   "text": "There is something to be said for not being too much in the limelight."
+  },
+  {
+   "start": 938.25,
+   "end": 945.57,
+   "text": "On the other hand, almost every manager I know complains that the boss doesn't have enough time for him."
+  },
+  {
+   "start": 946.42,
+   "end": 947.12,
+   "text": "And it's true."
+  },
+  {
+   "start": 947.56,
+   "end": 954.14,
+   "text": "And yet, every manager at the same time complains that his own subordinates take too much of his time."
+  },
+  {
+   "start": 954.44,
+   "end": 955.44,
+   "text": "And he's right, too."
+  },
+  {
+   "start": 956.04,
+   "end": 964.28,
+   "text": "Here is that sales general manager or sales vice president of yours who has five or six who report directly to him."
+  },
+  {
+   "start": 964.28,
+   "end": 968.64,
+   "text": "and then the market research man went another half a dozen,"
+  },
+  {
+   "start": 969.36,
+   "end": 972.56,
+   "text": "all of them having a legitimate claim to his time,"
+  },
+  {
+   "start": 973.0,
+   "end": 975.88,
+   "text": "plus, of course, people who are not in his own organization"
+  },
+  {
+   "start": 975.88,
+   "end": 979.24,
+   "text": "and he has his own work to do."
+  },
+  {
+   "start": 979.38,
+   "end": 982.7,
+   "text": "A responsible and intelligent manager"
+  },
+  {
+   "start": 982.7,
+   "end": 987.92,
+   "text": "just thinks through how to use the boss's time."
+  },
+  {
+   "start": 988.42,
+   "end": 990.34,
+   "text": "Again, look at the man."
+  },
+  {
+   "start": 990.54,
+   "end": 992.26,
+   "text": "You are not looking at an abstraction."
+  },
+  {
+   "start": 992.72,
+   "end": 995.41,
+   "text": "You're looking at a person, man or woman."
+  },
+  {
+   "start": 996.35,
+   "end": 1002.44,
+   "text": "Some work by sitting down for three hours with a man very rarely."
+  },
+  {
+   "start": 1002.96,
+   "end": 1005.22,
+   "text": "And in between, they don't want to see him."
+  },
+  {
+   "start": 1006.02,
+   "end": 1009.08,
+   "text": "Others prefer the ten-minute ad hoc,"
+  },
+  {
+   "start": 1009.93,
+   "end": 1012.75,
+   "text": "which I, for instance, consider a total waste of time"
+  },
+  {
+   "start": 1012.75,
+   "end": 1016.28,
+   "text": "because they don't work for me, but they work for other people."
+  },
+  {
+   "start": 1016.28,
+   "end": 1022.2,
+   "text": "You have to adapt yourself to the way your boss manages his time"
+  },
+  {
+   "start": 1022.2,
+   "end": 1023.48,
+   "text": "or mismanages his time."
+  },
+  {
+   "start": 1023.58,
+   "end": 1026.22,
+   "text": "Very little you can do about his mismanaging it."
+  },
+  {
+   "start": 1026.22,
+   "end": 1031.28,
+   "text": "don't ever go into your manager's office"
+  },
+  {
+   "start": 1031.28,
+   "end": 1034.25,
+   "text": "unless you have done your homework."
+  },
+  {
+   "start": 1035.13,
+   "end": 1038.61,
+   "text": "And the old rule that it takes 10 minutes of preparation"
+  },
+  {
+   "start": 1038.61,
+   "end": 1042.29,
+   "text": "for each minute of interview time is a sound rule."
+  },
+  {
+   "start": 1043.18,
+   "end": 1053.73,
+   "text": "You have to research into that."
+  },
+  {
+   "start": 1053.79,
+   "end": 1055.11,
+   "text": "Well, don't overdo it."
+  },
+  {
+   "start": 1055.11,
+   "end": 1057.09,
+   "text": "Every fact and every figure is impossible."
+  },
+  {
+   "start": 1058.14,
+   "end": 1060.46,
+   "text": "More important, you have to think through"
+  },
+  {
+   "start": 1060.46,
+   "end": 1062.3,
+   "text": "what you expect to come out with."
+  },
+  {
+   "start": 1062.78,
+   "end": 1064.08,
+   "text": "What are you going in for?"
+  },
+  {
+   "start": 1064.18,
+   "end": 1064.88,
+   "text": "Oh, absolutely."
+  },
+  {
+   "start": 1065.26,
+   "end": 1066.66,
+   "text": "What do you want, a decision?"
+  },
+  {
+   "start": 1067.24,
+   "end": 1068.56,
+   "text": "You want advice."
+  },
+  {
+   "start": 1069.97,
+   "end": 1076.43,
+   "text": "You want to inform the boss that down the line you might come to him with this or that."
+  },
+  {
+   "start": 1076.55,
+   "end": 1077.55,
+   "text": "What are you going in for?"
+  },
+  {
+   "start": 1078.71,
+   "end": 1080.59,
+   "text": "Make sure the boss understands."
+  },
+  {
+   "start": 1081.05,
+   "end": 1083.13,
+   "text": "Again, don't believe in your mind reading."
+  },
+  {
+   "start": 1083.13,
+   "end": 1088.53,
+   "text": "Perhaps one isn't blatant, though I think the cruder the better usually."
+  },
+  {
+   "start": 1088.95,
+   "end": 1093.53,
+   "text": "One doesn't go in and say, boss, this is what I'm in for here today."
+  },
+  {
+   "start": 1094.19,
+   "end": 1094.83,
+   "text": "Maybe not."
+  },
+  {
+   "start": 1094.91,
+   "end": 1095.25,
+   "text": "I do."
+  },
+  {
+   "start": 1095.25,
+   "end": 1104.88,
+   "text": "I think it's a good idea to say, I've come to see you because I need a decision on this project."
+  },
+  {
+   "start": 1106.28,
+   "end": 1114.32,
+   "text": "Or I've come to see you and I want nothing from you, but there are certain things I believe you will want to know."
+  },
+  {
+   "start": 1115.5,
+   "end": 1124.16,
+   "text": "Or I've come to see you because I'm confused, I don't quite know what senior management has decided and therefore what I'm supposed to be doing."
+  },
+  {
+   "start": 1124.16,
+   "end": 1126.73,
+   "text": "I need clarification."
+  },
+  {
+   "start": 1127.27,
+   "end": 1131.55,
+   "text": "Control, the old military rule is that"
+  },
+  {
+   "start": 1131.55,
+   "end": 1136.15,
+   "text": "the first rule of warfare is to control the battlefield."
+  },
+  {
+   "start": 1136.71,
+   "end": 1137.75,
+   "text": "Control the battlefield."
+  },
+  {
+   "start": 1138.65,
+   "end": 1141.53,
+   "text": "You set the stage and do your homework,"
+  },
+  {
+   "start": 1142.07,
+   "end": 1146.39,
+   "text": "but also realize that the boss already complains"
+  },
+  {
+   "start": 1146.39,
+   "end": 1150.64,
+   "text": "that the subordinates take more of his time than he has,"
+  },
+  {
+   "start": 1150.64,
+   "end": 1155.1,
+   "text": "so that you must make the occasion productive"
+  },
+  {
+   "start": 1155.1,
+   "end": 1162.48,
+   "text": "both to the boss and to yourself don't ever sit down with your boss even for 10 minutes"
+  },
+  {
+   "start": 1162.48,
+   "end": 1171.14,
+   "text": "without afterwards sitting down and saying this is what happened in the meeting this morning"
+  },
+  {
+   "start": 1171.14,
+   "end": 1180.78,
+   "text": "you decided that carter is going to be pulled off his present assignment and put on the redesign of"
+  },
+  {
+   "start": 1180.78,
+   "end": 1187.26,
+   "text": "the water cooler as soon as he gets back from the trip he's on, period. I shall let you know"
+  },
+  {
+   "start": 1187.26,
+   "end": 1195.65,
+   "text": "when Carter is being reassigned. But not only that, also so that, all right, it gets to the"
+  },
+  {
+   "start": 1195.65,
+   "end": 1201.65,
+   "text": "boss, he looks at it and says, oh my God, I forgot that only day before yesterday I promised the"
+  },
+  {
+   "start": 1201.65,
+   "end": 1209.98,
+   "text": "president that he can have Carter for that meeting in Washington. People are not infallible, all right,"
+  },
+  {
+   "start": 1209.98,
+   "end": 1215.54,
+   "text": "he forgot. Or the big boss calls up 10 minutes later and says, when's Carter going to come back"
+  },
+  {
+   "start": 1215.54,
+   "end": 1221.02,
+   "text": "from that trip to the Near East? At the last board meeting, this question came up, and I want to put"
+  },
+  {
+   "start": 1221.02,
+   "end": 1225.66,
+   "text": "Carter on this study. And then you have to say to the big boss, all right, but if you do that,"
+  },
+  {
+   "start": 1226.02,
+   "end": 1231.04,
+   "text": "we'll have to postpone the redesign of the water cooler again. If you don't get it in writing,"
+  },
+  {
+   "start": 1231.46,
+   "end": 1238.58,
+   "text": "these things just get lost. Then you legitimately and understandably blame your subordinate. He got"
+  },
+  {
+   "start": 1238.58,
+   "end": 1245.92,
+   "text": "me onto very thin ice i made him promise that he can have carter and now i'm suddenly in trouble"
+  },
+  {
+   "start": 1245.92,
+   "end": 1252.64,
+   "text": "one always puts it in writing there are few things that are cheap in an abundant supply"
+  },
+  {
+   "start": 1252.64,
+   "end": 1259.54,
+   "text": "and waste paper baskets are among them and even the club of rome does not predict a shortage of"
+  },
+  {
+   "start": 1259.54,
+   "end": 1266.7,
+   "text": "waste paper baskets ahead so use them you have your hold folder or a spindle and once a week"
+  },
+  {
+   "start": 1266.7,
+   "end": 1272.09,
+   "text": "You go through and throughout everything that's accomplished fact."
+  },
+  {
+   "start": 1272.41,
+   "end": 1274.29,
+   "text": "Carter has come back from this trip."
+  },
+  {
+   "start": 1274.55,
+   "end": 1276.84,
+   "text": "He's working on the water cooler."
+  },
+  {
+   "start": 1277.38,
+   "end": 1282.95,
+   "text": "Why you don't need those flimsies in which you confirm to your boss"
+  },
+  {
+   "start": 1282.95,
+   "end": 1284.59,
+   "text": "that that's what you're going to do?"
+  },
+  {
+   "start": 1285.29,
+   "end": 1286.65,
+   "text": "And he doesn't need it either."
+  },
+  {
+   "start": 1287.48,
+   "end": 1290.46,
+   "text": "On the other hand, here is that commitment you made"
+  },
+  {
+   "start": 1290.46,
+   "end": 1296.09,
+   "text": "to changing the budgeting process in your research department."
+  },
+  {
+   "start": 1296.09,
+   "end": 1299.69,
+   "text": "You better keep that for a head in front of you"
+  },
+  {
+   "start": 1299.69,
+   "end": 1302.43,
+   "text": "till you have finished doing it"
+  },
+  {
+   "start": 1302.43,
+   "end": 1306.03,
+   "text": "as a constant reminder that you have committed yourself"
+  },
+  {
+   "start": 1306.03,
+   "end": 1310.07,
+   "text": "to a major change that requires a lot of work."
+  },
+  {
+   "start": 1310.79,
+   "end": 1334.52,
+   "text": "If not so, I don't think that's a function of the relationship."
+  },
+  {
+   "start": 1334.72,
+   "end": 1337.22,
+   "text": "I think that's a function of your own native intelligence."
+  },
+  {
+   "start": 1337.88,
+   "end": 1340.3,
+   "text": "It's just stupid to underrate the boss."
+  },
+  {
+   "start": 1340.84,
+   "end": 1343.96,
+   "text": "Yet very bright young people do it all the time."
+  },
+  {
+   "start": 1344.48,
+   "end": 1349.14,
+   "text": "Is there a rating on the boss?"
+  },
+  {
+   "start": 1349.24,
+   "end": 1351.34,
+   "text": "Very little, as a rule,"
+  },
+  {
+   "start": 1351.92,
+   "end": 1355.64,
+   "text": "because you risk nothing by overrating him."
+  },
+  {
+   "start": 1356.5,
+   "end": 1359.7,
+   "text": "And if it turns out you haven't overrated him at all,"
+  },
+  {
+   "start": 1359.92,
+   "end": 1362.16,
+   "text": "well, then you have an ally, then you have a support."
+  },
+  {
+   "start": 1362.16,
+   "end": 1366.88,
+   "text": "The worst that can happen is that you're too shrewd."
+  },
+  {
+   "start": 1367.48,
+   "end": 1372.08,
+   "text": "If you systematically lose because you overestimate the boss,"
+  },
+  {
+   "start": 1372.52,
+   "end": 1377.42,
+   "text": "get out, because that means you're working under an incompetent boss."
+  },
+  {
+   "start": 1377.42,
+   "end": 1383.47,
+   "text": "One of the things to learn about managing anything is when to abandon."
+  },
+  {
+   "start": 1383.75,
+   "end": 1388.29,
+   "text": "This is also a chapter heading in managing the boss."
+  },
+  {
+   "start": 1388.63,
+   "end": 1390.63,
+   "text": "When do you abandon a boss?"
+  },
+  {
+   "start": 1391.25,
+   "end": 1398.03,
+   "text": "There is still no better prescription for success than to have a boss who is going"
+  },
+  {
+   "start": 1398.03,
+   "end": 1408.09,
+   "text": "and no more certain prescription for frustration and failure than to work for an incumbent."
+  },
+  {
+   "start": 1408.09,
+   "end": 1414.21,
+   "text": "If you overreach the boss in the sense that the things that are right,"
+  },
+  {
+   "start": 1415.3,
+   "end": 1421.57,
+   "text": "he's just unwilling, unable, incapable of grasping and of doing,"
+  },
+  {
+   "start": 1421.73,
+   "end": 1423.45,
+   "text": "you have an incompetent boss."
+  },
+  {
+   "start": 1424.09,
+   "end": 1428.77,
+   "text": "And then that is one of the few cases where I would always counsel"
+  },
+  {
+   "start": 1428.77,
+   "end": 1435.16,
+   "text": "in favor of exchange, a transfer, change in jobs."
+  },
+  {
+   "start": 1436.24,
+   "end": 1439.85,
+   "text": "And the other one is a corrupt boss."
+  },
+  {
+   "start": 1439.85,
+   "end": 1444.4,
+   "text": "And I don't mean one who dips his hands into the till."
+  },
+  {
+   "start": 1444.4,
+   "end": 1445.96,
+   "text": "That's one form of corruption."
+  },
+  {
+   "start": 1445.96,
+   "end": 1448.02,
+   "text": "But the most serious form of corruption"
+  },
+  {
+   "start": 1448.02,
+   "end": 1452.72,
+   "text": "is one who has values, standards, that"
+  },
+  {
+   "start": 1452.72,
+   "end": 1456.68,
+   "text": "are ethically and morally unacceptable to you,"
+  },
+  {
+   "start": 1456.68,
+   "end": 1459.28,
+   "text": "that just demean you."
+  },
+  {
+   "start": 1459.28,
+   "end": 1465.67,
+   "text": "One does not ask because one will become corrupt oneself."
+  },
+  {
+   "start": 1465.67,
+   "end": 1468.69,
+   "text": "One will become contemptuous of oneself."
+  },
+  {
+   "start": 1468.69,
+   "end": 1471.17,
+   "text": "One will begin to lose oneself."
+  },
+  {
+   "start": 1471.17,
+   "end": 1475.93,
+   "text": "So if you work for an incompetent or for a corrupt boss, get out."
+  },
+  {
+   "start": 1477.17,
+   "end": 1481.59,
+   "text": "Those are the two cases where I think one says,"
+  },
+  {
+   "start": 1481.59,
+   "end": 1486.35,
+   "text": "all right, I like the company, but it isn't going to work out."
+  },
+  {
+   "start": 1487.22,
+   "end": 1489.5,
+   "text": "One abandons. One looks for something else."
+  },
+  {
+   "start": 1490.12,
+   "end": 1493.56,
+   "text": "If you have three children going to college"
+  },
+  {
+   "start": 1493.56,
+   "end": 1496.21,
+   "text": "and you have to pay a lot of alimony,"
+  },
+  {
+   "start": 1497.49,
+   "end": 1501.92,
+   "text": "well, maybe you are a little reluctant to take that risk."
+  },
+  {
+   "start": 1501.92,
+   "end": 1517.48,
+   "text": "But if you at all can look elsewhere, in the company or outside, rather than keep on for the boss, one should abandon."
+  },
+  {
+   "start": 1517.76,
+   "end": 1526.02,
+   "text": "What if the boss..."
+  },
+  {
+   "start": 1526.02,
+   "end": 1538.85,
+   "text": "Yes. And in fact, if the boss is a paragon, it's easy to stay too long because it's easy to become an assistant to rather than your own man."
+  },
+  {
+   "start": 1538.85,
+   "end": 1550.36,
+   "text": "There's a great deal of fear, less today than there was 10 years ago, about the organization man whom the organization views as having to become the servant."
+  },
+  {
+   "start": 1551.28,
+   "end": 1558.8,
+   "text": "Never been enough emphasis on the opposite, that it is your job to look upon the organization as your tool."
+  },
+  {
+   "start": 1559.72,
+   "end": 1567.8,
+   "text": "And one looks at a job with two questions, what can I contribute and what can it contribute to me?"
+  },
+  {
+   "start": 1567.8,
+   "end": 1572.96,
+   "text": "what has it done for me lately and what is it likely to do for me in the future."
+  },
+  {
+   "start": 1573.36,
+   "end": 1579.92,
+   "text": "If you find yourself in a position in which you have gotten as much out of the job,"
+  },
+  {
+   "start": 1580.04,
+   "end": 1584.68,
+   "text": "out of the boss, out of the work, as it will ever give you,"
+  },
+  {
+   "start": 1584.78,
+   "end": 1587.3,
+   "text": "and you are still below late middle age,"
+  },
+  {
+   "start": 1587.4,
+   "end": 1591.48,
+   "text": "you are still concerned with where am I going to go,"
+  },
+  {
+   "start": 1592.16,
+   "end": 1595.92,
+   "text": "who am I going to be, what opportunities do I have,"
+  },
+  {
+   "start": 1595.92,
+   "end": 1598.2,
+   "text": "Then one moves out."
+  },
+  {
+   "start": 1599.3,
+   "end": 1606.58,
+   "text": "Then one says, all right, I've gotten everything out of this company, this work, this boss."
+  },
+  {
+   "start": 1606.98,
+   "end": 1615.95,
+   "text": "It's likely to give me, and I've given as much as I'm likely to give, and now it's time for me to move on."
+  },
+  {
+   "start": 1616.47,
+   "end": 1625.82,
+   "text": "One doesn't do it too often, and one doesn't rush, but one keeps in mind that there is a time limit."
+  },
+  {
+   "start": 1625.82,
+   "end": 1629.8,
+   "text": "One moves out because of success as much as failure."
+  },
+  {
+   "start": 1630.62,
+   "end": 1661.98,
+   "text": "Yes, in today's society, everyone has a boss, even the company president and the chief executive officer is accountable to a board, to stockholders, today very heavily to a lot of outside regulatory and other agencies, just as the hospital administrator is accountable to his board and to the community."
+  },
+  {
+   "start": 1661.98,
+   "end": 1668.42,
+   "text": "and even the President of the United States, as we found out a few years ago,"
+  },
+  {
+   "start": 1668.84,
+   "end": 1672.48,
+   "text": "can be held accountable to the voters and to the Congress."
+  },
+  {
+   "start": 1673.48,
+   "end": 1681.35,
+   "text": "You don't have to like and to admire your boss, nor do you have to hate him."
+  },
+  {
+   "start": 1681.35,
+   "end": 1687.13,
+   "text": "You do, however, have to manage him so that he becomes your resource"
+  },
+  {
+   "start": 1687.13,
+   "end": 1690.58,
+   "text": "for achievement, for accomplishment."
+  },
+  {
+   "start": 1690.58,
+   "end": 1696.18,
+   "text": "and let's be candid about it for personal success as well."
+  },
+  {
+   "start": 1696.18,
+   "end": 1731.19,
+   "text": "I am glad that Elizabeth Hill talked about the carpenter"
+  },
+  {
+   "start": 1731.19,
+   "end": 1736.19,
+   "text": "because I think every craftsman has a specific toolkit"
+  },
+  {
+   "start": 1736.19,
+   "end": 1741.36,
+   "text": "and the manager is a craftsman or should be a craftsman."
+  },
+  {
+   "start": 1742.04,
+   "end": 1747.68,
+   "text": "And the tools in his toolkit are very different from those of the carpenter,"
+  },
+  {
+   "start": 1747.78,
+   "end": 1748.6,
+   "text": "but they are tools."
+  },
+  {
+   "start": 1748.6,
+   "end": 1757.97,
+   "text": "There is first, I think, the meeting. Managers need to know how to use the meeting as a tool."
+  },
+  {
+   "start": 1759.66,
+   "end": 1767.78,
+   "text": "There is a report that distinct managerial affliction, and how do you make a report effective,"
+  },
+  {
+   "start": 1768.22,
+   "end": 1777.62,
+   "text": "which means, above all, how do you make reasonably certain that it will be read and understood and acted upon."
+  },
+  {
+   "start": 1777.62,
+   "end": 1793.18,
+   "text": "There is the control of assignments, the control of what the people who work in a manager's group are supposed to be working on."
+  },
+  {
+   "start": 1794.18,
+   "end": 1799.7,
+   "text": "There is the appraisal of performance and the appraisal of the performer."
+  },
+  {
+   "start": 1800.34,
+   "end": 1802.02,
+   "text": "There are two different things, I believe."
+  },
+  {
+   "start": 1802.88,
+   "end": 1804.88,
+   "text": "There is a development of people."
+  },
+  {
+   "start": 1806.06,
+   "end": 1811.64,
+   "text": "And finally, there is a need to learn how to abandon yesterday."
+  },
+  {
+   "start": 1811.64,
+   "end": 1821.39,
+   "text": "There is a great deal of emphasis and deserved emphasis on starting anew, on innovation,"
+  },
+  {
+   "start": 1821.39,
+   "end": 1832.39,
+   "text": "on creativity, but one cannot innovate unless one abandons the old, and one cannot be creative"
+  },
+  {
+   "start": 1832.39,
+   "end": 1839.77,
+   "text": "if one keeps on doing the routine, so one has to learn how to organize abandonment."
+  },
+  {
+   "start": 1839.77,
+   "end": 1853.71,
+   "text": "I was an abused tool."
+  },
+  {
+   "start": 1854.35,
+   "end": 1856.33,
+   "text": "The most misused tool,"
+  },
+  {
+   "start": 1856.83,
+   "end": 1863.97,
+   "text": "because meetings are a very productive tool,"
+  },
+  {
+   "start": 1864.23,
+   "end": 1865.49,
+   "text": "if used properly,"
+  },
+  {
+   "start": 1865.79,
+   "end": 1868.99,
+   "text": "and they are not only unproductive,"
+  },
+  {
+   "start": 1869.15,
+   "end": 1871.83,
+   "text": "but they do damage if used improperly."
+  },
+  {
+   "start": 1871.83,
+   "end": 1876.77,
+   "text": "And managers spend far too much of their time in meetings,"
+  },
+  {
+   "start": 1877.23,
+   "end": 1880.11,
+   "text": "and some of them spend all of their time in meetings."
+  },
+  {
+   "start": 1880.11,
+   "end": 1888.25,
+   "text": "they need to learn how one gets value out of a meeting and you know that old joke about the"
+  },
+  {
+   "start": 1888.25,
+   "end": 1896.49,
+   "text": "advice to young men about to get married one word don't what the first advice to a manager about to"
+  },
+  {
+   "start": 1896.49,
+   "end": 1908.26,
+   "text": "have a meeting is don't meetings need effective fertility control otherwise they multiply a"
+  },
+  {
+   "start": 1908.26,
+   "end": 1916.58,
+   "text": "little faster than rabbits. One doesn't have too many meetings unless your job is one of"
+  },
+  {
+   "start": 1916.58,
+   "end": 1924.18,
+   "text": "deliberation, unless you are full-time a member of an executive committee, which is a very frustrating"
+  },
+  {
+   "start": 1924.18,
+   "end": 1933.7,
+   "text": "place to be, no matter how good the pay. But if you are still a working manager, then to spend"
+  },
+  {
+   "start": 1933.7,
+   "end": 1940.34,
+   "text": "more than a fairly small part of your time in meetings is a sign of lack of control,"
+  },
+  {
+   "start": 1941.17,
+   "end": 1950.65,
+   "text": "a sign of poor organization of your work, a sign above all that you substitute meeting for thinking."
+  },
+  {
+   "start": 1951.21,
+   "end": 1958.02,
+   "text": "Control them and don't let them become a habit. Don't have a meeting unless you have a purpose."
+  },
+  {
+   "start": 1959.33,
+   "end": 1968.37,
+   "text": "Don't have a meeting unless somebody has done the homework. Don't sit different kinds of meetings"
+  },
+  {
+   "start": 1968.57,
+   "end": 1976.28,
+   "text": "There are meetings that serve the purpose of information from you to other people."
+  },
+  {
+   "start": 1977.29,
+   "end": 1979.65,
+   "text": "And then one doesn't allow discussion."
+  },
+  {
+   "start": 1980.19,
+   "end": 1981.71,
+   "text": "One says, any questions?"
+  },
+  {
+   "start": 1982.86,
+   "end": 1985.34,
+   "text": "Do you all understand what I told you?"
+  },
+  {
+   "start": 1987.9,
+   "end": 1992.18,
+   "text": "There are meetings, the purpose of which is for other people to inform you."
+  },
+  {
+   "start": 1992.62,
+   "end": 1996.18,
+   "text": "Then you say, this is what I need information about."
+  },
+  {
+   "start": 1997.5,
+   "end": 1999.42,
+   "text": "And there are meetings that deliberate."
+  },
+  {
+   "start": 2009.82,
+   "end": 2011.86,
+   "text": "It is done very commonly."
+  },
+  {
+   "start": 2011.86,
+   "end": 2019.86,
+   "text": "it's not perhaps quite as bad a habit as you make it sound because nobody's really fooled you know"
+  },
+  {
+   "start": 2019.86,
+   "end": 2027.66,
+   "text": "perfectly well that the boss or higher management have made a decision and that the meeting is a"
+  },
+  {
+   "start": 2027.66,
+   "end": 2035.45,
+   "text": "form of ratification but it's still not a good habit also don't hesitate to say to people i'd"
+  },
+  {
+   "start": 2035.45,
+   "end": 2042.31,
+   "text": "like to get your opinion but i am going to have to make the decision and i'll let you know what"
+  },
+  {
+   "start": 2042.31,
+   "end": 2050.69,
+   "text": "the decision is. That's reasonable. By the way, the worst managed meeting is the most common one,"
+  },
+  {
+   "start": 2050.69,
+   "end": 2057.68,
+   "text": "the meeting of two people, the meeting of the manager and one of his subordinates. Very few"
+  },
+  {
+   "start": 2057.68,
+   "end": 2067.08,
+   "text": "managers seem to know that that meeting either lasts 10 minutes or it lasts an hour. The in-between"
+  },
+  {
+   "start": 2067.08,
+   "end": 2069.18,
+   "text": "Mean time is a waste of time."
+  },
+  {
+   "start": 2069.3,
+   "end": 2074.5,
+   "text": "It is too long for the specific point of issue."
+  },
+  {
+   "start": 2074.68,
+   "end": 2078.12,
+   "text": "You have had some problem in the plant,"
+  },
+  {
+   "start": 2078.22,
+   "end": 2081.36,
+   "text": "the supplier hasn't sent in the part on schedule,"
+  },
+  {
+   "start": 2081.78,
+   "end": 2084.66,
+   "text": "and now you have to rearrange delivery schedules"
+  },
+  {
+   "start": 2084.66,
+   "end": 2088.91,
+   "text": "and to decide which customer gets a late delivery."
+  },
+  {
+   "start": 2089.59,
+   "end": 2094.95,
+   "text": "You say, I don't think we should do this to those people in Chili Coast."
+  },
+  {
+   "start": 2094.95,
+   "end": 2097.01,
+   "text": "We have had enough problems with them."
+  },
+  {
+   "start": 2097.01,
+   "end": 2103.17,
+   "text": "Or you say, are you going to call him up or am I going to call him up?"
+  },
+  {
+   "start": 2103.76,
+   "end": 2109.76,
+   "text": "Or you want a meeting in which that problem with that supplier there"
+  },
+  {
+   "start": 2109.76,
+   "end": 2116.94,
+   "text": "is a pretext for, I hate to use that jargon,"
+  },
+  {
+   "start": 2117.08,
+   "end": 2119.22,
+   "text": "for an interpersonal relationship."
+  },
+  {
+   "start": 2119.64,
+   "end": 2124.6,
+   "text": "And then you need 50 minutes or an hour because it takes that long"
+  },
+  {
+   "start": 2124.6,
+   "end": 2129.32,
+   "text": "for people to establish the rapport that's necessary"
+  },
+  {
+   "start": 2129.32,
+   "end": 2132.18,
+   "text": "for either you or your subordinate"
+  },
+  {
+   "start": 2132.18,
+   "end": 2135.0,
+   "text": "to talk about what you really want to talk about,"
+  },
+  {
+   "start": 2135.0,
+   "end": 2137.54,
+   "text": "which is not that supplier and telecaster."
+  },
+  {
+   "start": 2138.08,
+   "end": 2157.54,
+   "text": "Right, properly."
+  },
+  {
+   "start": 2158.0,
+   "end": 2160.94,
+   "text": "You know, Elizabeth, in my work,"
+  },
+  {
+   "start": 2161.56,
+   "end": 2163.5,
+   "text": "I write a great many reports."
+  },
+  {
+   "start": 2163.72,
+   "end": 2165.38,
+   "text": "I see a great many reports."
+  },
+  {
+   "start": 2166.06,
+   "end": 2170.0,
+   "text": "I would say that the typical management report I see"
+  },
+  {
+   "start": 2170.0,
+   "end": 2174.52,
+   "text": "is the last draft and not the final document."
+  },
+  {
+   "start": 2175.72,
+   "end": 2178.2,
+   "text": "People think that when they understand"
+  },
+  {
+   "start": 2178.2,
+   "end": 2184.82,
+   "text": "understand a subject matter. They have done their writing job. That, as any professional"
+  },
+  {
+   "start": 2184.82,
+   "end": 2191.12,
+   "text": "writer can tell them, is when the writing job becomes possible. Then one sits down and says,"
+  },
+  {
+   "start": 2191.22,
+   "end": 2199.03,
+   "text": "now I understand what I'm talking about, and now I have to think through whom I am talking to."
+  },
+  {
+   "start": 2199.77,
+   "end": 2206.29,
+   "text": "One of the oldest rules is that logic comes first, but then comes rhetoric, the art of effectiveness."
+  },
+  {
+   "start": 2206.29,
+   "end": 2209.41,
+   "text": "And reports are written to be effective."
+  },
+  {
+   "start": 2210.1,
+   "end": 2214.74,
+   "text": "What most reports need to be effective management tools"
+  },
+  {
+   "start": 2214.74,
+   "end": 2218.31,
+   "text": "is that last go-around."
+  },
+  {
+   "start": 2218.75,
+   "end": 2220.57,
+   "text": "It need not take much time."
+  },
+  {
+   "start": 2220.95,
+   "end": 2225.35,
+   "text": "One says, what are we trying to accomplish with whom?"
+  },
+  {
+   "start": 2225.73,
+   "end": 2228.33,
+   "text": "This report goes to the executive committee."
+  },
+  {
+   "start": 2229.22,
+   "end": 2231.86,
+   "text": "What are the things that are important to them?"
+  },
+  {
+   "start": 2232.0,
+   "end": 2234.0,
+   "text": "How can they act on it?"
+  },
+  {
+   "start": 2234.0,
+   "end": 2239.54,
+   "text": "And how can we tell them what we expect to come out of this?"
+  },
+  {
+   "start": 2239.96,
+   "end": 2242.16,
+   "text": "And there we can learn from the military."
+  },
+  {
+   "start": 2243.16,
+   "end": 2245.4,
+   "text": "In the military, this is being taught."
+  },
+  {
+   "start": 2246.91,
+   "end": 2254.39,
+   "text": "After you have done your staff work, you sit down and write the covering letter,"
+  },
+  {
+   "start": 2255.81,
+   "end": 2257.25,
+   "text": "which has one question."
+  },
+  {
+   "start": 2257.41,
+   "end": 2263.6,
+   "text": "Who is going to read it and what is he expected to do with it?"
+  },
+  {
+   "start": 2263.68,
+   "end": 2264.84,
+   "text": "How do we tell him?"
+  },
+  {
+   "start": 2265.38,
+   "end": 2268.74,
+   "text": "The military and system is being one page all right."
+  },
+  {
+   "start": 2268.74,
+   "end": 2274.14,
+   "text": "I think that's not a bad rule, but one doesn't have to be that pedantic."
+  },
+  {
+   "start": 2274.84,
+   "end": 2280.32,
+   "text": "Make it four if you have an executive committee that likes to read, a good many of them do."
+  },
+  {
+   "start": 2281.08,
+   "end": 2290.68,
+   "text": "Concern yourself with the effectiveness of the report, because by itself it will be literature and not action."
+  },
+  {
+   "start": 2290.68,
+   "end": 2307.05,
+   "text": "so much it really may be number three and number four assignment control and performance"
+  },
+  {
+   "start": 2307.05,
+   "end": 2315.95,
+   "text": "appraisal are very close together when i take on a new client i always ask the people"
+  },
+  {
+   "start": 2315.95,
+   "end": 2323.36,
+   "text": "in the top group who are your really capable you're really performing associates the list"
+  },
+  {
+   "start": 2323.36,
+   "end": 2330.31,
+   "text": "is never very long nobody has a simplest and then i say do you know what these people are"
+  },
+  {
+   "start": 2330.31,
+   "end": 2338.12,
+   "text": "assigned to and nobody knows i get the job description one goes in and finds out and one"
+  },
+  {
+   "start": 2338.12,
+   "end": 2345.38,
+   "text": "finds out almost without exception that the high performing people are assigned to trivia"
+  },
+  {
+   "start": 2345.38,
+   "end": 2354.35,
+   "text": "they are assigned to yesterday they are assigned to what is difficult they are doing interesting"
+  },
+  {
+   "start": 2354.35,
+   "end": 2362.62,
+   "text": "the best salesmen are rarely assigned to the most important accounts or to the new products"
+  },
+  {
+   "start": 2362.62,
+   "end": 2379.31,
+   "text": "They fight the rearguard action to hold a customer whom we have already lost or a customer who is himself going downhill to the product that is already obsolete and no longer really in the market."
+  },
+  {
+   "start": 2379.31,
+   "end": 2394.45,
+   "text": "The same is true, particularly in research, where the most capable are then assigned to product modification so that an old product can still live on a little longer in the old age home."
+  },
+  {
+   "start": 2394.45,
+   "end": 2398.13,
+   "text": "The new products are left to luck and chance."
+  },
+  {
+   "start": 2398.69,
+   "end": 2403.12,
+   "text": "One looks at the assignment of one's performing people."
+  },
+  {
+   "start": 2403.68,
+   "end": 2409.1,
+   "text": "There are people who have a record of getting the right things done once every six months."
+  },
+  {
+   "start": 2409.7,
+   "end": 2411.0,
+   "text": "Otherwise, they drift."
+  },
+  {
+   "start": 2412.01,
+   "end": 2414.53,
+   "text": "Otherwise, the trivia overwhelms them."
+  },
+  {
+   "start": 2414.95,
+   "end": 2423.3,
+   "text": "Otherwise, the sheer demands of the daily operating job detracts them from performance."
+  },
+  {
+   "start": 2423.3,
+   "end": 2433.32,
+   "text": "When it comes to the performer..."
+  },
+  {
+   "start": 2433.32,
+   "end": 2441.32,
+   "text": "I indeed do. I think the two are two very different things and lead to very different conclusions."
+  },
+  {
+   "start": 2441.32,
+   "end": 2451.02,
+   "text": "One has to start out with a fairly clear idea of what performance is expected."
+  },
+  {
+   "start": 2451.72,
+   "end": 2455.88,
+   "text": "The typical performance appraisal that says,"
+  },
+  {
+   "start": 2456.1,
+   "end": 2462.5,
+   "text": "how do you rate him from outstanding to no damn good without ever telling you what performance is, is silly."
+  },
+  {
+   "start": 2462.5,
+   "end": 2468.3,
+   "text": "because there are no outstanding people, there are no poor people."
+  },
+  {
+   "start": 2468.5,
+   "end": 2469.52,
+   "text": "Good for what?"
+  },
+  {
+   "start": 2469.84,
+   "end": 2473.74,
+   "text": "One cannot appraise performance by itself."
+  },
+  {
+   "start": 2473.74,
+   "end": 2481.16,
+   "text": "One can only appraise performance against a pre-established, reasonably clear target."
+  },
+  {
+   "start": 2481.42,
+   "end": 2486.62,
+   "text": "Then you say, this is what we planned to do and this is what we did,"
+  },
+  {
+   "start": 2486.7,
+   "end": 2491.56,
+   "text": "and in this area we did something quite different from what we had planned to do"
+  },
+  {
+   "start": 2491.56,
+   "end": 2493.38,
+   "text": "and it was the right thing to do."
+  },
+  {
+   "start": 2493.74,
+   "end": 2495.44,
+   "text": "We learned something on the job."
+  },
+  {
+   "start": 2495.44,
+   "end": 2501.66,
+   "text": "In this area, we did so much worse than we had expected to do,"
+  },
+  {
+   "start": 2502.33,
+   "end": 2503.87,
+   "text": "and in this one we did better."
+  },
+  {
+   "start": 2504.37,
+   "end": 2510.1,
+   "text": "One learns and feeds back from a performance appraisal"
+  },
+  {
+   "start": 2510.1,
+   "end": 2513.42,
+   "text": "on defining performance and task again."
+  },
+  {
+   "start": 2514.0,
+   "end": 2515.88,
+   "text": "But when it comes to the performer,"
+  },
+  {
+   "start": 2516.62,
+   "end": 2521.46,
+   "text": "one says, what has this person done well?"
+  },
+  {
+   "start": 2521.46,
+   "end": 2530.5,
+   "text": "I may be much too dogmatic and rigid in never permitting myself to talk about potential of people."
+  },
+  {
+   "start": 2530.66,
+   "end": 2534.0,
+   "text": "I consider that obscene almost, and silly."
+  },
+  {
+   "start": 2534.68,
+   "end": 2544.61,
+   "text": "I have for 35 years or so kind of watched, and there is no correlation between potential and performance."
+  },
+  {
+   "start": 2544.81,
+   "end": 2546.81,
+   "text": "Believe me, neither positive nor negative."
+  },
+  {
+   "start": 2546.81,
+   "end": 2554.61,
+   "text": "When you appraise a performer, you are trying to look for strength, trying to understand capacity."
+  },
+  {
+   "start": 2554.73,
+   "end": 2560.02,
+   "text": "When you look for performance, you are looking for accomplishment."
+  },
+  {
+   "start": 2560.36,
+   "end": 2576.86,
+   "text": "We're moving in a race."
+  },
+  {
+   "start": 2576.86,
+   "end": 2580.26,
+   "text": "That depends on the audience I'm speaking to, Elizabeth."
+  },
+  {
+   "start": 2580.44,
+   "end": 2583.54,
+   "text": "I would consider it one of the principal tasks."
+  },
+  {
+   "start": 2584.0,
+   "end": 2588.9,
+   "text": "But if I talk to personnel people, I would not stress it"
+  },
+  {
+   "start": 2588.9,
+   "end": 2591.22,
+   "text": "because they are already aware of it."
+  },
+  {
+   "start": 2591.62,
+   "end": 2594.6,
+   "text": "If I talk to a great many line managers,"
+  },
+  {
+   "start": 2594.76,
+   "end": 2597.84,
+   "text": "I'm quite likely to say it is the principal task"
+  },
+  {
+   "start": 2597.84,
+   "end": 2601.34,
+   "text": "because it shocks them a little bit, and they need to be shocked."
+  },
+  {
+   "start": 2601.34,
+   "end": 2604.5,
+   "text": "It is one of the principal tasks,"
+  },
+  {
+   "start": 2604.94,
+   "end": 2609.99,
+   "text": "and it is basically the only way you can guarantee"
+  },
+  {
+   "start": 2609.99,
+   "end": 2613.01,
+   "text": "the perpetuation of an organization."
+  },
+  {
+   "start": 2613.51,
+   "end": 2617.31,
+   "text": "Long-range planning is nice, and innovation is vital,"
+  },
+  {
+   "start": 2618.97,
+   "end": 2622.69,
+   "text": "but people carry out plans, and people innovate."
+  },
+  {
+   "start": 2623.23,
+   "end": 2625.97,
+   "text": "And one thing you do know is that your decisions"
+  },
+  {
+   "start": 2625.97,
+   "end": 2629.67,
+   "text": "in respect to the future made today"
+  },
+  {
+   "start": 2629.67,
+   "end": 2632.49,
+   "text": "are unlikely to be the right decisions."
+  },
+  {
+   "start": 2632.67,
+   "end": 2633.75,
+   "text": "Nobody knows the future."
+  },
+  {
+   "start": 2634.05,
+   "end": 2636.93,
+   "text": "And then you need the people who can bail them out."
+  },
+  {
+   "start": 2636.93,
+   "end": 2641.93,
+   "text": "So the development of people is one of the key tasks."
+  },
+  {
+   "start": 2643.31,
+   "end": 2644.99,
+   "text": "It is being done, you know."
+  },
+  {
+   "start": 2645.15,
+   "end": 2648.77,
+   "text": "No organization or no manager has a choice"
+  },
+  {
+   "start": 2648.77,
+   "end": 2652.79,
+   "text": "between developing people and not developing people."
+  },
+  {
+   "start": 2652.79,
+   "end": 2659.65,
+   "text": "the only choice is between developing them right and misdeveloping. People develop in an"
+  },
+  {
+   "start": 2659.65,
+   "end": 2670.96,
+   "text": "organization because the three factors of development are the task, the climate of the"
+  },
+  {
+   "start": 2670.96,
+   "end": 2677.84,
+   "text": "institution, and the example set by the boss. But that is simply saying that an organization"
+  },
+  {
+   "start": 2677.84,
+   "end": 2682.02,
+   "text": "is a development environment, to use a big word."
+  },
+  {
+   "start": 2682.48,
+   "end": 2685.08,
+   "text": "Just the way a dish of rancid butter"
+  },
+  {
+   "start": 2685.08,
+   "end": 2688.14,
+   "text": "is a development environment for bacteria."
+  },
+  {
+   "start": 2688.87,
+   "end": 2693.45,
+   "text": "The only choice you have is whether people will develop to become bigger."
+  },
+  {
+   "start": 2698.7,
+   "end": 2702.04,
+   "text": "Let me say, by the way, developing some right doesn't take more work"
+  },
+  {
+   "start": 2702.04,
+   "end": 2704.74,
+   "text": "and doesn't cost a penny more than developing some wrong."
+  },
+  {
+   "start": 2705.14,
+   "end": 2712.37,
+   "text": "Supposedly, what do you do for him?"
+  },
+  {
+   "start": 2713.03,
+   "end": 2715.75,
+   "text": "With due respect, Elizabeth,"
+  },
+  {
+   "start": 2715.75,
+   "end": 2724.29,
+   "text": "but I would not allow a manager to say that a young man or a young woman had a real future."
+  },
+  {
+   "start": 2724.81,
+   "end": 2729.75,
+   "text": "I do not believe that it is healthy for any of us to try to play providence."
+  },
+  {
+   "start": 2729.95,
+   "end": 2731.23,
+   "text": "You should resist that."
+  },
+  {
+   "start": 2731.23,
+   "end": 2733.13,
+   "text": "I resist it very strongly."
+  },
+  {
+   "start": 2733.69,
+   "end": 2742.21,
+   "text": "I'm willing to grade a student paper, but I refuse to fill out the sheet the placement office sends me"
+  },
+  {
+   "start": 2742.21,
+   "end": 2750.49,
+   "text": "that asks me, in your opinion, is she likely to become a senior executive?"
+  },
+  {
+   "start": 2751.25,
+   "end": 2755.09,
+   "text": "I say, well, that depends on a lot of things I know nothing about,"
+  },
+  {
+   "start": 2755.55,
+   "end": 2758.49,
+   "text": "and not incidentally entirely on the fellow either."
+  },
+  {
+   "start": 2758.85,
+   "end": 2763.21,
+   "text": "All I'm willing to say is, what is a person doing?"
+  },
+  {
+   "start": 2763.21,
+   "end": 2768.26,
+   "text": "I'm willing to say, on this assignment, writing up that case,"
+  },
+  {
+   "start": 2768.26,
+   "end": 2772.92,
+   "text": "this student did a very good job"
+  },
+  {
+   "start": 2772.92,
+   "end": 2774.42,
+   "text": "and I learned a lot from it."
+  },
+  {
+   "start": 2774.66,
+   "end": 2776.22,
+   "text": "That's as far as I'm willing to go."
+  },
+  {
+   "start": 2776.42,
+   "end": 2777.7,
+   "text": "So he gets an A+."
+  },
+  {
+   "start": 2777.7,
+   "end": 2781.43,
+   "text": "But that doesn't mean anything for 10 years hence,"
+  },
+  {
+   "start": 2781.97,
+   "end": 2784.51,
+   "text": "though I do hope it helps him get his first job."
+  },
+  {
+   "start": 2784.89,
+   "end": 2787.93,
+   "text": "Now, one looks at what people do"
+  },
+  {
+   "start": 2787.93,
+   "end": 2793.03,
+   "text": "and one tries to resist the temptation to play God."
+  },
+  {
+   "start": 2793.03,
+   "end": 2795.27,
+   "text": "Here is that young person"
+  },
+  {
+   "start": 2795.27,
+   "end": 2799.88,
+   "text": "and first it's my job to give him challenge."
+  },
+  {
+   "start": 2799.88,
+   "end": 2806.48,
+   "text": "People should, before they are 30, have two experiences."
+  },
+  {
+   "start": 2807.77,
+   "end": 2812.83,
+   "text": "They should be able to do one piece of work"
+  },
+  {
+   "start": 2812.83,
+   "end": 2815.75,
+   "text": "that is really beyond them."
+  },
+  {
+   "start": 2816.25,
+   "end": 2818.89,
+   "text": "That feeling of the thrill of accomplishment"
+  },
+  {
+   "start": 2818.89,
+   "end": 2821.83,
+   "text": "because you have done something which you know down,"
+  },
+  {
+   "start": 2821.91,
+   "end": 2824.05,
+   "text": "but is really beyond you."
+  },
+  {
+   "start": 2824.71,
+   "end": 2826.33,
+   "text": "And they should have come a cropper."
+  },
+  {
+   "start": 2827.08,
+   "end": 2830.28,
+   "text": "They should have learned that failure exists."
+  },
+  {
+   "start": 2830.28,
+   "end": 2833.65,
+   "text": "They should have learned that one survives it."
+  },
+  {
+   "start": 2833.65,
+   "end": 2837.25,
+   "text": "They should also have learned a little humility."
+  },
+  {
+   "start": 2838.07,
+   "end": 2842.67,
+   "text": "And believe me, whom God loves, he sends failure early."
+  },
+  {
+   "start": 2843.31,
+   "end": 2846.49,
+   "text": "Because if you don't have a setback until you're 45,"
+  },
+  {
+   "start": 2847.84,
+   "end": 2849.9,
+   "text": "you aren't going to recover from it."
+  },
+  {
+   "start": 2850.0,
+   "end": 2851.42,
+   "text": "And it shatters you."
+  },
+  {
+   "start": 2852.29,
+   "end": 2856.49,
+   "text": "If you have it at age 27, that broken neck heals very fast."
+  },
+  {
+   "start": 2856.69,
+   "end": 2858.42,
+   "text": "No great hunger."
+  },
+  {
+   "start": 2858.94,
+   "end": 2863.46,
+   "text": "So challenges is the first thing I owe that young person."
+  },
+  {
+   "start": 2863.46,
+   "end": 2867.32,
+   "text": "The second thing I owe him or her is performance standards."
+  },
+  {
+   "start": 2867.38,
+   "end": 2872.75,
+   "text": "I owe it to him or to her to say what should we hold you accountable for"
+  },
+  {
+   "start": 2872.75,
+   "end": 2875.41,
+   "text": "so that one can look at performance."
+  },
+  {
+   "start": 2876.35,
+   "end": 2881.23,
+   "text": "The third thing I owe to him or to her is to look at performance,"
+  },
+  {
+   "start": 2881.53,
+   "end": 2883.85,
+   "text": "not in one assignment, in two or three."
+  },
+  {
+   "start": 2884.11,
+   "end": 2885.47,
+   "text": "One assignment is not enough."
+  },
+  {
+   "start": 2885.47,
+   "end": 2890.27,
+   "text": "And say what does this person do, what kind of attempt,"
+  },
+  {
+   "start": 2891.49,
+   "end": 2895.63,
+   "text": "what does he have to learn, to change, to acquire,"
+  },
+  {
+   "start": 2896.21,
+   "end": 2898.47,
+   "text": "to get the full benefit of his strength."
+  },
+  {
+   "start": 2898.47,
+   "end": 2902.53,
+   "text": "The fourth thing, though, is placement responsibility."
+  },
+  {
+   "start": 2903.23,
+   "end": 2906.09,
+   "text": "Where does he belong, including elsewhere?"
+  },
+  {
+   "start": 2906.77,
+   "end": 2909.27,
+   "text": "Here is a very able young person,"
+  },
+  {
+   "start": 2909.61,
+   "end": 2914.33,
+   "text": "and look, no matter how systematic you make the employment process,"
+  },
+  {
+   "start": 2914.49,
+   "end": 2915.77,
+   "text": "it's a random process."
+  },
+  {
+   "start": 2916.6,
+   "end": 2918.14,
+   "text": "At the stage of employment,"
+  },
+  {
+   "start": 2919.24,
+   "end": 2922.56,
+   "text": "the young person knows nothing about the adult world,"
+  },
+  {
+   "start": 2923.0,
+   "end": 2926.9,
+   "text": "and you know nothing about him except grades in school,"
+  },
+  {
+   "start": 2926.9,
+   "end": 2930.36,
+   "text": "which, believe me, have no correlation to anything"
+  },
+  {
+   "start": 2930.36,
+   "end": 2933.88,
+   "text": "except how well you learn French irregular verbs,"
+  },
+  {
+   "start": 2934.08,
+   "end": 2936.14,
+   "text": "which is very useful if you want to teach them,"
+  },
+  {
+   "start": 2936.22,
+   "end": 2937.14,
+   "text": "but for nothing else."
+  },
+  {
+   "start": 2937.44,
+   "end": 2940.54,
+   "text": "The chances that anybody is, a young person,"
+  },
+  {
+   "start": 2940.6,
+   "end": 2943.28,
+   "text": "is in their right employment, the right place,"
+  },
+  {
+   "start": 2943.46,
+   "end": 2944.44,
+   "text": "are not very good."
+  },
+  {
+   "start": 2944.94,
+   "end": 2946.64,
+   "text": "Where does he really belong?"
+  },
+  {
+   "start": 2947.56,
+   "end": 2949.42,
+   "text": "Most of them kind of place themselves"
+  },
+  {
+   "start": 2949.98,
+   "end": 2952.54,
+   "text": "in a haphazard process of drifting,"
+  },
+  {
+   "start": 2953.08,
+   "end": 2955.0,
+   "text": "and eventually you fall into your niche."
+  },
+  {
+   "start": 2955.0,
+   "end": 2961.54,
+   "text": "I think it's a very long and painful process, and I think one can and should help."
+  },
+  {
+   "start": 2961.9,
+   "end": 2969.3,
+   "text": "I would probably finally ask the question with most development programs begin,"
+  },
+  {
+   "start": 2969.5,
+   "end": 2973.24,
+   "text": "what kind of courses should, so on."
+  },
+  {
+   "start": 2973.28,
+   "end": 2979.45,
+   "text": "This, I think, comes at the very end, and it's a supplement, a very useful dose of vitamins,"
+  },
+  {
+   "start": 2979.95,
+   "end": 2981.31,
+   "text": "but it isn't the main dish."
+  },
+  {
+   "start": 2981.94,
+   "end": 2988.88,
+   "text": "But I think that the effective managers and the development people"
+  },
+  {
+   "start": 2988.88,
+   "end": 2991.3,
+   "text": "as their tool to build an organization."
+  },
+  {
+   "start": 2991.3,
+   "end": 2994.94,
+   "text": "And it is not very difficult. It does not take a lot of time."
+  },
+  {
+   "start": 2995.06,
+   "end": 3006.03,
+   "text": "It seems development."
+  },
+  {
+   "start": 3006.67,
+   "end": 3009.97,
+   "text": "It is perfectly true that a manager is always an example."
+  },
+  {
+   "start": 3010.61,
+   "end": 3015.14,
+   "text": "But people are perhaps a little more resistant than that."
+  },
+  {
+   "start": 3015.52,
+   "end": 3020.68,
+   "text": "I think that one organizes the few development decisions."
+  },
+  {
+   "start": 3021.3,
+   "end": 3023.28,
+   "text": "And it doesn't worry too much about the rest."
+  },
+  {
+   "start": 3023.42,
+   "end": 3027.68,
+   "text": "The first is the assignment. What is the job?"
+  },
+  {
+   "start": 3027.68,
+   "end": 3033.48,
+   "text": "That is not only the test of performance, but also the learning situation."
+  },
+  {
+   "start": 3033.72,
+   "end": 3039.72,
+   "text": "What kind of a boss should this person have to the extent to which one can control it?"
+  },
+  {
+   "start": 3039.98,
+   "end": 3046.14,
+   "text": "Particularly if I think highly of a young person, I would never put him to work under a boss"
+  },
+  {
+   "start": 3046.14,
+   "end": 3052.62,
+   "text": "unless I would be willing to have him model himself or herself on that boss."
+  },
+  {
+   "start": 3052.9,
+   "end": 3054.14,
+   "text": "Bosses are examples."
+  },
+  {
+   "start": 3054.14,
+   "end": 3074.3,
+   "text": "Finally, one says, what are the strengths of a person that he really needs to develop and where does he belong so that his strengths can make the greatest contribution to him and to this world of ours, where he can be the most productive person?"
+  },
+  {
+   "start": 3074.66,
+   "end": 3078.48,
+   "text": "Maybe that's my department, but maybe it isn't."
+  },
+  {
+   "start": 3078.64,
+   "end": 3080.4,
+   "text": "And then, well, I'm older."
+  },
+  {
+   "start": 3080.54,
+   "end": 3081.58,
+   "text": "I know the organization."
+  },
+  {
+   "start": 3081.92,
+   "end": 3085.14,
+   "text": "I can talk to the colleague of mine in accounting"
+  },
+  {
+   "start": 3085.14,
+   "end": 3087.26,
+   "text": "and say, Jones, I think,"
+  },
+  {
+   "start": 3087.36,
+   "end": 3090.86,
+   "text": "should have some years of accounting experience."
+  },
+  {
+   "start": 3091.26,
+   "end": 3093.8,
+   "text": "That's where he really has the strength."
+  },
+  {
+   "start": 3093.8,
+   "end": 3097.67,
+   "text": "But I can also say to Jones, we like you here."
+  },
+  {
+   "start": 3097.75,
+   "end": 3099.13,
+   "text": "You are doing good work."
+  },
+  {
+   "start": 3099.9,
+   "end": 3102.34,
+   "text": "But this is the wrong place for you."
+  },
+  {
+   "start": 3102.48,
+   "end": 3106.14,
+   "text": "This is a people-focused, shooting-from-the-hip,"
+  },
+  {
+   "start": 3106.3,
+   "end": 3113.98,
+   "text": "intuitive organization and you are an analyst and conceptually oriented we never really put it to"
+  },
+  {
+   "start": 3113.98,
+   "end": 3121.79,
+   "text": "work and really respect this isn't the business we are in or you are really only interested and"
+  },
+  {
+   "start": 3121.79,
+   "end": 3128.23,
+   "text": "your strengths lies in a very small specialty and you want to perfect this and be the world's"
+  },
+  {
+   "start": 3128.23,
+   "end": 3137.34,
+   "text": "greatest expert on heat coupling whatever this may be well that's a very minor point really we"
+  },
+  {
+   "start": 3137.34,
+   "end": 3144.14,
+   "text": "don't require much more than the draftsman's. Where are you going to go? In this organization,"
+  },
+  {
+   "start": 3144.32,
+   "end": 3152.1,
+   "text": "you are going to remain an overpaid draftsman. Here are the businesses where you're particularly"
+  },
+  {
+   "start": 3152.1,
+   "end": 3162.38,
+   "text": "needed, and they'll help you get. One does this on an organized basis, and then one doesn't have"
+  },
+  {
+   "start": 3162.38,
+   "end": 3169.55,
+   "text": "to worry too much about every organization in which it worries so much about human relations."
+  },
+  {
+   "start": 3169.55,
+   "end": 3176.28,
+   "text": "Always organizations in which human relations are poor because their basic job of managing"
+  },
+  {
+   "start": 3176.28,
+   "end": 3183.52,
+   "text": "people isn't done organizations which do a job of managing people don't worry about polite"
+  },
+  {
+   "start": 3183.52,
+   "end": 3195.97,
+   "text": "about advances and participation and all together are not terribly self-conscious just as if you"
+  },
+  {
+   "start": 3195.97,
+   "end": 3201.33,
+   "text": "really have a good friend you are not terribly worried about hurting him he's secure in their"
+  },
+  {
+   "start": 3201.33,
+   "end": 3207.91,
+   "text": "relationship and good marriages are usually very noisy marriages if you are self-conscious"
+  },
+  {
+   "start": 3207.91,
+   "end": 3229.4,
+   "text": "You're unlikely to do a good job, but you're also unlikely to have good human activities, anything."
+  },
+  {
+   "start": 3229.84,
+   "end": 3239.54,
+   "text": "Any organization, like any organism, has to have a process of elimination or else the toxic waste poisons the whole system."
+  },
+  {
+   "start": 3239.54,
+   "end": 3261.13,
+   "text": "Any manager needs to set up his own system for putting every product, every service, every activity, every procedure, every carbon copy on trial for its life every two, three years and say, if we didn't do it, would we now go into it?"
+  },
+  {
+   "start": 3261.13,
+   "end": 3265.79,
+   "text": "If the answer is no, one says, how do we get out of it, and does it fast."
+  },
+  {
+   "start": 3266.03,
+   "end": 3270.51,
+   "text": "Procedures in particular outlive their usefulness amazingly."
+  },
+  {
+   "start": 3271.53,
+   "end": 3273.45,
+   "text": "They become sheer business."
+  },
+  {
+   "start": 3274.53,
+   "end": 3280.67,
+   "text": "And so to organize abandonment is, I think, an essential management tool"
+  },
+  {
+   "start": 3280.67,
+   "end": 3284.33,
+   "text": "without which the organization won't stay healthy."
+  },
+  {
+   "start": 3284.81,
+   "end": 3288.95,
+   "text": "It's, so to speak, the hygiene of an organization"
+  },
+  {
+   "start": 3288.95,
+   "end": 3296.7,
+   "text": "and of a managerial group that's closely tied in with assignment control"
+  },
+  {
+   "start": 3296.7,
+   "end": 3302.3,
+   "text": "because usually you find where the candidates for abandonment are"
+  },
+  {
+   "start": 3302.3,
+   "end": 3306.62,
+   "text": "when you look at the assignment of your performing people"
+  },
+  {
+   "start": 3306.62,
+   "end": 3309.68,
+   "text": "and realize that the stronger they are,"
+  },
+  {
+   "start": 3310.22,
+   "end": 3316.44,
+   "text": "the more likely they are to be assigned to the areas where there are no results."
+  },
+  {
+   "start": 3316.44,
+   "end": 3323.28,
+   "text": "you then identify the areas where you either abandon or prune back sharp."
+  },
+  {
+   "start": 3323.42,
+   "end": 3328.07,
+   "text": "I think this is essential hygiene, and if you don't do it,"
+  },
+  {
+   "start": 3328.23,
+   "end": 3332.09,
+   "text": "you are likely to become fat and flabby and unhealthy."
+  },
+  {
+   "start": 3333.18,
+   "end": 3341.7,
+   "text": "Peter, do you want to call it that?"
+  },
+  {
+   "start": 3341.9,
+   "end": 3351.56,
+   "text": "We have been talking about very specific things that are characteristic of the task of the manager"
+  },
+  {
+   "start": 3351.56,
+   "end": 3357.5,
+   "text": "in the way in which the pliers or the chisel pertain to the craft of the carpenter."
+  },
+  {
+   "start": 3357.98,
+   "end": 3361.16,
+   "text": "There is nothing philosophical about the pair of pliers,"
+  },
+  {
+   "start": 3361.72,
+   "end": 3365.54,
+   "text": "but without it, a carpenter can't do his job."
+  },
+  {
+   "start": 3365.78,
+   "end": 3370.34,
+   "text": "There is nothing very philosophical, I think, about the things we have been talking about,"
+  },
+  {
+   "start": 3370.34,
+   "end": 3374.94,
+   "text": "but without them, a manager is unlikely to do his job."
+  },
+  {
+   "start": 3375.84,
+   "end": 3380.98,
+   "text": "Managers better realize that they depend on these tools"
+  },
+  {
+   "start": 3380.98,
+   "end": 3387.02,
+   "text": "and that they better learn how to use them effectively and effortlessly."
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 23.57,
+ "created_utc": "2026-09-29T02:24:25+00:00"
+}

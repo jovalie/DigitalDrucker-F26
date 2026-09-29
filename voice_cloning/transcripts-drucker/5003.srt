@@ -1,0 +1,1691 @@
+1
+00:00:02,900 --> 00:00:10,140
+I think that I have the great pleasure and privilege
+
+2
+00:00:10,140 --> 00:00:15,000
+of introducing an honored guest, an old friend who
+
+3
+00:00:15,000 --> 00:00:18,100
+is going to sit in with us the rest of this term,
+
+4
+00:00:18,100 --> 00:00:20,640
+and probably not only in this module,
+
+5
+00:00:20,640 --> 00:00:25,200
+but in some of the others, Professor Heinz Luzny, who
+
+6
+00:00:25,200 --> 00:00:28,920
+is the chair of the MBA program at the Federal University
+
+7
+00:00:28,920 --> 00:00:36,930
+of Rio de Janeiro.
+
+8
+00:00:36,930 --> 00:00:46,950
+I hope you'll see a good deal of Dr. Lundin around this term.
+
+9
+00:00:46,950 --> 00:00:51,590
+And he's up for a sabbatical from Brazil.
+
+10
+00:00:51,590 --> 00:00:56,030
+And I think he can learn here how one runs an executive
+
+11
+00:00:56,030 --> 00:00:56,530
+program.
+
+12
+00:00:56,530 --> 00:01:04,560
+So let's not be .
+
+13
+00:01:04,560 --> 00:01:09,380
+You remember we started out on the University Art Museum.
+
+14
+00:01:09,380 --> 00:01:11,040
+By the way, what's the next case we're
+
+15
+00:01:11,040 --> 00:01:13,340
+going to discuss if we decide?
+
+16
+00:01:13,340 --> 00:01:13,840
+No.
+
+17
+00:01:13,840 --> 00:01:16,040
+Which one should we tackle?
+
+18
+00:01:16,040 --> 00:01:19,960
+Maybe we'll start after dinner today.
+
+19
+00:01:19,960 --> 00:01:23,190
+Which one would you like to do?
+
+20
+00:01:23,190 --> 00:01:29,280
+Pick one that's very different.
+
+21
+00:01:29,280 --> 00:01:29,780
+What?
+
+22
+00:01:29,780 --> 00:01:32,980
+.
+
+23
+00:01:32,980 --> 00:01:36,700
+No, that's too close.
+
+24
+00:01:36,700 --> 00:01:38,810
+It's amazingly close.
+
+25
+00:01:38,810 --> 00:01:43,950
+What?
+
+26
+00:01:43,950 --> 00:01:46,410
+Mercantile two or three?
+
+27
+00:01:46,410 --> 00:01:47,290
+What?
+
+28
+00:01:47,290 --> 00:01:50,190
+Three is a nice little case.
+
+29
+00:01:50,190 --> 00:01:55,310
+If we get around, finish with the art museum
+
+30
+00:01:55,310 --> 00:01:58,170
+by in an hour, which I think we, an hour and a half,
+
+31
+00:01:58,170 --> 00:02:09,110
+we think it's possible, we might kind of serve as a dessert mercantile number three, which I think
+
+32
+00:02:09,110 --> 00:02:17,510
+is a very simple case, one of the few where we can give an answer. And remember we talked about the
+
+33
+00:02:18,070 --> 00:02:29,930
+University Art Museum and decided that one can define the case in three ways, and let me again
+
+34
+00:02:29,930 --> 00:02:39,650
+can re-emphasize that one always tries to have three alternatives, and not many more,
+
+35
+00:02:39,650 --> 00:02:42,650
+but definitely no fewer.
+
+36
+00:02:42,650 --> 00:02:51,830
+And why the human brain is so constituted as to make three a very meaningful choice
+
+37
+00:02:51,830 --> 00:02:53,830
+for us, we don't know.
+
+38
+00:02:53,830 --> 00:03:11,390
+So let me say that it is likely that this is not in nature, but is the human brain.
+
+39
+00:03:11,390 --> 00:03:22,230
+Alfred Whitehead Russell, in the Principia Mathematica in 1906, kind of implied that
+
+40
+00:03:22,230 --> 00:03:31,040
+the trilogy, the trinity, is somehow of the structure of the architecture of nature.
+
+41
+00:03:31,040 --> 00:03:37,250
+But there's no evidence, but there's lots of evidence that is of this wiring of the
+
+42
+00:03:37,250 --> 00:03:47,560
+human mind, that shooting up, overshooting, undershooting, hitting the target, that's
+
+43
+00:03:47,560 --> 00:03:49,700
+the way the human mind works very well.
+
+44
+00:03:50,300 --> 00:03:58,220
+But anyhow, one tries to get free, that's a meaningful choice, and if you go much above
+
+45
+00:03:58,220 --> 00:04:06,720
+it, you become confused, and let me say, and so when people say that economists, as you
+
+46
+00:04:06,720 --> 00:04:11,220
+know have three hands one hand on the other hand on the third hand that's
+
+47
+00:04:11,220 --> 00:04:19,520
+really a compliment you pay economists and all economists have three hands
+
+48
+00:04:19,520 --> 00:04:28,380
+whether they also have a mind we don't know but they have three hands and we defined it
+
+49
+00:04:28,380 --> 00:04:37,000
+and one definition was the way that Gurdjieff defined it namely forced to define
+
+50
+00:04:37,000 --> 00:04:46,870
+the mission definition what is the business whether that goes about it the
+
+51
+00:04:46,870 --> 00:04:54,310
+right way we see and the other one we said is that this museum nothing wrong
+
+52
+00:04:54,310 --> 00:05:01,490
+with his mission don't worry about it it's just misplaced it drifted nobody
+
+53
+00:05:01,490 --> 00:05:08,960
+faced it by design into the graduate faculty and it just didn't belong and
+
+54
+00:05:08,960 --> 00:05:21,230
+And here you have something that is not a teaching put into the graduate faculty and it can't work.
+
+55
+00:05:21,230 --> 00:05:36,120
+Let me say, good, right organization structure does not make anything work.
+
+56
+00:05:36,120 --> 00:05:39,120
+But the wrong structure guarantees non-work.
+
+57
+00:05:39,120 --> 00:05:49,350
+The wrong structure means that every time anything moves, it ceases, it gets cold, it stops, it fills.
+
+58
+00:05:49,350 --> 00:06:03,550
+the right structure only then you see the old story that if you have a broken
+
+59
+00:06:03,550 --> 00:06:09,200
+knee you can't go up Mount Bordeaux you can't walk but whether you should go up
+
+60
+00:06:09,200 --> 00:06:17,000
+Mount Bordeaux or not is not decided by the state of your knee only having a
+
+61
+00:06:17,000 --> 00:06:26,530
+broken knee prevents you from going anywhere and so it may be said
+
+62
+00:06:26,530 --> 00:06:41,210
+organization, misplacement. And the third one is that this is the wrong person,
+
+63
+00:06:41,210 --> 00:06:51,700
+chosen the wrong way, and all of them are, let me say, tenable hypotheses. Anybody
+
+64
+00:06:51,700 --> 00:06:57,380
+know how one decides whether a hypothesis is tenable or not? Whether it
+
+65
+00:06:57,380 --> 00:07:13,760
+deserves to be tested to survive the freshman course in physics? How does one decide
+
+66
+00:07:13,760 --> 00:07:37,290
+with it if I were to say that a possible definition of this problem is at this
+
+67
+00:07:37,290 --> 00:07:46,680
+university is in a cold climate and museum should be in a warm one you would
+
+68
+00:07:46,680 --> 00:08:02,450
+all doubt it right there's certain things you know that don't work well in
+
+69
+00:08:02,450 --> 00:08:12,740
+the whole time. If this were not the museum where the palm grows, for instance, that hypothesis
+
+70
+00:08:12,740 --> 00:08:17,200
+that it's too far north would be a perfectly acceptable one, wouldn't it?
+
+71
+00:08:17,200 --> 00:08:19,200
+The relevancy to the palm in the hand.
+
+72
+00:08:19,200 --> 00:08:20,200
+You what?
+
+73
+00:08:20,200 --> 00:08:21,200
+Whether the...
+
+74
+00:08:21,200 --> 00:08:37,550
+How do you test that? That, if you see that, the triple hypothesis is to show that what
+
+75
+00:08:37,550 --> 00:08:43,980
+you know ain't so. The whole triple of the hypothesis is to make comment, is to get you
+
+76
+00:08:43,980 --> 00:08:53,850
+get you away from common sense and from the trap of common sense see that one of the fundamental
+
+77
+00:08:55,320 --> 00:09:08,650
+assertions of modern science is that things that are taken on faith turn out to be different
+
+78
+00:09:08,650 --> 00:09:19,840
+and what everybody knows is almost always not so and you really look that's why you can see
+
+79
+00:09:19,840 --> 00:09:28,030
+that the beginning of knowledge in any discipline is when somebody goes out and
+
+80
+00:09:28,030 --> 00:09:34,460
+looks at what everybody knows, because what everybody knows nobody looks at.
+
+81
+00:09:34,460 --> 00:09:41,750
+The history of work, not of management, you know, everybody knew all about it.
+
+82
+00:09:41,750 --> 00:09:48,940
+Work is very old, and everybody knew all about it. And it wasn't until Frederick Winslow
+
+83
+00:09:48,940 --> 00:09:59,540
+Taylor in 1878 or there about was the first time to look at wood. Nobody had ever looked at wood.
+
+84
+00:09:59,540 --> 00:10:05,480
+Everybody knew everything about wood. Everybody knew that you get more work
+
+85
+00:10:05,480 --> 00:10:13,560
+done if you work harder and work longer hours and so on and so forth and
+
+86
+00:10:13,560 --> 00:10:20,160
+everybody also believed that after all if you work at something long enough
+
+87
+00:10:20,160 --> 00:10:31,820
+people will come up with doing it right. Now the first one, the challenge is, but he didn't know what he was doing.
+
+88
+00:10:31,820 --> 00:10:41,090
+Beginning of modern clinical medicine, very young physicians,
+
+89
+00:10:41,090 --> 00:10:53,740
+in the University Clinic of Vienna, did something so obvious,
+
+90
+00:10:53,740 --> 00:10:58,740
+that in this perspective, they can't understand how come it has never been done before,
+
+91
+00:10:58,740 --> 00:11:00,940
+but the object is always neglected.
+
+92
+00:11:01,930 --> 00:11:05,250
+They, for the first time in the history of medicine,
+
+93
+00:11:05,470 --> 00:11:09,590
+put together the diagnosis of the physician
+
+94
+00:11:09,590 --> 00:11:11,490
+and the orthopedist.
+
+95
+00:11:11,710 --> 00:11:15,260
+You know, the orthopedist report
+
+96
+00:11:15,260 --> 00:11:17,800
+is the only validation of a diagnosis.
+
+97
+00:11:22,310 --> 00:11:24,430
+And nobody has ever had that
+
+98
+00:11:24,430 --> 00:11:29,480
+until two young folks, very young,
+
+99
+00:11:29,600 --> 00:11:34,460
+just residents, not even a dermatologist
+
+100
+00:11:34,460 --> 00:11:36,760
+and an apoptotologist,
+
+101
+00:11:36,760 --> 00:11:46,280
+put together the diagnosis and all support, and lo and behold, suddenly the diagnosis of the great doctors,
+
+102
+00:11:46,280 --> 00:11:55,970
+even though they had followed the differential method of diagnosis and everything, very nicely.
+
+103
+00:11:55,970 --> 00:12:05,970
+And that is really the first time anybody had looked at human work, because that is work, you know.
+
+104
+00:12:05,970 --> 00:12:14,080
+They're very specific and so on.
+
+105
+00:12:14,080 --> 00:12:26,410
+This was made isolated and everybody thought it only pertains to medicine until about 30 years later, Taylor started in this country.
+
+106
+00:12:26,410 --> 00:12:31,930
+Looking at manual work, this might not have been very long.
+
+107
+00:12:31,930 --> 00:12:43,200
+The oldest learned profession and the one in the West with an unbroken tradition of learning.
+
+108
+00:12:43,200 --> 00:13:01,540
+and incidentally, not in Japan, because the two places, medicine was removed from Madrid, or the west of Japan,
+
+109
+00:13:01,540 --> 00:13:23,180
+but in those two, very early, it was removed, 500, and in Japan, about 1,800, 1,100.
+
+110
+00:13:23,180 --> 00:13:38,400
+And so we have very unbroken, with professional things,
+
+111
+00:13:38,400 --> 00:13:50,130
+and while the trail from the Greek schools of medicine to the Arab schools is a little overgrown, it was there.
+
+112
+00:13:50,130 --> 00:13:55,200
+And then from the Arab schools to the Western schools, it's a falling highway.
+
+113
+00:13:55,200 --> 00:14:08,490
+And so for 2,000 years, for 2,400 years, there were highly trained professionals in medicine and nobody had the pressure.
+
+114
+00:14:08,490 --> 00:14:17,640
+Everybody knew. And for much longer, people had been shoveling sand.
+
+115
+00:14:17,640 --> 00:14:22,000
+There were people who shoveled sand long before they were doctors.
+
+116
+00:14:22,000 --> 00:14:25,890
+And everybody knew.
+
+117
+00:14:25,890 --> 00:14:35,000
+Since Taylor looked and pounced at the angel, you would assume,
+
+118
+00:14:35,000 --> 00:14:40,000
+and this is very important because, let me say, every time anybody sees creativity,
+
+119
+00:14:40,000 --> 00:14:45,200
+and if you remember, creativity is very largely a myth.
+
+120
+00:14:45,200 --> 00:14:56,520
+It's by that you mean, and what everybody knows and imagines,
+
+121
+00:14:56,520 --> 00:15:05,800
+ah, because, you know, nobody has ever really.
+
+122
+00:15:05,800 --> 00:15:10,370
+really told that shoveler of sand how to do it.
+
+123
+00:15:10,370 --> 00:15:15,620
+He gave some of the shovels and said, go shovel sand.
+
+124
+00:15:16,360 --> 00:15:18,540
+It's been done for thousands of years.
+
+125
+00:15:18,960 --> 00:15:22,040
+Lots of people with good minds are put to that job.
+
+126
+00:15:26,270 --> 00:15:28,430
+And everybody probably quarreled with them.
+
+127
+00:15:28,550 --> 00:15:32,960
+If they made the handle of the shovel longer or shorter
+
+128
+00:15:32,960 --> 00:15:35,460
+or if they put more or less sand in it.
+
+129
+00:15:36,100 --> 00:15:37,440
+Nobody takes that much attention.
+
+130
+00:15:38,700 --> 00:15:40,800
+And everybody knew how to shovel sand.
+
+131
+00:15:40,920 --> 00:15:43,740
+And everybody knows that if you want to shovel more sand,
+
+132
+00:15:43,740 --> 00:15:54,090
+you put more sand on your shovel, you work harder, you work longer, and you tailor it to fit it, and everything was wrong.
+
+133
+00:15:54,090 --> 00:16:01,650
+If you had wanted to design a shovel not with shovel sand, you would have come up with a traditional shovel.
+
+134
+00:16:01,650 --> 00:16:11,100
+And the handle was guaranteed to produce the maximum fatigue with the lowest weight.
+
+135
+00:16:11,100 --> 00:16:20,820
+And the way the shovel plants are always lifted, it's the furthest distance against gravity.
+
+136
+00:16:20,820 --> 00:16:30,860
+They're always shoveled up. The way you and I, not in this climate, but back in the East, most people shoveled snow, you know.
+
+137
+00:16:30,860 --> 00:16:35,590
+Have you ever watched it? Most of them go up to it, right?
+
+138
+00:16:35,590 --> 00:16:39,570
+What can you wonder about the heart attack?
+
+139
+00:16:39,570 --> 00:16:46,950
+attack and but if you don't and then it's been sweet everyone doesn't use
+
+140
+00:16:46,950 --> 00:16:50,910
+gravity because you know if you walk down the driveway that's likely to slip
+
+141
+00:16:50,910 --> 00:16:58,840
+then you should stand up and shovel down any mountain climber now to live in but
+
+142
+00:16:58,840 --> 00:17:04,460
+not if he isn't tortured then he has an accident and that of course is one way
+
+143
+00:17:04,460 --> 00:17:23,510
+of getting rid of incompetent mountain bike and so uh but the hypothesis is an explanation that
+
+144
+00:17:23,510 --> 00:17:38,710
+includes all of the facts now this is a very nice statement and a tricky one because of course you
+
+145
+00:17:38,710 --> 00:17:49,170
+You may, by making a hypothesis, you guess, or your explanations, then you may say that
+
+146
+00:17:49,170 --> 00:17:57,730
+here is that hypothesis or diagnosis that there are needles in that 11 year old child
+
+147
+00:17:57,730 --> 00:18:13,020
+and you have the high fever typically, if you have skin feel of needles and white spots
+
+148
+00:18:13,020 --> 00:18:18,020
+in the mouth, but you don't have whatever else belongs to needles, or you have something
+
+149
+00:18:18,020 --> 00:18:27,230
+is vomiting, which does not belong. And then you say, well, maybe someone said, well, so
+
+150
+00:18:27,230 --> 00:18:33,950
+vomit's quite independent of me. And you say, this is me who's probably, and said
+
+151
+00:18:33,950 --> 00:18:39,800
+vomiting, well, the child already wasn't feeling too well and ate a big dinner last
+
+152
+00:18:39,800 --> 00:18:46,660
+night, and that's it, stomach. And that's fine, he said vomiting sucks. See, one of
+
+153
+00:18:46,660 --> 00:18:54,820
+important thing is to know if you exclude a fact because it might belong to a different
+
+154
+00:18:54,820 --> 00:19:03,330
+syndrome so make damn sure you write it down and make it otherwise you fool yourself but
+
+155
+00:19:03,330 --> 00:19:12,420
+basically a hypothesis of explains the observability fact and all three of our
+
+156
+00:19:12,420 --> 00:19:23,960
+hypothesis you can explain without using we're saying they're never so sure what
+
+157
+00:19:23,960 --> 00:19:34,420
+their business is, they're never so sure what their mission is, and this is not quite as obvious and
+
+158
+00:19:34,420 --> 00:19:39,890
+obviously controversial and therefore anybody who there's anything is going to get into
+
+159
+00:19:39,890 --> 00:19:46,320
+trouble that explains all the absurdity of the fact or you might say this organization
+
+160
+00:19:46,320 --> 00:19:52,480
+we might think, and therefore have no power of decision,
+
+161
+00:19:52,480 --> 00:19:56,380
+and the other belongs to them, it's appropriate,
+
+162
+00:19:56,380 --> 00:20:00,880
+and no decision, and all together it's,
+
+163
+00:20:00,880 --> 00:20:06,360
+it's seen as something that it is,
+
+164
+00:20:06,360 --> 00:20:10,880
+and it gets people into the act to have no business,
+
+165
+00:20:10,880 --> 00:20:18,640
+and then you can't even think through an admission.
+
+166
+00:20:18,640 --> 00:20:21,880
+And it explains all everything that's happened.
+
+167
+00:20:21,880 --> 00:20:27,260
+And sure, you pick the wrong man,
+
+168
+00:20:27,260 --> 00:20:33,660
+Then you're paid to give him the appropriate guidance to make the appointment fixed.
+
+169
+00:20:33,660 --> 00:20:35,660
+And there are two extremes of it in general.
+
+170
+00:20:35,660 --> 00:20:41,860
+Always, when you have a hypothesis, one step.
+
+171
+00:20:41,860 --> 00:20:46,760
+Test it against your very mind.
+
+172
+00:20:46,760 --> 00:20:55,970
+And it doesn't have to fit all of them really well, but if you have to do violence to it,
+
+173
+00:20:55,970 --> 00:20:59,260
+then you're playing the prisoner.
+
+174
+00:20:59,260 --> 00:21:04,010
+If you have to eliminate something,
+
+175
+00:21:04,010 --> 00:21:15,000
+all got it to do what all of us do in fact you know the doctor who knows his needles because
+
+176
+00:21:15,000 --> 00:21:22,860
+there's a lot of it in the community and looks into little tommy's mouth and there are no white
+
+177
+00:21:22,860 --> 00:21:35,830
+spots and he says sometimes they don't come out until later that's a dangerous man because he's
+
+178
+00:21:35,830 --> 00:21:43,990
+going to freeze in certain diagnosis you're going to look into it for all you know this one
+
+179
+00:21:43,990 --> 00:21:55,020
+Everybody has measles, but people tell me that they kill kidney patients, and then that diagnosis of measles is going to kill you.
+
+180
+00:21:55,020 --> 00:22:06,310
+And the most dangerous thing to do is to be dishonest ever, and see facts that aren't there.
+
+181
+00:22:06,310 --> 00:22:16,750
+There's a famous old story about the optimist with a little boy, who knows that he has gotten a pony,
+
+182
+00:22:16,750 --> 00:22:20,190
+because the horse dropped the horse when he went to the Christmas tree.
+
+183
+00:22:20,190 --> 00:22:26,690
+There must be a pony someplace, but I've seen lots of diagnostics, you know, in that category.
+
+184
+00:22:26,690 --> 00:22:35,130
+And not just in medicine, it doesn't work in any decision-making process.
+
+185
+00:22:35,130 --> 00:22:40,430
+Now, it is not a totally, let me say, yes, if you're horse-dropping,
+
+186
+00:22:40,430 --> 00:22:45,520
+there must be a horse someplace, the horse happens to only come out of the horse,
+
+187
+00:22:45,520 --> 00:22:56,300
+but then one starts looking for the pony, and there's not a human machine there,
+
+188
+00:22:56,300 --> 00:23:07,240
+and still one sees it, right, particularly if you have got an older sister and she's been out to play practical jokes
+
+189
+00:23:07,240 --> 00:23:24,250
+and that older sisters do, and so one does not assume things, one does not talk to them because they have the most anger thing to do
+
+190
+00:23:24,250 --> 00:23:36,350
+But in this case, we have three hypotheses which, while not true, are tenuous, and therefore need to be thought through.
+
+191
+00:23:36,350 --> 00:23:39,350
+And then let me say the rule is very simple.
+
+192
+00:23:39,350 --> 00:23:45,440
+One always starts with death.
+
+193
+00:23:45,440 --> 00:23:49,350
+Now there are reasons, like any rule, if one is killed.
+
+194
+00:23:49,350 --> 00:23:55,320
+If there is that measles epidemic in the neighborhood, and little Tommy has all the symptoms,
+
+195
+00:23:55,320 --> 00:23:57,570
+I said, yeah, but not quite.
+
+196
+00:23:58,010 --> 00:24:00,930
+One doesn't say he has needles, but one keeps it in mind.
+
+197
+00:24:01,150 --> 00:24:04,740
+It's like something like an upset stomach.
+
+198
+00:24:07,970 --> 00:24:11,550
+Well, keep in mind that all the kids around have needles
+
+199
+00:24:11,550 --> 00:24:13,870
+and some of you haven't had a needle vaccination.
+
+200
+00:24:17,440 --> 00:24:19,080
+And so keep it in mind.
+
+201
+00:24:20,380 --> 00:24:23,200
+Even though the upset stomach is much simpler,
+
+202
+00:24:26,210 --> 00:24:29,310
+but the upset stomach is over in 24 hours.
+
+203
+00:24:30,120 --> 00:24:31,100
+The needles are not.
+
+204
+00:24:33,020 --> 00:24:34,560
+And so you keep it in mind.
+
+205
+00:24:34,820 --> 00:24:37,360
+Well, he once always thought, he said,
+
+206
+00:24:37,360 --> 00:24:52,300
+The way the human tendency to become the Earth can never do two things.
+
+207
+00:24:52,300 --> 00:24:59,860
+In the first place, because otherwise people won't understand it.
+
+208
+00:24:59,860 --> 00:25:05,670
+In the second place, because otherwise people won't see it.
+
+209
+00:25:05,670 --> 00:25:14,000
+Everything in the last analysis has to be moral proof because everything is ultimately done by morals.
+
+210
+00:25:14,000 --> 00:25:19,000
+The supply of morals is the only reliable supply in the universe.
+
+211
+00:25:19,000 --> 00:25:30,280
+And eventually, everything has to be done by law, and will you keep in mind, because
+
+212
+00:25:30,280 --> 00:25:39,030
+only the danger of as much education as you take in through whatever organ of learning
+
+213
+00:25:39,030 --> 00:25:57,330
+you sit on, the danger is that you then remember that we have lots of critiques here in France,
+
+214
+00:25:57,330 --> 00:26:03,860
+remember that eventually it's got to be done by a moron.
+
+215
+00:26:03,860 --> 00:26:09,810
+And a moron is not necessarily somebody who doesn't understand.
+
+216
+00:26:09,810 --> 00:26:21,820
+You know, eventually, he has medical orders he has to carry out,
+
+217
+00:26:21,820 --> 00:26:25,820
+and it doesn't help you then that the great clinician is a great man,
+
+218
+00:26:25,820 --> 00:26:32,160
+and the nurse knows what she's doing.
+
+219
+00:26:32,160 --> 00:26:37,700
+He's not, and he's not perfectly all right,
+
+220
+00:26:37,700 --> 00:26:40,700
+but in terms of medicine, he's a moron.
+
+221
+00:26:40,700 --> 00:26:47,840
+and eventually you know you make that brilliant decision to phase out the
+
+222
+00:26:47,840 --> 00:26:54,730
+product while you phase in another one very complicated menu in which your
+
+223
+00:26:54,730 --> 00:26:58,810
+right hand doesn't know what the left hand is doing and you take two steps
+
+224
+00:26:58,810 --> 00:27:06,560
+forward one sideways and two backwards hook a hook hook a step and you
+
+225
+00:27:06,560 --> 00:27:17,200
+who has to buy the parts, and nobody is going to, you know, he's a clerk who carries out
+
+226
+00:27:17,200 --> 00:27:26,900
+three set routines, and if you don't explain to him what you are doing, he's not going
+
+227
+00:27:26,900 --> 00:27:34,210
+to buy the parts for the new product, and he's not going to sell parts for the buying
+
+228
+00:27:34,210 --> 00:27:39,210
+or buying parts for the old product, because his orders are to buy against the orders of
+
+229
+00:27:39,210 --> 00:27:43,180
+the last six months.
+
+230
+00:27:43,180 --> 00:27:54,730
+you've done it, haven't you? And don't blame him if you haven't been simple. But always at the end of this,
+
+231
+00:27:55,640 --> 00:28:11,850
+there's who has to do what that he knows, how that he has, so that he can understand. The answer is always
+
+232
+00:28:11,850 --> 00:28:26,610
+simple. And then remember one and only thing one can learn in engineering, that is then immediately after
+
+233
+00:28:26,610 --> 00:28:32,430
+It's a risk to take you 10 years to learn what you have learned.
+
+234
+00:28:32,430 --> 00:28:38,440
+But remember on that first day, in that course in machine design,
+
+235
+00:28:38,440 --> 00:28:51,010
+they instructed that the ideal machine is...
+
+236
+00:28:51,010 --> 00:28:57,780
+Well, you won't be able to design it.
+
+237
+00:28:57,780 --> 00:29:00,780
+But if you have 69 moving parts, it ain't going to work.
+
+238
+00:29:00,780 --> 00:29:06,700
+Or if it's going to work, nobody can maintain it, calibrate it.
+
+239
+00:29:06,700 --> 00:29:13,120
+And while you will not get to one moving part,
+
+240
+00:29:13,120 --> 00:29:25,490
+push it, get a little closer to make it simple, because then it can be built, then it can be calibrated, then it can be maintained.
+
+241
+00:29:25,490 --> 00:29:32,190
+And then also, the one thing you know about the moving parts is that it will go wrong.
+
+242
+00:29:32,190 --> 00:29:39,360
+Moving parts, by definition, go wrong. But they're fewer, you have the few.
+
+243
+00:29:39,360 --> 00:29:45,950
+So one starts over the system, and by start, it's a personal problem in the system.
+
+244
+00:29:45,950 --> 00:29:56,890
+So look at it and tell me, if that hypothesis were to be valid, what would we have to do?
+
+245
+00:29:56,890 --> 00:29:57,490
+How about this?
+
+246
+00:30:01,820 --> 00:30:04,540
+The hypothesis is that it ought to be a case.
+
+247
+00:30:04,700 --> 00:30:08,330
+It's a case of putting the wrong man in the job.
+
+248
+00:30:10,020 --> 00:30:13,740
+That's an exact comment.
+
+249
+00:30:13,940 --> 00:30:22,010
+What would we have to find for this hypothesis?
+
+250
+00:30:22,810 --> 00:30:24,810
+You'll be accepted.
+
+251
+00:30:27,540 --> 00:30:31,740
+Under what condition do you get the wrong man?
+
+252
+00:30:31,960 --> 00:30:44,160
+If you don't really understand the job, now, well, what does it mean?
+
+253
+00:30:44,160 --> 00:30:55,800
+there's a good Lord can you know all right I'll repeat thinking through what
+
+254
+00:30:55,800 --> 00:31:09,960
+the assignment is and what is determined what ability performance what what is
+
+255
+00:31:09,960 --> 00:31:19,630
+required to have results it's not going to let me keep you have nothing don't
+
+256
+00:31:19,630 --> 00:31:30,730
+ever speculate beyond what is absolutely here our friends it says whatever
+
+257
+00:31:30,730 --> 00:32:14,180
+abilities are needed. You know, that's the psychological. And you don't need. What we need is think through what the assignment is. What is the job to be filled? And then think through what is needed to make a human being perform, except the fact that you're going to have to settle for a human being. And you think that's funny? You are. I've known you now for a few years. Every time there's a job to be filled in your company, you are the worst. You always look. And you
+
+258
+00:32:14,180 --> 00:32:20,480
+think that is taking an optimistic view of the human race, but I assure you, I know
+
+259
+00:32:20,480 --> 00:32:27,760
+you well enough enough, you look always for that unlikely offspring of a
+
+260
+00:32:27,760 --> 00:32:44,580
+successful mating between the octopus and Dr. Einstein. In the first place, will you please accept that there is a chance that if the mating succeeds, the offspring will have Einstein's
+
+261
+00:32:44,580 --> 00:32:57,580
+And secondly, that even if it succeeds, it'll take 30 years before you know what the results
+
+262
+00:32:57,580 --> 00:32:58,580
+are likely to be.
+
+263
+00:32:58,580 --> 00:33:03,030
+You will have to settle for human.
+
+264
+00:33:03,030 --> 00:33:06,750
+This is very disagreeable.
+
+265
+00:33:06,750 --> 00:33:09,750
+Everybody looks for uncommon people.
+
+266
+00:33:09,750 --> 00:33:12,280
+There ain't no such animal.
+
+267
+00:33:12,280 --> 00:33:16,680
+And if there is, what's the difference, why should that particular,
+
+268
+00:33:16,680 --> 00:33:23,890
+whether the genius work for you or me, got better things to do?
+
+269
+00:33:23,890 --> 00:33:33,720
+And that's the fact that they're singular, geniuses are essentially unemployed.
+
+270
+00:33:33,720 --> 00:33:41,650
+What would you do with a, yes, Mozart, all of seven years old,
+
+271
+00:33:41,650 --> 00:33:47,520
+in the first place, our child, Labrador, wouldn't allow you to hire him.
+
+272
+00:33:47,520 --> 00:33:58,380
+Secondly, all he wants to do is play the piano, the organ, and the violin.
+
+273
+00:33:58,380 --> 00:34:15,970
+and his way not your way no ordinary human being which always means that if you want
+
+274
+00:34:15,970 --> 00:34:25,760
+strength you better accept weaknesses because there are peaks there are valleys which always
+
+275
+00:34:25,760 --> 00:34:35,600
+means that people are if they are good at anything they are good at one thing and not good at others
+
+276
+00:34:35,600 --> 00:34:46,520
+it always means that they're human beings and therefore talk back nobody in this room really
+
+277
+00:34:46,520 --> 00:34:54,280
+like to work with human beings, if you have a choice, but you don't.
+
+278
+00:34:54,280 --> 00:35:01,100
+They'd much rather have coppers, always the same conductivity, or white mice,
+
+279
+00:35:01,100 --> 00:35:11,190
+but you have no choice. So they talk back, and you know one cannot
+
+280
+00:35:11,190 --> 00:35:17,870
+hire a hand, the whole human being always comes with it, until they bring
+
+281
+00:35:17,870 --> 00:35:23,430
+their marital problems, and they fight with their girlfriend, and they fight with their 40-year-old
+
+282
+00:35:23,430 --> 00:35:30,230
+or daughter and they're worried because their mother is getting senile and refuses to go to
+
+283
+00:35:30,230 --> 00:35:38,660
+a nursing home they bring all this on to the job these things one cannot talk when they go from
+
+284
+00:35:38,660 --> 00:35:51,600
+the locker room and you know they like you but they don't like Jim and they had a fight with
+
+285
+00:35:51,600 --> 00:36:05,790
+Mary I just love it yeah that's what you are but they accept the cooperatives in
+
+286
+00:36:05,790 --> 00:36:15,500
+every second going to staff the job is a human being and they are not even though
+
+287
+00:36:15,500 --> 00:36:22,950
+our friend the psychologist always pretend that we can find that they've
+
+288
+00:36:22,950 --> 00:36:31,380
+been promising it for and you know for how long but they took on and that would
+
+289
+00:36:31,380 --> 00:36:39,160
+has yet to deliver. By the time they come to us, it's much too late. Maybe you could
+
+290
+00:36:39,160 --> 00:36:43,140
+have asked them when they were six weeks old, but then they are, thank God, not under your
+
+291
+00:36:43,140 --> 00:36:52,560
+control. And by the time they're coming to you, in my hand, it's much too late. The other
+
+292
+00:36:52,560 --> 00:37:18,600
+way they are. In this job, and the people who know how one starts, and the number is
+
+293
+00:37:18,600 --> 00:37:30,260
+incredibly, but they don't have the university art museum problem, don't ever.
+
+294
+00:37:30,260 --> 00:37:44,650
+And after they don't start a job without thinking through the assignments.
+
+295
+00:37:44,650 --> 00:37:49,460
+And many, many years ago, I said to Alfred Sloan,
+
+296
+00:37:49,460 --> 00:37:53,460
+when I said through three hours of what seemed to be a wrangling,
+
+297
+00:37:53,460 --> 00:38:00,380
+on the job of master mechanic at Harrison Radiator,
+
+298
+00:38:00,380 --> 00:38:06,620
+are not their biggest, they are divided by a long shot, the smallest, and there is no
+
+299
+00:38:06,620 --> 00:38:23,420
+strength of doing to the master mechanic. That is the danger, precisely because we have
+
+300
+00:38:23,420 --> 00:38:47,420
+been filling it up. That's why I am interested in it. Particularly, let me say, when you
+
+301
+00:38:47,420 --> 00:39:00,930
+have to, here you have this retiring museum director who potentially took over and non-music,
+
+302
+00:39:00,930 --> 00:39:13,590
+Nobody gave a hoot. Fashioned it, did it because nobody paid much attention, and built it into a very sizable
+
+303
+00:39:13,590 --> 00:39:40,660
+and now you'd like to serve and you don't sign them. Some of the things you wouldn't see.
+
+304
+00:39:40,660 --> 00:39:47,250
+But now you know some of the really very guys at the University of Louisiana, they're very careful.
+
+305
+00:39:47,250 --> 00:40:06,870
+But one thing you see is that emphasis on the museum as a resource for the university.
+
+306
+00:40:06,870 --> 00:40:16,910
+What is it you see here? What's her name? The girl that just retired? What? What did we call her?
+
+307
+00:40:16,910 --> 00:40:18,910
+Miss Kirchhoff.
+
+308
+00:40:18,910 --> 00:40:28,310
+Miss Kirchhoff. Here she's saying it is the one museum in the country, that is, in Europe, that is part of it.
+
+309
+00:40:28,310 --> 00:40:44,280
+And we have the one art faculty that made the museum.
+
+310
+00:40:44,280 --> 00:41:09,200
+You might probably, anybody, you see, here's a perfect example, you go to New York University, you see the fine arts, by no accident have this office directly across from the Metropolitan Museum, because you are in Yosef.
+
+311
+00:41:09,200 --> 00:41:31,590
+But that's a research institute, has no students, graduate students, incidentally, it is the only place known in the world that awards a Ph.D. posthumously, because nobody has yet lived long enough to get it.
+
+312
+00:41:31,590 --> 00:41:55,600
+I understand that Nancy Thompson has been told by SOPA, Alex SOPA, that in his system one of the things he's handing out in his last will is a PhD.
+
+313
+00:41:55,600 --> 00:42:16,040
+If so, she would be the first. But they don't like to graduate. They like to be friends and stay on forever.
+
+314
+00:42:16,040 --> 00:42:25,680
+And they look after it, because that is the staff of the Metropolitan University exhibition.
+
+315
+00:42:25,680 --> 00:42:39,680
+But that is not part of the Metropolitan, but part of a big, you know, that works there.
+
+316
+00:42:39,680 --> 00:42:46,640
+It actually is paid out of it, by a large university.
+
+317
+00:42:46,640 --> 00:43:00,170
+And that developed over the years, again, the building was mentioned, but that's not the truth.
+
+318
+00:43:00,170 --> 00:43:02,240
+No, they have it.
+
+319
+00:43:02,240 --> 00:43:18,130
+By and large, this one is undergraduate.
+
+320
+00:43:18,130 --> 00:43:27,760
+That is imitated, it stands for this scientific item.
+
+321
+00:43:27,760 --> 00:43:42,180
+But basically, in Michigan, they are imitating the art of the pioneer dance of that gang.
+
+322
+00:43:42,180 --> 00:44:00,560
+And the authorities are very peculiar in that it's not a place where the one hand is together.
+
+323
+00:44:00,560 --> 00:44:08,850
+It's not a place to see things as passively, but to use them in instruction,
+
+324
+00:44:08,850 --> 00:44:27,250
+wherein every other artist resides, and also neighbors, to do continuing scholarly work
+
+325
+00:44:27,250 --> 00:44:34,630
+through those exhibitions and exhibition catalogs, which constantly challenge and stimulate and
+
+326
+00:44:34,630 --> 00:44:44,570
+give them work to do and force them into continuing scholarly work, again with real objects.
+
+327
+00:44:44,570 --> 00:44:52,200
+Unique, quite clearly. And so this assignment is very different from any other museum.
+
+328
+00:44:52,200 --> 00:45:02,490
+In fact, the museum for the public is not among its functions at all.
+
+329
+00:45:02,490 --> 00:45:21,760
+And you might really stipulate that you are not saying that there can only be a museum for the public insofar as it doesn't interfere with it being an in-house museum.
+
+330
+00:45:21,760 --> 00:45:37,600
+You see, 40 years ago, when the pathological and medical lab was in its very infancy,
+
+331
+00:45:37,600 --> 00:45:48,970
+The hospitals that went into it, tried to have them outside.
+
+332
+00:45:48,970 --> 00:45:53,970
+Commercial labs on the outside, which you send your patients and your specimens.
+
+333
+00:45:53,970 --> 00:45:55,970
+We don't want them in the hospital.
+
+334
+00:45:55,970 --> 00:46:01,330
+It's a managerial job of major proportions.
+
+335
+00:46:01,330 --> 00:46:03,330
+Totally different from managing a hospital.
+
+336
+00:46:03,330 --> 00:46:14,270
+And in fact, almost a collision course.
+
+337
+00:46:14,270 --> 00:46:17,720
+No, how do we do it?
+
+338
+00:46:17,720 --> 00:46:20,340
+And then the father.
+
+339
+00:46:20,340 --> 00:46:25,290
+who ultimately prevailed largely before the World War II,
+
+340
+00:46:25,290 --> 00:46:39,440
+the armed service accepted this great pathologist at Mount Sinai, for example,
+
+341
+00:46:39,440 --> 00:46:50,710
+said this isn't going to the lab, the lab grows to any size, and it will happen in-house,
+
+342
+00:46:50,710 --> 00:47:00,830
+simply because in a commercial lab, you cannot possibly subordinate the commercial work.
+
+343
+00:47:00,830 --> 00:47:09,140
+And what he instead proposed was a hospital lab that can think commercial work,
+
+344
+00:47:09,140 --> 00:47:17,820
+to it by the physicians who are on the staff of the hospital up to the point where this interferes
+
+345
+00:47:17,820 --> 00:47:23,360
+with the lab function for the hospital which is very large in the way we have it except that
+
+346
+00:47:23,360 --> 00:47:31,970
+more and more of the hospital labs don't take any options to build and here you have a museum
+
+347
+00:47:31,970 --> 00:47:45,840
+and you might specify that it can take to outside work whether that is having people come into its
+
+348
+00:47:45,840 --> 00:47:56,670
+exhibition from off the street, only insofar as it doesn't interfere with its educational mission.
+
+349
+00:47:58,260 --> 00:48:16,960
+If you look around in this area, the best university museum in this area is UCLA, the White Gallery,
+
+350
+00:48:16,960 --> 00:48:28,770
+which has nothing. It has its own board of trustees, its own very active advisory board of
+
+351
+00:48:28,770 --> 00:48:39,910
+very very active lady has its own exhibition but very good and the fact
+
+352
+00:48:39,910 --> 00:48:51,000
+ninety-eight percent people from outside UCLA and the director of the gallery is
+
+353
+00:48:51,000 --> 00:48:58,340
+not not on the faculty and faculty is not a beautiful this is deliberate or
+
+354
+00:48:58,340 --> 00:49:10,340
+not this is one we have the community a gallery has a gallery that is a
+
+355
+00:49:10,340 --> 00:49:19,440
+community in White and on the Westwood campus. That's where it is. Because Mr. White or whoever's name was
+
+356
+00:49:19,440 --> 00:49:30,360
+gave you money. That is a museum on the grounds, but not the university museum. This is almost the extreme opposite.
+
+357
+00:49:30,360 --> 00:49:45,600
+The museum there. So the assignment, uh, and you would probably, and uh, sure, you imagine
+
+358
+00:49:45,600 --> 00:49:54,280
+the exit question is still the right assignment. If you assume that you would never, never have
+
+359
+00:49:54,280 --> 00:50:17,300
+And he would never have taken. Maybe he would have picked somebody from within the university, and that's what universities probably do.
+
+360
+00:50:17,300 --> 00:50:25,440
+Can you tell me what is this definition of their main assignment, where you go and look?
+
+361
+00:50:25,440 --> 00:50:32,100
+Because now you're likely to find that the university doesn't do it.
+
+362
+00:50:32,100 --> 00:50:35,100
+They distinguish autism from your likely to pick.
+
+363
+00:50:35,100 --> 00:50:49,140
+You say she was probably wrong when she said now she deserves it.
+
+364
+00:50:49,140 --> 00:51:22,060
+because this is not. Facilitator, coordinator, transmission gear, a high level diplomat is a low profile, not the Henry Kissinger who has got his gift.
+
+365
+00:51:22,060 --> 00:51:31,880
+Somebody with a very low profile pushing great dollars of credit to other people, very, very skillful.
+
+366
+00:51:31,880 --> 00:51:48,460
+At the same time, somebody who knows enough about museum work, budget and how much you can afford to pay for an exhibition,
+
+367
+00:51:48,460 --> 00:51:55,030
+how much you can afford to pay for a catalogue.
+
+368
+00:51:55,030 --> 00:52:00,650
+Museum is at least 50% financially managed.
+
+369
+00:52:00,650 --> 00:52:07,870
+And let me say, you have lots of people who know the art part of the museum.
+
+370
+00:52:07,870 --> 00:52:09,870
+The whole art history, in fact.
+
+371
+00:52:09,870 --> 00:52:14,770
+The museum director's job is to know the non-art.
+
+372
+00:52:14,770 --> 00:52:17,590
+But that the art historians don't know.
+
+373
+00:52:17,590 --> 00:52:33,290
+And that's the gentle art of writing a grant for the National Endowment for the Arts.
+
+374
+00:52:33,290 --> 00:52:39,990
+You know, we have reached the point where the most honored of the liberal arts is grant writing.
+
+375
+00:52:39,990 --> 00:52:48,250
+right but that's so and you need the federal bureaucracy that's very very
+
+376
+00:52:48,250 --> 00:53:07,110
+stiff in it but maybe that's not even very clear the way anybody is in it and you
+
+377
+00:53:07,110 --> 00:53:19,810
+manage you're clearly not staffed to that sense you're very much recognized you have British fraud and
+
+378
+00:53:19,810 --> 00:53:30,670
+maybe a couple of curators and lots of you can hang things and move weaves culture in and out
+
+379
+00:53:30,670 --> 00:53:37,040
+which is clearly back-breaking manual work that you have to be very careful, because things are fragile,
+
+380
+00:53:37,040 --> 00:53:43,110
+and it doesn't help you to get insurance before it gets around.
+
+381
+00:53:43,110 --> 00:53:50,110
+If you're sent to that university art museum, a few things break, you aren't going to get exhibitions anymore.
+
+382
+00:53:50,110 --> 00:54:00,670
+Collectors or museums don't like to get stuff back, even though it's back-broken, even though the insurance pays for it.
+
+383
+00:54:00,670 --> 00:54:20,400
+Maybe somebody a little older than Mr. Kovar, not because age is necessarily an advantage,
+
+384
+00:54:20,400 --> 00:54:23,400
+but because the faculty is novice.
+
+385
+00:54:23,400 --> 00:54:30,930
+But somebody who is not academic and not in union.
+
+386
+00:54:30,930 --> 00:54:37,660
+The job is not academic and it's not in union.
+
+387
+00:54:37,660 --> 00:54:41,210
+It takes two years of time.
+
+388
+00:54:41,210 --> 00:55:03,540
+Is there something else to say about looking at this as a case in picking them wrong?
+
+389
+00:55:03,540 --> 00:55:11,350
+Yes?
+
+390
+00:55:11,350 --> 00:55:12,350
+I can't hear you.
+
+391
+00:55:12,350 --> 00:55:13,350
+They alluded to a problem with...
+
+392
+00:55:13,350 --> 00:55:15,390
+Of what?
+
+393
+00:55:15,390 --> 00:55:16,390
+Financial issues.
+
+394
+00:55:16,390 --> 00:55:17,390
+Maybe, yes.
+
+395
+00:55:17,390 --> 00:55:25,930
+No, no.
+
+396
+00:55:25,930 --> 00:55:26,930
+We don't...
+
+397
+00:55:26,930 --> 00:55:32,550
+There's nothing in the case that leads you to believe that there were financial problems.
+
+398
+00:55:32,550 --> 00:55:39,890
+On the contrary, it's quite conceivable that our late and un-lamented museum director did
+
+399
+00:55:39,890 --> 00:55:44,980
+exceedingly willing getting money, you know, the kind of things he did were
+
+400
+00:55:44,980 --> 00:55:52,470
+way into finance. That art of Islam exhibit, well you can get Arab oil money
+
+401
+00:55:52,470 --> 00:55:59,100
+for it. That women artists through the ages, that I can assure you you get
+
+402
+00:55:59,100 --> 00:56:11,960
+national endowment for the arts money for it. That's in and cheap. And the only
+
+403
+00:56:11,960 --> 00:56:18,780
+exhibit he missed was lesbian artists through the ages. They would have made a real
+
+404
+00:56:18,780 --> 00:56:29,240
+fortune. But he was obviously with it, and he quite obviously knew how to get money.
+
+405
+00:56:29,240 --> 00:56:33,900
+From that point of view, I think the picture is very well. He just didn't know anything else.
+
+406
+00:56:33,900 --> 00:56:43,700
+He didn't look at the job. And everybody blames him for not looking at the job.
+
+407
+00:56:43,700 --> 00:56:50,560
+All the fear, all the guilt. Why not?
+
+408
+00:56:55,440 --> 00:56:57,840
+Who is they?
+
+409
+00:56:59,840 --> 00:57:11,810
+Now if you say they what is everybody's
+
+410
+00:57:12,910 --> 00:57:15,560
+responsibility is nobody's
+
+411
+00:57:16,200 --> 00:57:19,180
+Responsibilities have to be vested in one
+
+412
+00:57:20,160 --> 00:57:22,160
+Or they will not be
+
+413
+00:57:25,770 --> 00:57:27,770
+Accepted that collective
+
+414
+00:57:28,310 --> 00:57:38,690
+Responsibility being over saying it ain't my table they
+
+415
+00:57:38,690 --> 00:58:06,960
+that's they now let's see here you are begins one of the particularities of
+
+416
+00:58:06,960 --> 00:58:16,490
+academia is that the Dean is not but there is nobody knows and that was one
+
+417
+00:58:16,490 --> 00:58:22,170
+one that I can tell you that nobody knows and that but he's not the boss of
+
+418
+00:58:22,170 --> 00:58:44,950
+the time and one of the very rare chairman of a department down ninety
+
+419
+00:58:44,950 --> 00:58:53,420
+days or at the end of the first term this is you appointee and says how do you see your job
+
+420
+00:58:54,840 --> 00:59:07,480
+what are the most important things and then says look the University of Chicago this is a very large
+
+421
+00:59:07,480 --> 00:59:16,940
+business school and the students are 19 years old they're 29 and each of them has more years
+
+422
+00:59:16,940 --> 00:59:34,520
+of experience than you have. But in situations where there is such a thing as a superior,
+
+423
+00:59:34,520 --> 00:59:51,800
+except that it is part of the superior responsibility to call in anybody who has a new job, 19 to 120 to

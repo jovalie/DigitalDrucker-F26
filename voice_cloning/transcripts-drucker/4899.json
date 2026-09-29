@@ -1,0 +1,12 @@
+{
+ "pointer": "4899",
+ "media": "4899.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1862.7,
+ "segments": [],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 317.04,
+ "created_utc": "2026-09-29T02:24:00+00:00"
+}

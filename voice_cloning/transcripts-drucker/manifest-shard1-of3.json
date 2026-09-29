@@ -1,0 +1,275 @@
+{
+  "items": {
+    "3553": {
+      "status": "ok",
+      "duration_s": 1790.0,
+      "wall_s": 19.1,
+      "rtf": 93.51,
+      "segments": 50,
+      "chars": 4084,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:17:18+00:00"
+    },
+    "3556": {
+      "status": "ok",
+      "duration_s": 1603.4,
+      "wall_s": 61.4,
+      "rtf": 26.1,
+      "segments": 275,
+      "chars": 17384,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:18:19+00:00"
+    },
+    "3559": {
+      "status": "ok",
+      "duration_s": 1794.7,
+      "wall_s": 32.0,
+      "rtf": 56.13,
+      "segments": 115,
+      "chars": 7850,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:18:51+00:00"
+    },
+    "4792": {
+      "status": "ok",
+      "duration_s": 795.1,
+      "wall_s": 16.9,
+      "rtf": 47.14,
+      "segments": 56,
+      "chars": 4546,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:19:08+00:00"
+    },
+    "4795": {
+      "status": "ok",
+      "duration_s": 2917.0,
+      "wall_s": 92.3,
+      "rtf": 31.61,
+      "segments": 394,
+      "chars": 24706,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:20:41+00:00"
+    },
+    "4850": {
+      "status": "ok",
+      "duration_s": 2374.8,
+      "wall_s": 80.3,
+      "rtf": 29.56,
+      "segments": 256,
+      "chars": 22211,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:22:01+00:00"
+    },
+    "4938": {
+      "status": "ok",
+      "duration_s": 3388.9,
+      "wall_s": 143.8,
+      "rtf": 23.57,
+      "segments": 647,
+      "chars": 37774,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:24:25+00:00"
+    },
+    "4941": {
+      "status": "ok",
+      "duration_s": 2788.9,
+      "wall_s": 23.7,
+      "rtf": 117.9,
+      "segments": 75,
+      "chars": 4363,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:24:49+00:00"
+    },
+    "4944": {
+      "status": "ok",
+      "duration_s": 217.1,
+      "wall_s": 6.9,
+      "rtf": 31.61,
+      "segments": 29,
+      "chars": 1889,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:24:55+00:00"
+    },
+    "4997": {
+      "status": "ok",
+      "duration_s": 1026.1,
+      "wall_s": 35.3,
+      "rtf": 29.07,
+      "segments": 162,
+      "chars": 9956,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:25:31+00:00"
+    },
+    "5001": {
+      "status": "ok",
+      "duration_s": 3590.9,
+      "wall_s": 128.3,
+      "rtf": 27.99,
+      "segments": 446,
+      "chars": 32818,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:27:39+00:00"
+    },
+    "5004": {
+      "status": "ok",
+      "duration_s": 3676.5,
+      "wall_s": 138.1,
+      "rtf": 26.63,
+      "segments": 519,
+      "chars": 34254,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:29:57+00:00"
+    },
+    "5007": {
+      "status": "ok",
+      "duration_s": 3053.6,
+      "wall_s": 89.0,
+      "rtf": 34.29,
+      "segments": 364,
+      "chars": 22916,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:31:26+00:00"
+    },
+    "5010": {
+      "status": "ok",
+      "duration_s": 2760.5,
+      "wall_s": 90.6,
+      "rtf": 30.45,
+      "segments": 316,
+      "chars": 23902,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:32:57+00:00"
+    },
+    "5013": {
+      "status": "ok",
+      "duration_s": 2398.6,
+      "wall_s": 50.0,
+      "rtf": 47.94,
+      "segments": 156,
+      "chars": 13172,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:33:47+00:00"
+    },
+    "5016": {
+      "status": "ok",
+      "duration_s": 2657.4,
+      "wall_s": 83.8,
+      "rtf": 31.69,
+      "segments": 252,
+      "chars": 22601,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:35:11+00:00"
+    },
+    "5019": {
+      "status": "ok",
+      "duration_s": 2402.0,
+      "wall_s": 73.7,
+      "rtf": 32.61,
+      "segments": 232,
+      "chars": 19803,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:36:25+00:00"
+    },
+    "5022": {
+      "status": "ok",
+      "duration_s": 2711.5,
+      "wall_s": 44.4,
+      "rtf": 61.04,
+      "segments": 149,
+      "chars": 10623,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:37:09+00:00"
+    },
+    "5025": {
+      "status": "ok",
+      "duration_s": 2708.2,
+      "wall_s": 99.2,
+      "rtf": 27.29,
+      "segments": 324,
+      "chars": 25419,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:38:49+00:00"
+    },
+    "5028": {
+      "status": "ok",
+      "duration_s": 2698.6,
+      "wall_s": 56.1,
+      "rtf": 48.08,
+      "segments": 174,
+      "chars": 14411,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:39:45+00:00"
+    },
+    "5031": {
+      "status": "ok",
+      "duration_s": 2756.6,
+      "wall_s": 9.6,
+      "rtf": 288.14,
+      "segments": 1,
+      "chars": 24,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:39:55+00:00"
+    },
+    "5034": {
+      "status": "ok",
+      "duration_s": 2754.5,
+      "wall_s": 17.2,
+      "rtf": 160.5,
+      "segments": 12,
+      "chars": 536,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:40:12+00:00"
+    },
+    "5037": {
+      "status": "ok",
+      "duration_s": 1106.3,
+      "wall_s": 28.5,
+      "rtf": 38.83,
+      "segments": 112,
+      "chars": 7814,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:40:40+00:00"
+    },
+    "5090": {
+      "status": "ok",
+      "duration_s": 3605.6,
+      "wall_s": 98.1,
+      "rtf": 36.74,
+      "segments": 377,
+      "chars": 23082,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:42:19+00:00"
+    },
+    "5108": {
+      "status": "ok",
+      "duration_s": 3304.5,
+      "wall_s": 131.0,
+      "rtf": 25.23,
+      "segments": 515,
+      "chars": 33015,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:44:30+00:00"
+    },
+    "5115": {
+      "status": "ok",
+      "duration_s": 3591.2,
+      "wall_s": 143.4,
+      "rtf": 25.04,
+      "segments": 558,
+      "chars": 35751,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:46:53+00:00"
+    },
+    "5129": {
+      "status": "ok",
+      "duration_s": 2686.5,
+      "wall_s": 93.3,
+      "rtf": 28.81,
+      "segments": 339,
+      "chars": 25177,
+      "model": "large-v3",
+      "finished_utc": "2026-09-29T02:48:26+00:00"
+    }
+  },
+  "updated_utc": "2026-09-29T02:48:26+00:00"
+}

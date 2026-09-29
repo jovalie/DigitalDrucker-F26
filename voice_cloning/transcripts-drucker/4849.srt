@@ -1,0 +1,895 @@
+1
+00:04:47,510 --> 00:05:15,270
+Ladies and gentlemen, colleagues, fellow members of the Academy, let me first say how delighted I am. Let me first start out with my usual injunction. If you have any difficulty hearing me, will you please not suffer in silence, but say louder that lady in white who's just sitting down there from Nova University.
+
+2
+00:05:15,270 --> 00:05:21,720
+if you have any trouble hearing me will you say louder first time let me first say how grateful
+
+3
+00:05:21,720 --> 00:05:30,280
+i am to have been invited to be here contrary to the militia room i heard i wasn't invited
+
+4
+00:05:30,280 --> 00:05:35,960
+because i'm the only one who was around when henry town gave his famous paper
+
+5
+00:05:38,440 --> 00:05:44,540
+not yet in fact i wasn't even around when the academy was founded i was around
+
+6
+00:05:44,540 --> 00:05:49,970
+But I had no interest in management in the mid-thirties.
+
+7
+00:05:49,970 --> 00:06:05,900
+And let me say, I've been around Fargo long enough to know how much success there has been in these last fifty years.
+
+8
+00:06:05,900 --> 00:06:11,900
+In fact, the real title of my talk today is The Problems of Success.
+
+9
+00:06:11,900 --> 00:06:31,220
+And my text is taken from Machiavelli's commentary on the Ten Books of Titus Livy, in which he said that more dukedoms and principalities and empires have been destroyed by success than by defeat.
+
+10
+00:06:31,220 --> 00:06:56,340
+And I think we are at that point where we in management think about that seriously. You know, the success is almost unbelievable. When you invited me here, I did a little research, as Ron Greenwood can tell you, I'd like to have somebody else look it up.
+
+11
+00:06:56,340 --> 00:07:05,590
+And I tried to find out how many people founded the Academy of Management in 1936.
+
+12
+00:07:05,590 --> 00:07:13,960
+And I'm not sure that I got the right number, but it is at most eight, and probably only six.
+
+13
+00:07:13,960 --> 00:07:22,400
+And in case you don't know, not one of them taught management.
+
+14
+00:07:22,400 --> 00:07:27,950
+In fact, I did the first one in 1949.
+
+15
+00:07:27,950 --> 00:07:36,840
+Before that you had personnel management and production management, and you won't believe it, insurance management.
+
+16
+00:07:36,840 --> 00:07:44,240
+Four of the seven I could identify as founders of the academy taught insurance management.
+
+17
+00:07:44,240 --> 00:07:50,140
+It was the only one of them you could get paid for.
+
+18
+00:07:50,140 --> 00:07:52,140
+Management, that was the first one.
+
+19
+00:07:52,140 --> 00:08:12,120
+And the reason, one reason why I'm not at the Harvard Business School is that I insisted on teaching management in 1947, and the then dean had no use for it. He wanted me to teach human relations, for which I had problems.
+
+20
+00:08:12,120 --> 00:08:24,260
+And management as a field did not really exist academically.
+
+21
+00:08:24,260 --> 00:08:30,760
+And when I became interested in, during World War II, and wanted to read up on it,
+
+22
+00:08:30,760 --> 00:08:37,210
+thank God there were practically no books.
+
+23
+00:08:37,210 --> 00:08:46,750
+When the Academy was founded, there was not one book on management, not a single one.
+
+24
+00:08:46,750 --> 00:09:06,440
+And I don't have to tell you that the number of books and monographs and what have your management today goes beyond counting even by a particular computer or other indication.
+
+25
+00:09:06,440 --> 00:09:18,400
+These last two or three, there hasn't been a single Sunday where a book on management was not on the New York Times bestseller list.
+
+26
+00:09:18,400 --> 00:09:27,860
+Between you and me, I've been trying to think what you can do after the one-minute manager, the 50-minute subordinate.
+
+27
+00:09:27,860 --> 00:09:38,230
+I think tell me what you can now write at the second level.
+
+28
+00:09:38,230 --> 00:09:44,270
+When you look at the membership of the Academy, it's now 6,500.
+
+29
+00:09:44,270 --> 00:09:59,850
+There are very few in Oregon where you have that 15,000-fold growth.
+
+30
+00:09:59,850 --> 00:10:04,580
+And when you look, the growth rate is much faster.
+
+31
+00:10:04,580 --> 00:10:08,670
+So the success is there.
+
+32
+00:10:08,670 --> 00:10:15,320
+In fact, I don't think, very frankly, that we in the field realize how great it's been.
+
+33
+00:10:15,320 --> 00:10:19,520
+You know, when I rewrite all the articles you write,
+
+34
+00:10:19,520 --> 00:10:54,350
+All of you talk about business management still. And in terms of the actual management, this is at a low level. One third and probably less. The great success signature is that in the last 50 years, management has become the universe, the constitutive, the generic institution of a modern society.
+
+35
+00:10:54,350 --> 00:11:07,280
+All are now being in and through, and organized, and managed.
+
+36
+00:11:07,280 --> 00:11:14,570
+Let me say all together that little bone I've picked.
+
+37
+00:11:14,570 --> 00:11:21,400
+It's that we don't seem to, that management, especially in the U.S.,
+
+38
+00:11:21,400 --> 00:11:25,400
+has its origin not in business but in the public sector,
+
+39
+00:11:25,400 --> 00:11:34,020
+and that its first major and effective applications were in the public sector.
+
+40
+00:11:34,020 --> 00:12:13,090
+Long used the term, Elio Roosevelt, President Roosevelt's, Teddy Roosevelt, Secretary of War, managed capital letters to reorganize the first senior executive who had the title manager, was not in a business where the title was unknown, but was a city manager in 1908.
+
+41
+00:12:13,090 --> 00:12:43,860
+And long before, just about the time when there were six founders, founded, or maybe there were eight, I could only find six, founded the Academy of Management, Luke Seguri, who is still alive, applied management deliberately and clearly to the federal government in 1937.
+
+42
+00:12:43,860 --> 00:13:11,610
+And when we sat down ten years later to apply management for the first time to a large conglomerate, then directly began. We went back to the duty and the reorganization of the federal government because it was their own practical application of management concepts up to that time.
+
+43
+00:13:11,610 --> 00:13:48,750
+And this is a mistake to forget, but it's an even greater mistake to overlook that through the hospital and the university and the labor union and the baseball club, and I'm talking of clients and friends of mine, our own management, looking to you in the management schools for concepts, but also for their people.
+
+44
+00:13:48,750 --> 00:13:54,340
+and that it is a serious mistake and an enormous one.
+
+45
+00:13:54,340 --> 00:14:02,290
+We are at the... there is absolutely no doubt that we are headed for a collapse,
+
+46
+00:14:02,290 --> 00:14:07,310
+not an economic one, but a collapse of the management.
+
+47
+00:14:07,310 --> 00:14:14,940
+And then it will have been all you...
+
+48
+00:14:14,940 --> 00:14:21,500
+when at least half the market for our graduates and for our...
+
+49
+00:14:21,500 --> 00:14:28,050
+whether it's in marketing or whether it's in the management of people,
+
+50
+00:14:28,050 --> 00:14:37,050
+or in structures, or in the handling of information, or what have you, is not in the business sector,
+
+51
+00:14:37,050 --> 00:14:44,050
+but in the non-business sector, is a serious mistake. And our success is actually much
+
+52
+00:14:44,050 --> 00:14:54,770
+greater than our own realization. Normally, successful sufferers, from an overestimation
+
+53
+00:14:54,770 --> 00:15:06,820
+of their success. They become ragged. In our field, we are not yet aware of the magnitude of our success.
+
+54
+00:15:06,820 --> 00:15:16,960
+And we haven't yet really made our concept of it aware. And so the success is very, very great.
+
+55
+00:15:16,960 --> 00:15:24,300
+But that only means that the problems of success are very great. Success always creates its own problems.
+
+56
+00:15:24,300 --> 00:15:29,720
+and Machiavelli's poem of 530.
+
+57
+00:15:29,720 --> 00:15:35,120
+The problems of success have brought down and laid low
+
+58
+00:15:35,120 --> 00:15:39,710
+more kings and empires and principalities than defeat.
+
+59
+00:15:39,710 --> 00:15:47,150
+And so, let me say, we are not really living up to nothing
+
+60
+00:15:47,150 --> 00:15:54,630
+of the fact that success creates new challenges, demands,
+
+61
+00:15:54,630 --> 00:16:04,030
+which are, as the authors are quite clear, we have worked
+
+62
+00:16:04,030 --> 00:16:19,380
+work trying to understand this new social format in many ways it is brand new i don't think you'll
+
+63
+00:16:19,380 --> 00:16:34,020
+realize largely before unprecedented what we are doing you know i'm always who is the greatest
+
+64
+00:16:34,020 --> 00:16:39,860
+manager in this room is the greatest manager whom you know and i said was the greatest manager
+
+65
+00:16:39,860 --> 00:16:50,780
+i don't know it was a little before my time he's a fellow who imagined without any precedent
+
+66
+00:16:50,780 --> 00:17:04,850
+the first pyramid then managed to talk the pharaoh letting him build it and giving him the money
+
+67
+00:17:04,850 --> 00:17:14,210
+and then build it and design it and today six thousand years later it still stands there is no
+
+68
+00:17:14,210 --> 00:17:33,200
+There is simply nothing. If you use that as your yardstick, probably the best you can figure comes up to a kind of scale of a hundred, may come up to six and two-thirds, but not much higher.
+
+69
+00:17:33,200 --> 00:17:39,410
+So, yes, there have been very great executives.
+
+70
+00:17:39,410 --> 00:17:43,700
+No, it could never be repeated.
+
+71
+00:17:43,700 --> 00:17:51,140
+And the test of a discipline is not achievement, it is ability to replicate.
+
+72
+00:17:51,140 --> 00:17:56,600
+Till it's learned and therefore can be replicated, you don't have a discipline.
+
+73
+00:17:56,600 --> 00:18:06,290
+You have theory, legend, myth, but not a discipline.
+
+74
+00:18:06,290 --> 00:18:11,290
+And that really only began in the last part of the 19th century.
+
+75
+00:18:11,290 --> 00:18:42,380
+And even if you go back to that fellow who built that first pyramid, there was that one great man, we know his name, the Egyptians very properly enlightened me, they got out of him. We have this, you know what he looked like, singularly disgusted by the world. And he had to be as suspected. No, he said, no participating management was suspected.
+
+76
+00:18:42,380 --> 00:19:05,590
+Maybe he had three or four gophers, three or four helpers, but there were 8,000 peasants who pulled at a rope when the overseer shouted.
+
+77
+00:19:05,590 --> 00:19:15,670
+And he was the only one who had really a concept of the design. He knew what the finished product was going to look like.
+
+78
+00:19:15,670 --> 00:19:23,110
+And who had objectives, let alone management by objectives and measurements.
+
+79
+00:19:23,110 --> 00:19:26,950
+The rest were old events built repetitively.
+
+80
+00:19:26,950 --> 00:19:32,480
+Will you please believe that Henry Ford did not invent the assembly line?
+
+81
+00:19:32,480 --> 00:19:40,360
+The assembly line was invented in Mesopotamia and Egypt 6,000 years ago.
+
+82
+00:19:40,360 --> 00:19:46,360
+Henry Ford's assembly line was the last gasp of the traditional production concept,
+
+83
+00:19:46,360 --> 00:19:49,260
+and not the first one.
+
+84
+00:19:49,260 --> 00:19:58,360
+And sometime around something new came in.
+
+85
+00:19:58,360 --> 00:20:05,560
+large-scale organizations in which people of different skills and different
+
+86
+00:20:05,560 --> 00:20:14,270
+knowledges have to work together without immediate visit. In this country in the
+
+87
+00:20:14,270 --> 00:20:24,440
+large railroad, on the other side in the national bank, and this is the
+
+88
+00:20:24,440 --> 00:20:31,560
+origin of management as we now know it. And the job of management is to put
+
+89
+00:20:31,560 --> 00:20:43,150
+to different skills and different knowledges for joint production and that was so new that
+
+90
+00:20:43,950 --> 00:20:52,640
+a few years before it was first attempted it was declared impossible it was declared impossible
+
+91
+00:20:52,640 --> 00:20:59,360
+when the first attempt was made to organize the first medical clinic of what people
+
+92
+00:20:59,360 --> 00:21:18,110
+They considered modern lines, this is Germany in 18- never could it be declared impossible when a young German banker started to build what is now the Deutsche Bank, the major bank of Europe.
+
+93
+00:21:18,110 --> 00:21:28,580
+And it was declared impossible in the Narita Civil War when there were then real, it's a real father of manufacturing besides the bank of the German foreign labor,
+
+94
+00:21:28,580 --> 00:21:33,940
+They were tied to the weight on the Union side during the Civil War.
+
+95
+00:21:33,940 --> 00:21:35,220
+It couldn't be done.
+
+96
+00:21:35,220 --> 00:21:42,660
+Everybody knew the more you can have work together are people who do the same job.
+
+97
+00:21:42,660 --> 00:21:52,020
+Napoleon created the modern division in which infantry and cavalry with a little artillery work together.
+
+98
+00:21:52,020 --> 00:21:59,860
+But to them, they have been as separate as if they had been separate, totally separate institutions.
+
+99
+00:21:59,860 --> 00:22:03,200
+But even Napoleon couldn't make it one career at all.
+
+100
+00:22:03,200 --> 00:22:07,070
+And after Napoleon, the attempt was given up.
+
+101
+00:22:07,070 --> 00:22:11,730
+The Russians tried to do it, the French tried to do it.
+
+102
+00:22:11,730 --> 00:22:13,950
+They couldn't do it.
+
+103
+00:22:13,950 --> 00:22:18,310
+The Civil War, as you perhaps have heard,
+
+104
+00:22:18,310 --> 00:22:21,990
+Gettysburg was lost by the Confederacy
+
+105
+00:22:21,990 --> 00:22:28,190
+because the infantry and the cavalry couldn't communicate.
+
+106
+00:22:28,190 --> 00:22:32,850
+And as late as 1915, when the only intelligence
+
+107
+00:22:32,850 --> 00:22:42,050
+strategic concept of World War I, the Dardanelles Campaign, founded on the fact that the British
+
+108
+00:22:42,050 --> 00:22:49,460
+Navy and the British infantry and the British artillery and the British cavalry knew that
+
+109
+00:22:49,460 --> 00:22:57,040
+they could not go up, they could not be unified command, and in fact they couldn't communicate.
+
+110
+00:22:57,040 --> 00:23:10,820
+We are not much better off today. So this is very new. We are not quite as clear as most
+
+111
+00:23:10,820 --> 00:23:18,000
+of you who have worked as practitioners know how difficult it still is to have people of
+
+112
+00:23:18,000 --> 00:23:24,430
+different skills and knowledge really work together. One of the predictable things is
+
+113
+00:23:24,430 --> 00:23:39,400
+that this is far more important since the moment information eliminated about 60% of
+
+114
+00:23:39,400 --> 00:23:50,340
+management. Managers are really to serve no function other than to pass on messages.
+
+115
+00:23:50,340 --> 00:24:07,900
+the organization of the future military new modern disorder yesterday it's a simple go out to the
+
+116
+00:24:07,900 --> 00:24:19,380
+summer festival when you're here to vanish and see let's say one of the late modern symphonies with
+
+117
+00:24:19,380 --> 00:24:30,140
+the thousand players according to what you see there should be that chief executive conductor
+
+118
+00:24:30,140 --> 00:24:44,980
+from cover me if she's operating and then six executive conductors and 42 division conductors
+
+119
+00:24:49,040 --> 00:25:02,160
+just apply the principle of the span of control with your god that we have a lesson lesson
+
+120
+00:25:03,440 --> 00:25:11,760
+if you apply that you know there ain't none not a single one that first trumpet the place
+
+121
+00:25:11,760 --> 00:25:19,150
+directly to because he knows the score and takes up the responsibility.
+
+122
+00:25:19,150 --> 00:25:23,150
+I used to play in an orchestra when I was a boy, so I know.
+
+123
+00:25:23,150 --> 00:25:28,980
+And that is the organization.
+
+124
+00:25:28,980 --> 00:25:32,980
+It is not managers but specialists who know the score
+
+125
+00:25:32,980 --> 00:25:35,450
+and take up the responsibility.
+
+126
+00:25:35,450 --> 00:25:42,220
+And all of the pay, the closet, the jobs,
+
+127
+00:25:42,220 --> 00:25:48,370
+there will not be disability.
+
+128
+00:25:48,370 --> 00:26:02,470
+Ask the checkpoints, we already know.
+
+129
+00:26:02,470 --> 00:26:34,630
+This is not because we have computers. When British India that way 200 years back. And as I said, the symphony orchestra is one that we now since modern almost 100 years. So we know that there are major changes in management. But this is not what I'm going to talk about. These are not the problems of success.
+
+130
+00:26:34,630 --> 00:26:50,320
+The problems of success are right now that management has become invisible, they're clear.
+
+131
+00:26:50,320 --> 00:26:54,320
+I don't like the word leadership because it has a class connotation.
+
+132
+00:26:54,320 --> 00:26:59,770
+I don't like that it has a constitutional connotation.
+
+133
+00:26:59,770 --> 00:27:16,530
+And yet in other ways, in our society today there are no other except managers.
+
+134
+00:27:16,530 --> 00:27:25,720
+I think I have 40 ministers of very large Protestant congregations down with me.
+
+135
+00:27:25,720 --> 00:27:43,100
+And each of them basically has to ask the same question, how do I combine this spiritual role I have with being a manager of a very large organization, 5,000 members of the congregation.
+
+136
+00:27:43,100 --> 00:28:09,120
+And he sees himself, how do I then get through it in such a way that I'm ineffective? And the hospital people always ask the same question. And my old friends and clients in the labor movement ask the same question.
+
+137
+00:28:09,120 --> 00:28:27,620
+And believe me, the main reason why the labor movement countries are in such trouble is that they have not learned how to be enough in their managerial work.
+
+138
+00:28:27,620 --> 00:28:34,000
+And this is what I cannot accept anymore.
+
+139
+00:28:34,000 --> 00:28:45,390
+We are going to experience the emergence of a society in which there are no leadership groups except managers.
+
+140
+00:28:45,390 --> 00:28:50,390
+And they are probably, in some ways, a very old,
+
+141
+00:28:50,390 --> 00:28:54,390
+which will be emergent of a very old structure.
+
+142
+00:28:54,390 --> 00:28:59,920
+Up till here, we had pluralist society,
+
+143
+00:28:59,920 --> 00:29:03,770
+and then for four and three hundred and fourteen years,
+
+144
+00:29:03,770 --> 00:29:07,330
+then cross-border society,
+
+145
+00:29:07,330 --> 00:29:11,860
+in which there are no power centers within society.
+
+146
+00:29:11,860 --> 00:29:18,140
+Society itself consists of the molecules of the family,
+
+147
+00:29:18,140 --> 00:29:26,100
+and there is one power center, the sovereign government.
+
+148
+00:29:26,100 --> 00:29:32,040
+The sovereign was coined exactly 400 years ago,
+
+149
+00:29:32,040 --> 00:29:40,450
+but it is described as a society in which there is only one power center,
+
+150
+00:29:40,450 --> 00:29:47,470
+the prince, by one of Machiavelli's grandchildren after the spirit.
+
+151
+00:29:47,470 --> 00:29:54,210
+And that's been, that's what you still learn and you probably still
+
+152
+00:29:54,210 --> 00:30:26,280
+as in government, as in modern liberal theory, but it is the reality, the pluralism, in which almost everybody in this room and everybody else is a member of half a dozen different groups.
+
+153
+00:30:26,280 --> 00:30:39,270
+and the government who have recently objected to its affairs of pressure groups and nowadays and
+
+154
+00:30:39,270 --> 00:30:47,940
+single cause groups. We are a pluralist society and at the same time each of these groups somehow
+
+155
+00:30:47,940 --> 00:30:58,530
+is represented by an enemy and is only capable of action because of humanity and management
+
+156
+00:30:58,530 --> 00:31:06,950
+the activity and so we are back again in pluralism with all the old problems of the world and at the
+
+157
+00:31:06,950 --> 00:31:24,430
+At the same time, it's quite a new situation when the movement against pluralism really began.
+
+158
+00:31:24,430 --> 00:31:28,550
+It's very good, but it is illegal.
+
+159
+00:31:28,550 --> 00:31:42,310
+So we have the first question fixed here in a wealth of particularity.
+
+160
+00:31:42,310 --> 00:31:47,560
+Now, this is not a new question, though.
+
+161
+00:31:47,560 --> 00:32:00,100
+We say we own the country, but at times, in Europe, the question was finished and out of the way by 18 months of this country.
+
+162
+00:32:00,100 --> 00:32:06,850
+We've always realized, we've got a variety of reasons that involved things, but we don't go there.
+
+163
+00:32:06,850 --> 00:32:18,020
+And yet, how do you care of the byage doing its own personal interest?
+
+164
+00:32:18,020 --> 00:32:21,520
+Or does anybody have to concern himself?
+
+165
+00:32:21,520 --> 00:32:28,630
+When you look around the world, the only ones today faced up to it are the Japanese.
+
+166
+00:32:28,630 --> 00:32:36,290
+The real secret of Japan is none of the things I have been writing about.
+
+167
+00:32:36,290 --> 00:32:41,790
+I think about Japanese management much sooner than anybody else in 1955.
+
+168
+00:32:41,790 --> 00:33:00,870
+But it is the fact that the Japanese look to their business and that explains why they consider business management legitimate.
+
+169
+00:33:00,870 --> 00:33:20,530
+Now, how well they do it is because there's always a lot of lip service, and a lot of services, and many quick back-on to dedicate their digits.
+
+170
+00:33:20,530 --> 00:33:25,530
+That's why top management in a lot of Japanese companies doesn't manage.
+
+171
+00:33:25,530 --> 00:33:29,700
+The managers are supposed to look after the media.
+
+172
+00:33:29,700 --> 00:33:47,460
+The chairperson has been moved up on Mount, the Japanese equivalent of Mount Olympus, and the right thing for Japan.
+
+173
+00:33:47,460 --> 00:34:08,480
+My two levels down are being paid for your insurance in Mitsubishi, and there's a tension, very strong, not only in Japanese business, but even more in Japanese ministry.
+
+174
+00:34:08,480 --> 00:34:25,620
+In fact, the Federates are very tough. The advice ministry and the Ministry of Finance is not expected to start out with this question, what's really best for the ministry, but this question, what's best for Japan.
+
+175
+00:34:25,620 --> 00:34:31,320
+And so there was insufficient training at the chairman's level, at the president's level.
+
+176
+00:34:31,320 --> 00:34:34,320
+It starts out with what is right for the country.
+
+177
+00:34:34,320 --> 00:34:39,320
+Two levels down, the fellow is then supposed to be in a profit. That's another point.
+
+178
+00:34:39,320 --> 00:34:59,440
+But that explains why in Japan, management is the only country in which management is accepted.
+
+179
+00:34:59,440 --> 00:35:09,900
+And so the question is, society and its management are the only effective organs that stand me
+
+180
+00:35:09,900 --> 00:35:23,900
+just out of the conflict of what we're doing.
+
+181
+00:35:23,900 --> 00:35:28,660
+The question is a very old one, you'll find it in Aristotle very quickly.
+
+182
+00:35:28,660 --> 00:35:38,040
+There has never been a satisfactory answer, but it's going to face us again.
+
+183
+00:35:38,040 --> 00:35:45,670
+And then we'll closely align in the form of, you know, the ruling classes or ruling
+
+184
+00:35:45,670 --> 00:35:58,340
+past were visible and were in the old sense of the word privilege. The count and the bishop
+
+185
+00:35:58,340 --> 00:36:09,770
+or what have you were clearly delimited and presented and who had ranked the old sense in
+
+186
+00:36:09,770 --> 00:36:20,170
+which the words can almost not be tried to explain back to let's say an intelligent Englishman
+
+187
+00:36:20,170 --> 00:36:31,540
+can be explained to you and today here is that friend of mine who headed the world's biggest
+
+188
+00:36:31,540 --> 00:36:45,080
+bank he sat in the chairman's office there he was a big shot and wherever he went he flew by
+
+189
+00:36:45,080 --> 00:36:54,790
+company plane and 16 senior vice presidents met him at every airport and then you know
+
+190
+00:36:54,790 --> 00:37:07,080
+you retired at age 65 and this is a true story and the next day i went with him to the bank for
+
+191
+00:37:07,080 --> 00:37:16,490
+the client of my medicine to the bank he came to the bank and the god said identify and i had my
+
+192
+00:37:16,490 --> 00:37:24,250
+driver's license and an appointment and the chairman as of the day before did not have an id
+
+193
+00:37:24,250 --> 00:37:34,390
+and the guard said sorry sir you can't come in here and the guard was right and the chairman
+
+194
+00:37:34,390 --> 00:37:48,570
+was a nun because the way it is the office has importance the person has enough you know you
+
+195
+00:37:48,570 --> 00:37:59,510
+go back and every boy knew the name of the count and the baron and the bishop
+
+196
+00:38:00,730 --> 00:38:08,090
+how many people in this country know the names of the people of the ceos of the fortune 500
+
+197
+00:38:08,090 --> 00:38:20,150
+How many of you know? I know these. These are Peter. Man is not. There is no rank. There is an office.
+
+198
+00:38:20,150 --> 00:38:37,320
+And there are, how many come to it? At its height, the House of Lords in Great Britain had 290.
+
+199
+00:38:37,320 --> 00:38:46,660
+That was all the peerage there was. That's how they killed it. A lot of bishops have got that.
+
+200
+00:38:48,650 --> 00:38:57,020
+And today, there are thousands and thousands and thousands of people in their own office who
+
+201
+00:38:57,020 --> 00:39:09,670
+represent our society and in their own person are so believable and what are the demands of their
+
+202
+00:39:09,670 --> 00:39:24,620
+behavior their representative societies judge themselves by the behavior of the representative
+
+203
+00:39:24,620 --> 00:39:42,570
+and you and so let me ask you see here is mr leo ayatollah and you know he has destroyed the
+
+204
+00:39:42,570 --> 00:40:00,800
+He cannot survive. An act of irresponsibility, which is that when he cut wages and salaries of the rank and file, he gave himself a $5 million bonus in the same month.
+
+205
+00:40:00,800 --> 00:40:12,130
+And as a result, as you all know, we work as a union, and I'm talking of old friends of mine on both sides.
+
+206
+00:40:12,130 --> 00:40:18,970
+Refuse to make any rank and size would not have been acceptable.
+
+207
+00:40:18,970 --> 00:40:25,500
+And that, believe me, I know enough about the economics of the wheel industry.
+
+208
+00:40:25,500 --> 00:40:33,920
+Too bad it has built-in labor costs, it cannot possibly survive.
+
+209
+00:40:33,920 --> 00:40:36,380
+That's their responsibility.
+
+210
+00:40:36,380 --> 00:40:42,560
+Now you may say that Mr. Ayatollah is a hawker, and they are good doctors.
+
+211
+00:40:42,560 --> 00:40:51,870
+None of them are strong, turning a dying company around.
+
+212
+00:40:51,870 --> 00:41:00,980
+Most think of a very, very brave front, but that's not that easy. That's tough.
+
+213
+00:41:00,980 --> 00:41:05,790
+And yet, at the same time, he has destroyed the country,
+
+214
+00:41:05,790 --> 00:41:17,710
+like he has the 5,000 Chrysler workers and the 350,000 other members of the UAWC,
+
+215
+00:41:17,710 --> 00:41:21,710
+simply by being irresponsible, by letting them down.
+
+216
+00:41:21,710 --> 00:41:25,710
+I don't think you can imagine the bitterness, unless you live in Detroit,
+
+217
+00:41:25,710 --> 00:41:52,860
+The bitterness these people have. The man has let them down. He's one of us. That was his strength. He came out of the rags. He stood for us. And then when it came to the point he let us down. What are the values of a leadership group inside a few hours has to represent in its own the area.
+
+218
+00:41:52,860 --> 00:42:10,240
+not to be at the kind of point of social responsibility and all together.
+
+219
+00:42:10,240 --> 00:42:17,120
+You know, I was in New York, I'm in Eastern Asia, and I've been living in Southern California,
+
+220
+00:42:17,120 --> 00:42:27,940
+and I sat on the mayor's management advisory committee and I quit because the mayor refused to accept the fact
+
+221
+00:42:27,940 --> 00:42:33,940
+that the actuarial mortality tables of 1890 were not added,
+
+222
+00:42:33,940 --> 00:42:43,270
+or working through the pension reserves needed in New York City in 1960, but that's besides the point.
+
+223
+00:42:43,270 --> 00:42:58,250
+And as you all know, the exodus began, becoming basically a town of the very poor,
+
+224
+00:42:58,250 --> 00:43:03,290
+and one third of all happiness had left New York by 1968.

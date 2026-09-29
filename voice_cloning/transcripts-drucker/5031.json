@@ -1,0 +1,11 @@
+{
+ "pointer": "5031",
+ "media": "5031.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2756.5569375,
+ "segments": [],
+ "host": "qcl",
+ "status": "no_drucker_speech (music/noise tape; <1% transcribed speech)",
+ "speaker_pass": "drucker-only (speaker_id.py)"
+}

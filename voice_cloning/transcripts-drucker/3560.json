@@ -1,0 +1,1318 @@
+{
+ "pointer": "3560",
+ "media": "3560.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1779.9,
+ "segments": [
+  {
+   "start": 171.03,
+   "end": 171.41,
+   "text": "Peter Drucker."
+  },
+  {
+   "start": 171.67,
+   "end": 174.0,
+   "text": "Thank you very much, Bob Hawkins."
+  },
+  {
+   "start": 174.58,
+   "end": 182.54,
+   "text": "Ladies and gentlemen, let me say again how very happy I am to be once more back home"
+  },
+  {
+   "start": 182.54,
+   "end": 191.8,
+   "text": "at GBA and, by the way, in an act of rash optimism, I promise that I'll be back next"
+  },
+  {
+   "start": 191.8,
+   "end": 192.22,
+   "text": "year."
+  },
+  {
+   "start": 192.22,
+   "end": 203.84,
+   "text": "But let me say, above all, how delighted and honored I am to have Dr. Friedman join us today."
+  },
+  {
+   "start": 203.84,
+   "end": 213.3,
+   "text": "I have been an admirer of his for, I think, oh, make it 30 years since he really, more than anybody else,"
+  },
+  {
+   "start": 213.3,
+   "end": 221.78,
+   "text": "got the International Monetary Fund off the ground"
+  },
+  {
+   "start": 221.78,
+   "end": 227.38,
+   "text": "and operating as the senior department head there for many years."
+  },
+  {
+   "start": 228.0,
+   "end": 231.76,
+   "text": "And my admiration for him has been greatly increased"
+  },
+  {
+   "start": 231.76,
+   "end": 236.56,
+   "text": "by his having written, with due respect to all other economists,"
+  },
+  {
+   "start": 236.56,
+   "end": 240.14,
+   "text": "the only book on inflation that's worth reading"
+  },
+  {
+   "start": 240.14,
+   "end": 242.06,
+   "text": "and worth reading more every day."
+  },
+  {
+   "start": 242.06,
+   "end": 246.02,
+   "text": "and so I'm very grateful"
+  },
+  {
+   "start": 246.02,
+   "end": 248.84,
+   "text": "Irving said you agreed to join us here today"
+  },
+  {
+   "start": 248.84,
+   "end": 251.76,
+   "text": "and because of Dr. Friedman's presence"
+  },
+  {
+   "start": 251.76,
+   "end": 255.14,
+   "text": "on the panel I shall restrain myself"
+  },
+  {
+   "start": 255.14,
+   "end": 257.78,
+   "text": "from making any comments on"
+  },
+  {
+   "start": 257.78,
+   "end": 260.76,
+   "text": "international monetary and financial matters"
+  },
+  {
+   "start": 260.76,
+   "end": 264.66,
+   "text": "which would be sheer folly"
+  },
+  {
+   "start": 264.66,
+   "end": 267.34,
+   "text": "in his presence and I leave that to you"
+  },
+  {
+   "start": 267.34,
+   "end": 271.28,
+   "text": "and I will talk about other elements"
+  },
+  {
+   "start": 271.28,
+   "end": 275.72,
+   "text": "that are not more within my"
+  },
+  {
+   "start": 275.72,
+   "end": 280.97,
+   "text": "but less within yours. And let me say"
+  },
+  {
+   "start": 280.97,
+   "end": 285.37,
+   "text": "it is very clear that we are"
+  },
+  {
+   "start": 285.37,
+   "end": 289.58,
+   "text": "in the midst of structural changes in the world"
+  },
+  {
+   "start": 289.58,
+   "end": 293.36,
+   "text": "economy. In many ways the"
+  },
+  {
+   "start": 293.36,
+   "end": 297.84,
+   "text": "disappearance of anything that could be called a key currency"
+  },
+  {
+   "start": 297.84,
+   "end": 301.72,
+   "text": "which was"
+  },
+  {
+   "start": 301.72,
+   "end": 314.0,
+   "text": "quite clear, and the rapid shift away from the traditional industries as the main carriers"
+  },
+  {
+   "start": 314.0,
+   "end": 316.56,
+   "text": "of international trade and so on."
+  },
+  {
+   "start": 316.56,
+   "end": 324.36,
+   "text": "And I want to focus today really on three and only three of these changes, all of them"
+  },
+  {
+   "start": 324.36,
+   "end": 332.32,
+   "text": "structural, all of them hard to quantify and therefore unlikely to appear yet in the"
+  },
+  {
+   "start": 332.32,
+   "end": 342.35,
+   "text": "economic models Bob Hawkins talked about, and all of them kind of contrary not just"
+  },
+  {
+   "start": 342.35,
+   "end": 350.31,
+   "text": "to conventional wisdom, but above all to conventional rhetoric, conventional modes of political"
+  },
+  {
+   "start": 350.31,
+   "end": 352.99,
+   "text": "and managerial behavior."
+  },
+  {
+   "start": 352.99,
+   "end": 356.79,
+   "text": "And the first is the demographic shifts."
+  },
+  {
+   "start": 356.79,
+   "end": 363.01,
+   "text": "And those of you who attended earlier seminars here in the last few years, we have been discussing"
+  },
+  {
+   "start": 363.01,
+   "end": 372.43,
+   "text": "them again and again. And so I will only say that fundamentally, we must accept the fact"
+  },
+  {
+   "start": 372.43,
+   "end": 379.23,
+   "text": "that in the developed countries, including the developed countries of the Soviet bloc,"
+  },
+  {
+   "start": 379.69,
+   "end": 389.39,
+   "text": "we face long decades of very great shortages of young people available for traditional"
+  },
+  {
+   "start": 389.39,
+   "end": 398.47,
+   "text": "work at any price, as a result both of the baby bust of the sharp decline in birth rates"
+  },
+  {
+   "start": 398.47,
+   "end": 402.21,
+   "text": "and of the sharp shift in education."
+  },
+  {
+   "start": 403.43,
+   "end": 412.51,
+   "text": "And if you add the two together, we would find that the next 10 or 12 years in this"
+  },
+  {
+   "start": 412.51,
+   "end": 421.27,
+   "text": "country have no more than one-third of the entrant people available for entrant jobs"
+  },
+  {
+   "start": 421.27,
+   "end": 427.07,
+   "text": "in traditional employment, but one-third of what we had the last 20 years."
+  },
+  {
+   "start": 427.07,
+   "end": 432.81,
+   "text": "This is also, of course, in part the result of the fact that the participation of women"
+  },
+  {
+   "start": 432.81,
+   "end": 441.19,
+   "text": "in the labor force cannot increase much more, because under 50, the labor force participation"
+  },
+  {
+   "start": 441.19,
+   "end": 448.43,
+   "text": "of women is already equal to that of men in any developed economy except Japan."
+  },
+  {
+   "start": 448.43,
+   "end": 454.07,
+   "text": "So that from now on, what you will see as increased labor force participation will be"
+  },
+  {
+   "start": 454.07,
+   "end": 456.15,
+   "text": "a statistical illusion."
+  },
+  {
+   "start": 456.15,
+   "end": 463.09,
+   "text": "As the older ones die off, who never were in the labor force, it will look as if the"
+  },
+  {
+   "start": 463.09,
+   "end": 467.59,
+   "text": "total labor force participation rate went up, but it doesn't."
+  },
+  {
+   "start": 467.59,
+   "end": 479.33,
+   "text": "those who are in the labor force it is at its peak or at a peak can you this is on it isn't on"
+  },
+  {
+   "start": 479.33,
+   "end": 493.56,
+   "text": "no no okay can you hear me now this is on i'm sorry this thanks very much for telling how is"
+  },
+  {
+   "start": 493.56,
+   "end": 500.48,
+   "text": "this now okay and will you please not suffer in silence you suffered 10 minutes in silence which"
+  },
+  {
+   "start": 500.48,
+   "end": 503.8,
+   "text": "is, I think, forbidden after age six months."
+  },
+  {
+   "start": 504.58,
+   "end": 507.96,
+   "text": "So will you please scream and say louder?"
+  },
+  {
+   "start": 509.04,
+   "end": 509.66,
+   "text": "Thanks."
+  },
+  {
+   "start": 510.28,
+   "end": 517.54,
+   "text": "And so in all developed countries, we must expect the sharp drop in the number of entrance"
+  },
+  {
+   "start": 517.54,
+   "end": 522.72,
+   "text": "people, whether they are young or older women, is the material available for traditional"
+  },
+  {
+   "start": 522.72,
+   "end": 528.94,
+   "text": "work, which will incidentally cause very great turbulence because it will be accompanied"
+  },
+  {
+   "start": 528.94,
+   "end": 538.0,
+   "text": "by small but highly visible areas of high redundancy of older people"
+  },
+  {
+   "start": 538.0,
+   "end": 544.06,
+   "text": "in decaying industries, whether that's Youngstown or Nagoya or what have you."
+  },
+  {
+   "start": 546.24,
+   "end": 549.82,
+   "text": "And at the same time, in the developing world,"
+  },
+  {
+   "start": 550.96,
+   "end": 555.46,
+   "text": "the very large number of babies who did not die in the 50s and 60s"
+  },
+  {
+   "start": 555.46,
+   "end": 565.0,
+   "text": "are now reaching maturity and need work, so you will see increasingly that the pattern"
+  },
+  {
+   "start": 565.0,
+   "end": 570.45,
+   "text": "of traditional manufacturing will change."
+  },
+  {
+   "start": 570.45,
+   "end": 577.57,
+   "text": "That part of it that can be automated, truly automated, will be automated simply because"
+  },
+  {
+   "start": 577.57,
+   "end": 582.21,
+   "text": "for the first time the hardware for automation is available."
+  },
+  {
+   "start": 582.21,
+   "end": 589.07,
+   "text": "We have been talking automation 25 years, but we haven't seen much of it because it could be done on paper."
+  },
+  {
+   "start": 589.07,
+   "end": 599.57,
+   "text": "Now it can be done in process as the mini processor is being integrated with the tool, with the machine, with the instrument."
+  },
+  {
+   "start": 599.57,
+   "end": 622.07,
+   "text": "And this, incidentally, is likely to be as important an industrial revolution as the coming of the fractional horsepower motor was about 100 years ago, which really created the modern plant, because it made it possible to have modern power on the machine,"
+  },
+  {
+   "start": 622.07,
+   "end": 627.11,
+   "text": "so that you did not have to build your plant next to a generating station"
+  },
+  {
+   "start": 627.11,
+   "end": 630.37,
+   "text": "or did not have to have a generating station to have a plant."
+  },
+  {
+   "start": 632.01,
+   "end": 634.69,
+   "text": "As long as you transmitted power with a pulley,"
+  },
+  {
+   "start": 634.69,
+   "end": 640.35,
+   "text": "you had to be within 100 yards of the source of power, or 200 yards."
+  },
+  {
+   "start": 640.89,
+   "end": 643.91,
+   "text": "And so you will see real automation."
+  },
+  {
+   "start": 645.09,
+   "end": 651.85,
+   "text": "And by the way, in this respect, this country is way behind."
+  },
+  {
+   "start": 652.07,
+   "end": 657.07,
+   "text": "compared to both the Germans and the Japanese, who are really pushing."
+  },
+  {
+   "start": 657.07,
+   "end": 666.07,
+   "text": "And on the other hand, where you cannot automate, you will see that labour-intensive stages of production"
+  },
+  {
+   "start": 666.07,
+   "end": 673.07,
+   "text": "will be done increasingly where the labour is, and that's not in the developed countries."
+  },
+  {
+   "start": 673.07,
+   "end": 681.52,
+   "text": "And you will see production sharing in which the design, the management, the marketing"
+  },
+  {
+   "start": 681.52,
+   "end": 689.46,
+   "text": "are done in and by the developed country, and the actual labor-intensive stages are"
+  },
+  {
+   "start": 689.46,
+   "end": 693.5,
+   "text": "being done in every other place, growing rapidly."
+  },
+  {
+   "start": 693.5,
+   "end": 695.62,
+   "text": "It is already growing very fast."
+  },
+  {
+   "start": 695.62,
+   "end": 703.6,
+   "text": "and this violates very much the way governments and labor unions and politicians"
+  },
+  {
+   "start": 703.6,
+   "end": 709.26,
+   "text": "but also bankers and businessmen look at the international economy."
+  },
+  {
+   "start": 709.26,
+   "end": 715.0,
+   "text": "We all still see in our mind's eye Adam Smith's complimentary trade"
+  },
+  {
+   "start": 715.0,
+   "end": 719.7,
+   "text": "of English bullens against Portuguese wine as the model"
+  },
+  {
+   "start": 719.7,
+   "end": 724.76,
+   "text": "and that even though it ceased to be the model about 150 years ago."
+  },
+  {
+   "start": 724.76,
+   "end": 747.51,
+   "text": "And that will increasingly be the wrong model. The right model are the shoes you and I are wearing, where the height came from an American cow and was tanned in southern Brazil, and the uppers were usually, the uppers are now being done in Haiti by a Japanese trading company, just to make things easy."
+  },
+  {
+   "start": 747.51,
+   "end": 762.19,
+   "text": "And the soles are done in the British Virgin Islands. And the shoes are then assembled in Puerto Rico for the American market and, let's say, in Barbados for the European and British markets."
+  },
+  {
+   "start": 762.19,
+   "end": 767.29,
+   "text": "and market designed in New York or in Zurich,"
+  },
+  {
+   "start": 768.47,
+   "end": 770.75,
+   "text": "marketed in the developed countries,"
+  },
+  {
+   "start": 770.85,
+   "end": 772.75,
+   "text": "which is where people wear shoes,"
+  },
+  {
+   "start": 774.49,
+   "end": 780.15,
+   "text": "and labor content, except for the cattle raising,"
+  },
+  {
+   "start": 780.83,
+   "end": 785.07,
+   "text": "is 60%, 70% developing countries,"
+  },
+  {
+   "start": 785.99,
+   "end": 788.27,
+   "text": "where were those shoes made?"
+  },
+  {
+   "start": 788.27,
+   "end": 790.71,
+   "text": "If you had to put on a label, made in,"
+  },
+  {
+   "start": 790.85,
+   "end": 792.83,
+   "text": "what would you write on it?"
+  },
+  {
+   "start": 792.83,
+   "end": 817.27,
+   "text": "And that is the pattern increasingly, and we are not yet organized, and least organized for it are the large, old multinationals who basically still see a 19th century pattern in which you have national subsidiaries, each of which is a parent company in miniature."
+  },
+  {
+   "start": 817.27,
+   "end": 822.81,
+   "text": "and thus the whole range and everything for a limited market"
+  },
+  {
+   "start": 822.81,
+   "end": 827.07,
+   "text": "where tomorrow you will see plant facilities"
+  },
+  {
+   "start": 827.07,
+   "end": 832.13,
+   "text": "that do one or two operations for the world market."
+  },
+  {
+   "start": 832.83,
+   "end": 834.23,
+   "text": "And we are not organized."
+  },
+  {
+   "start": 834.23,
+   "end": 842.37,
+   "text": "Let me say that this implies a shift in the center of gravity of international business"
+  },
+  {
+   "start": 842.37,
+   "end": 844.93,
+   "text": "from capital to marketing."
+  },
+  {
+   "start": 846.22,
+   "end": 850.6,
+   "text": "Tomorrow's international will not be controlled by capital."
+  },
+  {
+   "start": 850.6,
+   "end": 857.52,
+   "text": "And incidentally, those of you who still feel that the demand of the Mexicans or the Brazilians"
+  },
+  {
+   "start": 857.52,
+   "end": 863.0,
+   "text": "that you have foreign partners is so, and the imposition,"
+  },
+  {
+   "start": 863.48,
+   "end": 868.0,
+   "text": "will you please accept the fact that for reasons which only they can understand,"
+  },
+  {
+   "start": 868.38,
+   "end": 871.54,
+   "text": "these poor countries are willing to subsidize you,"
+  },
+  {
+   "start": 871.54,
+   "end": 876.89,
+   "text": "and that they insist that you accept being subsidized for them."
+  },
+  {
+   "start": 877.31,
+   "end": 883.55,
+   "text": "Insist, however, that from the beginning you build something that has an export market."
+  },
+  {
+   "start": 883.67,
+   "end": 885.75,
+   "text": "In the first place, it won't grow any other way."
+  },
+  {
+   "start": 886.19,
+   "end": 888.63,
+   "text": "Secondly, you won't have control any other way."
+  },
+  {
+   "start": 888.63,
+   "end": 892.51,
+   "text": "And third, you won't really make a contribution any other way."
+  },
+  {
+   "start": 893.11,
+   "end": 897.43,
+   "text": "The people in the developing countries who now reach working age"
+  },
+  {
+   "start": 897.43,
+   "end": 903.35,
+   "text": "cannot possibly find jobs supplying their own domestic market."
+  },
+  {
+   "start": 903.35,
+   "end": 908.95,
+   "text": "Even in Brazil, it isn't big enough and not capable of growing fast enough."
+  },
+  {
+   "start": 909.37,
+   "end": 913.53,
+   "text": "The only market is where the customers are and the purchasing power,"
+  },
+  {
+   "start": 913.95,
+   "end": 915.83,
+   "text": "which is in the developed world."
+  },
+  {
+   "start": 916.21,
+   "end": 919.75,
+   "text": "So that's the only way to make a contribution today"
+  },
+  {
+   "start": 919.75,
+   "end": 922.33,
+   "text": "to the developing market countries"
+  },
+  {
+   "start": 922.33,
+   "end": 928.71,
+   "text": "is by creating jobs for export in labor-intensive stages of production."
+  },
+  {
+   "start": 928.71,
+   "end": 934.83,
+   "text": "And tomorrow's multinational, as a result, is likely to be a confederation"
+  },
+  {
+   "start": 934.83,
+   "end": 940.95,
+   "text": "that's held together by control of marketing,"
+  },
+  {
+   "start": 941.39,
+   "end": 949.71,
+   "text": "where today's multinational sees itself very much in the image of an army division."
+  },
+  {
+   "start": 951.2,
+   "end": 954.58,
+   "text": "I have suggested, if you want a metaphor for tomorrow's,"
+  },
+  {
+   "start": 955.2,
+   "end": 962.3,
+   "text": "it'll be the symphony orchestra the conductor does not play the oboe and the"
+  },
+  {
+   "start": 962.3,
+   "end": 967.5,
+   "text": "oboist does not do what the conductor does but the conductor keeps the score"
+  },
+  {
+   "start": 967.5,
+   "end": 974.14,
+   "text": "and the conductor decides whether we play Beethoven or Bartok and that is"
+  },
+  {
+   "start": 974.14,
+   "end": 980.54,
+   "text": "tomorrow's multinational but the oboist better play the oboe and not the"
+  },
+  {
+   "start": 980.54,
+   "end": 985.26,
+   "text": "conductor I have at least never met a conductor whom I would entrust an oboe"
+  },
+  {
+   "start": 985.26,
+   "end": 994.62,
+   "text": "and so that is tomorrow's multinational and the second thing to say is that you"
+  },
+  {
+   "start": 994.62,
+   "end": 999.8,
+   "text": "know all of us have been talking about the last ten years being years of"
+  },
+  {
+   "start": 999.8,
+   "end": 1008.3,
+   "text": "stagnation but that is not true there have been years of stagnation in the"
+  },
+  {
+   "start": 1008.3,
+   "end": 1013.62,
+   "text": "developing developed countries and by the way very unevenly in this country we"
+  },
+  {
+   "start": 1013.62,
+   "end": 1020.34,
+   "text": "We had fairly substantial growth, basically, if I sound critical, I think we had growth"
+  },
+  {
+   "start": 1020.34,
+   "end": 1023.2,
+   "text": "where we shouldn't have had it."
+  },
+  {
+   "start": 1023.2,
+   "end": 1025.5,
+   "text": "Ours was not the healthy development."
+  },
+  {
+   "start": 1025.5,
+   "end": 1030.3,
+   "text": "We had growth in old industries, not the new ones, basically."
+  },
+  {
+   "start": 1030.3,
+   "end": 1034.3,
+   "text": "But fairly substantial growth."
+  },
+  {
+   "start": 1034.3,
+   "end": 1043.12,
+   "text": "When Japan and Germany was there, very successful exploitation of the world market had no better"
+  },
+  {
+   "start": 1043.12,
+   "end": 1050.22,
+   "text": "growth than we in some areas. But that is not the point. The point is that a whole group"
+  },
+  {
+   "start": 1050.22,
+   "end": 1059.38,
+   "text": "of countries in this very difficult period had extraordinary fast growth in the industries"
+  },
+  {
+   "start": 1059.38,
+   "end": 1065.72,
+   "text": "that are right for them. We have a whole new group in the world economy, whether you call"
+  },
+  {
+   "start": 1065.72,
+   "end": 1072.82,
+   "text": "them the rapidly industrializing countries or the almost developed ones, Brazil and Mexico"
+  },
+  {
+   "start": 1072.82,
+   "end": 1075.0,
+   "text": "and perhaps Colombia, close to it."
+  },
+  {
+   "start": 1075.42,
+   "end": 1082.04,
+   "text": "And, of course, the non-communist Chinese communities of Taiwan, Hong Kong, and Singapore."
+  },
+  {
+   "start": 1082.78,
+   "end": 1089.99,
+   "text": "By the way, I'm one of those who do not believe in the economic growth of Red China ahead of us."
+  },
+  {
+   "start": 1089.99,
+   "end": 1094.49,
+   "text": "I think Red China faces nothing but serious trouble the next 20 years."
+  },
+  {
+   "start": 1095.61,
+   "end": 1096.97,
+   "text": "But that's a footnote."
+  },
+  {
+   "start": 1098.27,
+   "end": 1105.27,
+   "text": "And maybe the Mediterranean."
+  },
+  {
+   "start": 1106.3,
+   "end": 1112.62,
+   "text": "These are almost developed countries, and my definition of an almost developed country"
+  },
+  {
+   "start": 1112.62,
+   "end": 1117.76,
+   "text": "is a country that can do any one thing well, but not many things."
+  },
+  {
+   "start": 1119.34,
+   "end": 1125.94,
+   "text": "And these are the countries in which, in some of them, you have a combination in Brazil"
+  },
+  {
+   "start": 1125.94,
+   "end": 1132.22,
+   "text": "of very large labor surpluses with substantial managerial competence,"
+  },
+  {
+   "start": 1132.22,
+   "end": 1136.52,
+   "text": "And Brazil is alone a substantial domestic market."
+  },
+  {
+   "start": 1137.24,
+   "end": 1142.2,
+   "text": "In others like Mexico, you have the same without a substantial domestic market."
+  },
+  {
+   "start": 1142.76,
+   "end": 1146.12,
+   "text": "In the Chinese areas, you have no labor surplus."
+  },
+  {
+   "start": 1146.28,
+   "end": 1152.14,
+   "text": "Basically, they will increasingly have to move from labor-intensive industries,"
+  },
+  {
+   "start": 1152.3,
+   "end": 1156.72,
+   "text": "even South Korea, into more knowledge-intensive ones."
+  },
+  {
+   "start": 1156.72,
+   "end": 1173.5,
+   "text": "But they all have in common that they are now becoming factors on the world market, that they are moving from a stage in which their development was capital-paced to one where it's export-paced."
+  },
+  {
+   "start": 1173.5,
+   "end": 1190.83,
+   "text": "They are all now moving into an export-led stage of development, and so they are all going to become major exporters, though probably not of finished goods, but of stages of production in many cases."
+  },
+  {
+   "start": 1191.61,
+   "end": 1198.21,
+   "text": "And at least the Brazilians, who in some ways are the most intelligent of the lot, see this quite clearly."
+  },
+  {
+   "start": 1198.21,
+   "end": 1205.71,
+   "text": "This is a different pattern from the Japanese, which was not export-based largely,"
+  },
+  {
+   "start": 1205.71,
+   "end": 1210.71,
+   "text": "till Japan was fully developed, it was based on the building of a domestic market,"
+  },
+  {
+   "start": 1210.71,
+   "end": 1216.71,
+   "text": "and it was based on bringing in technology and making the whole product."
+  },
+  {
+   "start": 1216.71,
+   "end": 1220.71,
+   "text": "Brazil does not behave that way."
+  },
+  {
+   "start": 1220.71,
+   "end": 1226.71,
+   "text": "They bring in technology, yes, but primarily they bring in stages of production"
+  },
+  {
+   "start": 1226.71,
+   "end": 1230.63,
+   "text": "and they have been looking for export markets"
+  },
+  {
+   "start": 1230.63,
+   "end": 1234.03,
+   "text": "and I think this is in view of their demographics"
+  },
+  {
+   "start": 1234.03,
+   "end": 1236.23,
+   "text": "their right policy for them"
+  },
+  {
+   "start": 1236.23,
+   "end": 1240.33,
+   "text": "but it's creating quite new opportunities"
+  },
+  {
+   "start": 1240.33,
+   "end": 1242.79,
+   "text": "on the world market and quite new stresses"
+  },
+  {
+   "start": 1242.79,
+   "end": 1247.63,
+   "text": "and I think that the almost developing countries"
+  },
+  {
+   "start": 1247.63,
+   "end": 1251.11,
+   "text": "are the most interesting part of the world economy"
+  },
+  {
+   "start": 1251.11,
+   "end": 1255.75,
+   "text": "they have been showing tremendous growth potential"
+  },
+  {
+   "start": 1255.75,
+   "end": 1266.03,
+   "text": "at a very difficult time, because they were most severely hit by OPEC, and yet they have done."
+  },
+  {
+   "start": 1266.79,
+   "end": 1273.09,
+   "text": "And the third thing which I shall talk about, and here I'm going out on a limb,"
+  },
+  {
+   "start": 1273.09,
+   "end": 1286.31,
+   "text": "which I promptly will then saw off behind me, is I think one can say with something like 75% probability"
+  },
+  {
+   "start": 1286.31,
+   "end": 1296.12,
+   "text": "that the terms of trade will not improve in favor of the raw material producing countries"
+  },
+  {
+   "start": 1296.12,
+   "end": 1302.29,
+   "text": "except for the major food producers, but will continue to deteriorate."
+  },
+  {
+   "start": 1302.29,
+   "end": 1309.22,
+   "text": "You know, if you look as a non-economist, which I am, I'm a consumer of economics, not a producer."
+  },
+  {
+   "start": 1309.8,
+   "end": 1317.64,
+   "text": "If you look at economics, one of the things that underlies the 20th century crisis of economics"
+  },
+  {
+   "start": 1317.64,
+   "end": 1322.76,
+   "text": "and some of you know that I was a member of the original Keynes Seminar,"
+  },
+  {
+   "start": 1322.94,
+   "end": 1325.22,
+   "text": "so I've been in crisis a long time,"
+  },
+  {
+   "start": 1328.24,
+   "end": 1334.34,
+   "text": "is the fact that the basic assumption the 19th century economists made axiomatically,"
+  },
+  {
+   "start": 1335.88,
+   "end": 1344.34,
+   "text": "that as you industrialize, you lose the capacity for effective, efficient, and competitive food production,"
+  },
+  {
+   "start": 1344.34,
+   "end": 1349.68,
+   "text": "which was a generalization of the British and Belgian models."
+  },
+  {
+   "start": 1350.14,
+   "end": 1358.06,
+   "text": "that that was no longer true. That on the contrary, the more highly advanced industrially a country,"
+  },
+  {
+   "start": 1358.06,
+   "end": 1365.9,
+   "text": "the more productive its agriculture. Even the British one has recovered from the low point of"
+  },
+  {
+   "start": 1365.9,
+   "end": 1373.42,
+   "text": "late Victorian agriculture in terms both of total production and productivity, even though it was"
+  },
+  {
+   "start": 1373.42,
+   "end": 1380.22,
+   "text": "and for so long sacrificed to the political expediency and considerations of the empire."
+  },
+  {
+   "start": 1381.66,
+   "end": 1390.38,
+   "text": "But it's no longer true. Precisely because agriculture has become both the most capital"
+  },
+  {
+   "start": 1390.38,
+   "end": 1399.5,
+   "text": "intensive and the most knowledge intensive of all our major economic sectors, it is most productive"
+  },
+  {
+   "start": 1399.5,
+   "end": 1404.96,
+   "text": "in highly developed countries such as the United States and Canada, which to a large"
+  },
+  {
+   "start": 1404.96,
+   "end": 1409.0,
+   "text": "extent underlies the Northwest tension."
+  },
+  {
+   "start": 1409.0,
+   "end": 1414.86,
+   "text": "And beginning with 1900 or so, interrupted by two world wars, the terms of trade have"
+  },
+  {
+   "start": 1414.86,
+   "end": 1423.12,
+   "text": "steadily drifted against countries that are primarily raw material producers."
+  },
+  {
+   "start": 1423.12,
+   "end": 1430.82,
+   "text": "In fact, I think one can say that the only way for a country to have advantageous terms"
+  },
+  {
+   "start": 1430.82,
+   "end": 1436.74,
+   "text": "of trade is to have the knowledge base which only a modern industrial establishment can"
+  },
+  {
+   "start": 1436.74,
+   "end": 1438.27,
+   "text": "give you."
+  },
+  {
+   "start": 1438.27,
+   "end": 1446.81,
+   "text": "This, I think, even goes for the OPEC countries, whose future I do not view with great optimism,"
+  },
+  {
+   "start": 1446.81,
+   "end": 1453.11,
+   "text": "not for any length of time, politically, socially, or economically."
+  },
+  {
+   "start": 1453.11,
+   "end": 1463.73,
+   "text": "But except for situations where you can have a temporary monopoly, the rest of the pure"
+  },
+  {
+   "start": 1463.73,
+   "end": 1470.81,
+   "text": "raw materials, I think, are likely to have a continuing downward drift in their terms"
+  },
+  {
+   "start": 1470.81,
+   "end": 1482.56,
+   "text": "of trade, whether that's metals or minerals or forest products, for reasons which I do"
+  },
+  {
+   "start": 1482.56,
+   "end": 1493.32,
+   "text": "I do not quite understand, but I think that the interruptions of this trend are temporary."
+  },
+  {
+   "start": 1493.32,
+   "end": 1504.32,
+   "text": "They are mostly wars or periods of high confusion, such as panic, and then you get this sudden"
+  },
+  {
+   "start": 1504.32,
+   "end": 1511.32,
+   "text": "inflationary boom, followed by collapse, such as we have seen in almost any major commodity"
+  },
+  {
+   "start": 1511.32,
+   "end": 1516.14,
+   "text": "commodities the last five years the small thing is to stay out of the boom"
+  },
+  {
+   "start": 1516.14,
+   "end": 1522.9,
+   "text": "then and I think that if you plot it on a secular basis you will see a"
+  },
+  {
+   "start": 1522.9,
+   "end": 1531.04,
+   "text": "continuing downward drift of the terms of trade largely because the marketing"
+  },
+  {
+   "start": 1531.04,
+   "end": 1536.88,
+   "text": "the purchasing power of the developed world is so great and this will be"
+  },
+  {
+   "start": 1536.88,
+   "end": 1546.76,
+   "text": "accelerated by automation. And so the last thing I would say is that I foresee a widening of the"
+  },
+  {
+   "start": 1546.76,
+   "end": 1554.4,
+   "text": "north-south gap rather than a narrowing, no matter what aid policies there are, what transfer"
+  },
+  {
+   "start": 1554.4,
+   "end": 1562.02,
+   "text": "policies there are, except for the almost developed countries as they develop their knowledge base"
+  },
+  {
+   "start": 1562.02,
+   "end": 1571.3,
+   "text": "and the ability to market not so much products as the results of their labor,"
+  },
+  {
+   "start": 1571.44,
+   "end": 1576.26,
+   "text": "their abundant labor stages of production in the developed countries"
+  },
+  {
+   "start": 1576.26,
+   "end": 1579.76,
+   "text": "and then build their own domestic markets."
+  },
+  {
+   "start": 1580.18,
+   "end": 1583.44,
+   "text": "These, I think, are some of the things to say."
+  },
+  {
+   "start": 1583.94,
+   "end": 1587.72,
+   "text": "Let me say to me the most important single factor"
+  },
+  {
+   "start": 1587.72,
+   "end": 1591.74,
+   "text": "from the point of view of the structure of the world economy"
+  },
+  {
+   "start": 1591.74,
+   "end": 1595.34,
+   "text": "is the diminishing role of capital,"
+  },
+  {
+   "start": 1595.98,
+   "end": 1600.26,
+   "text": "even though capital will be increasingly in short supply."
+  },
+  {
+   "start": 1601.0,
+   "end": 1604.06,
+   "text": "Capital formation today is totally inadequate,"
+  },
+  {
+   "start": 1604.62,
+   "end": 1606.88,
+   "text": "as it always is in an inflationary period."
+  },
+  {
+   "start": 1607.4,
+   "end": 1611.34,
+   "text": "After all, inflation is the destruction of capital by government."
+  },
+  {
+   "start": 1612.12,
+   "end": 1617.12,
+   "text": "And it's one of the few things government is good at."
+  },
+  {
+   "start": 1617.12,
+   "end": 1621.3,
+   "text": "And very good at it."
+  },
+  {
+   "start": 1621.3,
+   "end": 1642.32,
+   "text": "And so we have inadequate capital formation, aggravated, let me say, by the fact that totally unlike the Keynesian assumption, we have built into the modern economy an under-savings tendency based on our age structure,"
+  },
+  {
+   "start": 1642.32,
+   "end": 1645.76,
+   "text": "based on the fact that everybody in this room"
+  },
+  {
+   "start": 1645.76,
+   "end": 1651.26,
+   "text": "saves some 25% to 30% of his income"
+  },
+  {
+   "start": 1651.26,
+   "end": 1655.3,
+   "text": "and not a penny of it becomes capital formation."
+  },
+  {
+   "start": 1656.24,
+   "end": 1660.36,
+   "text": "Social Security, 12% of your salary,"
+  },
+  {
+   "start": 1660.54,
+   "end": 1663.32,
+   "text": "up to 18,000 or 25,000 now,"
+  },
+  {
+   "start": 1663.74,
+   "end": 1666.48,
+   "text": "goes out immediately as consumption."
+  },
+  {
+   "start": 1667.71,
+   "end": 1670.87,
+   "text": "And what you put into the pension plan of your company,"
+  },
+  {
+   "start": 1670.87,
+   "end": 1684.9,
+   "text": "About 70% of it already goes out, and then the rest of the saving of most of us is the mortgage on the house, and that the house is not capital."
+  },
+  {
+   "start": 1685.66,
+   "end": 1695.06,
+   "text": "The house is durable consumer goods with a good resale value, but it is not the productive asset in the economy's sense."
+  },
+  {
+   "start": 1695.06,
+   "end": 1711.54,
+   "text": "So here is something like 40% of the typical wage and salary recipient income in developed countries that he looks upon as savings, and therefore he does not see any need to save more."
+  },
+  {
+   "start": 1711.54,
+   "end": 1740.57,
+   "text": "If you plot capital accumulation rates in relation to social security, then there is no great difference between Japan and this country. The high rate of capital formation in Japan is an illusion. The Japanese have no social security payment and very practically nothing per way of a pension plan and almost even less per way of a mortgage than Arnold Homo has."
+  },
+  {
+   "start": 1740.57,
+   "end": 1743.73,
+   "text": "and if you adjust for that"
+  },
+  {
+   "start": 1743.73,
+   "end": 1744.81,
+   "text": "then the Japanese"
+  },
+  {
+   "start": 1744.81,
+   "end": 1746.81,
+   "text": "form more capital than we do"
+  },
+  {
+   "start": 1746.81,
+   "end": 1747.89,
+   "text": "but not much more"
+  },
+  {
+   "start": 1747.89,
+   "end": 1749.41,
+   "text": "nor do the Germans"
+  },
+  {
+   "start": 1749.41,
+   "end": 1750.99,
+   "text": "the Germans are the highest probably"
+  },
+  {
+   "start": 1750.99,
+   "end": 1753.11,
+   "text": "so basically"
+  },
+  {
+   "start": 1753.11,
+   "end": 1754.69,
+   "text": "we are trading"
+  },
+  {
+   "start": 1754.69,
+   "end": 1757.8,
+   "text": "what may have been"
+  },
+  {
+   "start": 1757.8,
+   "end": 1759.44,
+   "text": "genuine capital formation"
+  },
+  {
+   "start": 1759.44,
+   "end": 1761.34,
+   "text": "I've never been convinced"
+  },
+  {
+   "start": 1761.34,
+   "end": 1763.36,
+   "text": "that the economist really knows"
+  },
+  {
+   "start": 1763.36,
+   "end": 1764.4,
+   "text": "how to measure it"
+  },
+  {
+   "start": 1764.4,
+   "end": 1766.86,
+   "text": "against things that are clearly"
+  },
+  {
+   "start": 1766.86,
+   "end": 1769.48,
+   "text": "savings but not capital formation"
+  },
+  {
+   "start": 1769.48,
+   "end": 1776.48,
+   "text": "so there's a built-in tendency towards under saving in any moment"
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 27.7,
+ "created_utc": "2026-09-29T02:19:57+00:00"
+}

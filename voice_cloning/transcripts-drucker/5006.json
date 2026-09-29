@@ -1,0 +1,2393 @@
+{
+ "pointer": "5006",
+ "media": "5006.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 3600.3,
+ "segments": [
+  {
+   "start": 2.55,
+   "end": 10.58,
+   "text": "be for any customer, certainly for a bank. You see, you might see the same with colleges."
+  },
+  {
+   "start": 10.58,
+   "end": 23.91,
+   "text": "We contract with a timesharing outfit for student records, script grades, admissions papers. You"
+  },
+  {
+   "start": 23.91,
+   "end": 33.53,
+   "text": "know, we can easily afford to wait two weeks, even for our own internal payroll, because this"
+  },
+  {
+   "start": 33.53,
+   "end": 45.67,
+   "text": "business here doesn't run on data. All right, we try to do registration at close to the opening of"
+  },
+  {
+   "start": 45.67,
+   "end": 58.01,
+   "text": "classes as possible. Not everybody does, you know. The large universities won't try to have"
+  },
+  {
+   "start": 58.01,
+   "end": 63.21,
+   "text": "registrations as far ahead as possible because they can't handle the problem of classroom"
+  },
+  {
+   "start": 63.21,
+   "end": 72.33,
+   "text": "assignment. We have no problem. Most of our classes are small and at the last minute we can shift the"
+  },
+  {
+   "start": 72.33,
+   "end": 85.75,
+   "text": "class that spills over the unit into another place. If your name is UCLA you can do that. UCLA is now"
+  },
+  {
+   "start": 85.75,
+   "end": 95.67,
+   "text": "working on classroom assignments for next September. By now it's frozen itself, and it's jiggling and juggling."
+  },
+  {
+   "start": 95.67,
+   "end": 102.78,
+   "text": "I say you want advanced registration if you don't know by the 15th of June,"
+  },
+  {
+   "start": 102.78,
+   "end": 110.37,
+   "text": "within plus or minus 5% what your classroom sizes are going to be,"
+  },
+  {
+   "start": 110.37,
+   "end": 114.83,
+   "text": "the large and enormous undergraduate population."
+  },
+  {
+   "start": 114.83,
+   "end": 124.1,
+   "text": "You know, you have to have advanced notice that sociology is out and psychology is in,"
+  },
+  {
+   "start": 124.1,
+   "end": 131.94,
+   "text": "and chemistry goes down and all the kids move into biology."
+  },
+  {
+   "start": 131.94,
+   "end": 138.37,
+   "text": "And these trends are very strong, but not easy to spot unless you have real registration."
+  },
+  {
+   "start": 138.37,
+   "end": 144.41,
+   "text": "You want early registration. You want late one."
+  },
+  {
+   "start": 144.41,
+   "end": 153.84,
+   "text": "But we could easily have it two weeks early."
+  },
+  {
+   "start": 153.84,
+   "end": 162.0,
+   "text": "And as far as we are concerned, being a second-class customer of a data processing outfit would not make any difference."
+  },
+  {
+   "start": 162.76,
+   "end": 165.7,
+   "text": "Well, by its convenience, it won't in a great way."
+  },
+  {
+   "start": 165.7,
+   "end": 177.77,
+   "text": "On the other hand, if Monty Day here put the outfit of her medical lab on a computer, computerized them,"
+  },
+  {
+   "start": 178.51,
+   "end": 186.38,
+   "text": "and believed she could not afford to get service on an infant when available basis,"
+  },
+  {
+   "start": 186.38,
+   "end": 198.58,
+   "text": "That surgeon up there is waiting for you. You don't run a pathology lab, but you have one."
+  },
+  {
+   "start": 198.58,
+   "end": 207.1,
+   "text": "And you know, he's standing with a knife in his hand, waiting for the feedback. Is that malign or benign?"
+  },
+  {
+   "start": 207.1,
+   "end": 214.1,
+   "text": "If you tell him that, he's going to get it in three weeks when they get around to it. I'm going to make him happy."
+  },
+  {
+   "start": 214.1,
+   "end": 237.76,
+   "text": "But even in the medical lab, which Martin runs, you have to know that doctor expects to get these back so that he can make these diagnoses. So that depends on the customer."
+  },
+  {
+   "start": 237.76,
+   "end": 244.24,
+   "text": "And if your customer is a bank and you sell data process,"
+  },
+  {
+   "start": 244.24,
+   "end": 246.96,
+   "text": "well, that's what is a bank."
+  },
+  {
+   "start": 246.96,
+   "end": 249.52,
+   "text": "Don't believe that a bank deals with money."
+  },
+  {
+   "start": 249.52,
+   "end": 252.18,
+   "text": "Bankers believe that."
+  },
+  {
+   "start": 252.18,
+   "end": 256.1,
+   "text": "A bank deals in information, in data."
+  },
+  {
+   "start": 256.1,
+   "end": 258.72,
+   "text": "They refer to money."
+  },
+  {
+   "start": 258.72,
+   "end": 260.54,
+   "text": "No bank has ever seen money."
+  },
+  {
+   "start": 260.54,
+   "end": 265.66,
+   "text": "These electronic blips,"
+  },
+  {
+   "start": 265.66,
+   "end": 271.82,
+   "text": "and they deal with this data."
+  },
+  {
+   "start": 271.82,
+   "end": 276.42,
+   "text": "He moves data from here to there."
+  },
+  {
+   "start": 276.42,
+   "end": 278.88,
+   "text": "And that equals cash flow."
+  },
+  {
+   "start": 278.88,
+   "end": 280.56,
+   "text": "No cash flow."
+  },
+  {
+   "start": 280.56,
+   "end": 282.7,
+   "text": "Any of you ever seen cash flow, by the way?"
+  },
+  {
+   "start": 284.28,
+   "end": 286.0,
+   "text": "Only the little moron has."
+  },
+  {
+   "start": 288.56,
+   "end": 290.17,
+   "text": "The little moron, don't you?"
+  },
+  {
+   "start": 290.91,
+   "end": 294.5,
+   "text": "Why did you tiptoe past the bathroom cabinet"
+  },
+  {
+   "start": 294.5,
+   "end": 296.86,
+   "text": "so as not to wake up to sleeping pills?"
+  },
+  {
+   "start": 297.82,
+   "end": 299.66,
+   "text": "Well, there must be..."
+  },
+  {
+   "start": 299.66,
+   "end": 300.32,
+   "text": "No, you don't."
+  },
+  {
+   "start": 300.4,
+   "end": 302.56,
+   "text": "You don't have nine-year-old grandson, right?"
+  },
+  {
+   "start": 304.12,
+   "end": 309.21,
+   "text": "But I'm going to ask him tomorrow morning"
+  },
+  {
+   "start": 309.21,
+   "end": 312.19,
+   "text": "what the little moron joked about the cash flow."
+  },
+  {
+   "start": 312.33,
+   "end": 312.95,
+   "text": "There must be."
+  },
+  {
+   "start": 314.57,
+   "end": 317.11,
+   "text": "But if the only one who has seen cash flow"
+  },
+  {
+   "start": 317.11,
+   "end": 331.77,
+   "text": "The rest of us see data, and that's when the brink's truck overturns, then you see cash, not otherwise."
+  },
+  {
+   "start": 331.77,
+   "end": 350.37,
+   "text": "Whatever it is, you see, the capacity, the data processing capacity of the equipment is not the reason why the banks are in the data."
+  },
+  {
+   "start": 350.37,
+   "end": 374.44,
+   "text": "Do you know what's the specific problem of data processing which Marty's computer there at the City of Port Possible cannot handle and which your computer is doing so poorly? Do you know what it is?"
+  },
+  {
+   "start": 374.44,
+   "end": 394.5,
+   "text": "well i think the bank is pure human error but what is your body what is the problem"
+  },
+  {
+   "start": 394.5,
+   "end": 401.62,
+   "text": "what is it that banks are good at not alone there's one or two other institutions that are"
+  },
+  {
+   "start": 401.62,
+   "end": 410.54,
+   "text": "good at it and the rest of us i know them good at all that this data processing works banks are"
+  },
+  {
+   "start": 410.54,
+   "end": 424.38,
+   "text": "among the very few that have time and to handle data and documents data and this is what the"
+  },
+  {
+   "start": 424.38,
+   "end": 433.38,
+   "text": "insurance companies are the only other ones. We say maybe the U.S. Customs Office has a similar problem."
+  },
+  {
+   "start": 433.38,
+   "end": 442.01,
+   "text": "A customs entity consists of information and documents, but if anybody has had any experience"
+  },
+  {
+   "start": 442.01,
+   "end": 448.18,
+   "text": "with the Customs Office, they are not terribly good at it. The U.S. Immigration Service, let me say,"
+  },
+  {
+   "start": 448.98,
+   "end": 458.22,
+   "text": "habitually uses, loses every other file. Everybody who has ever had to get a visa, let me say,"
+  },
+  {
+   "start": 458.22,
+   "end": 467.0,
+   "text": "or a professor from abroad knows that he has to make that application three times the first time"
+  },
+  {
+   "start": 467.0,
+   "end": 475.24,
+   "text": "they lose the file the second time it gets to the wrong office the third time you send somebody with"
+  },
+  {
+   "start": 478.5,
+   "end": 486.2,
+   "text": "and then they only lose the message but to get the file back they don't know how to do it it's not"
+  },
+  {
+   "start": 486.2,
+   "end": 495.78,
+   "text": "that they are bureaucratic and stupid. They don't know how to do it. Banks have done it for a long time."
+  },
+  {
+   "start": 495.78,
+   "end": 512.49,
+   "text": "What? No way. It's long before that. What was the origin of the first banking transaction to Western Europe?"
+  },
+  {
+   "start": 512.49,
+   "end": 525.97,
+   "text": "Where you wouldn't need bankers. You just can handle them. They left a lot of credit so that you don't have to ship gold."
+  },
+  {
+   "start": 525.97,
+   "end": 530.31,
+   "text": "You really wanted to ship gold in the Europe of 1500."
+  },
+  {
+   "start": 530.31,
+   "end": 537.04,
+   "text": "Anybody would consider that a particularly safe thing to do."
+  },
+  {
+   "start": 537.04,
+   "end": 544.32,
+   "text": "Before the Dutch, or the Baltics, we don't know,"
+  },
+  {
+   "start": 544.32,
+   "end": 547.9,
+   "text": "but it's probably the Dutch or British, northern."
+  },
+  {
+   "start": 547.9,
+   "end": 555.03,
+   "text": "And then the modern weather."
+  },
+  {
+   "start": 555.03,
+   "end": 561.72,
+   "text": "You lost about seven out of every ten boats"
+  },
+  {
+   "start": 561.72,
+   "end": 564.34,
+   "text": "that plied the coast of Europe."
+  },
+  {
+   "start": 564.34,
+   "end": 575.19,
+   "text": "The European coasts are singularly treacherous, from the Baltic into the Mediterranean, past the Strait of Gibraltar and the Mediterranean."
+  },
+  {
+   "start": 575.19,
+   "end": 590.44,
+   "text": "These are all shallow and narrow seas, in which the wind changes without any warning, in which fogs are very frequent, and in which you have very rocky shores."
+  },
+  {
+   "start": 590.44,
+   "end": 601.67,
+   "text": "the fact that they were pirate investors. For that reason they offered abundant safe harbors for pirates."
+  },
+  {
+   "start": 601.67,
+   "end": 613.46,
+   "text": "They had one little rocky cove after the other from Flensburg in the north on the northeast side of"
+  },
+  {
+   "start": 613.46,
+   "end": 624.68,
+   "text": "Denmark or from the Norwegian shores all the way to Alexandria and each one little pirate cove after the other"
+  },
+  {
+   "start": 624.68,
+   "end": 633.9,
+   "text": "where an old vehicle pirate craft they don't have much rain you have always when you don't"
+  },
+  {
+   "start": 635.54,
+   "end": 643.43,
+   "text": "30 40 miles 60 miles or when you can't grow forever but during that over that distance"
+  },
+  {
+   "start": 643.43,
+   "end": 650.04,
+   "text": "they are independent of the wind and they are fast so they operated out of the little code"
+  },
+  {
+   "start": 650.04,
+   "end": 657.37,
+   "text": "plus the fact that the weather was against you and you couldn't stand out to see because"
+  },
+  {
+   "start": 657.37,
+   "end": 664.17,
+   "text": "but you had a compass and you already had a sail that you could sail into the wind with the damn"
+  },
+  {
+   "start": 664.17,
+   "end": 671.51,
+   "text": "thing couldn't be steered proper and so with you well suddenly a sudden shift in the wind you got"
+  },
+  {
+   "start": 671.51,
+   "end": 681.93,
+   "text": "broke and he over and turned out it's the dutch brother it's a stern post which is 16th century"
+  },
+  {
+   "start": 681.93,
+   "end": 689.18,
+   "text": "or late 15th the first dutch ships are shown around 1520 and they broke the monopoly of the"
+  },
+  {
+   "start": 689.18,
+   "end": 697.32,
+   "text": "Mediterranean, not Colombo. Colombo would have been totally unimportant if they hadn't been"
+  },
+  {
+   "start": 697.32,
+   "end": 707.03,
+   "text": "able to sail these things, and in Columbus' time they couldn't yet. But it was a response to"
+  },
+  {
+   "start": 707.03,
+   "end": 714.07,
+   "text": "the Portuguese and Spanish great savers, the development of the Dutch harbor. It was very"
+  },
+  {
+   "start": 714.07,
+   "end": 722.38,
+   "text": "ungainly, high stern, slow but safe, and due also because they were big, formerly a big ship,"
+  },
+  {
+   "start": 722.38,
+   "end": 731.02,
+   "text": "couldn't couldn't have one because sudden change of wind those good so you"
+  },
+  {
+   "start": 731.02,
+   "end": 736.81,
+   "text": "didn't they could have a big one and could put five four guns on it then you"
+  },
+  {
+   "start": 736.81,
+   "end": 743.77,
+   "text": "suddenly could choose those pirates out of the water and you said in the"
+  },
+  {
+   "start": 743.77,
+   "end": 753.63,
+   "text": "attack you know the blood and why could you use man transport you know of the"
+  },
+  {
+   "start": 753.63,
+   "end": 766.7,
+   "text": "most important invention of them all is made land transport but that's a"
+  },
+  {
+   "start": 766.7,
+   "end": 771.04,
+   "text": "I'm a Californian, really, if I ever hear about it."
+  },
+  {
+   "start": 771.04,
+   "end": 781.59,
+   "text": "As a matter of fact, I'm surprised she didn't say the three of you."
+  },
+  {
+   "start": 781.59,
+   "end": 789.43,
+   "text": "You know, the springs of the carriage, the sprung carriage,"
+  },
+  {
+   "start": 789.43,
+   "end": 794.06,
+   "text": "just imagine you couldn't ship anything over land,"
+  },
+  {
+   "start": 794.06,
+   "end": 800.3,
+   "text": "except the crudest stuff, which then meant that"
+  },
+  {
+   "start": 800.3,
+   "end": 809.67,
+   "text": "as long as you had the body of the corpse sitting directly on the wings."
+  },
+  {
+   "start": 809.67,
+   "end": 811.67,
+   "text": "You ever ridden in one of them?"
+  },
+  {
+   "start": 811.67,
+   "end": 817.06,
+   "text": "Standing for exactly a hundred yards."
+  },
+  {
+   "start": 817.06,
+   "end": 821.06,
+   "text": "And then only if you're sitting on a load of manure."
+  },
+  {
+   "start": 821.06,
+   "end": 825.34,
+   "text": "Otherwise everything is broken."
+  },
+  {
+   "start": 825.34,
+   "end": 829.82,
+   "text": "And it's terribly slow as a wizard."
+  },
+  {
+   "start": 829.82,
+   "end": 834.67,
+   "text": "Therefore again you have, you know, either you have pirates"
+  },
+  {
+   "start": 834.67,
+   "end": 842.65,
+   "text": "or you have to pay every blackmailer with an account who can have a castle and a bridge or a path."
+  },
+  {
+   "start": 842.65,
+   "end": 847.75,
+   "text": "You end up, my sisters will have, the pirates have taken."
+  },
+  {
+   "start": 847.75,
+   "end": 850.75,
+   "text": "And it was, the first thing wasn't sprung, it was suspended."
+  },
+  {
+   "start": 850.75,
+   "end": 857.5,
+   "text": "That's about the same time, early, well, middle of the 16th century."
+  },
+  {
+   "start": 857.5,
+   "end": 863.38,
+   "text": "That first picture we have of a suspended one is a famous woodcut."
+  },
+  {
+   "start": 863.38,
+   "end": 872.61,
+   "text": "cut but was done 30 years after the event martin luther was spirited away from the diet of wounds"
+  },
+  {
+   "start": 872.61,
+   "end": 881.55,
+   "text": "in which he had defied the emperor by the elector of saxony saved in a coach hidden and we have a"
+  },
+  {
+   "start": 881.55,
+   "end": 894.72,
+   "text": "woodcut of 1540 that was in 1519 beginning of the reformation and the woodcut is of 1552 and"
+  },
+  {
+   "start": 894.72,
+   "end": 899.72,
+   "text": "and they chose a suspended carriage in which Luther was being transported."
+  },
+  {
+   "start": 899.72,
+   "end": 907.37,
+   "text": "But that was almost certainly not the carriage in which Luther was being transported."
+  },
+  {
+   "start": 907.37,
+   "end": 913.38,
+   "text": "And almost certainly he wasn't transported in the carriage,"
+  },
+  {
+   "start": 913.38,
+   "end": 916.84,
+   "text": "despite his girth."
+  },
+  {
+   "start": 916.84,
+   "end": 923.99,
+   "text": "The man weighed 280 pounds if he weighed an ounce or an oomph."
+  },
+  {
+   "start": 923.99,
+   "end": 932.9,
+   "text": "Despite that, they hoisted him on a four-legged animal."
+  },
+  {
+   "start": 932.9,
+   "end": 938.97,
+   "text": "probably a horse or a mule, because he wouldn't have survived that character."
+  },
+  {
+   "start": 938.97,
+   "end": 948.97,
+   "text": "But by the 1550s he had become so used to suspended characters that even a historical event"
+  },
+  {
+   "start": 948.97,
+   "end": 952.97,
+   "text": "he automatically assumed that's what he had, almost certain that he did."
+  },
+  {
+   "start": 952.97,
+   "end": 959.97,
+   "text": "They came up shortly thereafter and sprang in the early 17th century."
+  },
+  {
+   "start": 959.97,
+   "end": 964.49,
+   "text": "And all of a sudden, it didn't make any sense to build roads."
+  },
+  {
+   "start": 964.49,
+   "end": 968.21,
+   "text": "But the point of having roads, if you can't use the wheels,"
+  },
+  {
+   "start": 968.21,
+   "end": 972.21,
+   "text": "wheelbases were strictly for short-distance looms,"
+  },
+  {
+   "start": 972.21,
+   "end": 978.8,
+   "text": "and the springs are just a key invention"
+  },
+  {
+   "start": 978.8,
+   "end": 982.26,
+   "text": "that really created modern transportation."
+  },
+  {
+   "start": 982.26,
+   "end": 986.73,
+   "text": "The key answer was far more important than the steam engine."
+  },
+  {
+   "start": 986.73,
+   "end": 988.73,
+   "text": "That came much later."
+  },
+  {
+   "start": 988.73,
+   "end": 994.54,
+   "text": "So, let me say, the banks invented the letter of credit"
+  },
+  {
+   "start": 994.54,
+   "end": 999.87,
+   "text": "so that you didn't have to move cash,"
+  },
+  {
+   "start": 999.87,
+   "end": 1005.44,
+   "text": "apart from the fact that the Middle Ages were extremely"
+  },
+  {
+   "start": 1005.44,
+   "end": 1009.1,
+   "text": "short of precious metals."
+  },
+  {
+   "start": 1009.1,
+   "end": 1015.08,
+   "text": "That was before the silver came in from America."
+  },
+  {
+   "start": 1015.08,
+   "end": 1020.42,
+   "text": "And yet, trade and commerce and industry had exploded."
+  },
+  {
+   "start": 1020.42,
+   "end": 1023.2,
+   "text": "And so there was an acute shortage."
+  },
+  {
+   "start": 1023.2,
+   "end": 1030.05,
+   "text": "And so they invented money of it and reinvented it"
+  },
+  {
+   "start": 1030.05,
+   "end": 1036.3,
+   "text": "in every period in which precious metals are sold,"
+  },
+  {
+   "start": 1036.3,
+   "end": 1040.06,
+   "text": "the merchants get around to it by inventing credit,"
+  },
+  {
+   "start": 1040.06,
+   "end": 1042.87,
+   "text": "which is data."
+  },
+  {
+   "start": 1042.87,
+   "end": 1045.71,
+   "text": "And then you have the letter of credit"
+  },
+  {
+   "start": 1045.71,
+   "end": 1049.75,
+   "text": "is the first banking document."
+  },
+  {
+   "start": 1049.75,
+   "end": 1053.72,
+   "text": "Pairs of the Champagne and Pairs of Lyon"
+  },
+  {
+   "start": 1053.72,
+   "end": 1060.34,
+   "text": "and then Pairs of Nander, 1340, 1360,"
+  },
+  {
+   "start": 1060.34,
+   "end": 1064.14,
+   "text": "the Medici make their money on being the people"
+  },
+  {
+   "start": 1064.14,
+   "end": 1069.54,
+   "text": "who got the leadership in being able to handle these things"
+  },
+  {
+   "start": 1069.54,
+   "end": 1073.14,
+   "text": "with branches and with an information system that"
+  },
+  {
+   "start": 1073.14,
+   "end": 1082.84,
+   "text": "was real time, in that the main postman beat the merchant."
+  },
+  {
+   "start": 1082.84,
+   "end": 1087.46,
+   "text": "They were fighting so that they were there in Antwerp"
+  },
+  {
+   "start": 1087.46,
+   "end": 1090.98,
+   "text": "with the counter copy of the letter of credit"
+  },
+  {
+   "start": 1090.98,
+   "end": 1092.96,
+   "text": "two weeks before the merchant got there,"
+  },
+  {
+   "start": 1092.96,
+   "end": 1095.64,
+   "text": "so that from the point of view of the merchant,"
+  },
+  {
+   "start": 1095.64,
+   "end": 1099.28,
+   "text": "the information was there in real time."
+  },
+  {
+   "start": 1099.28,
+   "end": 1104.28,
+   "text": "We had the money when he got there, it was waiting for him, he had the credit open."
+  },
+  {
+   "start": 1104.28,
+   "end": 1109.62,
+   "text": "And the Medici partner or correspondent banker in Antwerp"
+  },
+  {
+   "start": 1109.62,
+   "end": 1113.66,
+   "text": "could already make himself liquid."
+  },
+  {
+   "start": 1113.66,
+   "end": 1120.0,
+   "text": "And so banks risked on their ability not to handle money,"
+  },
+  {
+   "start": 1120.0,
+   "end": 1123.0,
+   "text": "but to handle data and documents."
+  },
+  {
+   "start": 1123.0,
+   "end": 1128.01,
+   "text": "And that is why the banks are getting into data processing business."
+  },
+  {
+   "start": 1128.01,
+   "end": 1135.44,
+   "text": "They have a capacity, a skill, which you in manufacturing or you in the department store"
+  },
+  {
+   "start": 1135.44,
+   "end": 1138.15,
+   "text": "don't have, or you in the hospital."
+  },
+  {
+   "start": 1140.05,
+   "end": 1141.77,
+   "text": "They understand the problem."
+  },
+  {
+   "start": 1144.42,
+   "end": 1149.94,
+   "text": "Now, you in manufacturing are used to handling things without logic, information alone."
+  },
+  {
+   "start": 1151.57,
+   "end": 1158.91,
+   "text": "When you get into the immigration service, where you have both, they lose the document."
+  },
+  {
+   "start": 1160.45,
+   "end": 1165.67,
+   "text": "Well, you can't, for me, immigration service being a government service, can't afford it,"
+  },
+  {
+   "start": 1165.67,
+   "end": 1166.07,
+   "text": "you know."
+  },
+  {
+   "start": 1166.07,
+   "end": 1173.26,
+   "text": "I have no choice I need a visa for that professor of mine unfortunately there is"
+  },
+  {
+   "start": 1173.26,
+   "end": 1178.84,
+   "text": "no competitor from whom I can get it or believe me I'd go there but I'm"
+  },
+  {
+   "start": 1178.84,
+   "end": 1186.71,
+   "text": "shocked I'm tired every time I brought one in they'll ask the document twice"
+  },
+  {
+   "start": 1186.71,
+   "end": 1192.08,
+   "text": "but once they'll ask them completely once you sent them to the embassy in"
+  },
+  {
+   "start": 1192.08,
+   "end": 1200.9,
+   "text": "Nigeria you know let's say a time as I said it works with some delay so if I"
+  },
+  {
+   "start": 1200.9,
+   "end": 1207.69,
+   "text": "could if I could get typical to handle that for me I'd be delighted and they"
+  },
+  {
+   "start": 1207.69,
+   "end": 1215.43,
+   "text": "won't let me but that's the government monopoly in everything else their"
+  },
+  {
+   "start": 1215.43,
+   "end": 1220.92,
+   "text": "competition is possible I would love to have some competition with many of those"
+  },
+  {
+   "start": 1220.92,
+   "end": 1225.92,
+   "text": "government monopolies this thing could happen but they're the only one the"
+  },
+  {
+   "start": 1225.92,
+   "end": 1235.05,
+   "text": "The post office supposedly can handle documents, but it cannot handle information."
+  },
+  {
+   "start": 1235.05,
+   "end": 1238.05,
+   "text": "That's why register letter is such a pain."
+  },
+  {
+   "start": 1238.05,
+   "end": 1240.77,
+   "text": "You have to have both."
+  },
+  {
+   "start": 1240.77,
+   "end": 1246.27,
+   "text": "And how many times, when you send a certified letter with return address requested to you,"
+  },
+  {
+   "start": 1246.27,
+   "end": 1247.27,
+   "text": "you get it back."
+  },
+  {
+   "start": 1247.27,
+   "end": 1251.0,
+   "text": "One out of ten times."
+  },
+  {
+   "start": 1251.0,
+   "end": 1256.63,
+   "text": "Because it can't handle documents and information."
+  },
+  {
+   "start": 1256.63,
+   "end": 1265.09,
+   "text": "But let me say so, the banks have a natural advantage because that is their business."
+  },
+  {
+   "start": 1265.09,
+   "end": 1274.8,
+   "text": "And a few of them, a few of us in information handling saw that barrier and tried to convince the bank."
+  },
+  {
+   "start": 1274.8,
+   "end": 1278.39,
+   "text": "The banks were very reluctant because they didn't understand."
+  },
+  {
+   "start": 1278.39,
+   "end": 1281.62,
+   "text": "They thought they handled the money."
+  },
+  {
+   "start": 1281.62,
+   "end": 1285.05,
+   "text": "But that's 25 years ago."
+  },
+  {
+   "start": 1285.05,
+   "end": 1289.05,
+   "text": "15 years, 10 years later, the bank went on."
+  },
+  {
+   "start": 1289.05,
+   "end": 1293.48,
+   "text": "They realized that they handled data and not money."
+  },
+  {
+   "start": 1293.48,
+   "end": 1299.05,
+   "text": "The bank included a data processing business."
+  },
+  {
+   "start": 1299.05,
+   "end": 1306.51,
+   "text": "And the data do not, anybody know where the word data comes from?"
+  },
+  {
+   "start": 1307.13,
+   "end": 1309.09,
+   "text": "When did it get into general use?"
+  },
+  {
+   "start": 1315.64,
+   "end": 1318.38,
+   "text": "You see, the computer rests on two things."
+  },
+  {
+   "start": 1319.23,
+   "end": 1325.13,
+   "text": "And one is an intellectual breakthrough, which is the concept of data."
+  },
+  {
+   "start": 1327.08,
+   "end": 1328.54,
+   "text": "Numbers are very old."
+  },
+  {
+   "start": 1329.6,
+   "end": 1334.18,
+   "text": "The first man to use the word data is probably still alive."
+  },
+  {
+   "start": 1335.93,
+   "end": 1346.37,
+   "text": "If so, he is, well, no, he wouldn't be a handbook or close to it."
+  },
+  {
+   "start": 1346.37,
+   "end": 1358.13,
+   "text": "His name is or was Otto Neurath, N-E-U-R-A-T-H, an Austrian who emigrated to the United States around 1908"
+  },
+  {
+   "start": 1358.13,
+   "end": 1366.16,
+   "text": "and was a statistician of the World Production Group and the Bernie Beruching World, but one is a very young man."
+  },
+  {
+   "start": 1366.16,
+   "end": 1375.32,
+   "text": "Then returned to Austria and the University of Vienna, and the whole concept of quantitating missiles is Otto Neurath."
+  },
+  {
+   "start": 1375.32,
+   "end": 1386.05,
+   "text": "None of, nobody ever before had this idea that numbers and their very abstraction are universal."
+  },
+  {
+   "start": 1386.05,
+   "end": 1395.98,
+   "text": "That in other words, you count trees exactly the same way you count any other, the concept of population,"
+  },
+  {
+   "start": 1395.98,
+   "end": 1404.84,
+   "text": "of universe, the terms you all take for granted, are concepts of the last 60 years' statistical theory."
+  },
+  {
+   "start": 1404.84,
+   "end": 1411.84,
+   "text": "He had very largely come out of Western Europe, Viennese schools, even though he thought that he was over here."
+  },
+  {
+   "start": 1411.84,
+   "end": 1420.32,
+   "text": "But he went to Vienna because nobody in this country had any interest, nobody."
+  },
+  {
+   "start": 1420.32,
+   "end": 1424.32,
+   "text": "He couldn't see the Viennese."
+  },
+  {
+   "start": 1424.32,
+   "end": 1432.76,
+   "text": "He was an Austrian who had achieved significant success abroad, so they were willing to finance him,"
+  },
+  {
+   "start": 1432.76,
+   "end": 1434.76,
+   "text": "even though they didn't understand him."
+  },
+  {
+   "start": 1434.76,
+   "end": 1441.83,
+   "text": "He had a hard time, and he also is the father of graphic representations."
+  },
+  {
+   "start": 1441.83,
+   "end": 1449.29,
+   "text": "You take for granted that one shows population with a little cut-out figure of a human being,"
+  },
+  {
+   "start": 1449.29,
+   "end": 1452.29,
+   "text": "you know, six feet representing a million."
+  },
+  {
+   "start": 1452.29,
+   "end": 1454.29,
+   "text": "You know what I'm talking about?"
+  },
+  {
+   "start": 1454.29,
+   "end": 1461.88,
+   "text": "He invented this when he had to brief President Wilson during World War I"
+  },
+  {
+   "start": 1461.88,
+   "end": 1468.44,
+   "text": "or one and found that the good man couldn't understand figures, being a political scientist."
+  },
+  {
+   "start": 1468.44,
+   "end": 1478.83,
+   "text": "And that's the origin. He put the war production figures on that graphic form showing tanks,"
+  },
+  {
+   "start": 1478.83,
+   "end": 1488.84,
+   "text": "you know, a silhouette and guns. There you could see this week, next week, projection in September,"
+  },
+  {
+   "start": 1488.84,
+   "end": 1500.89,
+   "text": "where will we be? Last week red, this week green, next September yellow. And that was"
+  },
+  {
+   "start": 1500.89,
+   "end": 1510.73,
+   "text": "a radical breakthrough. Nobody, nobody ever looked at such a poor except that they don't need that stuff."
+  },
+  {
+   "start": 1510.73,
+   "end": 1520.96,
+   "text": "They can look at figures, at tables, and at bar charts, the 18th century. Suddenly you had laymen"
+  },
+  {
+   "start": 1520.96,
+   "end": 1528.92,
+   "text": "who had never handled things, and they had to see and visualize. So he invented. And, but"
+  },
+  {
+   "start": 1529.72,
+   "end": 1539.69,
+   "text": "that, here's that idea of data, and it made no sense to anybody. In fact, the job he wanted was"
+  },
+  {
+   "start": 1539.69,
+   "end": 1546.88,
+   "text": "editor of the Statistic Yearbook of the League of Nations, which was the first modern statistics"
+  },
+  {
+   "start": 1546.88,
+   "end": 1552.64,
+   "text": "international yearbook, and he was turned down because the author's author sources,"
+  },
+  {
+   "start": 1552.64,
+   "end": 1558.08,
+   "text": "the distinguished English civil servant economist who was the first director general of the League"
+  },
+  {
+   "start": 1558.08,
+   "end": 1566.38,
+   "text": "of Nations, could not understand that nonsense about data. And so he picked himself a traditional"
+  },
+  {
+   "start": 1566.38,
+   "end": 1576.72,
+   "text": "Frenchman published very conventional, dull, and unusable books, that's only 60 years old."
+  },
+  {
+   "start": 1576.72,
+   "end": 1583.04,
+   "text": "Without this, the computer, let me say, would not be in general view, because you need both"
+  },
+  {
+   "start": 1583.04,
+   "end": 1594.22,
+   "text": "the technical capability, the rapid and massaging, manipulation of data, and the concept of data"
+  },
+  {
+   "start": 1594.22,
+   "end": 1602.46,
+   "text": "under which what the data are about is irrelevant. You handle the data and then relate them to me."
+  },
+  {
+   "start": 1603.36,
+   "end": 1635.73,
+   "text": "That's very much. So in this, the nice compromise which the bank would give you, you have to make up your mind whether you optimize the business, and then you handle the data of whoever, then you are basically a public carrier."
+  },
+  {
+   "start": 1635.73,
+   "end": 1655.17,
+   "text": "carriers? Anybody? Do we have any lawyers or public carriers that doesn't think so?"
+  },
+  {
+   "start": 1655.17,
+   "end": 1665.0,
+   "text": "Okay, go on. At the same rate? Well, not the same rate. It doesn't have to be at the"
+  },
+  {
+   "start": 1665.0,
+   "end": 1672.8,
+   "text": "published rate. Now, a public carrier doesn't have to publish weight, that's the difference."
+  },
+  {
+   "start": 1672.8,
+   "end": 1681.12,
+   "text": "A common carrier is a league, and the bitter fight, one of the bitterest fights looming"
+  },
+  {
+   "start": 1681.12,
+   "end": 1689.29,
+   "text": "whether an intrastate pipeline is a common or a public carrier you heard about it if it's a common"
+  },
+  {
+   "start": 1689.29,
+   "end": 1694.14,
+   "text": "carrier then it has to have a preset tariff a public carrier doesn't have to have one but it's"
+  },
+  {
+   "start": 1694.14,
+   "end": 1710.35,
+   "text": "got to take the gas from all commerce and it but it can negotiate a common carrier can uh and yes"
+  },
+  {
+   "start": 1710.35,
+   "end": 1722.12,
+   "text": "but this is basically you're getting into the that category because the service that is essential to"
+  },
+  {
+   "start": 1722.12,
+   "end": 1729.88,
+   "text": "the conduct of business and then if you have even if you don't have a natural monopoly even if you"
+  },
+  {
+   "start": 1729.88,
+   "end": 1736.73,
+   "text": "have an advantage position in it you will be expected to be available to everybody this is"
+  },
+  {
+   "start": 1736.73,
+   "end": 1744.89,
+   "text": "the hospital getting into that position every time you read indignation because they're so into"
+  },
+  {
+   "start": 1744.89,
+   "end": 1750.25,
+   "text": "hospital turn the way this or that kind of a patient the public and effects that are in common"
+  },
+  {
+   "start": 1750.25,
+   "end": 1760.68,
+   "text": "or public carrier no leading definition of that but the common feeling is because it's essential"
+  },
+  {
+   "start": 1760.68,
+   "end": 1769.37,
+   "text": "the obliter processing is getting there the only the other alternative is to do it in-house"
+  },
+  {
+   "start": 1769.37,
+   "end": 1779.02,
+   "text": "what are the pros what are the cons but the greatest argument for not doing it in-house"
+  },
+  {
+   "start": 1779.02,
+   "end": 1788.24,
+   "text": "but setting it up separately whether you own it or lease it whether you call it a company"
+  },
+  {
+   "start": 1788.24,
+   "end": 1818.89,
+   "text": "already envisioned but economics are the result of what you get paid for for bricks and mortar"
+  },
+  {
+   "start": 1818.89,
+   "end": 1831.8,
+   "text": "see the real questions the ability to attack them it's a real economic argument"
+  },
+  {
+   "start": 1834.64,
+   "end": 1840.72,
+   "text": "except the fact that by the time you reach my age everybody in this room will be able to fiddle"
+  },
+  {
+   "start": 1840.72,
+   "end": 1847.47,
+   "text": "every figure anyway he or she wants or i have been going i will have lived in vain is one of"
+  },
+  {
+   "start": 1847.47,
+   "end": 1852.67,
+   "text": "the things i'm trying to tell you you have to learn in case you haven't gone on and you will"
+  },
+  {
+   "start": 1852.67,
+   "end": 1862.04,
+   "text": "here i'm a data processor in western bank corporation where do i go in korea term"
+  },
+  {
+   "start": 1862.04,
+   "end": 1880.97,
+   "text": "end of the data processing uh my people no please mind you would be a bit surprised if i could take"
+  },
+  {
+   "start": 1880.97,
+   "end": 1887.45,
+   "text": "a good young banker and teach him data processing it isn't that hard but the data processing people"
+  },
+  {
+   "start": 1887.45,
+   "end": 1900.79,
+   "text": "make life miserable. And if I am the executive vice president of the bank and I look at the"
+  },
+  {
+   "start": 1900.79,
+   "end": 1914.28,
+   "text": "data processing people, what do I see? Professionals or what? I'm going to rank. You see, that's"
+  },
+  {
+   "start": 1914.28,
+   "end": 1922.75,
+   "text": "the greatest argument for not having your medical lab is in a hospital. It makes much"
+  },
+  {
+   "start": 1922.75,
+   "end": 1932.15,
+   "text": "more sense to have a hospital and build it. Because you then can think you're highly trained"
+  },
+  {
+   "start": 1932.15,
+   "end": 1942.51,
+   "text": "There's a president of the lab, or a director."
+  },
+  {
+   "start": 1942.51,
+   "end": 1951.84,
+   "text": "Believe me, everybody says I don't give a fig for titles."
+  },
+  {
+   "start": 1951.84,
+   "end": 1955.43,
+   "text": "Then why should we have titles?"
+  },
+  {
+   "start": 1955.43,
+   "end": 1962.05,
+   "text": "If people would be very keenly interested in titles, they'd long ago have titles."
+  },
+  {
+   "start": 1962.05,
+   "end": 1970.27,
+   "text": "Don't ever, particularly banks, take a title in lieu of a raise."
+  },
+  {
+   "start": 1970.27,
+   "end": 1972.83,
+   "text": "That's a mistake in a bank."
+  },
+  {
+   "start": 1972.83,
+   "end": 1978.52,
+   "text": "One does it in the military, because the raise is automatic."
+  },
+  {
+   "start": 1978.52,
+   "end": 1983.89,
+   "text": "But don't ever say typos don't."
+  },
+  {
+   "start": 1983.89,
+   "end": 1994.93,
+   "text": "One looks at what's appreciated in the bank, the people who deal with the customer, the loan officer,"
+  },
+  {
+   "start": 1994.93,
+   "end": 1999.6,
+   "text": "not the backroom boys who wait up."
+  },
+  {
+   "start": 1999.6,
+   "end": 2007.28,
+   "text": "In a hospital, it's patient care, the doctors and everything."
+  },
+  {
+   "start": 2007.28,
+   "end": 2015.46,
+   "text": "And even though your lab today is the structural, the skeleton, the hard skeleton of a hospital,"
+  },
+  {
+   "start": 2015.46,
+   "end": 2017.46,
+   "text": "without which it would collapse in 10 minutes,"
+  },
+  {
+   "start": 2017.46,
+   "end": 2027.1,
+   "text": "The patient here has the glamour, and then one says, what do we have to do to attract?"
+  },
+  {
+   "start": 2027.1,
+   "end": 2034.47,
+   "text": "And then if you defend them, you better think through what you have to do to attract and hold the people you need."
+  },
+  {
+   "start": 2034.47,
+   "end": 2041.94,
+   "text": "And maybe you set it up separately so that they do not see themselves."
+  },
+  {
+   "start": 2041.94,
+   "end": 2047.94,
+   "text": "They see their own career ladder. They don't want to become bankers, but they want to become top managers."
+  },
+  {
+   "start": 2047.94,
+   "end": 2056.56,
+   "text": "okay bank america until number three except to go back to one remark that was made"
+  },
+  {
+   "start": 2057.12,
+   "end": 2062.88,
+   "text": "where one of the people here said uh maybe those people in the bank are afraid that"
+  },
+  {
+   "start": 2063.52,
+   "end": 2070.8,
+   "text": "that needs a process improvement of theirs will get too big what do you do if a business that is"
+  },
+  {
+   "start": 2070.8,
+   "end": 2083.62,
+   "text": "and oh and similarly it starts as a support operation that and these are because you have"
+  },
+  {
+   "start": 2083.62,
+   "end": 2094.72,
+   "text": "the minimum quantum problem as you might have here that the minimum you can really have to make to"
+  },
+  {
+   "start": 2094.72,
+   "end": 2101.78,
+   "text": "give you the service you need is so much longer than what you use yourself if you have a lot of"
+  },
+  {
+   "start": 2101.78,
+   "end": 2109.83,
+   "text": "excess capacity and so you might as well sell it and make money on it or because you'll figure"
+  },
+  {
+   "start": 2114.0,
+   "end": 2128.74,
+   "text": "the way GM figures after here are these accessory people and how do we keep them honest if"
+  },
+  {
+   "start": 2129.46,
+   "end": 2141.24,
+   "text": "we take all their supply we become their capital they are a cost plus basis and sure we can go out"
+  },
+  {
+   "start": 2141.24,
+   "end": 2148.84,
+   "text": "and check what the market price is but believe me if you have 55 of the market then what you pay is"
+  },
+  {
+   "start": 2148.84,
+   "end": 2157.24,
+   "text": "the market price and in other words ford went the other way for said we want to keep enough in-house"
+  },
+  {
+   "start": 2157.24,
+   "end": 2167.72,
+   "text": "capacity to check our suppliers price but if you are gm you can't depend on outside supply"
+  },
+  {
+   "start": 2167.72,
+   "end": 2175.38,
+   "text": "they're too big and then how do you make sure that you that you don't become the captive of your"
+  },
+  {
+   "start": 2175.38,
+   "end": 2185.28,
+   "text": "captive suppliers but the only way you can is by having them have enough for the business outside"
+  },
+  {
+   "start": 2185.84,
+   "end": 2198.24,
+   "text": "competitively so that the competitors or viewers or independents give you a market test both on"
+  },
+  {
+   "start": 2198.24,
+   "end": 2209.89,
+   "text": "price and quality and service uh you might reach that conclusion and it may be the most"
+  },
+  {
+   "start": 2209.89,
+   "end": 2216.61,
+   "text": "important reason when you deal with something that in its value system is so different"
+  },
+  {
+   "start": 2219.3,
+   "end": 2227.48,
+   "text": "that you better set it up outside because you won't take the teeth. You see the problem, the reason why"
+  },
+  {
+   "start": 2227.48,
+   "end": 2234.84,
+   "text": "we in the Claremont Colleges have saga in, not in the Faculty House, but in the Colleges, to do the"
+  },
+  {
+   "start": 2234.84,
+   "end": 2241.89,
+   "text": "The feeling is not that we could do feeding, though God help us if we try."
+  },
+  {
+   "start": 2241.89,
+   "end": 2249.48,
+   "text": "You know, in a college environment, in a university environment,"
+  },
+  {
+   "start": 2249.48,
+   "end": 2252.48,
+   "text": "the people who do the feeding are never going to do it."
+  },
+  {
+   "start": 2252.48,
+   "end": 2268.6,
+   "text": "Can you see the faculty council of the graduate school?"
+  },
+  {
+   "start": 2268.6,
+   "end": 2275.68,
+   "text": "Kids anyway, all they can become in here."
+  },
+  {
+   "start": 2275.68,
+   "end": 2280.56,
+   "text": "We may pay them very well, not because we want to,"
+  },
+  {
+   "start": 2280.56,
+   "end": 2289.44,
+   "text": "because we have no choice but we won't treat them right. We can't. We don't really respect one another."
+  },
+  {
+   "start": 2289.44,
+   "end": 2297.75,
+   "text": "All right, the kids have to be fed. Well, there has to be toilet paper in the toilet."
+  },
+  {
+   "start": 2297.75,
+   "end": 2304.79,
+   "text": "That's not really... You can easily imagine an educational process without these support"
+  },
+  {
+   "start": 2304.79,
+   "end": 2314.36,
+   "text": "activities. And nobody who's looking after these is going to get the hearing."
+  },
+  {
+   "start": 2315.99,
+   "end": 2325.65,
+   "text": "You really think any of them is likely to be invited by faculty members for dinner?"
+  },
+  {
+   "start": 2327.91,
+   "end": 2351.52,
+   "text": "So, there are no opportunities for adult ethnic monies, opportunities for recognition, and for self-development, and for growth, and for growing anything."
+  },
+  {
+   "start": 2351.52,
+   "end": 2357.16,
+   "text": "And then set it up as a separate activity."
+  },
+  {
+   "start": 2357.16,
+   "end": 2364.04,
+   "text": "The fellow runs the CMC Claremont Men's College feeding operation for Saga."
+  },
+  {
+   "start": 2364.04,
+   "end": 2375.76,
+   "text": "If he does a good job, he may find himself regional manager of the Saga College or institutional"
+  },
+  {
+   "start": 2375.76,
+   "end": 2387.81,
+   "text": "feeding places for Southern California, San Gabriel, I don't know how Saga is organized."
+  },
+  {
+   "start": 2387.81,
+   "end": 2391.93,
+   "text": "There may be 50 places in this immediate vicinity."
+  },
+  {
+   "start": 2391.93,
+   "end": 2401.16,
+   "text": "He has got a place, got a promotion ladder on his own, a promotion ladder on which the"
+  },
+  {
+   "start": 2401.16,
+   "end": 2409.06,
+   "text": "assistant professor of english is not on that ladder on the other hand the issue isn't going"
+  },
+  {
+   "start": 2409.06,
+   "end": 2424.37,
+   "text": "to be on the academic ladder and he gets he has a problem there are people who listen to him and"
+  },
+  {
+   "start": 2424.37,
+   "end": 2432.42,
+   "text": "know what he's talking about and can say jim look i'll forget that that there's anything oh jim look"
+  },
+  {
+   "start": 2432.42,
+   "end": 2442.05,
+   "text": "you're just trying to rush an elephant under the rug to cut the very real man's the main big"
+  },
+  {
+   "start": 2442.05,
+   "end": 2464.31,
+   "text": "problem they know and uh we understand that that's a very cool thing the more cold one that we in"
+  },
+  {
+   "start": 2464.31,
+   "end": 2479.84,
+   "text": "this country use except which is the reason why uh we don't if you have a hotel chain well all"
+  },
+  {
+   "start": 2479.84,
+   "end": 2486.0,
+   "text": "right you can get good commercial on this but let's imagine those sheraton hotels in new york"
+  },
+  {
+   "start": 2486.0,
+   "end": 2490.91,
+   "text": "and maybe seven of them for all I know and care."
+  },
+  {
+   "start": 2490.91,
+   "end": 2494.94,
+   "text": "If they have to set up their own laundry,"
+  },
+  {
+   "start": 2494.94,
+   "end": 2497.94,
+   "text": "then they might do well."
+  },
+  {
+   "start": 2497.94,
+   "end": 2502.82,
+   "text": "And they'll probably contract with an independent laundry,"
+  },
+  {
+   "start": 2502.82,
+   "end": 2506.24,
+   "text": "or plenty of laundry."
+  },
+  {
+   "start": 2506.24,
+   "end": 2508.24,
+   "text": "And they might well be advised to set it up"
+  },
+  {
+   "start": 2508.24,
+   "end": 2511.24,
+   "text": "in a business that sells on the outside market."
+  },
+  {
+   "start": 2511.24,
+   "end": 2514.24,
+   "text": "First a laundry manager, then has a P&L,"
+  },
+  {
+   "start": 2514.24,
+   "end": 2517.21,
+   "text": "can talk about the results."
+  },
+  {
+   "start": 2517.21,
+   "end": 2520.03,
+   "text": "But he can also say to you,"
+  },
+  {
+   "start": 2520.03,
+   "end": 2525.24,
+   "text": "look, most demands of you is like that."
+  },
+  {
+   "start": 2525.24,
+   "end": 2545.22,
+   "text": "I say 18 other hotels, not one of them, or you can say, look, children, you don't know what you are trying to economize on."
+  },
+  {
+   "start": 2545.22,
+   "end": 2556.77,
+   "text": "Just a very few ways of really judging a hotel."
+  },
+  {
+   "start": 2556.77,
+   "end": 2561.92,
+   "text": "Normal is very visible, and it makes more sense."
+  },
+  {
+   "start": 2561.92,
+   "end": 2565.92,
+   "text": "And all your competitors spend a little more money on normal."
+  },
+  {
+   "start": 2565.92,
+   "end": 2571.44,
+   "text": "And don't spend on bath towers."
+  },
+  {
+   "start": 2571.44,
+   "end": 2576.93,
+   "text": "And you are missing your best."
+  },
+  {
+   "start": 2576.93,
+   "end": 2602.74,
+   "text": "But you can also say, look, if you don't like it, take it elsewhere. See where they can get better service for less money elsewhere. I don't need, not very far from here in Santa Barbara, there is a research facility. How many of you know TEMPO? TEMPO is GE."
+  },
+  {
+   "start": 2602.74,
+   "end": 2656.91,
+   "text": "GE started it, give or take, 25 years ago, the think tank for the defense, because nobody in GE knew that fellow in the jet engine department in Cincinnati, when he knew Bishop, and that fellow in the small aircraft engine department in South Lynn, Massachusetts, when he knew Bishop,"
+  },
+  {
+   "start": 2656.91,
+   "end": 2675.7,
+   "text": "And then that fellow went out and got himself a few outside contracts."
+  },
+  {
+   "start": 2675.7,
+   "end": 2681.7,
+   "text": "And suddenly, I wouldn't say overnight, but within a year, the position totally changed."
+  },
+  {
+   "start": 2681.7,
+   "end": 2687.7,
+   "text": "The first time that fellow would say to my friend up there in Massachusetts,"
+  },
+  {
+   "start": 2687.7,
+   "end": 2693.26,
+   "text": "Look, Leopold, I don't think I can take that assignment of yours."
+  },
+  {
+   "start": 2693.26,
+   "end": 2702.25,
+   "text": "We are fully booked with work for Phillips."
+  },
+  {
+   "start": 2702.25,
+   "end": 2716.87,
+   "text": "different. That's what he actually said by 1957. Suddenly, Mikulov there, who had been complaining"
+  },
+  {
+   "start": 2716.87,
+   "end": 2724.71,
+   "text": "all the time about those long years, so impractical, and would think 20 years when what we need is 20"
+  },
+  {
+   "start": 2724.71,
+   "end": 2734.44,
+   "text": "days, took the shuttle down, the Eastern Airline shuttle down to New York and stormed into the"
+  },
+  {
+   "start": 2734.44,
+   "end": 2744.27,
+   "text": "president's office and scream those bans without the Santa Barbara you have to"
+  },
+  {
+   "start": 2744.27,
+   "end": 2751.29,
+   "text": "write me tell you the rest of history I think you can also and sudden simply be"
+  },
+  {
+   "start": 2751.29,
+   "end": 2760.31,
+   "text": "cool that fellow has outside with permission and here was well known that"
+  },
+  {
+   "start": 2760.31,
+   "end": 2769.8,
+   "text": "is that these Phillips had made up his mind to become a competitor"
+  },
+  {
+   "start": 2769.8,
+   "end": 2776.3,
+   "text": "And certainly, therefore, they must be good. They must be worth listening."
+  },
+  {
+   "start": 2776.3,
+   "end": 2784.72,
+   "text": "So, on the other hand, on the inside, you can tell them what to do."
+  },
+  {
+   "start": 2784.72,
+   "end": 2798.58,
+   "text": "On the outside, you know, they'll say, look, you still want to organize that flow of"
+  },
+  {
+   "start": 2798.58,
+   "end": 2806.48,
+   "text": "in your agency department, which is where fans lose a lot of money,"
+  },
+  {
+   "start": 2806.48,
+   "end": 2810.48,
+   "text": "staff transfers, and so on, for other people. They have no idea how to price it."
+  },
+  {
+   "start": 2810.48,
+   "end": 2821.37,
+   "text": "The only sensible thing is to go out of agency. Nobody's ever made money out of it."
+  },
+  {
+   "start": 2821.37,
+   "end": 2828.72,
+   "text": "And everybody says, but it brings in other business. There is no spread of evidence that it does."
+  },
+  {
+   "start": 2828.72,
+   "end": 2839.24,
+   "text": "Leave us at home. We have other things to do. Nobody's going to pay us a penny for agency."
+  },
+  {
+   "start": 2839.24,
+   "end": 2846.43,
+   "text": "Nobody gives to who? If you lose customers, the more the better."
+  },
+  {
+   "start": 2846.43,
+   "end": 2852.2,
+   "text": "You know, if you're on the inside, you can't see that."
+  },
+  {
+   "start": 2852.2,
+   "end": 2857.2,
+   "text": "Here are our friends and colleagues and brethren in agency in trouble."
+  },
+  {
+   "start": 2857.2,
+   "end": 2860.2,
+   "text": "They've been in trouble since 1832,"
+  },
+  {
+   "start": 2860.2,
+   "end": 2864.2,
+   "text": "whenever the First Bank went into the Indian idea."
+  },
+  {
+   "start": 2864.2,
+   "end": 2870.23,
+   "text": "They need it. They're losing money."
+  },
+  {
+   "start": 2870.23,
+   "end": 2875.71,
+   "text": "The more business they get, the more money do they lose."
+  },
+  {
+   "start": 2875.71,
+   "end": 2879.71,
+   "text": "The old story of the Eastside New York peddler saying,"
+  },
+  {
+   "start": 2879.71,
+   "end": 2886.78,
+   "text": "Look at this tie. I pay 95 cents for it."
+  },
+  {
+   "start": 2886.78,
+   "end": 2892.78,
+   "text": "unless you have it for 65 cents, and somebody says, how can you possibly make money that way?"
+  },
+  {
+   "start": 2892.78,
+   "end": 2896.78,
+   "text": "And he says, it's volume that runs it."
+  },
+  {
+   "start": 2896.78,
+   "end": 2899.78,
+   "text": "Nobody here says that. It's very old school."
+  },
+  {
+   "start": 2899.78,
+   "end": 2903.34,
+   "text": "I know many businesses that run that way."
+  },
+  {
+   "start": 2903.34,
+   "end": 2908.0,
+   "text": "Whereas, believe me, that federal does not run it that way."
+  },
+  {
+   "start": 2908.0,
+   "end": 2913.08,
+   "text": "He only talks that way. I know businesses that run it that way."
+  },
+  {
+   "start": 2913.08,
+   "end": 2918.08,
+   "text": "But, so, an agency in the big commercial banks does run that."
+  },
+  {
+   "start": 2918.08,
+   "end": 2929.03,
+   "text": "On your inside you can't say that, for reasons totally incomprehensible."
+  },
+  {
+   "start": 2929.03,
+   "end": 2937.72,
+   "text": "You keep on running agencies, as long as you want to keep on running."
+  },
+  {
+   "start": 2937.72,
+   "end": 2944.57,
+   "text": "But the first rule of data processing, as of most other endeavours, is"
+  },
+  {
+   "start": 2944.57,
+   "end": 2948.57,
+   "text": "the wrong thing has to be done, don't do it efficiently."
+  },
+  {
+   "start": 2948.57,
+   "end": 2956.49,
+   "text": "The wrong thing has to be done, do it prudently."
+  },
+  {
+   "start": 2956.49,
+   "end": 2964.39,
+   "text": "You can't say that. You may argue, but you're overruled."
+  },
+  {
+   "start": 2964.39,
+   "end": 2972.47,
+   "text": "you are making money if you're willing to pay us that much rate to be going I"
+  },
+  {
+   "start": 2972.47,
+   "end": 2978.94,
+   "text": "don't think you're going to pay it means with the outside you cannot say what we"
+  },
+  {
+   "start": 2978.94,
+   "end": 2986.0,
+   "text": "have to optimize our business then said you have to say we have to optimize you"
+  },
+  {
+   "start": 2986.0,
+   "end": 2997.68,
+   "text": "so these are the only alternative in between there is no okay we have another"
+  },
+  {
+   "start": 2997.68,
+   "end": 3009.28,
+   "text": "an hour or not twice uh last tuesday several of you said we are not willing to give up yet on the"
+  },
+  {
+   "start": 3010.0,
+   "end": 3019.46,
+   "text": "art museum remember i admire your persistence i'm not sure i admire your judgment"
+  },
+  {
+   "start": 3023.06,
+   "end": 3038.48,
+   "text": "uh i was perfectly willing to do that uh remember we said that was that one defined"
+  },
+  {
+   "start": 3038.48,
+   "end": 3048.82,
+   "text": "the problem. One digs in one's heels, no matter how flawed the dean is, over that wide old"
+  },
+  {
+   "start": 3048.82,
+   "end": 3056.14,
+   "text": "billet of the graduate council who reports what his friend the great museum director says."
+  },
+  {
+   "start": 3056.14,
+   "end": 3063.65,
+   "text": "It looks awfully fraudulent. Then you look it up in a book and indeed that apocryphal text"
+  },
+  {
+   "start": 3063.65,
+   "end": 3069.57,
+   "text": "on one of your concerts from time to time tells you first when determined what business you're in."
+  },
+  {
+   "start": 3069.57,
+   "end": 3084.35,
+   "text": "but will you please live that one does not in a diagnostic with the field of things first one makes"
+  },
+  {
+   "start": 3084.35,
+   "end": 3099.73,
+   "text": "the diagnosis then one looks at it but when you come in to see your physician you want him to"
+  },
+  {
+   "start": 3099.73,
+   "end": 3110.69,
+   "text": "listen to you and to look at you and to take your measurements and to sit and look at what"
+  },
+  {
+   "start": 3110.69,
+   "end": 3115.86,
+   "text": "Then you may very well have to write the book."
+  },
+  {
+   "start": 3115.86,
+   "end": 3124.11,
+   "text": "Very often, let me see, the good ones do it, although the good ones never do it in the presence of the patient."
+  },
+  {
+   "start": 3124.11,
+   "end": 3130.31,
+   "text": "For good reason. That makes the patient very uneasy."
+  },
+  {
+   "start": 3130.31,
+   "end": 3136.31,
+   "text": "Patients believe, have to believe, that the doctor knows the answer."
+  },
+  {
+   "start": 3136.31,
+   "end": 3141.68,
+   "text": "Whereas every doctor can tell you that he doesn't even know the question."
+  },
+  {
+   "start": 3141.68,
+   "end": 3145.14,
+   "text": "But the patient doesn't want to hear that."
+  },
+  {
+   "start": 3145.14,
+   "end": 3149.12,
+   "text": "But the good doctor, after you are gone,"
+  },
+  {
+   "start": 3149.12,
+   "end": 3154.38,
+   "text": "he wants to ask you, you know, call me in a week,"
+  },
+  {
+   "start": 3154.38,
+   "end": 3159.49,
+   "text": "then very often goes and cracks something."
+  },
+  {
+   "start": 3159.49,
+   "end": 3169.54,
+   "text": "Maybe he only realizes that he's forgotten."
+  },
+  {
+   "start": 3169.54,
+   "end": 3175.42,
+   "text": "He's not putting his own perfect, you know,"
+  },
+  {
+   "start": 3175.42,
+   "end": 3177.42,
+   "text": "he just hasn't had the scapegoat."
+  },
+  {
+   "start": 3177.42,
+   "end": 3180.6,
+   "text": "He's just forgotten."
+  },
+  {
+   "start": 3180.6,
+   "end": 3182.6,
+   "text": "Or he realizes that he's overlooked."
+  },
+  {
+   "start": 3182.6,
+   "end": 3186.94,
+   "text": "Or he has realized that he'll call in in a week"
+  },
+  {
+   "start": 3186.94,
+   "end": 3188.94,
+   "text": "and say, I'm perfectly all right."
+  },
+  {
+   "start": 3188.94,
+   "end": 3195.79,
+   "text": "That's so much better. But if you come back, maybe he makes an additional test."
+  },
+  {
+   "start": 3195.79,
+   "end": 3202.56,
+   "text": "It is unlike a living. And then he cracks a book."
+  },
+  {
+   "start": 3202.56,
+   "end": 3205.56,
+   "text": "And it's not a good man who never cracks a book."
+  },
+  {
+   "start": 3205.56,
+   "end": 3212.65,
+   "text": "But it's a hopeless one who starts out with reading up instead of looking at their patients."
+  },
+  {
+   "start": 3212.65,
+   "end": 3216.43,
+   "text": "And management is a diagnostic system."
+  },
+  {
+   "start": 3216.43,
+   "end": 3221.43,
+   "text": "Every business is different, every institution is different, every situation is different."
+  },
+  {
+   "start": 3221.43,
+   "end": 3233.42,
+   "text": "And then one looks at these situations, and one then, and one thinks through these possible"
+  },
+  {
+   "start": 3233.42,
+   "end": 3237.05,
+   "text": "definitions of the problem, and what are first things."
+  },
+  {
+   "start": 3237.05,
+   "end": 3244.06,
+   "text": "The second thing you learn is one thinks through a minimum of three alternatives."
+  },
+  {
+   "start": 3244.06,
+   "end": 3247.94,
+   "text": "Don't give up till you have three."
+  },
+  {
+   "start": 3247.94,
+   "end": 3252.9,
+   "text": "You don't need more of them."
+  },
+  {
+   "start": 3252.9,
+   "end": 3257.9,
+   "text": "If you have overlooked one, you know, and you have three, chances are in the process"
+  },
+  {
+   "start": 3257.9,
+   "end": 3261.9,
+   "text": "of analyzing, of testing them, you're going to fall over the floor."
+  },
+  {
+   "start": 3261.9,
+   "end": 3268.63,
+   "text": "But if you don't have three, you are unlikely to reach a real understanding."
+  },
+  {
+   "start": 3268.63,
+   "end": 3278.06,
+   "text": "Not because of the nature of the universe, but because of the nature of the human mind."
+  },
+  {
+   "start": 3278.06,
+   "end": 3284.06,
+   "text": "We have no idea whether this corresponds to the way the universe is organized."
+  },
+  {
+   "start": 3284.06,
+   "end": 3287.06,
+   "text": "Because we can only perceive the way we can perceive."
+  },
+  {
+   "start": 3287.06,
+   "end": 3292.12,
+   "text": "And therefore we do not perceive the universe."
+  },
+  {
+   "start": 3292.12,
+   "end": 3295.12,
+   "text": "We perceive what our mind can perceive."
+  },
+  {
+   "start": 3295.12,
+   "end": 3307.68,
+   "text": "And just as any of you can hear sounds in the high-pitched, any dog can hear, no, any"
+  },
+  {
+   "start": 3307.68,
+   "end": 3315.72,
+   "text": "dog can hear high-pitched noises, and practically none of us can hear them."
+  },
+  {
+   "start": 3315.72,
+   "end": 3318.72,
+   "text": "And that doesn't mean that those noises don't exist."
+  },
+  {
+   "start": 3318.72,
+   "end": 3320.72,
+   "text": "They are very real noises for the dog."
+  },
+  {
+   "start": 3320.72,
+   "end": 3323.63,
+   "text": "They are not noises for us."
+  },
+  {
+   "start": 3323.63,
+   "end": 3329.77,
+   "text": "And we can only perceive the ones in our band."
+  },
+  {
+   "start": 3329.77,
+   "end": 3333.27,
+   "text": "And on the other hand, we can see colors, you know, and dogs do not."
+  },
+  {
+   "start": 3335.1,
+   "end": 3337.24,
+   "text": "Dogs are colorblind, cats are not."
+  },
+  {
+   "start": 3338.53,
+   "end": 3343.59,
+   "text": "And the dog's world is black and white, maybe gray."
+  },
+  {
+   "start": 3344.78,
+   "end": 3347.94,
+   "text": "The dog is a very colorful world."
+  },
+  {
+   "start": 3348.6,
+   "end": 3353.53,
+   "text": "And dogs cannot perceive colors, and we can."
+  },
+  {
+   "start": 3353.75,
+   "end": 3358.41,
+   "text": "We can only perceive what we can perceive."
+  },
+  {
+   "start": 3359.78,
+   "end": 3364.71,
+   "text": "And the way we perceive, for reasons we do not understand,"
+  },
+  {
+   "start": 3364.71,
+   "end": 3369.64,
+   "text": "but which always, in fact, itself is amply documented."
+  },
+  {
+   "start": 3369.64,
+   "end": 3378.92,
+   "text": "We do not really differentiate if we have fewer than three choices."
+  },
+  {
+   "start": 3378.92,
+   "end": 3385.32,
+   "text": "It is very hard for us to differentiate two because then we fall into black and white."
+  },
+  {
+   "start": 3385.32,
+   "end": 3392.43,
+   "text": "And then most of you, I think, I hope know, practically the entire spectrum is between black and white."
+  },
+  {
+   "start": 3392.43,
+   "end": 3400.53,
+   "text": "And if all you can differentiate is black and white, you're colorblind. You don't see reality."
+  },
+  {
+   "start": 3400.53,
+   "end": 3411.33,
+   "text": "And so you need black, white, and red, and then you can differentiate actually color the differences."
+  },
+  {
+   "start": 3411.33,
+   "end": 3417.48,
+   "text": "We may have to work with, of all animals, the finest quality."
+  },
+  {
+   "start": 3417.48,
+   "end": 3423.41,
+   "text": "Nobody can tell you that."
+  },
+  {
+   "start": 3423.41,
+   "end": 3434.92,
+   "text": "The human mind is so structured that it doesn't require us to be,"
+  },
+  {
+   "start": 3434.92,
+   "end": 3436.92,
+   "text": "but it could be useful."
+  },
+  {
+   "start": 3436.92,
+   "end": 3438.92,
+   "text": "And it is so structured that we don't know."
+  },
+  {
+   "start": 3438.92,
+   "end": 3444.08,
+   "text": "For all we know, toads can differentiate 17 objects."
+  },
+  {
+   "start": 3444.08,
+   "end": 3447.28,
+   "text": "We don't know."
+  },
+  {
+   "start": 3447.28,
+   "end": 3449.28,
+   "text": "And no way we can find it out."
+  },
+  {
+   "start": 3449.28,
+   "end": 3456.26,
+   "text": "We are bumping up against the upper limit."
+  },
+  {
+   "start": 3456.26,
+   "end": 3460.52,
+   "text": "For most of us it is five, for very few."
+  },
+  {
+   "start": 3460.52,
+   "end": 3495.55,
+   "text": "And so if you go much about three, we begin to become one doesn't give in until one has three, getting alternative definitions. And once you have three that are adequate, one doesn't really, there's no compelling need to go on from there on, it's play rather than lead."
+  },
+  {
+   "start": 3495.55,
+   "end": 3504.66,
+   "text": "And then the next thing is one says, well, are these all serious hypotheses?"
+  },
+  {
+   "start": 3505.86,
+   "end": 3511.74,
+   "text": "Do they all end with these definitions?"
+  },
+  {
+   "start": 3512.8,
+   "end": 3527.55,
+   "text": "Hypothesis is a yes that embraces that which all the objects are."
+  },
+  {
+   "start": 3529.42,
+   "end": 3530.34,
+   "text": "But it's it."
+  },
+  {
+   "start": 3531.76,
+   "end": 3535.53,
+   "text": "And then one says, let's guess."
+  },
+  {
+   "start": 3535.77,
+   "end": 3543.68,
+   "text": "You see, if we had found that one of our definitions is not finished with the hypothesis,"
+  },
+  {
+   "start": 3543.68,
+   "end": 3552.47,
+   "text": "It's more than probably the thing to go back and look for a definitive definition that we can be tested."
+  },
+  {
+   "start": 3552.47,
+   "end": 3563.3,
+   "text": "But we may not have found it."
+  },
+  {
+   "start": 3563.3,
+   "end": 3572.3,
+   "text": "What can we identify saying these people did objectively wrong?"
+  },
+  {
+   "start": 3572.3,
+   "end": 3575.3,
+   "text": "Simply violating the rules."
+  },
+  {
+   "start": 3575.3,
+   "end": 3580.08,
+   "text": "People decisions we know the rules."
+  },
+  {
+   "start": 3580.08,
+   "end": 3582.7,
+   "text": "We know what not to do."
+  },
+  {
+   "start": 3582.7,
+   "end": 3584.7,
+   "text": "We don't know what to do."
+  },
+  {
+   "start": 3584.7,
+   "end": 3593.99,
+   "text": "If you know but not to pray, know not to start with a name, start with the assignment."
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 25.72,
+ "created_utc": "2026-09-29T02:31:46+00:00"
+}

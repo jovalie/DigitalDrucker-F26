@@ -1,0 +1,115 @@
+{
+  "_comment": "Models needed to run the two shipped ComfyUI workflows (LTX 2.3 ID-LoRA int8, MiniMax H3 i2v). Paths are relative to the ComfyUI models/ directory. sha256 values were verified when the files were first downloaded. Fetch with: python3 scripts/fetch-models.py [--only ltx|minimax]",
+  "models": [
+    {
+      "group": "ltx",
+      "path": "diffusion_models/ltx-2.3-22b-dev_transformer_only_int8_convrot.safetensors",
+      "repo": "Kijai/LTX2.3_comfy",
+      "file": "diffusion_models/ltx-2.3-22b-dev_transformer_only_int8_convrot.safetensors",
+      "size": 21505993064,
+      "sha256": "6f4b86bd840cb83179e9021306a63119c3b4e664248292c4103613a2d4a4484c",
+      "note": "int8/convrot transformer, runs natively on V100 (20 GB instead of the 27 GB fp8 checkpoint)"
+    },
+    {
+      "group": "ltx",
+      "path": "vae/LTX23_video_vae_bf16.safetensors",
+      "repo": "Kijai/LTX2.3_comfy",
+      "file": "vae/LTX23_video_vae_bf16.safetensors",
+      "size": 1452258578,
+      "sha256": "01ea62d09bc139f95c5dee7b5c062ad6a3e6cd8be910a1983ac02e7eb5b8ee3b",
+      "note": "needed because the transformer-only file carries no VAE"
+    },
+    {
+      "group": "ltx",
+      "path": "vae/LTX23_audio_vae_bf16.safetensors",
+      "repo": "Kijai/LTX2.3_comfy",
+      "file": "vae/LTX23_audio_vae_bf16.safetensors",
+      "size": 364855188,
+      "sha256": "5bc10fa4adecf99dda132d916e23048cbd56797702c5fa50eb5d2079048a38c3",
+      "note": "optional: the workflow currently reads the audio VAE out of the fp8 checkpoint"
+    },
+    {
+      "group": "ltx",
+      "path": "checkpoints/ltx-2.3-22b-dev-fp8.safetensors",
+      "repo": "Lightricks/LTX-2.3-fp8",
+      "file": "ltx-2.3-22b-dev-fp8.safetensors",
+      "size": 29145431166,
+      "sha256": "28606c5b5a06ce56f896d4dfcb20f212739e07a68fbe48e53638188449d26450",
+      "note": "the int8 workflows still use this for the Gemma text-encoder + audio-VAE weights only (27 GB, never fully resident)"
+    },
+    {
+      "group": "ltx",
+      "path": "loras/ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors",
+      "repo": "Comfy-Org/ltx-2.3",
+      "file": "split_files/loras/ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors",
+      "size": 2741024390,
+      "sha256": "31e0c0195fb841bf31af78e8b60858f489e87ddcea4a5239abc80943da65e3ac"
+    },
+    {
+      "group": "ltx",
+      "path": "loras/ltx-2.3-id-lora-talkvid-3k.safetensors",
+      "repo": "Comfy-Org/ltx-2.3",
+      "file": "split_files/loras/ltx-2.3-id-lora-talkvid-3k.safetensors",
+      "size": 1157884304,
+      "sha256": "e5af73441743b4852f228b03e444888dff3da80d2666033af2367ab7bda6d8b9",
+      "note": "identity LoRA used by the ID-LoRA workflow"
+    },
+    {
+      "group": "ltx",
+      "path": "text_encoders/gemma_3_12B_it_fp4_mixed.safetensors",
+      "repo": "Comfy-Org/ltx-2",
+      "file": "split_files/text_encoders/gemma_3_12B_it_fp4_mixed.safetensors",
+      "size": 9447702218,
+      "sha256": "aaca463d11e6d8d2a4bdb0d6299214c15ef78a3f73e0ef8113d5a9d0219b3f6d"
+    },
+    {
+      "group": "ltx",
+      "path": "latent_upscale_models/ltx-2.3-spatial-upscaler-x2-1.1.safetensors",
+      "repo": "Lightricks/LTX-2.3",
+      "file": "ltx-2.3-spatial-upscaler-x2-1.1.safetensors",
+      "size": 995743560,
+      "sha256": "5f416311fa8172b65af67530758964708d29a317b830d689a51143b7f91913ed"
+    },
+    {
+      "group": "minimax",
+      "path": "diffusion_models/minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+      "repo": "Comfy-Org/MiniMax-H3",
+      "file": "diffusion_models/minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+      "size": 20970379616,
+      "sha256": "e889202c41dafb67b10d67b97f0d8541508036a6090af23425a5c2615d03c47a"
+    },
+    {
+      "group": "minimax",
+      "path": "vae/minimax_h3_video_vae_int8_convrot.safetensors",
+      "repo": "Comfy-Org/MiniMax-H3",
+      "file": "vae/minimax_h3_video_vae_int8_convrot.safetensors",
+      "size": 2811065184,
+      "sha256": "52a2c8c73583c86e4f41cdcce3a6ad0ea562987bc0bf3d60a0cef5f5c8e60c0e"
+    },
+    {
+      "group": "minimax",
+      "path": "vae/minimax_h3_audio_vae_fp32.safetensors",
+      "repo": "Comfy-Org/MiniMax-H3",
+      "file": "vae/minimax_h3_audio_vae_fp32.safetensors",
+      "size": 605254808,
+      "sha256": "8e505d95dd1561d47abd43d4238fd40d9bb1ae9e147ed0a4cba778d76ae4db48"
+    },
+    {
+      "group": "minimax",
+      "path": "text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "repo": "Comfy-Org/MiniMax-H3",
+      "file": "text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "size": 15687142551,
+      "sha256": "35a88d51044231fe332301d7a62aa81e3f2cba62febeb446e2c1e3e0ef76f2c6",
+      "note": "nvfp4 is emulated on V100 (slow but works); int8_convrot variant is faster on Volta"
+    },
+    {
+      "group": "minimax",
+      "path": "loras/minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors",
+      "repo": "Comfy-Org/MiniMax-H3",
+      "file": "loras/minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors",
+      "size": 1956193000,
+      "sha256": "2339acdf19bfe123f46b971ea35d367a84adb85de43627e1eceafa5a5b2b111e"
+    }
+  ]
+}

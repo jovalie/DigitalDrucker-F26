@@ -1,0 +1,1439 @@
+1
+00:00:00,890 --> 00:00:06,390
+from you today. If not, we definitely set next
+
+2
+00:00:06,390 --> 00:00:10,370
+class session aside for questions from you, questions
+
+3
+00:00:10,370 --> 00:00:14,450
+from you. So, I would be grateful if
+
+4
+00:00:14,450 --> 00:00:18,860
+you were to think through any questions you might have.
+
+5
+00:00:18,960 --> 00:00:22,360
+They should be related to the announced subject matter
+
+6
+00:00:22,360 --> 00:00:26,160
+of this unit. In other words, don't put me as Stephen.
+
+7
+00:00:26,760 --> 00:00:31,900
+He doesn't need me. Yes. But
+
+8
+00:00:31,900 --> 00:00:41,800
+We don't have to be too literal about it, but I would be grateful if you spent a little time thinking about what kind of questions you might want to ask.
+
+9
+00:00:41,800 --> 00:01:06,760
+Do you remember last and Tuesday, we said how does one really remain, you see, this is the crux of this case, is how does one really come to grips with the development of strategies beyond being brilliant about them.
+
+10
+00:01:06,760 --> 00:01:27,780
+As a matter of fact, one of the things you're going to learn, I hope, in this case, is that brilliance faculties ought to be suspected. Things that work are usually very, very, or very elementary. In the last analysis, everything in this world has to be done by morons.
+
+11
+00:01:27,780 --> 00:01:45,620
+You don't need no one else to do the work, whether you overpay them or not, and therefore everything has to be more on purpose. This means that our work starts to be simple. Anything that's complex doesn't work.
+
+12
+00:01:45,620 --> 00:02:04,940
+Largely because when somebody hires Cuban refugees to break into water, it's complicated, they can't do it.
+
+13
+00:02:04,940 --> 00:02:20,050
+And also, let me say, one of the most important things to know about organizations is that no matter how hard you work on communications, they don't communicate.
+
+14
+00:02:20,050 --> 00:02:26,530
+They are slow, they are hit and miss, and above all, they distort.
+
+15
+00:02:26,530 --> 00:02:32,580
+Anybody know enough mathematical information theories to know the axiom about,
+
+16
+00:02:32,580 --> 00:02:36,380
+the theorem about what the relay does to communication?
+
+17
+00:02:36,380 --> 00:02:39,740
+Any telephone man in here?
+
+18
+00:02:39,740 --> 00:02:46,430
+You know the relationship between message and number of relays?
+
+19
+00:02:46,430 --> 00:02:54,800
+Every relay cuts the message content in half and doubles the noise.
+
+20
+00:02:54,800 --> 00:03:03,230
+and that is as true of a human information system as of an electronic as a matter of fact it's
+
+21
+00:03:03,230 --> 00:03:11,930
+probably more true it is easier to debug an electronic system than a human thing and therefore
+
+22
+00:03:13,050 --> 00:03:19,500
+by the time the message gets down to the powers of the organization god only knows what
+
+23
+00:03:20,300 --> 00:03:27,440
+it says you remember that children's game in england it was from jerusalem
+
+24
+00:03:27,440 --> 00:03:31,040
+where you have a ring of children who wish for something to deal with,
+
+25
+00:03:31,040 --> 00:03:33,850
+I don't know what it's called in this country,
+
+26
+00:03:33,850 --> 00:03:37,160
+and you know what comes out at the end?
+
+27
+00:03:37,160 --> 00:03:41,240
+Children aren't usually acute in their perception,
+
+28
+00:03:41,240 --> 00:03:45,240
+and yet you know that the total gibberish comes out,
+
+29
+00:03:45,240 --> 00:03:51,720
+or something totally different, even if you're only six or eight years.
+
+30
+00:03:51,720 --> 00:03:56,120
+And so if you have complicated things,
+
+31
+00:03:56,120 --> 00:03:58,880
+If you change your signals very often,
+
+32
+00:03:59,020 --> 00:04:00,600
+among all, you are terribly slow.
+
+33
+00:04:00,880 --> 00:04:02,580
+Communication is terribly slow.
+
+34
+00:04:03,240 --> 00:04:04,460
+And you're only confused.
+
+35
+00:04:06,060 --> 00:04:08,820
+And so brilliant things don't work.
+
+36
+00:04:09,800 --> 00:04:12,360
+I had an old boss many, many years ago.
+
+37
+00:04:12,360 --> 00:04:17,500
+In many ways a wise man, a very foolish man,
+
+38
+00:04:17,580 --> 00:04:21,270
+a very wise man, he always said,
+
+39
+00:04:21,590 --> 00:04:24,550
+he nags, he says, but one is not right.
+
+40
+00:04:25,110 --> 00:04:27,110
+One is strict and honest.
+
+41
+00:04:29,120 --> 00:04:32,540
+And what a banter.
+
+42
+00:04:32,540 --> 00:04:45,980
+And he was absolutely right. And not because he couldn't accept it, don't worry, but simply because nobody understands.
+
+43
+00:04:45,980 --> 00:04:57,890
+And so strategies that are very brilliant usually become the victims of their own mistakes.
+
+44
+00:04:57,890 --> 00:05:04,930
+Another very wise man I know, by accident, also a banker.
+
+45
+00:05:04,930 --> 00:05:15,980
+But in New York, the Congress of America always retired on its existence in full vigor.
+
+46
+00:05:15,980 --> 00:05:20,060
+In its existence in full vigor.
+
+47
+00:05:20,060 --> 00:05:26,250
+And I said to him, oh, why?
+
+48
+00:05:26,250 --> 00:05:37,600
+And he said, I have lost my women's panel.
+
+49
+00:05:37,600 --> 00:05:38,600
+I said, what do you mean?
+
+50
+00:05:38,600 --> 00:05:41,600
+He said, you know, I had three teenage mortals.
+
+51
+00:05:41,600 --> 00:05:47,010
+And whenever I had a strategy, I tried it on them.
+
+52
+00:05:47,010 --> 00:05:50,550
+There are bright fields, but you know nothing about them.
+
+53
+00:05:51,550 --> 00:05:55,000
+When they could tell me what I was trying to do,
+
+54
+00:05:55,080 --> 00:05:58,360
+and you were distracted, that's the only college.
+
+55
+00:05:58,700 --> 00:06:00,680
+First, they're becoming corrupted.
+
+56
+00:06:01,750 --> 00:06:03,470
+And secondly, I'm all on my own.
+
+57
+00:06:07,120 --> 00:06:10,120
+I'm doing some brilliant things, I agree with.
+
+58
+00:06:11,430 --> 00:06:17,220
+And so, I'd rather do something that I've always wanted to do
+
+59
+00:06:17,220 --> 00:06:22,590
+and to be happy and be in a country of thousand cows
+
+60
+00:06:22,590 --> 00:06:25,170
+or something like that, some place in Montana.
+
+61
+00:06:25,650 --> 00:06:37,220
+and uh but without those kids who played it back to me uh when they understood when they
+
+62
+00:06:37,220 --> 00:06:42,340
+could tell me what i was trying to do i knew i had something even my vice president might
+
+63
+00:06:42,340 --> 00:06:50,900
+understand and uh and this is a wise man man is not going to agree with the cynicism perhaps
+
+64
+00:06:50,900 --> 00:06:54,900
+So then he knows what bank master is and better than I do, he knows.
+
+65
+00:06:54,900 --> 00:07:07,300
+But so, so he lived this life more than me.
+
+66
+00:07:07,300 --> 00:07:18,570
+And we first said, the first thing one does is a very elementary and pedestrian
+
+67
+00:07:18,570 --> 00:07:28,100
+and still good job of saying, let's put down every possible motive.
+
+68
+00:07:28,100 --> 00:07:34,600
+And let's not say this excuse, and let's not argue about that.
+
+69
+00:07:34,600 --> 00:07:48,840
+Let's put them down. And one is always to...
+
+70
+00:07:48,840 --> 00:07:58,640
+You know, in one of Kepling's books, I don't know which is, probably, you know,
+
+71
+00:07:58,640 --> 00:08:05,920
+no, probably in a different book, the human being is defined as a monkey that can't keep his hands still.
+
+72
+00:08:05,920 --> 00:08:24,180
+One of the things to learn is not to have to do something, to be able to sit still, but it is always a viable alternative
+
+73
+00:08:24,180 --> 00:08:39,430
+till it is proven that it is the wrong one, either because you face a degenerative condition or because you can't satisfy your minimum specifications.
+
+74
+00:08:39,430 --> 00:08:48,320
+And so we put down some more journeys, and let me say, we really made strategies for this company.
+
+75
+00:08:48,320 --> 00:08:55,660
+We would not have done the job, simply because we didn't spend enough time.
+
+76
+00:08:55,660 --> 00:09:04,680
+We walked around it once, and in order to see all possible strategies, you have to go around it maybe six times, eight times.
+
+77
+00:09:04,680 --> 00:09:13,550
+The first time you see what they say, immediately you can see to do nothing you didn't consider.
+
+78
+00:09:13,550 --> 00:09:22,690
+But the first time somebody saw here, and they didn't apply logic, they had a better perception,
+
+79
+00:09:22,690 --> 00:09:30,550
+but I want you to listen to a pilot, saw that the first sense of chronology was violated here,
+
+80
+00:09:30,550 --> 00:09:40,580
+that two contrasts were posited as two contradictions, and that these are not two contradictions,
+
+81
+00:09:40,580 --> 00:09:57,730
+These are maybe not even extremes. These are not black and non-black. These are black and white, or black and green. And that's always a clear sign that one hasn't exhausted the alternative. And one can never exhaust all the alternatives.
+
+82
+00:09:57,730 --> 00:10:05,550
+as much as I think we need to make sure that all the people remain content, one does not...
+
+83
+00:10:05,550 --> 00:10:10,110
+The next thing you saw, and I want you to remember, because these are all typical,
+
+84
+00:10:10,110 --> 00:10:22,670
+you saw that one of the alternatives is the hybrid. Who does the union want? That's the hybrid.
+
+85
+00:10:22,670 --> 00:10:30,190
+Namely, let's expand overseas in Europe. Now, overseas outside of North America.
+
+86
+00:10:30,190 --> 00:10:43,920
+outside of north america is not defined by india and therefore this violate a second very basic
+
+87
+00:10:43,920 --> 00:10:55,220
+rule of logic of decision making which is make one step at a time and not to this step here is
+
+88
+00:10:55,220 --> 00:11:06,020
+if you say ex don't do nothing expand in the u.s and since we have reason to believe that
+
+89
+00:11:06,020 --> 00:11:20,580
+But we put where business is not as requested, speak, expand where our expertise, which is buying and distributing,
+
+90
+00:11:20,580 --> 00:11:28,460
+we put in our brand as highly passioned, which is as for a passioned country, a buyer.
+
+91
+00:11:28,460 --> 00:11:42,590
+And we clearly standardize it, where that can be put to work.
+
+92
+00:11:42,590 --> 00:11:53,570
+And the other alternative is to stick with what we know, which is putria, but go outside of North America.
+
+93
+00:11:53,570 --> 00:11:59,530
+And this does not imply by necessity Europe.
+
+94
+00:11:59,530 --> 00:12:07,290
+Europe is a currency and not a definition outside of North America.
+
+95
+00:12:07,290 --> 00:12:30,680
+And therefore one immediately hooks in and says, now wait a minute, you say Europe, but that is not inhabited globe, it's not even the footbath globe, it is the airport.
+
+96
+00:12:30,680 --> 00:13:00,380
+And so clearly one possible strategy is elsewhere. And since Europe can be taken to mean not the geographic field, but developed countries, that's what people usually mean when they say they don't exclude Australia in terms of its ethnic makeup and of its buying behavior and of its political power, this is of course European.
+
+97
+00:13:00,380 --> 00:13:20,200
+They don't even exclude Japan. They mean developed countries or countries that are at least not far down. Why do you do that? People usually don't think of Brazil, which clearly belongs in that category.
+
+98
+00:13:20,200 --> 00:13:32,220
+But so what you mean is footwear in countries with very relatively high and rapidly growing purchasing power
+
+99
+00:13:32,220 --> 00:13:45,530
+and countries with relatively low but rapidly growing, developing, developed, and Europe is shorthand for the latter.
+
+100
+00:13:45,530 --> 00:13:57,370
+But we stopped there because we simply didn't have enough time and also because we are not that serious about the footwear business.
+
+101
+00:13:57,530 --> 00:13:58,410
+Anybody that's serious?
+
+102
+00:13:58,410 --> 00:14:08,310
+You want to learn how to make strategic decisions, you want to know what is good for running that company.
+
+103
+00:14:08,310 --> 00:14:15,310
+So, the sound principles are to do more work in that field than necessary if you are not fit for it.
+
+104
+00:14:15,310 --> 00:14:22,540
+And you want to understand how it works.
+
+105
+00:14:22,540 --> 00:14:43,720
+And once one has these strategies, all this, and up to that point, one does not allow, one does not allow anybody to say, I like this one and I don't like that one. Not the downside of it.
+
+106
+00:14:43,720 --> 00:14:51,400
+First, let's get them out and not have obscenities.
+
+107
+00:14:51,400 --> 00:15:06,740
+First, because everybody who has been close to a situation,
+
+108
+00:15:06,740 --> 00:15:13,520
+whether that's the business or any other situation, has them.
+
+109
+00:15:13,520 --> 00:15:18,600
+And don't ever believe the people who tell you,
+
+110
+00:15:18,600 --> 00:15:22,470
+There's one guy in Stuttgart, I'll say to him,
+
+111
+00:15:22,550 --> 00:15:26,230
+I'll tell you, you've been in the foodware business 20 years.
+
+112
+00:15:27,010 --> 00:15:34,050
+You have built a stagnant small company into a very prosperous big company.
+
+113
+00:15:34,590 --> 00:15:38,390
+You want to tell me that you don't have opinions about the foodware business?
+
+114
+00:15:38,390 --> 00:15:40,490
+That's a deaf-mute moron.
+
+115
+00:15:41,320 --> 00:15:43,820
+Everybody else has a little opinion.
+
+116
+00:15:45,680 --> 00:15:47,680
+You've lived it for 20 years.
+
+117
+00:15:47,680 --> 00:15:56,570
+You can't possibly not have been exposed to it, and not have come to your opinion.
+
+118
+00:15:56,570 --> 00:16:05,790
+And after 20 years, one holds in mind a prejudice, which the force of considerate church,
+
+119
+00:16:07,160 --> 00:16:13,800
+well, it's acid to believe that one can then not have opinions.
+
+120
+00:16:13,800 --> 00:16:25,170
+I can have no opinions if I am to ask you here about what is your opinion about northern Afghanistan.
+
+121
+00:16:25,950 --> 00:16:29,530
+Some of you might very well think that you have no opinion.
+
+122
+00:16:30,530 --> 00:16:31,650
+Anybody think that I have?
+
+123
+00:16:34,000 --> 00:16:38,620
+Now you may, some of you may have stray bits of misinformation about it.
+
+124
+00:16:39,650 --> 00:16:47,100
+The one thing I know about northern Afghanistan, except it is probably highly mountainous.
+
+125
+00:16:47,660 --> 00:16:48,600
+Probably, I don't know.
+
+126
+00:16:48,600 --> 00:17:06,800
+I would imagine so is that around the 4th century of our time, this was the seat of a very important civilization in which Indian, Hellenistic, and Chinese civilization met, which had a powerful impact on particularly on China and Japan, the Gandhara civilization.
+
+127
+00:17:06,800 --> 00:17:25,900
+So that's a piece of totally irrelevant information, which probably, if I drop tomorrow by parachute into North Afghanistan, will not even get me a breakfast. So, but that's all I know. I'm not being sure that it was in North Afghanistan. It was someplace.
+
+128
+00:17:25,900 --> 00:17:33,230
+So, anybody have any more opinions?
+
+129
+00:17:33,230 --> 00:17:36,230
+Now, there you can be unprejudiced.
+
+130
+00:17:36,230 --> 00:17:43,760
+You can start out by going to the World Almanac and theatres and encyclopaedia
+
+131
+00:17:43,760 --> 00:17:45,760
+and get some facts.
+
+132
+00:17:45,760 --> 00:17:48,760
+But now you have lived for 20 years, you know, in Afghanistan.
+
+133
+00:17:48,760 --> 00:17:54,090
+Going for facts, you really think that you can start out with facts.
+
+134
+00:17:54,090 --> 00:18:01,900
+When you start out with opinion about people and opinion about where the hell of a place is going to
+
+135
+00:18:01,900 --> 00:18:09,900
+and where it's coming from, some of those things you may be facing.
+
+136
+00:18:09,900 --> 00:18:19,400
+So one does not face all these attacks, one puts oneself in a discipline
+
+137
+00:18:19,400 --> 00:18:29,060
+that forces you to subordinate the opinion of one's own and so one lines up the area with respect.
+
+138
+00:18:29,060 --> 00:18:36,320
+And then everybody is ready to have opinions and have a high good old time discussing them.
+
+139
+00:18:36,320 --> 00:18:42,280
+And one says, now wait a minute, not yet, not yet.
+
+140
+00:18:42,280 --> 00:18:47,660
+I'm for diagnosis, I'm for diagnosis.
+
+141
+00:18:47,660 --> 00:19:05,300
+Now let's relate these strategies to another set of more or less impersonal,
+
+142
+00:19:05,300 --> 00:19:13,140
+more or less objective, more or less non-opinion information.
+
+143
+00:19:13,140 --> 00:19:23,140
+One is, honestly, how do they believe? What are they?
+
+144
+00:19:23,140 --> 00:19:28,500
+Ah, sure, if we don't believe, and one fellow will say,
+
+145
+00:19:28,500 --> 00:19:32,730
+we are really very good at financial management.
+
+146
+00:19:32,730 --> 00:19:35,730
+And the other fellow says, yes, we are pretty good at financial management,
+
+147
+00:19:35,730 --> 00:19:40,610
+but few change, which are notoriously poor in the area.
+
+148
+00:19:40,610 --> 00:19:47,610
+but they put us up against people who really know finance management, specific retailers, and so on.
+
+149
+00:19:47,610 --> 00:19:59,100
+Okay. But at least we are not most inefficient in the ability to finance the retailers and the managers.
+
+150
+00:19:59,100 --> 00:20:03,520
+Anybody here in this room can do it right now.
+
+151
+00:20:03,520 --> 00:20:06,890
+Which is very different from manufacturing.
+
+152
+00:20:06,890 --> 00:20:44,960
+I think it's financial control we find, or at least we are, we may not be top like, but at least we are not clearly moving, and if somebody says we are going to open 60 stores in a year, we have a pretty good idea what that means in terms of financial terms, and we have a pretty good idea what it means in terms of stock and cost, and we have a pretty good idea what accounting options we have.
+
+153
+00:20:45,160 --> 00:20:54,590
+I don't. You run a weekly chain for 10 years. If you have points flat on your financial
+
+154
+00:20:54,590 --> 00:21:07,770
+fees, why are you doing this? And so we may not be the world's Theodosians, but we can
+
+155
+00:21:07,770 --> 00:21:16,120
+accompany Silent Night with the Christmas concert of the Grammar School. The difference
+
+156
+00:21:16,120 --> 00:21:20,740
+between that and being, in the worst case, a pianist,
+
+157
+00:21:20,820 --> 00:21:26,210
+but at least we know that I put notes to the scale.
+
+158
+00:21:26,730 --> 00:21:29,530
+Ah, what more can a great many people do?
+
+159
+00:21:30,790 --> 00:21:35,070
+And so if you ask us to look at the score,
+
+160
+00:21:35,210 --> 00:21:36,190
+at least we know what it is.
+
+161
+00:21:39,040 --> 00:21:48,050
+And you may say we are very good at developing managers.
+
+162
+00:21:48,050 --> 00:21:56,060
+Although everybody knew that it took 16 years
+
+163
+00:21:56,060 --> 00:21:59,240
+before anybody, the manager, should still come after you.
+
+164
+00:22:01,390 --> 00:22:03,290
+And we can do it in 16 months.
+
+165
+00:22:06,000 --> 00:22:09,360
+Confession of the power of the ego.
+
+166
+00:22:09,780 --> 00:22:13,610
+And most of our managers are successors.
+
+167
+00:22:13,710 --> 00:22:15,390
+80% of them make it.
+
+168
+00:22:17,080 --> 00:22:19,180
+And we know this is pretty good.
+
+169
+00:22:19,280 --> 00:22:24,180
+So we know how one develops a young fellow without a woman,
+
+170
+00:22:24,180 --> 00:22:26,860
+without a great deal of knowledge and education.
+
+171
+00:22:27,160 --> 00:22:30,520
+The man, I think, is a small person.
+
+172
+00:22:30,520 --> 00:23:03,480
+We are not quite as good as the next level. The quotient may be the critical level. The district does own that. They are batting out of it. Yes, there are failure rates quite high. And there we are not, we don't really know how to, and so let's put this down into the doubtful context.
+
+173
+00:23:03,480 --> 00:23:12,890
+developing managers belong to these into the average plus, if not B minus column.
+
+174
+00:23:12,890 --> 00:23:17,890
+Perhaps a little bit better. Somebody will say B plus, and somebody will even say A.
+
+175
+00:23:17,890 --> 00:23:24,460
+Honored. Ah, but all right. But it's certainly better than average.
+
+176
+00:23:24,460 --> 00:23:33,110
+And district managers, you understand, when it comes to developing merchandise,
+
+177
+00:23:33,110 --> 00:23:39,750
+we are all right. When it comes to getting it into the store,
+
+178
+00:23:39,750 --> 00:23:54,890
+picking the ones that said we are very bad. That's our real strength. Our competitors take three weeks to see that they should sell for them, you know, after three weeks of work.
+
+179
+00:23:54,890 --> 00:24:02,890
+We understand what stores set the pace, what results mean. We try to computerize it.
+
+180
+00:24:02,890 --> 00:24:08,890
+In computer, I think the bromance of the nose is very different than that.
+
+181
+00:24:08,890 --> 00:24:16,120
+These are the things, people with a good nose, and they're very hard to systematize.
+
+182
+00:24:16,120 --> 00:24:19,120
+But the people in the business, you all know what I'm talking about.
+
+183
+00:24:19,120 --> 00:24:23,120
+You've got such functions in your business, everybody does.
+
+184
+00:24:23,120 --> 00:24:25,550
+It's okay.
+
+185
+00:24:25,550 --> 00:24:40,260
+And what I'm saying is yesterday they looked at the branch of the bank,
+
+186
+00:24:40,260 --> 00:24:46,160
+they called me up and said they had a payment for it.
+
+187
+00:24:46,160 --> 00:24:48,590
+I said, from whom are you?
+
+188
+00:24:48,590 --> 00:24:57,630
+He said, did you receive any notice of expecting a payment of 708,000 or 60% or whatever it was?
+
+189
+00:24:57,630 --> 00:24:59,630
+I said, where does it come from?
+
+190
+00:24:59,630 --> 00:25:06,530
+He said, we got it from the chemical bank in New York.
+
+191
+00:25:06,530 --> 00:25:12,900
+And I'm almost sure it comes from Germany, because their German limiters are never right.
+
+192
+00:25:12,900 --> 00:25:16,900
+Now that's a black man, I think.
+
+193
+00:25:16,900 --> 00:25:23,220
+But that, you know, yeah.
+
+194
+00:25:23,220 --> 00:25:27,220
+And he was right, but the way I got the remittance notice from the German
+
+195
+00:25:27,220 --> 00:25:33,500
+magazine publisher. That, but one doesn't
+
+196
+00:25:33,500 --> 00:25:37,500
+can't put that into a book. You've seen enough chemical bank remittances
+
+197
+00:25:37,500 --> 00:25:41,500
+over ten years. So I know that when
+
+198
+00:25:41,500 --> 00:25:47,090
+somehow the German branches of the chemical bank are slightly
+
+199
+00:25:47,090 --> 00:26:07,420
+This is very slow. And you can learn this, you can learn it, you can teach it. And it's not any good. And so we know, we have learned very rapidly to see what's in what's in.
+
+200
+00:26:07,420 --> 00:26:38,540
+You have made mistakes, but you understand. And with that respect, we are way ahead. And when it comes to thought, we are very good. When it comes to math, we are very good.
+
+201
+00:26:38,540 --> 00:26:52,080
+Under Python, we are not really good at math. So, upwards down, one's strengths and weaknesses. Then one says, which of these are relevant to this topic?
+
+202
+00:26:52,080 --> 00:27:05,740
+What weaknesses and then one says, and what strengths and weaknesses, what strengths does the strategy demand and what weaknesses can it not be in front of you?
+
+203
+00:27:05,740 --> 00:27:19,530
+What are physical weaknesses? What strategies? And one way, and it isn't that one can't learn new things, let me say.
+
+204
+00:27:19,530 --> 00:27:26,120
+You see, when learning you think it's very easy, but the question is, how fast?
+
+205
+00:27:26,120 --> 00:27:30,810
+Unlearning all things is very difficult.
+
+206
+00:27:30,810 --> 00:27:34,010
+If you find you have to learn a specific thing,
+
+207
+00:27:34,010 --> 00:27:37,610
+which is technical knowledge, one can even higher that.
+
+208
+00:27:37,610 --> 00:27:48,900
+But unlearning is easy.
+
+209
+00:27:48,900 --> 00:27:57,740
+And so one is not too...
+
+210
+00:27:57,740 --> 00:28:03,730
+one is not too prepared about weaknesses,
+
+211
+00:28:03,730 --> 00:28:09,030
+but one also does not base any future strategies
+
+212
+00:28:09,030 --> 00:28:16,540
+on being able to overcome. That's the hell of a risk. If you can't use a strength, be clear.
+
+213
+00:28:16,540 --> 00:28:21,720
+I'm not saying it can't be done. I'm not saying it isn't being done, but you're taking a risk.
+
+214
+00:28:21,720 --> 00:28:27,780
+Realize it. It may be a prudent risk. It may be a foolish risk. It's a risk.
+
+215
+00:28:27,780 --> 00:28:37,850
+One cannot say, we'll lose this. Because nine times out of ten you have to unlearn something.
+
+216
+00:28:37,850 --> 00:28:42,330
+No one looks at life as a strength and maybe that's already eliminated.
+
+217
+00:28:42,330 --> 00:29:00,310
+sense of strength needed for a sense of strategy we don't have or it's really quite mediocre
+
+218
+00:29:04,860 --> 00:29:10,540
+and it's crucial to the success of the strategy and then one doesn't
+
+219
+00:29:14,170 --> 00:29:22,330
+then one at least realize that one runs a very high risk in the bubble a very high time
+
+220
+00:29:22,330 --> 00:29:25,770
+and i could show you one example after the other i've made the
+
+221
+00:29:25,770 --> 00:29:32,770
+They have said, oh, essentially, the result of taking this kind of a river.
+
+222
+00:29:32,770 --> 00:29:36,770
+Anybody know this history of DuPont in Europe?
+
+223
+00:29:36,770 --> 00:29:41,910
+There's still about two years ago.
+
+224
+00:29:41,910 --> 00:29:45,910
+Largely before the DuPonts are very good.
+
+225
+00:29:45,910 --> 00:29:50,380
+But in this one, I'm not going to tell my story.
+
+226
+00:29:50,380 --> 00:29:53,380
+I don't know from what I know from the outside.
+
+227
+00:29:53,380 --> 00:30:35,540
+In this, the DuPont, as you know, the DuPont in this country have always been distinguished by being the one chemical company which does not sell the work of it out to other chemical companies, but theoretically, when you, the chemical industry traditionally sells 60% of its products to other chemical companies, simply because no chemical company can make the full range of chemicals.
+
+228
+00:30:35,540 --> 00:30:55,660
+And the Duponts, as part of it, it goes back to the East, it's not the East index and member of the chemistry, but they developed primarily integrated strengths that then directly produced by itself.
+
+229
+00:30:55,660 --> 00:30:59,660
+The product they end use, who's larger for the industry,
+
+230
+00:30:59,660 --> 00:31:05,060
+so the DuPonts are fairly heavy, or it can become tender.
+
+231
+00:31:05,060 --> 00:31:13,200
+Whether they end use a baker, or a paper manufacturer, or a steel company,
+
+232
+00:31:13,200 --> 00:31:16,540
+they can use directly in their process.
+
+233
+00:31:16,540 --> 00:31:21,860
+So the DuPonts have enormous market strength in the end use market,
+
+234
+00:31:21,860 --> 00:31:28,490
+and absolutely no experience where people are going to become part of this decision,
+
+235
+00:31:28,490 --> 00:31:49,390
+And so the very complex, incestuous relationship of a chemical company with an industry is
+
+236
+00:31:49,390 --> 00:31:52,390
+a game that they've never learned, they've never won.
+
+237
+00:31:52,390 --> 00:31:55,390
+They're also highly secretive.
+
+238
+00:31:55,390 --> 00:32:01,730
+That game you can only play if you tell a lot of people, a lot of your friendly competitors
+
+239
+00:32:01,730 --> 00:32:08,130
+about the business because they have to say well now if you buy this from you how dependable is
+
+240
+00:32:08,130 --> 00:32:14,610
+the supply how do you make it so the main product is your byproduct how can we depend on it and then
+
+241
+00:32:14,610 --> 00:32:20,530
+you have to show up tell them their process your process your basic plan your marketing strategy
+
+242
+00:32:22,050 --> 00:32:29,010
+and the little ones never like to tell anybody anything uh you know they don't feel concerned
+
+243
+00:32:29,010 --> 00:32:35,440
+The one way not to have anybody blab is, the one way not to betray a secret is not to know it.
+
+244
+00:32:35,440 --> 00:32:41,000
+Burr, Duque and Ford, never. That's one of the ways in order.
+
+245
+00:32:41,000 --> 00:32:47,340
+Because me as a director didn't respond to you all about the business of the rent, but they didn't tell you about it.
+
+246
+00:32:47,340 --> 00:32:51,220
+Never. And that's absolutely happening.
+
+247
+00:32:51,220 --> 00:32:56,220
+The one way of preventing nakedness. Nobody knows anything, nobody can blab.
+
+248
+00:32:56,220 --> 00:33:03,270
+and you can't run
+
+249
+00:33:03,270 --> 00:33:03,930
+just a pretty
+
+250
+00:33:03,930 --> 00:33:04,930
+committee business
+
+251
+00:33:04,930 --> 00:33:05,490
+like
+
+252
+00:33:05,490 --> 00:33:05,890
+the
+
+253
+00:33:05,890 --> 00:33:08,050
+Union
+
+254
+00:33:08,050 --> 00:33:08,870
+Carbide
+
+255
+00:33:08,870 --> 00:33:09,670
+but also
+
+256
+00:33:09,670 --> 00:33:09,910
+the
+
+257
+00:33:09,910 --> 00:33:10,450
+European
+
+258
+00:33:10,450 --> 00:33:10,970
+Committee
+
+259
+00:33:10,970 --> 00:33:11,430
+business
+
+260
+00:33:11,430 --> 00:33:12,050
+that way
+
+261
+00:33:12,050 --> 00:33:12,370
+which
+
+262
+00:33:12,370 --> 00:33:12,530
+your
+
+263
+00:33:12,530 --> 00:33:13,090
+competitors
+
+264
+00:33:13,090 --> 00:33:14,390
+are also
+
+265
+00:33:14,390 --> 00:33:14,910
+your best
+
+266
+00:33:14,910 --> 00:33:15,530
+customers
+
+267
+00:33:15,530 --> 00:33:16,470
+and have
+
+268
+00:33:16,470 --> 00:33:17,010
+to know
+
+269
+00:33:17,010 --> 00:33:18,530
+sometimes
+
+270
+00:33:18,530 --> 00:33:19,310
+more about
+
+271
+00:33:19,310 --> 00:33:19,850
+the business
+
+272
+00:33:19,850 --> 00:33:20,310
+than you
+
+273
+00:33:20,310 --> 00:33:20,510
+do
+
+274
+00:33:20,510 --> 00:33:21,780
+because
+
+275
+00:33:21,780 --> 00:33:22,400
+they have
+
+276
+00:33:22,400 --> 00:33:22,720
+to make
+
+277
+00:33:22,720 --> 00:33:23,200
+the decision
+
+278
+00:33:23,200 --> 00:33:23,740
+do we
+
+279
+00:33:23,740 --> 00:33:24,160
+build a
+
+280
+00:33:24,160 --> 00:33:24,680
+plan for
+
+281
+00:33:24,680 --> 00:33:24,900
+this
+
+282
+00:33:24,900 --> 00:33:25,620
+or can
+
+283
+00:33:25,620 --> 00:33:25,800
+we
+
+284
+00:33:25,800 --> 00:33:26,140
+depend
+
+285
+00:33:26,140 --> 00:33:26,440
+on the
+
+286
+00:33:26,440 --> 00:33:26,660
+right
+
+287
+00:33:26,660 --> 00:33:26,980
+company
+
+288
+00:33:26,980 --> 00:33:28,530
+but for
+
+289
+00:33:28,530 --> 00:33:28,830
+this you
+
+290
+00:33:28,830 --> 00:33:29,150
+have to
+
+291
+00:33:29,150 --> 00:33:29,470
+know
+
+292
+00:33:29,470 --> 00:33:30,370
+contract
+
+293
+00:33:30,370 --> 00:33:36,930
+You have to know what the structure is, and in Europe you can't do this.
+
+294
+00:33:36,930 --> 00:33:43,410
+And so the duphons, I think, and I'm not entirely getting it,
+
+295
+00:33:43,410 --> 00:33:45,970
+putting pieces together.
+
+296
+00:33:45,970 --> 00:33:48,970
+I simply said we can lay them in the same fabric.
+
+297
+00:33:48,970 --> 00:33:52,280
+They can't be that way.
+
+298
+00:33:52,280 --> 00:33:54,290
+What can I do?
+
+299
+00:33:54,290 --> 00:33:57,290
+Not because any selfishness happens to me,
+
+300
+00:33:57,290 --> 00:34:02,290
+but because the virus went against 50 years of duphon habits,
+
+301
+00:34:02,290 --> 00:34:07,590
+which is not to open your mouth,
+
+302
+00:34:07,590 --> 00:34:12,230
+and not to tell anybody anything you are doing until you have stopped doing it.
+
+303
+00:34:12,230 --> 00:34:16,190
+They've been there, in very few different ways.
+
+304
+00:34:16,190 --> 00:34:24,710
+And the first thing is they didn't tell these people, they put them to run the European operations,
+
+305
+00:34:24,710 --> 00:34:30,820
+they didn't tell them what they were going to do, because we don't tell anybody anything.
+
+306
+00:34:30,820 --> 00:34:34,820
+He doesn't need to know anything, because what, five years in the future?
+
+307
+00:34:34,820 --> 00:34:39,820
+So those people couldn't, when they sat down with the Solvay people in Belgium,
+
+308
+00:34:39,820 --> 00:34:51,740
+They didn't say anything. And then every time they had to disclose one of the things, which in the chemical industry is standard, common information.
+
+309
+00:34:51,740 --> 00:35:13,520
+Like the gold coins, they had to process, but no customer was willing to, they made the right product.
+
+310
+00:35:13,520 --> 00:35:23,780
+the product europeans badly strategy was very good excellent but right nobody understood it
+
+311
+00:35:23,780 --> 00:35:30,100
+this isn't the way anybody does business it's not cartels this is something this is insects
+
+312
+00:35:32,740 --> 00:35:41,070
+this is a essentially sleeping around with the family and only the family uh but they're
+
+313
+00:35:41,070 --> 00:35:56,300
+promiscuously. And eight years is to live, and only by guilt to change management, both in Europe,
+
+314
+00:35:56,300 --> 00:36:05,300
+that is interesting, in England, and in Europe, to get there. And we are, what, eight years
+
+315
+00:36:05,300 --> 00:36:14,710
+behind the 19th, or five. And this is maybe a little cataclysmic, because I'm not saying
+
+316
+00:36:14,710 --> 00:36:21,450
+didn't make the right decision but it's a little risk to take maybe it was the asset but they
+
+317
+00:36:21,450 --> 00:36:29,350
+ensured an enormous risk because one thing is very hard to stop on to unlearn and on the other side
+
+318
+00:36:29,350 --> 00:36:38,710
+of that strategy list one puts what would the outside environment have to look like for this
+
+319
+00:36:38,710 --> 00:37:14,000
+The strategy does not make sense. Not what is it. On what assumption would the strategy be based in respect to technology and market and political climate and labor conditions and trade policies and customs duties and taxation and whatever else and finance, let me say, whether we are with the money.
+
+320
+00:37:14,000 --> 00:37:27,390
+For a very simple reason, of all the options, finance is the easiest to remove if you give yourself time.
+
+321
+00:37:27,390 --> 00:37:37,430
+You cannot build a financial structure, a financial family. It cannot be done.
+
+322
+00:37:37,430 --> 00:37:41,430
+It's not only terribly expensive, but in the end it doesn't work.
+
+323
+00:37:41,430 --> 00:37:48,890
+The financial system is a very slow system. Forbidden.
+
+324
+00:37:48,890 --> 00:37:57,960
+Not just because they are slow, but because of its value, of Earth, and because it's all,
+
+325
+00:37:57,960 --> 00:38:05,460
+it's all a joint effort, it's all a syndication effort somehow, and the packaging, and when
+
+326
+00:38:05,460 --> 00:38:09,140
+these things are, you have to take together, it takes a lot of time.
+
+327
+00:38:09,620 --> 00:38:13,020
+If you have two years, you can do almost anything.
+
+328
+00:38:13,460 --> 00:38:18,190
+If you have to do it in two weeks, well, you'll be working.
+
+329
+00:38:18,190 --> 00:38:23,040
+to be seen in the light and deserve to be seen in the light.
+
+330
+00:38:23,040 --> 00:38:25,040
+Financial planning is up to you.
+
+331
+00:38:25,040 --> 00:38:30,040
+Other areas you may be willing to improvise and brainstorm.
+
+332
+00:38:30,040 --> 00:38:34,370
+Yes, and in some you better.
+
+333
+00:38:34,370 --> 00:38:42,690
+In finance, it's possible for the financial people
+
+334
+00:38:42,690 --> 00:38:45,690
+who have to do financial structure,
+
+335
+00:38:45,690 --> 00:38:48,690
+financial planning, financial resources,
+
+336
+00:38:48,690 --> 00:38:51,670
+they are willing, they have to do it.
+
+337
+00:38:51,670 --> 00:39:15,480
+At the rhythm of the time, there's a lot of meeting and consideration and weighing of alternatives and sitting here, sitting there, polishing here.
+
+338
+00:39:15,480 --> 00:39:33,540
+And then somebody who was already in the boat jumps out, gets cold feet, or has other commitments, and you have to replace them, and you start all over again. And so almost put one thing out.
+
+339
+00:39:33,540 --> 00:40:10,500
+And don't do what most manufacturers do, plan everything and then expect finance to do itself. That's how it is. And so put down the, what I wouldn't even call it specifically, the assumption under which the strategy would be a serious strategy would make sense.
+
+340
+00:40:10,500 --> 00:40:28,090
+And then tested. Most of them can be tested. Most of them we looked it up in the statistical handbook, a good many of them.
+
+341
+00:40:28,090 --> 00:40:42,510
+If one of your assumptions is age structure and income distribution in major European countries, that would be one of the strategies here.
+
+342
+00:40:42,510 --> 00:41:07,000
+Now that's very easy to find. And you may find that what everybody told you, that you have the enormous affluent teenage or young adult population in Europe, well it ain't so. I'm not saying that, I don't know. But that's awfully easy to check.
+
+343
+00:41:07,000 --> 00:41:43,160
+Or you may find that, yes, automobile ownership is going pretty fast, but shopping is still not done by the automobile. Anybody know why shopping is going fast? Why not? Anybody know enough about the habit of a school student? Who is determined to be tilled by a habit?
+
+344
+00:41:43,160 --> 00:41:57,780
+It's a woman, and it is also very important because it is equally true for the teenager.
+
+345
+00:41:57,780 --> 00:42:12,210
+Anybody know why the European housewife carries a car in the family?
+
+346
+00:42:12,210 --> 00:42:15,610
+Why she doesn't use it for shopping?
+
+347
+00:42:15,610 --> 00:42:36,560
+No, no, she drives it. What? Perpetuation. Let me see. One of the important things to know about this is that this foundation for that structure is food buying.
+
+348
+00:42:36,560 --> 00:42:53,470
+It is the one buying everybody has to do all the time. You don't buy shoes every week. You don't buy clothes every week. You don't buy electrical appliances every week.
+
+349
+00:42:53,470 --> 00:43:06,960
+But the only thing you've got to buy is food, and therefore you buy the other things unless they are big food.
+
+350
+00:43:06,960 --> 00:43:12,960
+A car, or a house, or a range, that's a specialty.
+
+351
+00:43:12,960 --> 00:43:25,980
+Most of the other buying you buy when you go out shopping for your old wardrobe,
+
+352
+00:43:25,980 --> 00:43:33,510
+but it would be for a pair of tennis shoes for your fourteen-year-old.
+
+353
+00:43:33,510 --> 00:43:41,780
+And so, the way you buy food determines, essentially, how you buy.
+
+354
+00:43:41,780 --> 00:43:55,340
+And the European woman doesn't buy food in large quantities because her refrigerator is very small.
+
+355
+00:43:55,340 --> 00:44:04,710
+And that is, in turn, a function not of refrigeration or purpose, but of the size of the European wedding room.
+
+356
+00:44:04,710 --> 00:44:10,990
+Anybody know what country has the best housing standard in Europe?
+
+357
+00:44:12,790 --> 00:44:21,410
+How many of the Swedish homes must we consider substandard on the basis of space?
+
+358
+00:44:21,410 --> 00:44:24,740
+You know, close to 90%.
+
+359
+00:44:24,740 --> 00:44:36,800
+Swedish housing standards are roughly one-third our space and public housing is one-third, at best 40%.
+
+360
+00:44:36,800 --> 00:45:10,150
+And so, obviously, the Swedish builder tries to give the family their most living space, give them a larger living space, a bedroom space can be small, but the issue does not go in for large bathrooms and large kitchens, because it's for the absolute smallest you can get by, to optimize the available space for the family.

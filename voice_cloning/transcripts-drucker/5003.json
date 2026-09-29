@@ -1,0 +1,2128 @@
+{
+ "pointer": "5003",
+ "media": "5003.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 3594.5,
+ "segments": [
+  {
+   "start": 2.9,
+   "end": 10.14,
+   "text": "I think that I have the great pleasure and privilege"
+  },
+  {
+   "start": 10.14,
+   "end": 15.0,
+   "text": "of introducing an honored guest, an old friend who"
+  },
+  {
+   "start": 15.0,
+   "end": 18.1,
+   "text": "is going to sit in with us the rest of this term,"
+  },
+  {
+   "start": 18.1,
+   "end": 20.64,
+   "text": "and probably not only in this module,"
+  },
+  {
+   "start": 20.64,
+   "end": 25.2,
+   "text": "but in some of the others, Professor Heinz Luzny, who"
+  },
+  {
+   "start": 25.2,
+   "end": 28.92,
+   "text": "is the chair of the MBA program at the Federal University"
+  },
+  {
+   "start": 28.92,
+   "end": 36.93,
+   "text": "of Rio de Janeiro."
+  },
+  {
+   "start": 36.93,
+   "end": 46.95,
+   "text": "I hope you'll see a good deal of Dr. Lundin around this term."
+  },
+  {
+   "start": 46.95,
+   "end": 51.59,
+   "text": "And he's up for a sabbatical from Brazil."
+  },
+  {
+   "start": 51.59,
+   "end": 56.03,
+   "text": "And I think he can learn here how one runs an executive"
+  },
+  {
+   "start": 56.03,
+   "end": 56.53,
+   "text": "program."
+  },
+  {
+   "start": 56.53,
+   "end": 64.56,
+   "text": "So let's not be ."
+  },
+  {
+   "start": 64.56,
+   "end": 69.38,
+   "text": "You remember we started out on the University Art Museum."
+  },
+  {
+   "start": 69.38,
+   "end": 71.04,
+   "text": "By the way, what's the next case we're"
+  },
+  {
+   "start": 71.04,
+   "end": 73.34,
+   "text": "going to discuss if we decide?"
+  },
+  {
+   "start": 73.34,
+   "end": 73.84,
+   "text": "No."
+  },
+  {
+   "start": 73.84,
+   "end": 76.04,
+   "text": "Which one should we tackle?"
+  },
+  {
+   "start": 76.04,
+   "end": 79.96,
+   "text": "Maybe we'll start after dinner today."
+  },
+  {
+   "start": 79.96,
+   "end": 83.19,
+   "text": "Which one would you like to do?"
+  },
+  {
+   "start": 83.19,
+   "end": 89.28,
+   "text": "Pick one that's very different."
+  },
+  {
+   "start": 89.28,
+   "end": 89.78,
+   "text": "What?"
+  },
+  {
+   "start": 89.78,
+   "end": 92.98,
+   "text": "."
+  },
+  {
+   "start": 92.98,
+   "end": 96.7,
+   "text": "No, that's too close."
+  },
+  {
+   "start": 96.7,
+   "end": 98.81,
+   "text": "It's amazingly close."
+  },
+  {
+   "start": 98.81,
+   "end": 103.95,
+   "text": "What?"
+  },
+  {
+   "start": 103.95,
+   "end": 106.41,
+   "text": "Mercantile two or three?"
+  },
+  {
+   "start": 106.41,
+   "end": 107.29,
+   "text": "What?"
+  },
+  {
+   "start": 107.29,
+   "end": 110.19,
+   "text": "Three is a nice little case."
+  },
+  {
+   "start": 110.19,
+   "end": 115.31,
+   "text": "If we get around, finish with the art museum"
+  },
+  {
+   "start": 115.31,
+   "end": 118.17,
+   "text": "by in an hour, which I think we, an hour and a half,"
+  },
+  {
+   "start": 118.17,
+   "end": 129.11,
+   "text": "we think it's possible, we might kind of serve as a dessert mercantile number three, which I think"
+  },
+  {
+   "start": 129.11,
+   "end": 137.51,
+   "text": "is a very simple case, one of the few where we can give an answer. And remember we talked about the"
+  },
+  {
+   "start": 138.07,
+   "end": 149.93,
+   "text": "University Art Museum and decided that one can define the case in three ways, and let me again"
+  },
+  {
+   "start": 149.93,
+   "end": 159.65,
+   "text": "can re-emphasize that one always tries to have three alternatives, and not many more,"
+  },
+  {
+   "start": 159.65,
+   "end": 162.65,
+   "text": "but definitely no fewer."
+  },
+  {
+   "start": 162.65,
+   "end": 171.83,
+   "text": "And why the human brain is so constituted as to make three a very meaningful choice"
+  },
+  {
+   "start": 171.83,
+   "end": 173.83,
+   "text": "for us, we don't know."
+  },
+  {
+   "start": 173.83,
+   "end": 191.39,
+   "text": "So let me say that it is likely that this is not in nature, but is the human brain."
+  },
+  {
+   "start": 191.39,
+   "end": 202.23,
+   "text": "Alfred Whitehead Russell, in the Principia Mathematica in 1906, kind of implied that"
+  },
+  {
+   "start": 202.23,
+   "end": 211.04,
+   "text": "the trilogy, the trinity, is somehow of the structure of the architecture of nature."
+  },
+  {
+   "start": 211.04,
+   "end": 217.25,
+   "text": "But there's no evidence, but there's lots of evidence that is of this wiring of the"
+  },
+  {
+   "start": 217.25,
+   "end": 227.56,
+   "text": "human mind, that shooting up, overshooting, undershooting, hitting the target, that's"
+  },
+  {
+   "start": 227.56,
+   "end": 229.7,
+   "text": "the way the human mind works very well."
+  },
+  {
+   "start": 230.3,
+   "end": 238.22,
+   "text": "But anyhow, one tries to get free, that's a meaningful choice, and if you go much above"
+  },
+  {
+   "start": 238.22,
+   "end": 246.72,
+   "text": "it, you become confused, and let me say, and so when people say that economists, as you"
+  },
+  {
+   "start": 246.72,
+   "end": 251.22,
+   "text": "know have three hands one hand on the other hand on the third hand that's"
+  },
+  {
+   "start": 251.22,
+   "end": 259.52,
+   "text": "really a compliment you pay economists and all economists have three hands"
+  },
+  {
+   "start": 259.52,
+   "end": 268.38,
+   "text": "whether they also have a mind we don't know but they have three hands and we defined it"
+  },
+  {
+   "start": 268.38,
+   "end": 277.0,
+   "text": "and one definition was the way that Gurdjieff defined it namely forced to define"
+  },
+  {
+   "start": 277.0,
+   "end": 286.87,
+   "text": "the mission definition what is the business whether that goes about it the"
+  },
+  {
+   "start": 286.87,
+   "end": 294.31,
+   "text": "right way we see and the other one we said is that this museum nothing wrong"
+  },
+  {
+   "start": 294.31,
+   "end": 301.49,
+   "text": "with his mission don't worry about it it's just misplaced it drifted nobody"
+  },
+  {
+   "start": 301.49,
+   "end": 308.96,
+   "text": "faced it by design into the graduate faculty and it just didn't belong and"
+  },
+  {
+   "start": 308.96,
+   "end": 321.23,
+   "text": "And here you have something that is not a teaching put into the graduate faculty and it can't work."
+  },
+  {
+   "start": 321.23,
+   "end": 336.12,
+   "text": "Let me say, good, right organization structure does not make anything work."
+  },
+  {
+   "start": 336.12,
+   "end": 339.12,
+   "text": "But the wrong structure guarantees non-work."
+  },
+  {
+   "start": 339.12,
+   "end": 349.35,
+   "text": "The wrong structure means that every time anything moves, it ceases, it gets cold, it stops, it fills."
+  },
+  {
+   "start": 349.35,
+   "end": 363.55,
+   "text": "the right structure only then you see the old story that if you have a broken"
+  },
+  {
+   "start": 363.55,
+   "end": 369.2,
+   "text": "knee you can't go up Mount Bordeaux you can't walk but whether you should go up"
+  },
+  {
+   "start": 369.2,
+   "end": 377.0,
+   "text": "Mount Bordeaux or not is not decided by the state of your knee only having a"
+  },
+  {
+   "start": 377.0,
+   "end": 386.53,
+   "text": "broken knee prevents you from going anywhere and so it may be said"
+  },
+  {
+   "start": 386.53,
+   "end": 401.21,
+   "text": "organization, misplacement. And the third one is that this is the wrong person,"
+  },
+  {
+   "start": 401.21,
+   "end": 411.7,
+   "text": "chosen the wrong way, and all of them are, let me say, tenable hypotheses. Anybody"
+  },
+  {
+   "start": 411.7,
+   "end": 417.38,
+   "text": "know how one decides whether a hypothesis is tenable or not? Whether it"
+  },
+  {
+   "start": 417.38,
+   "end": 433.76,
+   "text": "deserves to be tested to survive the freshman course in physics? How does one decide"
+  },
+  {
+   "start": 433.76,
+   "end": 457.29,
+   "text": "with it if I were to say that a possible definition of this problem is at this"
+  },
+  {
+   "start": 457.29,
+   "end": 466.68,
+   "text": "university is in a cold climate and museum should be in a warm one you would"
+  },
+  {
+   "start": 466.68,
+   "end": 482.45,
+   "text": "all doubt it right there's certain things you know that don't work well in"
+  },
+  {
+   "start": 482.45,
+   "end": 492.74,
+   "text": "the whole time. If this were not the museum where the palm grows, for instance, that hypothesis"
+  },
+  {
+   "start": 492.74,
+   "end": 497.2,
+   "text": "that it's too far north would be a perfectly acceptable one, wouldn't it?"
+  },
+  {
+   "start": 497.2,
+   "end": 499.2,
+   "text": "The relevancy to the palm in the hand."
+  },
+  {
+   "start": 499.2,
+   "end": 500.2,
+   "text": "You what?"
+  },
+  {
+   "start": 500.2,
+   "end": 501.2,
+   "text": "Whether the..."
+  },
+  {
+   "start": 501.2,
+   "end": 517.55,
+   "text": "How do you test that? That, if you see that, the triple hypothesis is to show that what"
+  },
+  {
+   "start": 517.55,
+   "end": 523.98,
+   "text": "you know ain't so. The whole triple of the hypothesis is to make comment, is to get you"
+  },
+  {
+   "start": 523.98,
+   "end": 533.85,
+   "text": "get you away from common sense and from the trap of common sense see that one of the fundamental"
+  },
+  {
+   "start": 535.32,
+   "end": 548.65,
+   "text": "assertions of modern science is that things that are taken on faith turn out to be different"
+  },
+  {
+   "start": 548.65,
+   "end": 559.84,
+   "text": "and what everybody knows is almost always not so and you really look that's why you can see"
+  },
+  {
+   "start": 559.84,
+   "end": 568.03,
+   "text": "that the beginning of knowledge in any discipline is when somebody goes out and"
+  },
+  {
+   "start": 568.03,
+   "end": 574.46,
+   "text": "looks at what everybody knows, because what everybody knows nobody looks at."
+  },
+  {
+   "start": 574.46,
+   "end": 581.75,
+   "text": "The history of work, not of management, you know, everybody knew all about it."
+  },
+  {
+   "start": 581.75,
+   "end": 588.94,
+   "text": "Work is very old, and everybody knew all about it. And it wasn't until Frederick Winslow"
+  },
+  {
+   "start": 588.94,
+   "end": 599.54,
+   "text": "Taylor in 1878 or there about was the first time to look at wood. Nobody had ever looked at wood."
+  },
+  {
+   "start": 599.54,
+   "end": 605.48,
+   "text": "Everybody knew everything about wood. Everybody knew that you get more work"
+  },
+  {
+   "start": 605.48,
+   "end": 613.56,
+   "text": "done if you work harder and work longer hours and so on and so forth and"
+  },
+  {
+   "start": 613.56,
+   "end": 620.16,
+   "text": "everybody also believed that after all if you work at something long enough"
+  },
+  {
+   "start": 620.16,
+   "end": 631.82,
+   "text": "people will come up with doing it right. Now the first one, the challenge is, but he didn't know what he was doing."
+  },
+  {
+   "start": 631.82,
+   "end": 641.09,
+   "text": "Beginning of modern clinical medicine, very young physicians,"
+  },
+  {
+   "start": 641.09,
+   "end": 653.74,
+   "text": "in the University Clinic of Vienna, did something so obvious,"
+  },
+  {
+   "start": 653.74,
+   "end": 658.74,
+   "text": "that in this perspective, they can't understand how come it has never been done before,"
+  },
+  {
+   "start": 658.74,
+   "end": 660.94,
+   "text": "but the object is always neglected."
+  },
+  {
+   "start": 661.93,
+   "end": 665.25,
+   "text": "They, for the first time in the history of medicine,"
+  },
+  {
+   "start": 665.47,
+   "end": 669.59,
+   "text": "put together the diagnosis of the physician"
+  },
+  {
+   "start": 669.59,
+   "end": 671.49,
+   "text": "and the orthopedist."
+  },
+  {
+   "start": 671.71,
+   "end": 675.26,
+   "text": "You know, the orthopedist report"
+  },
+  {
+   "start": 675.26,
+   "end": 677.8,
+   "text": "is the only validation of a diagnosis."
+  },
+  {
+   "start": 682.31,
+   "end": 684.43,
+   "text": "And nobody has ever had that"
+  },
+  {
+   "start": 684.43,
+   "end": 689.48,
+   "text": "until two young folks, very young,"
+  },
+  {
+   "start": 689.6,
+   "end": 694.46,
+   "text": "just residents, not even a dermatologist"
+  },
+  {
+   "start": 694.46,
+   "end": 696.76,
+   "text": "and an apoptotologist,"
+  },
+  {
+   "start": 696.76,
+   "end": 706.28,
+   "text": "put together the diagnosis and all support, and lo and behold, suddenly the diagnosis of the great doctors,"
+  },
+  {
+   "start": 706.28,
+   "end": 715.97,
+   "text": "even though they had followed the differential method of diagnosis and everything, very nicely."
+  },
+  {
+   "start": 715.97,
+   "end": 725.97,
+   "text": "And that is really the first time anybody had looked at human work, because that is work, you know."
+  },
+  {
+   "start": 725.97,
+   "end": 734.08,
+   "text": "They're very specific and so on."
+  },
+  {
+   "start": 734.08,
+   "end": 746.41,
+   "text": "This was made isolated and everybody thought it only pertains to medicine until about 30 years later, Taylor started in this country."
+  },
+  {
+   "start": 746.41,
+   "end": 751.93,
+   "text": "Looking at manual work, this might not have been very long."
+  },
+  {
+   "start": 751.93,
+   "end": 763.2,
+   "text": "The oldest learned profession and the one in the West with an unbroken tradition of learning."
+  },
+  {
+   "start": 763.2,
+   "end": 781.54,
+   "text": "and incidentally, not in Japan, because the two places, medicine was removed from Madrid, or the west of Japan,"
+  },
+  {
+   "start": 781.54,
+   "end": 803.18,
+   "text": "but in those two, very early, it was removed, 500, and in Japan, about 1,800, 1,100."
+  },
+  {
+   "start": 803.18,
+   "end": 818.4,
+   "text": "And so we have very unbroken, with professional things,"
+  },
+  {
+   "start": 818.4,
+   "end": 830.13,
+   "text": "and while the trail from the Greek schools of medicine to the Arab schools is a little overgrown, it was there."
+  },
+  {
+   "start": 830.13,
+   "end": 835.2,
+   "text": "And then from the Arab schools to the Western schools, it's a falling highway."
+  },
+  {
+   "start": 835.2,
+   "end": 848.49,
+   "text": "And so for 2,000 years, for 2,400 years, there were highly trained professionals in medicine and nobody had the pressure."
+  },
+  {
+   "start": 848.49,
+   "end": 857.64,
+   "text": "Everybody knew. And for much longer, people had been shoveling sand."
+  },
+  {
+   "start": 857.64,
+   "end": 862.0,
+   "text": "There were people who shoveled sand long before they were doctors."
+  },
+  {
+   "start": 862.0,
+   "end": 865.89,
+   "text": "And everybody knew."
+  },
+  {
+   "start": 865.89,
+   "end": 875.0,
+   "text": "Since Taylor looked and pounced at the angel, you would assume,"
+  },
+  {
+   "start": 875.0,
+   "end": 880.0,
+   "text": "and this is very important because, let me say, every time anybody sees creativity,"
+  },
+  {
+   "start": 880.0,
+   "end": 885.2,
+   "text": "and if you remember, creativity is very largely a myth."
+  },
+  {
+   "start": 885.2,
+   "end": 896.52,
+   "text": "It's by that you mean, and what everybody knows and imagines,"
+  },
+  {
+   "start": 896.52,
+   "end": 905.8,
+   "text": "ah, because, you know, nobody has ever really."
+  },
+  {
+   "start": 905.8,
+   "end": 910.37,
+   "text": "really told that shoveler of sand how to do it."
+  },
+  {
+   "start": 910.37,
+   "end": 915.62,
+   "text": "He gave some of the shovels and said, go shovel sand."
+  },
+  {
+   "start": 916.36,
+   "end": 918.54,
+   "text": "It's been done for thousands of years."
+  },
+  {
+   "start": 918.96,
+   "end": 922.04,
+   "text": "Lots of people with good minds are put to that job."
+  },
+  {
+   "start": 926.27,
+   "end": 928.43,
+   "text": "And everybody probably quarreled with them."
+  },
+  {
+   "start": 928.55,
+   "end": 932.96,
+   "text": "If they made the handle of the shovel longer or shorter"
+  },
+  {
+   "start": 932.96,
+   "end": 935.46,
+   "text": "or if they put more or less sand in it."
+  },
+  {
+   "start": 936.1,
+   "end": 937.44,
+   "text": "Nobody takes that much attention."
+  },
+  {
+   "start": 938.7,
+   "end": 940.8,
+   "text": "And everybody knew how to shovel sand."
+  },
+  {
+   "start": 940.92,
+   "end": 943.74,
+   "text": "And everybody knows that if you want to shovel more sand,"
+  },
+  {
+   "start": 943.74,
+   "end": 954.09,
+   "text": "you put more sand on your shovel, you work harder, you work longer, and you tailor it to fit it, and everything was wrong."
+  },
+  {
+   "start": 954.09,
+   "end": 961.65,
+   "text": "If you had wanted to design a shovel not with shovel sand, you would have come up with a traditional shovel."
+  },
+  {
+   "start": 961.65,
+   "end": 971.1,
+   "text": "And the handle was guaranteed to produce the maximum fatigue with the lowest weight."
+  },
+  {
+   "start": 971.1,
+   "end": 980.82,
+   "text": "And the way the shovel plants are always lifted, it's the furthest distance against gravity."
+  },
+  {
+   "start": 980.82,
+   "end": 990.86,
+   "text": "They're always shoveled up. The way you and I, not in this climate, but back in the East, most people shoveled snow, you know."
+  },
+  {
+   "start": 990.86,
+   "end": 995.59,
+   "text": "Have you ever watched it? Most of them go up to it, right?"
+  },
+  {
+   "start": 995.59,
+   "end": 999.57,
+   "text": "What can you wonder about the heart attack?"
+  },
+  {
+   "start": 999.57,
+   "end": 1006.95,
+   "text": "attack and but if you don't and then it's been sweet everyone doesn't use"
+  },
+  {
+   "start": 1006.95,
+   "end": 1010.91,
+   "text": "gravity because you know if you walk down the driveway that's likely to slip"
+  },
+  {
+   "start": 1010.91,
+   "end": 1018.84,
+   "text": "then you should stand up and shovel down any mountain climber now to live in but"
+  },
+  {
+   "start": 1018.84,
+   "end": 1024.46,
+   "text": "not if he isn't tortured then he has an accident and that of course is one way"
+  },
+  {
+   "start": 1024.46,
+   "end": 1043.51,
+   "text": "of getting rid of incompetent mountain bike and so uh but the hypothesis is an explanation that"
+  },
+  {
+   "start": 1043.51,
+   "end": 1058.71,
+   "text": "includes all of the facts now this is a very nice statement and a tricky one because of course you"
+  },
+  {
+   "start": 1058.71,
+   "end": 1069.17,
+   "text": "You may, by making a hypothesis, you guess, or your explanations, then you may say that"
+  },
+  {
+   "start": 1069.17,
+   "end": 1077.73,
+   "text": "here is that hypothesis or diagnosis that there are needles in that 11 year old child"
+  },
+  {
+   "start": 1077.73,
+   "end": 1093.02,
+   "text": "and you have the high fever typically, if you have skin feel of needles and white spots"
+  },
+  {
+   "start": 1093.02,
+   "end": 1098.02,
+   "text": "in the mouth, but you don't have whatever else belongs to needles, or you have something"
+  },
+  {
+   "start": 1098.02,
+   "end": 1107.23,
+   "text": "is vomiting, which does not belong. And then you say, well, maybe someone said, well, so"
+  },
+  {
+   "start": 1107.23,
+   "end": 1113.95,
+   "text": "vomit's quite independent of me. And you say, this is me who's probably, and said"
+  },
+  {
+   "start": 1113.95,
+   "end": 1119.8,
+   "text": "vomiting, well, the child already wasn't feeling too well and ate a big dinner last"
+  },
+  {
+   "start": 1119.8,
+   "end": 1126.66,
+   "text": "night, and that's it, stomach. And that's fine, he said vomiting sucks. See, one of"
+  },
+  {
+   "start": 1126.66,
+   "end": 1134.82,
+   "text": "important thing is to know if you exclude a fact because it might belong to a different"
+  },
+  {
+   "start": 1134.82,
+   "end": 1143.33,
+   "text": "syndrome so make damn sure you write it down and make it otherwise you fool yourself but"
+  },
+  {
+   "start": 1143.33,
+   "end": 1152.42,
+   "text": "basically a hypothesis of explains the observability fact and all three of our"
+  },
+  {
+   "start": 1152.42,
+   "end": 1163.96,
+   "text": "hypothesis you can explain without using we're saying they're never so sure what"
+  },
+  {
+   "start": 1163.96,
+   "end": 1174.42,
+   "text": "their business is, they're never so sure what their mission is, and this is not quite as obvious and"
+  },
+  {
+   "start": 1174.42,
+   "end": 1179.89,
+   "text": "obviously controversial and therefore anybody who there's anything is going to get into"
+  },
+  {
+   "start": 1179.89,
+   "end": 1186.32,
+   "text": "trouble that explains all the absurdity of the fact or you might say this organization"
+  },
+  {
+   "start": 1186.32,
+   "end": 1192.48,
+   "text": "we might think, and therefore have no power of decision,"
+  },
+  {
+   "start": 1192.48,
+   "end": 1196.38,
+   "text": "and the other belongs to them, it's appropriate,"
+  },
+  {
+   "start": 1196.38,
+   "end": 1200.88,
+   "text": "and no decision, and all together it's,"
+  },
+  {
+   "start": 1200.88,
+   "end": 1206.36,
+   "text": "it's seen as something that it is,"
+  },
+  {
+   "start": 1206.36,
+   "end": 1210.88,
+   "text": "and it gets people into the act to have no business,"
+  },
+  {
+   "start": 1210.88,
+   "end": 1218.64,
+   "text": "and then you can't even think through an admission."
+  },
+  {
+   "start": 1218.64,
+   "end": 1221.88,
+   "text": "And it explains all everything that's happened."
+  },
+  {
+   "start": 1221.88,
+   "end": 1227.26,
+   "text": "And sure, you pick the wrong man,"
+  },
+  {
+   "start": 1227.26,
+   "end": 1233.66,
+   "text": "Then you're paid to give him the appropriate guidance to make the appointment fixed."
+  },
+  {
+   "start": 1233.66,
+   "end": 1235.66,
+   "text": "And there are two extremes of it in general."
+  },
+  {
+   "start": 1235.66,
+   "end": 1241.86,
+   "text": "Always, when you have a hypothesis, one step."
+  },
+  {
+   "start": 1241.86,
+   "end": 1246.76,
+   "text": "Test it against your very mind."
+  },
+  {
+   "start": 1246.76,
+   "end": 1255.97,
+   "text": "And it doesn't have to fit all of them really well, but if you have to do violence to it,"
+  },
+  {
+   "start": 1255.97,
+   "end": 1259.26,
+   "text": "then you're playing the prisoner."
+  },
+  {
+   "start": 1259.26,
+   "end": 1264.01,
+   "text": "If you have to eliminate something,"
+  },
+  {
+   "start": 1264.01,
+   "end": 1275.0,
+   "text": "all got it to do what all of us do in fact you know the doctor who knows his needles because"
+  },
+  {
+   "start": 1275.0,
+   "end": 1282.86,
+   "text": "there's a lot of it in the community and looks into little tommy's mouth and there are no white"
+  },
+  {
+   "start": 1282.86,
+   "end": 1295.83,
+   "text": "spots and he says sometimes they don't come out until later that's a dangerous man because he's"
+  },
+  {
+   "start": 1295.83,
+   "end": 1303.99,
+   "text": "going to freeze in certain diagnosis you're going to look into it for all you know this one"
+  },
+  {
+   "start": 1303.99,
+   "end": 1315.02,
+   "text": "Everybody has measles, but people tell me that they kill kidney patients, and then that diagnosis of measles is going to kill you."
+  },
+  {
+   "start": 1315.02,
+   "end": 1326.31,
+   "text": "And the most dangerous thing to do is to be dishonest ever, and see facts that aren't there."
+  },
+  {
+   "start": 1326.31,
+   "end": 1336.75,
+   "text": "There's a famous old story about the optimist with a little boy, who knows that he has gotten a pony,"
+  },
+  {
+   "start": 1336.75,
+   "end": 1340.19,
+   "text": "because the horse dropped the horse when he went to the Christmas tree."
+  },
+  {
+   "start": 1340.19,
+   "end": 1346.69,
+   "text": "There must be a pony someplace, but I've seen lots of diagnostics, you know, in that category."
+  },
+  {
+   "start": 1346.69,
+   "end": 1355.13,
+   "text": "And not just in medicine, it doesn't work in any decision-making process."
+  },
+  {
+   "start": 1355.13,
+   "end": 1360.43,
+   "text": "Now, it is not a totally, let me say, yes, if you're horse-dropping,"
+  },
+  {
+   "start": 1360.43,
+   "end": 1365.52,
+   "text": "there must be a horse someplace, the horse happens to only come out of the horse,"
+  },
+  {
+   "start": 1365.52,
+   "end": 1376.3,
+   "text": "but then one starts looking for the pony, and there's not a human machine there,"
+  },
+  {
+   "start": 1376.3,
+   "end": 1387.24,
+   "text": "and still one sees it, right, particularly if you have got an older sister and she's been out to play practical jokes"
+  },
+  {
+   "start": 1387.24,
+   "end": 1404.25,
+   "text": "and that older sisters do, and so one does not assume things, one does not talk to them because they have the most anger thing to do"
+  },
+  {
+   "start": 1404.25,
+   "end": 1416.35,
+   "text": "But in this case, we have three hypotheses which, while not true, are tenuous, and therefore need to be thought through."
+  },
+  {
+   "start": 1416.35,
+   "end": 1419.35,
+   "text": "And then let me say the rule is very simple."
+  },
+  {
+   "start": 1419.35,
+   "end": 1425.44,
+   "text": "One always starts with death."
+  },
+  {
+   "start": 1425.44,
+   "end": 1429.35,
+   "text": "Now there are reasons, like any rule, if one is killed."
+  },
+  {
+   "start": 1429.35,
+   "end": 1435.32,
+   "text": "If there is that measles epidemic in the neighborhood, and little Tommy has all the symptoms,"
+  },
+  {
+   "start": 1435.32,
+   "end": 1437.57,
+   "text": "I said, yeah, but not quite."
+  },
+  {
+   "start": 1438.01,
+   "end": 1440.93,
+   "text": "One doesn't say he has needles, but one keeps it in mind."
+  },
+  {
+   "start": 1441.15,
+   "end": 1444.74,
+   "text": "It's like something like an upset stomach."
+  },
+  {
+   "start": 1447.97,
+   "end": 1451.55,
+   "text": "Well, keep in mind that all the kids around have needles"
+  },
+  {
+   "start": 1451.55,
+   "end": 1453.87,
+   "text": "and some of you haven't had a needle vaccination."
+  },
+  {
+   "start": 1457.44,
+   "end": 1459.08,
+   "text": "And so keep it in mind."
+  },
+  {
+   "start": 1460.38,
+   "end": 1463.2,
+   "text": "Even though the upset stomach is much simpler,"
+  },
+  {
+   "start": 1466.21,
+   "end": 1469.31,
+   "text": "but the upset stomach is over in 24 hours."
+  },
+  {
+   "start": 1470.12,
+   "end": 1471.1,
+   "text": "The needles are not."
+  },
+  {
+   "start": 1473.02,
+   "end": 1474.56,
+   "text": "And so you keep it in mind."
+  },
+  {
+   "start": 1474.82,
+   "end": 1477.36,
+   "text": "Well, he once always thought, he said,"
+  },
+  {
+   "start": 1477.36,
+   "end": 1492.3,
+   "text": "The way the human tendency to become the Earth can never do two things."
+  },
+  {
+   "start": 1492.3,
+   "end": 1499.86,
+   "text": "In the first place, because otherwise people won't understand it."
+  },
+  {
+   "start": 1499.86,
+   "end": 1505.67,
+   "text": "In the second place, because otherwise people won't see it."
+  },
+  {
+   "start": 1505.67,
+   "end": 1514.0,
+   "text": "Everything in the last analysis has to be moral proof because everything is ultimately done by morals."
+  },
+  {
+   "start": 1514.0,
+   "end": 1519.0,
+   "text": "The supply of morals is the only reliable supply in the universe."
+  },
+  {
+   "start": 1519.0,
+   "end": 1530.28,
+   "text": "And eventually, everything has to be done by law, and will you keep in mind, because"
+  },
+  {
+   "start": 1530.28,
+   "end": 1539.03,
+   "text": "only the danger of as much education as you take in through whatever organ of learning"
+  },
+  {
+   "start": 1539.03,
+   "end": 1557.33,
+   "text": "you sit on, the danger is that you then remember that we have lots of critiques here in France,"
+  },
+  {
+   "start": 1557.33,
+   "end": 1563.86,
+   "text": "remember that eventually it's got to be done by a moron."
+  },
+  {
+   "start": 1563.86,
+   "end": 1569.81,
+   "text": "And a moron is not necessarily somebody who doesn't understand."
+  },
+  {
+   "start": 1569.81,
+   "end": 1581.82,
+   "text": "You know, eventually, he has medical orders he has to carry out,"
+  },
+  {
+   "start": 1581.82,
+   "end": 1585.82,
+   "text": "and it doesn't help you then that the great clinician is a great man,"
+  },
+  {
+   "start": 1585.82,
+   "end": 1592.16,
+   "text": "and the nurse knows what she's doing."
+  },
+  {
+   "start": 1592.16,
+   "end": 1597.7,
+   "text": "He's not, and he's not perfectly all right,"
+  },
+  {
+   "start": 1597.7,
+   "end": 1600.7,
+   "text": "but in terms of medicine, he's a moron."
+  },
+  {
+   "start": 1600.7,
+   "end": 1607.84,
+   "text": "and eventually you know you make that brilliant decision to phase out the"
+  },
+  {
+   "start": 1607.84,
+   "end": 1614.73,
+   "text": "product while you phase in another one very complicated menu in which your"
+  },
+  {
+   "start": 1614.73,
+   "end": 1618.81,
+   "text": "right hand doesn't know what the left hand is doing and you take two steps"
+  },
+  {
+   "start": 1618.81,
+   "end": 1626.56,
+   "text": "forward one sideways and two backwards hook a hook hook a step and you"
+  },
+  {
+   "start": 1626.56,
+   "end": 1637.2,
+   "text": "who has to buy the parts, and nobody is going to, you know, he's a clerk who carries out"
+  },
+  {
+   "start": 1637.2,
+   "end": 1646.9,
+   "text": "three set routines, and if you don't explain to him what you are doing, he's not going"
+  },
+  {
+   "start": 1646.9,
+   "end": 1654.21,
+   "text": "to buy the parts for the new product, and he's not going to sell parts for the buying"
+  },
+  {
+   "start": 1654.21,
+   "end": 1659.21,
+   "text": "or buying parts for the old product, because his orders are to buy against the orders of"
+  },
+  {
+   "start": 1659.21,
+   "end": 1663.18,
+   "text": "the last six months."
+  },
+  {
+   "start": 1663.18,
+   "end": 1674.73,
+   "text": "you've done it, haven't you? And don't blame him if you haven't been simple. But always at the end of this,"
+  },
+  {
+   "start": 1675.64,
+   "end": 1691.85,
+   "text": "there's who has to do what that he knows, how that he has, so that he can understand. The answer is always"
+  },
+  {
+   "start": 1691.85,
+   "end": 1706.61,
+   "text": "simple. And then remember one and only thing one can learn in engineering, that is then immediately after"
+  },
+  {
+   "start": 1706.61,
+   "end": 1712.43,
+   "text": "It's a risk to take you 10 years to learn what you have learned."
+  },
+  {
+   "start": 1712.43,
+   "end": 1718.44,
+   "text": "But remember on that first day, in that course in machine design,"
+  },
+  {
+   "start": 1718.44,
+   "end": 1731.01,
+   "text": "they instructed that the ideal machine is..."
+  },
+  {
+   "start": 1731.01,
+   "end": 1737.78,
+   "text": "Well, you won't be able to design it."
+  },
+  {
+   "start": 1737.78,
+   "end": 1740.78,
+   "text": "But if you have 69 moving parts, it ain't going to work."
+  },
+  {
+   "start": 1740.78,
+   "end": 1746.7,
+   "text": "Or if it's going to work, nobody can maintain it, calibrate it."
+  },
+  {
+   "start": 1746.7,
+   "end": 1753.12,
+   "text": "And while you will not get to one moving part,"
+  },
+  {
+   "start": 1753.12,
+   "end": 1765.49,
+   "text": "push it, get a little closer to make it simple, because then it can be built, then it can be calibrated, then it can be maintained."
+  },
+  {
+   "start": 1765.49,
+   "end": 1772.19,
+   "text": "And then also, the one thing you know about the moving parts is that it will go wrong."
+  },
+  {
+   "start": 1772.19,
+   "end": 1779.36,
+   "text": "Moving parts, by definition, go wrong. But they're fewer, you have the few."
+  },
+  {
+   "start": 1779.36,
+   "end": 1785.95,
+   "text": "So one starts over the system, and by start, it's a personal problem in the system."
+  },
+  {
+   "start": 1785.95,
+   "end": 1796.89,
+   "text": "So look at it and tell me, if that hypothesis were to be valid, what would we have to do?"
+  },
+  {
+   "start": 1796.89,
+   "end": 1797.49,
+   "text": "How about this?"
+  },
+  {
+   "start": 1801.82,
+   "end": 1804.54,
+   "text": "The hypothesis is that it ought to be a case."
+  },
+  {
+   "start": 1804.7,
+   "end": 1808.33,
+   "text": "It's a case of putting the wrong man in the job."
+  },
+  {
+   "start": 1810.02,
+   "end": 1813.74,
+   "text": "That's an exact comment."
+  },
+  {
+   "start": 1813.94,
+   "end": 1822.01,
+   "text": "What would we have to find for this hypothesis?"
+  },
+  {
+   "start": 1822.81,
+   "end": 1824.81,
+   "text": "You'll be accepted."
+  },
+  {
+   "start": 1827.54,
+   "end": 1831.74,
+   "text": "Under what condition do you get the wrong man?"
+  },
+  {
+   "start": 1831.96,
+   "end": 1844.16,
+   "text": "If you don't really understand the job, now, well, what does it mean?"
+  },
+  {
+   "start": 1844.16,
+   "end": 1855.8,
+   "text": "there's a good Lord can you know all right I'll repeat thinking through what"
+  },
+  {
+   "start": 1855.8,
+   "end": 1869.96,
+   "text": "the assignment is and what is determined what ability performance what what is"
+  },
+  {
+   "start": 1869.96,
+   "end": 1879.63,
+   "text": "required to have results it's not going to let me keep you have nothing don't"
+  },
+  {
+   "start": 1879.63,
+   "end": 1890.73,
+   "text": "ever speculate beyond what is absolutely here our friends it says whatever"
+  },
+  {
+   "start": 1890.73,
+   "end": 1934.18,
+   "text": "abilities are needed. You know, that's the psychological. And you don't need. What we need is think through what the assignment is. What is the job to be filled? And then think through what is needed to make a human being perform, except the fact that you're going to have to settle for a human being. And you think that's funny? You are. I've known you now for a few years. Every time there's a job to be filled in your company, you are the worst. You always look. And you"
+  },
+  {
+   "start": 1934.18,
+   "end": 1940.48,
+   "text": "think that is taking an optimistic view of the human race, but I assure you, I know"
+  },
+  {
+   "start": 1940.48,
+   "end": 1947.76,
+   "text": "you well enough enough, you look always for that unlikely offspring of a"
+  },
+  {
+   "start": 1947.76,
+   "end": 1964.58,
+   "text": "successful mating between the octopus and Dr. Einstein. In the first place, will you please accept that there is a chance that if the mating succeeds, the offspring will have Einstein's"
+  },
+  {
+   "start": 1964.58,
+   "end": 1977.58,
+   "text": "And secondly, that even if it succeeds, it'll take 30 years before you know what the results"
+  },
+  {
+   "start": 1977.58,
+   "end": 1978.58,
+   "text": "are likely to be."
+  },
+  {
+   "start": 1978.58,
+   "end": 1983.03,
+   "text": "You will have to settle for human."
+  },
+  {
+   "start": 1983.03,
+   "end": 1986.75,
+   "text": "This is very disagreeable."
+  },
+  {
+   "start": 1986.75,
+   "end": 1989.75,
+   "text": "Everybody looks for uncommon people."
+  },
+  {
+   "start": 1989.75,
+   "end": 1992.28,
+   "text": "There ain't no such animal."
+  },
+  {
+   "start": 1992.28,
+   "end": 1996.68,
+   "text": "And if there is, what's the difference, why should that particular,"
+  },
+  {
+   "start": 1996.68,
+   "end": 2003.89,
+   "text": "whether the genius work for you or me, got better things to do?"
+  },
+  {
+   "start": 2003.89,
+   "end": 2013.72,
+   "text": "And that's the fact that they're singular, geniuses are essentially unemployed."
+  },
+  {
+   "start": 2013.72,
+   "end": 2021.65,
+   "text": "What would you do with a, yes, Mozart, all of seven years old,"
+  },
+  {
+   "start": 2021.65,
+   "end": 2027.52,
+   "text": "in the first place, our child, Labrador, wouldn't allow you to hire him."
+  },
+  {
+   "start": 2027.52,
+   "end": 2038.38,
+   "text": "Secondly, all he wants to do is play the piano, the organ, and the violin."
+  },
+  {
+   "start": 2038.38,
+   "end": 2055.97,
+   "text": "and his way not your way no ordinary human being which always means that if you want"
+  },
+  {
+   "start": 2055.97,
+   "end": 2065.76,
+   "text": "strength you better accept weaknesses because there are peaks there are valleys which always"
+  },
+  {
+   "start": 2065.76,
+   "end": 2075.6,
+   "text": "means that people are if they are good at anything they are good at one thing and not good at others"
+  },
+  {
+   "start": 2075.6,
+   "end": 2086.52,
+   "text": "it always means that they're human beings and therefore talk back nobody in this room really"
+  },
+  {
+   "start": 2086.52,
+   "end": 2094.28,
+   "text": "like to work with human beings, if you have a choice, but you don't."
+  },
+  {
+   "start": 2094.28,
+   "end": 2101.1,
+   "text": "They'd much rather have coppers, always the same conductivity, or white mice,"
+  },
+  {
+   "start": 2101.1,
+   "end": 2111.19,
+   "text": "but you have no choice. So they talk back, and you know one cannot"
+  },
+  {
+   "start": 2111.19,
+   "end": 2117.87,
+   "text": "hire a hand, the whole human being always comes with it, until they bring"
+  },
+  {
+   "start": 2117.87,
+   "end": 2123.43,
+   "text": "their marital problems, and they fight with their girlfriend, and they fight with their 40-year-old"
+  },
+  {
+   "start": 2123.43,
+   "end": 2130.23,
+   "text": "or daughter and they're worried because their mother is getting senile and refuses to go to"
+  },
+  {
+   "start": 2130.23,
+   "end": 2138.66,
+   "text": "a nursing home they bring all this on to the job these things one cannot talk when they go from"
+  },
+  {
+   "start": 2138.66,
+   "end": 2151.6,
+   "text": "the locker room and you know they like you but they don't like Jim and they had a fight with"
+  },
+  {
+   "start": 2151.6,
+   "end": 2165.79,
+   "text": "Mary I just love it yeah that's what you are but they accept the cooperatives in"
+  },
+  {
+   "start": 2165.79,
+   "end": 2175.5,
+   "text": "every second going to staff the job is a human being and they are not even though"
+  },
+  {
+   "start": 2175.5,
+   "end": 2182.95,
+   "text": "our friend the psychologist always pretend that we can find that they've"
+  },
+  {
+   "start": 2182.95,
+   "end": 2191.38,
+   "text": "been promising it for and you know for how long but they took on and that would"
+  },
+  {
+   "start": 2191.38,
+   "end": 2199.16,
+   "text": "has yet to deliver. By the time they come to us, it's much too late. Maybe you could"
+  },
+  {
+   "start": 2199.16,
+   "end": 2203.14,
+   "text": "have asked them when they were six weeks old, but then they are, thank God, not under your"
+  },
+  {
+   "start": 2203.14,
+   "end": 2212.56,
+   "text": "control. And by the time they're coming to you, in my hand, it's much too late. The other"
+  },
+  {
+   "start": 2212.56,
+   "end": 2238.6,
+   "text": "way they are. In this job, and the people who know how one starts, and the number is"
+  },
+  {
+   "start": 2238.6,
+   "end": 2250.26,
+   "text": "incredibly, but they don't have the university art museum problem, don't ever."
+  },
+  {
+   "start": 2250.26,
+   "end": 2264.65,
+   "text": "And after they don't start a job without thinking through the assignments."
+  },
+  {
+   "start": 2264.65,
+   "end": 2269.46,
+   "text": "And many, many years ago, I said to Alfred Sloan,"
+  },
+  {
+   "start": 2269.46,
+   "end": 2273.46,
+   "text": "when I said through three hours of what seemed to be a wrangling,"
+  },
+  {
+   "start": 2273.46,
+   "end": 2280.38,
+   "text": "on the job of master mechanic at Harrison Radiator,"
+  },
+  {
+   "start": 2280.38,
+   "end": 2286.62,
+   "text": "are not their biggest, they are divided by a long shot, the smallest, and there is no"
+  },
+  {
+   "start": 2286.62,
+   "end": 2303.42,
+   "text": "strength of doing to the master mechanic. That is the danger, precisely because we have"
+  },
+  {
+   "start": 2303.42,
+   "end": 2327.42,
+   "text": "been filling it up. That's why I am interested in it. Particularly, let me say, when you"
+  },
+  {
+   "start": 2327.42,
+   "end": 2340.93,
+   "text": "have to, here you have this retiring museum director who potentially took over and non-music,"
+  },
+  {
+   "start": 2340.93,
+   "end": 2353.59,
+   "text": "Nobody gave a hoot. Fashioned it, did it because nobody paid much attention, and built it into a very sizable"
+  },
+  {
+   "start": 2353.59,
+   "end": 2380.66,
+   "text": "and now you'd like to serve and you don't sign them. Some of the things you wouldn't see."
+  },
+  {
+   "start": 2380.66,
+   "end": 2387.25,
+   "text": "But now you know some of the really very guys at the University of Louisiana, they're very careful."
+  },
+  {
+   "start": 2387.25,
+   "end": 2406.87,
+   "text": "But one thing you see is that emphasis on the museum as a resource for the university."
+  },
+  {
+   "start": 2406.87,
+   "end": 2416.91,
+   "text": "What is it you see here? What's her name? The girl that just retired? What? What did we call her?"
+  },
+  {
+   "start": 2416.91,
+   "end": 2418.91,
+   "text": "Miss Kirchhoff."
+  },
+  {
+   "start": 2418.91,
+   "end": 2428.31,
+   "text": "Miss Kirchhoff. Here she's saying it is the one museum in the country, that is, in Europe, that is part of it."
+  },
+  {
+   "start": 2428.31,
+   "end": 2444.28,
+   "text": "And we have the one art faculty that made the museum."
+  },
+  {
+   "start": 2444.28,
+   "end": 2469.2,
+   "text": "You might probably, anybody, you see, here's a perfect example, you go to New York University, you see the fine arts, by no accident have this office directly across from the Metropolitan Museum, because you are in Yosef."
+  },
+  {
+   "start": 2469.2,
+   "end": 2491.59,
+   "text": "But that's a research institute, has no students, graduate students, incidentally, it is the only place known in the world that awards a Ph.D. posthumously, because nobody has yet lived long enough to get it."
+  },
+  {
+   "start": 2491.59,
+   "end": 2515.6,
+   "text": "I understand that Nancy Thompson has been told by SOPA, Alex SOPA, that in his system one of the things he's handing out in his last will is a PhD."
+  },
+  {
+   "start": 2515.6,
+   "end": 2536.04,
+   "text": "If so, she would be the first. But they don't like to graduate. They like to be friends and stay on forever."
+  },
+  {
+   "start": 2536.04,
+   "end": 2545.68,
+   "text": "And they look after it, because that is the staff of the Metropolitan University exhibition."
+  },
+  {
+   "start": 2545.68,
+   "end": 2559.68,
+   "text": "But that is not part of the Metropolitan, but part of a big, you know, that works there."
+  },
+  {
+   "start": 2559.68,
+   "end": 2566.64,
+   "text": "It actually is paid out of it, by a large university."
+  },
+  {
+   "start": 2566.64,
+   "end": 2580.17,
+   "text": "And that developed over the years, again, the building was mentioned, but that's not the truth."
+  },
+  {
+   "start": 2580.17,
+   "end": 2582.24,
+   "text": "No, they have it."
+  },
+  {
+   "start": 2582.24,
+   "end": 2598.13,
+   "text": "By and large, this one is undergraduate."
+  },
+  {
+   "start": 2598.13,
+   "end": 2607.76,
+   "text": "That is imitated, it stands for this scientific item."
+  },
+  {
+   "start": 2607.76,
+   "end": 2622.18,
+   "text": "But basically, in Michigan, they are imitating the art of the pioneer dance of that gang."
+  },
+  {
+   "start": 2622.18,
+   "end": 2640.56,
+   "text": "And the authorities are very peculiar in that it's not a place where the one hand is together."
+  },
+  {
+   "start": 2640.56,
+   "end": 2648.85,
+   "text": "It's not a place to see things as passively, but to use them in instruction,"
+  },
+  {
+   "start": 2648.85,
+   "end": 2667.25,
+   "text": "wherein every other artist resides, and also neighbors, to do continuing scholarly work"
+  },
+  {
+   "start": 2667.25,
+   "end": 2674.63,
+   "text": "through those exhibitions and exhibition catalogs, which constantly challenge and stimulate and"
+  },
+  {
+   "start": 2674.63,
+   "end": 2684.57,
+   "text": "give them work to do and force them into continuing scholarly work, again with real objects."
+  },
+  {
+   "start": 2684.57,
+   "end": 2692.2,
+   "text": "Unique, quite clearly. And so this assignment is very different from any other museum."
+  },
+  {
+   "start": 2692.2,
+   "end": 2702.49,
+   "text": "In fact, the museum for the public is not among its functions at all."
+  },
+  {
+   "start": 2702.49,
+   "end": 2721.76,
+   "text": "And you might really stipulate that you are not saying that there can only be a museum for the public insofar as it doesn't interfere with it being an in-house museum."
+  },
+  {
+   "start": 2721.76,
+   "end": 2737.6,
+   "text": "You see, 40 years ago, when the pathological and medical lab was in its very infancy,"
+  },
+  {
+   "start": 2737.6,
+   "end": 2748.97,
+   "text": "The hospitals that went into it, tried to have them outside."
+  },
+  {
+   "start": 2748.97,
+   "end": 2753.97,
+   "text": "Commercial labs on the outside, which you send your patients and your specimens."
+  },
+  {
+   "start": 2753.97,
+   "end": 2755.97,
+   "text": "We don't want them in the hospital."
+  },
+  {
+   "start": 2755.97,
+   "end": 2761.33,
+   "text": "It's a managerial job of major proportions."
+  },
+  {
+   "start": 2761.33,
+   "end": 2763.33,
+   "text": "Totally different from managing a hospital."
+  },
+  {
+   "start": 2763.33,
+   "end": 2774.27,
+   "text": "And in fact, almost a collision course."
+  },
+  {
+   "start": 2774.27,
+   "end": 2777.72,
+   "text": "No, how do we do it?"
+  },
+  {
+   "start": 2777.72,
+   "end": 2780.34,
+   "text": "And then the father."
+  },
+  {
+   "start": 2780.34,
+   "end": 2785.29,
+   "text": "who ultimately prevailed largely before the World War II,"
+  },
+  {
+   "start": 2785.29,
+   "end": 2799.44,
+   "text": "the armed service accepted this great pathologist at Mount Sinai, for example,"
+  },
+  {
+   "start": 2799.44,
+   "end": 2810.71,
+   "text": "said this isn't going to the lab, the lab grows to any size, and it will happen in-house,"
+  },
+  {
+   "start": 2810.71,
+   "end": 2820.83,
+   "text": "simply because in a commercial lab, you cannot possibly subordinate the commercial work."
+  },
+  {
+   "start": 2820.83,
+   "end": 2829.14,
+   "text": "And what he instead proposed was a hospital lab that can think commercial work,"
+  },
+  {
+   "start": 2829.14,
+   "end": 2837.82,
+   "text": "to it by the physicians who are on the staff of the hospital up to the point where this interferes"
+  },
+  {
+   "start": 2837.82,
+   "end": 2843.36,
+   "text": "with the lab function for the hospital which is very large in the way we have it except that"
+  },
+  {
+   "start": 2843.36,
+   "end": 2851.97,
+   "text": "more and more of the hospital labs don't take any options to build and here you have a museum"
+  },
+  {
+   "start": 2851.97,
+   "end": 2865.84,
+   "text": "and you might specify that it can take to outside work whether that is having people come into its"
+  },
+  {
+   "start": 2865.84,
+   "end": 2876.67,
+   "text": "exhibition from off the street, only insofar as it doesn't interfere with its educational mission."
+  },
+  {
+   "start": 2878.26,
+   "end": 2896.96,
+   "text": "If you look around in this area, the best university museum in this area is UCLA, the White Gallery,"
+  },
+  {
+   "start": 2896.96,
+   "end": 2908.77,
+   "text": "which has nothing. It has its own board of trustees, its own very active advisory board of"
+  },
+  {
+   "start": 2908.77,
+   "end": 2919.91,
+   "text": "very very active lady has its own exhibition but very good and the fact"
+  },
+  {
+   "start": 2919.91,
+   "end": 2931.0,
+   "text": "ninety-eight percent people from outside UCLA and the director of the gallery is"
+  },
+  {
+   "start": 2931.0,
+   "end": 2938.34,
+   "text": "not not on the faculty and faculty is not a beautiful this is deliberate or"
+  },
+  {
+   "start": 2938.34,
+   "end": 2950.34,
+   "text": "not this is one we have the community a gallery has a gallery that is a"
+  },
+  {
+   "start": 2950.34,
+   "end": 2959.44,
+   "text": "community in White and on the Westwood campus. That's where it is. Because Mr. White or whoever's name was"
+  },
+  {
+   "start": 2959.44,
+   "end": 2970.36,
+   "text": "gave you money. That is a museum on the grounds, but not the university museum. This is almost the extreme opposite."
+  },
+  {
+   "start": 2970.36,
+   "end": 2985.6,
+   "text": "The museum there. So the assignment, uh, and you would probably, and uh, sure, you imagine"
+  },
+  {
+   "start": 2985.6,
+   "end": 2994.28,
+   "text": "the exit question is still the right assignment. If you assume that you would never, never have"
+  },
+  {
+   "start": 2994.28,
+   "end": 3017.3,
+   "text": "And he would never have taken. Maybe he would have picked somebody from within the university, and that's what universities probably do."
+  },
+  {
+   "start": 3017.3,
+   "end": 3025.44,
+   "text": "Can you tell me what is this definition of their main assignment, where you go and look?"
+  },
+  {
+   "start": 3025.44,
+   "end": 3032.1,
+   "text": "Because now you're likely to find that the university doesn't do it."
+  },
+  {
+   "start": 3032.1,
+   "end": 3035.1,
+   "text": "They distinguish autism from your likely to pick."
+  },
+  {
+   "start": 3035.1,
+   "end": 3049.14,
+   "text": "You say she was probably wrong when she said now she deserves it."
+  },
+  {
+   "start": 3049.14,
+   "end": 3082.06,
+   "text": "because this is not. Facilitator, coordinator, transmission gear, a high level diplomat is a low profile, not the Henry Kissinger who has got his gift."
+  },
+  {
+   "start": 3082.06,
+   "end": 3091.88,
+   "text": "Somebody with a very low profile pushing great dollars of credit to other people, very, very skillful."
+  },
+  {
+   "start": 3091.88,
+   "end": 3108.46,
+   "text": "At the same time, somebody who knows enough about museum work, budget and how much you can afford to pay for an exhibition,"
+  },
+  {
+   "start": 3108.46,
+   "end": 3115.03,
+   "text": "how much you can afford to pay for a catalogue."
+  },
+  {
+   "start": 3115.03,
+   "end": 3120.65,
+   "text": "Museum is at least 50% financially managed."
+  },
+  {
+   "start": 3120.65,
+   "end": 3127.87,
+   "text": "And let me say, you have lots of people who know the art part of the museum."
+  },
+  {
+   "start": 3127.87,
+   "end": 3129.87,
+   "text": "The whole art history, in fact."
+  },
+  {
+   "start": 3129.87,
+   "end": 3134.77,
+   "text": "The museum director's job is to know the non-art."
+  },
+  {
+   "start": 3134.77,
+   "end": 3137.59,
+   "text": "But that the art historians don't know."
+  },
+  {
+   "start": 3137.59,
+   "end": 3153.29,
+   "text": "And that's the gentle art of writing a grant for the National Endowment for the Arts."
+  },
+  {
+   "start": 3153.29,
+   "end": 3159.99,
+   "text": "You know, we have reached the point where the most honored of the liberal arts is grant writing."
+  },
+  {
+   "start": 3159.99,
+   "end": 3168.25,
+   "text": "right but that's so and you need the federal bureaucracy that's very very"
+  },
+  {
+   "start": 3168.25,
+   "end": 3187.11,
+   "text": "stiff in it but maybe that's not even very clear the way anybody is in it and you"
+  },
+  {
+   "start": 3187.11,
+   "end": 3199.81,
+   "text": "manage you're clearly not staffed to that sense you're very much recognized you have British fraud and"
+  },
+  {
+   "start": 3199.81,
+   "end": 3210.67,
+   "text": "maybe a couple of curators and lots of you can hang things and move weaves culture in and out"
+  },
+  {
+   "start": 3210.67,
+   "end": 3217.04,
+   "text": "which is clearly back-breaking manual work that you have to be very careful, because things are fragile,"
+  },
+  {
+   "start": 3217.04,
+   "end": 3223.11,
+   "text": "and it doesn't help you to get insurance before it gets around."
+  },
+  {
+   "start": 3223.11,
+   "end": 3230.11,
+   "text": "If you're sent to that university art museum, a few things break, you aren't going to get exhibitions anymore."
+  },
+  {
+   "start": 3230.11,
+   "end": 3240.67,
+   "text": "Collectors or museums don't like to get stuff back, even though it's back-broken, even though the insurance pays for it."
+  },
+  {
+   "start": 3240.67,
+   "end": 3260.4,
+   "text": "Maybe somebody a little older than Mr. Kovar, not because age is necessarily an advantage,"
+  },
+  {
+   "start": 3260.4,
+   "end": 3263.4,
+   "text": "but because the faculty is novice."
+  },
+  {
+   "start": 3263.4,
+   "end": 3270.93,
+   "text": "But somebody who is not academic and not in union."
+  },
+  {
+   "start": 3270.93,
+   "end": 3277.66,
+   "text": "The job is not academic and it's not in union."
+  },
+  {
+   "start": 3277.66,
+   "end": 3281.21,
+   "text": "It takes two years of time."
+  },
+  {
+   "start": 3281.21,
+   "end": 3303.54,
+   "text": "Is there something else to say about looking at this as a case in picking them wrong?"
+  },
+  {
+   "start": 3303.54,
+   "end": 3311.35,
+   "text": "Yes?"
+  },
+  {
+   "start": 3311.35,
+   "end": 3312.35,
+   "text": "I can't hear you."
+  },
+  {
+   "start": 3312.35,
+   "end": 3313.35,
+   "text": "They alluded to a problem with..."
+  },
+  {
+   "start": 3313.35,
+   "end": 3315.39,
+   "text": "Of what?"
+  },
+  {
+   "start": 3315.39,
+   "end": 3316.39,
+   "text": "Financial issues."
+  },
+  {
+   "start": 3316.39,
+   "end": 3317.39,
+   "text": "Maybe, yes."
+  },
+  {
+   "start": 3317.39,
+   "end": 3325.93,
+   "text": "No, no."
+  },
+  {
+   "start": 3325.93,
+   "end": 3326.93,
+   "text": "We don't..."
+  },
+  {
+   "start": 3326.93,
+   "end": 3332.55,
+   "text": "There's nothing in the case that leads you to believe that there were financial problems."
+  },
+  {
+   "start": 3332.55,
+   "end": 3339.89,
+   "text": "On the contrary, it's quite conceivable that our late and un-lamented museum director did"
+  },
+  {
+   "start": 3339.89,
+   "end": 3344.98,
+   "text": "exceedingly willing getting money, you know, the kind of things he did were"
+  },
+  {
+   "start": 3344.98,
+   "end": 3352.47,
+   "text": "way into finance. That art of Islam exhibit, well you can get Arab oil money"
+  },
+  {
+   "start": 3352.47,
+   "end": 3359.1,
+   "text": "for it. That women artists through the ages, that I can assure you you get"
+  },
+  {
+   "start": 3359.1,
+   "end": 3371.96,
+   "text": "national endowment for the arts money for it. That's in and cheap. And the only"
+  },
+  {
+   "start": 3371.96,
+   "end": 3378.78,
+   "text": "exhibit he missed was lesbian artists through the ages. They would have made a real"
+  },
+  {
+   "start": 3378.78,
+   "end": 3389.24,
+   "text": "fortune. But he was obviously with it, and he quite obviously knew how to get money."
+  },
+  {
+   "start": 3389.24,
+   "end": 3393.9,
+   "text": "From that point of view, I think the picture is very well. He just didn't know anything else."
+  },
+  {
+   "start": 3393.9,
+   "end": 3403.7,
+   "text": "He didn't look at the job. And everybody blames him for not looking at the job."
+  },
+  {
+   "start": 3403.7,
+   "end": 3410.56,
+   "text": "All the fear, all the guilt. Why not?"
+  },
+  {
+   "start": 3415.44,
+   "end": 3417.84,
+   "text": "Who is they?"
+  },
+  {
+   "start": 3419.84,
+   "end": 3431.81,
+   "text": "Now if you say they what is everybody's"
+  },
+  {
+   "start": 3432.91,
+   "end": 3435.56,
+   "text": "responsibility is nobody's"
+  },
+  {
+   "start": 3436.2,
+   "end": 3439.18,
+   "text": "Responsibilities have to be vested in one"
+  },
+  {
+   "start": 3440.16,
+   "end": 3442.16,
+   "text": "Or they will not be"
+  },
+  {
+   "start": 3445.77,
+   "end": 3447.77,
+   "text": "Accepted that collective"
+  },
+  {
+   "start": 3448.31,
+   "end": 3458.69,
+   "text": "Responsibility being over saying it ain't my table they"
+  },
+  {
+   "start": 3458.69,
+   "end": 3486.96,
+   "text": "that's they now let's see here you are begins one of the particularities of"
+  },
+  {
+   "start": 3486.96,
+   "end": 3496.49,
+   "text": "academia is that the Dean is not but there is nobody knows and that was one"
+  },
+  {
+   "start": 3496.49,
+   "end": 3502.17,
+   "text": "one that I can tell you that nobody knows and that but he's not the boss of"
+  },
+  {
+   "start": 3502.17,
+   "end": 3524.95,
+   "text": "the time and one of the very rare chairman of a department down ninety"
+  },
+  {
+   "start": 3524.95,
+   "end": 3533.42,
+   "text": "days or at the end of the first term this is you appointee and says how do you see your job"
+  },
+  {
+   "start": 3534.84,
+   "end": 3547.48,
+   "text": "what are the most important things and then says look the University of Chicago this is a very large"
+  },
+  {
+   "start": 3547.48,
+   "end": 3556.94,
+   "text": "business school and the students are 19 years old they're 29 and each of them has more years"
+  },
+  {
+   "start": 3556.94,
+   "end": 3574.52,
+   "text": "of experience than you have. But in situations where there is such a thing as a superior,"
+  },
+  {
+   "start": 3574.52,
+   "end": 3591.8,
+   "text": "except that it is part of the superior responsibility to call in anybody who has a new job, 19 to 120 to"
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 28.37,
+ "created_utc": "2026-09-29T02:29:26+00:00"
+}

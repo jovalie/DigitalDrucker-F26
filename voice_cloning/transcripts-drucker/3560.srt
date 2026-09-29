@@ -1,0 +1,1043 @@
+1
+00:02:51,030 --> 00:02:51,410
+Peter Drucker.
+
+2
+00:02:51,670 --> 00:02:54,000
+Thank you very much, Bob Hawkins.
+
+3
+00:02:54,580 --> 00:03:02,540
+Ladies and gentlemen, let me say again how very happy I am to be once more back home
+
+4
+00:03:02,540 --> 00:03:11,800
+at GBA and, by the way, in an act of rash optimism, I promise that I'll be back next
+
+5
+00:03:11,800 --> 00:03:12,220
+year.
+
+6
+00:03:12,220 --> 00:03:23,840
+But let me say, above all, how delighted and honored I am to have Dr. Friedman join us today.
+
+7
+00:03:23,840 --> 00:03:33,300
+I have been an admirer of his for, I think, oh, make it 30 years since he really, more than anybody else,
+
+8
+00:03:33,300 --> 00:03:41,780
+got the International Monetary Fund off the ground
+
+9
+00:03:41,780 --> 00:03:47,380
+and operating as the senior department head there for many years.
+
+10
+00:03:48,000 --> 00:03:51,760
+And my admiration for him has been greatly increased
+
+11
+00:03:51,760 --> 00:03:56,560
+by his having written, with due respect to all other economists,
+
+12
+00:03:56,560 --> 00:04:00,140
+the only book on inflation that's worth reading
+
+13
+00:04:00,140 --> 00:04:02,060
+and worth reading more every day.
+
+14
+00:04:02,060 --> 00:04:06,020
+and so I'm very grateful
+
+15
+00:04:06,020 --> 00:04:08,840
+Irving said you agreed to join us here today
+
+16
+00:04:08,840 --> 00:04:11,760
+and because of Dr. Friedman's presence
+
+17
+00:04:11,760 --> 00:04:15,140
+on the panel I shall restrain myself
+
+18
+00:04:15,140 --> 00:04:17,780
+from making any comments on
+
+19
+00:04:17,780 --> 00:04:20,760
+international monetary and financial matters
+
+20
+00:04:20,760 --> 00:04:24,660
+which would be sheer folly
+
+21
+00:04:24,660 --> 00:04:27,340
+in his presence and I leave that to you
+
+22
+00:04:27,340 --> 00:04:31,280
+and I will talk about other elements
+
+23
+00:04:31,280 --> 00:04:35,720
+that are not more within my
+
+24
+00:04:35,720 --> 00:04:40,970
+but less within yours. And let me say
+
+25
+00:04:40,970 --> 00:04:45,370
+it is very clear that we are
+
+26
+00:04:45,370 --> 00:04:49,580
+in the midst of structural changes in the world
+
+27
+00:04:49,580 --> 00:04:53,360
+economy. In many ways the
+
+28
+00:04:53,360 --> 00:04:57,840
+disappearance of anything that could be called a key currency
+
+29
+00:04:57,840 --> 00:05:01,720
+which was
+
+30
+00:05:01,720 --> 00:05:14,000
+quite clear, and the rapid shift away from the traditional industries as the main carriers
+
+31
+00:05:14,000 --> 00:05:16,560
+of international trade and so on.
+
+32
+00:05:16,560 --> 00:05:24,360
+And I want to focus today really on three and only three of these changes, all of them
+
+33
+00:05:24,360 --> 00:05:32,320
+structural, all of them hard to quantify and therefore unlikely to appear yet in the
+
+34
+00:05:32,320 --> 00:05:42,350
+economic models Bob Hawkins talked about, and all of them kind of contrary not just
+
+35
+00:05:42,350 --> 00:05:50,310
+to conventional wisdom, but above all to conventional rhetoric, conventional modes of political
+
+36
+00:05:50,310 --> 00:05:52,990
+and managerial behavior.
+
+37
+00:05:52,990 --> 00:05:56,790
+And the first is the demographic shifts.
+
+38
+00:05:56,790 --> 00:06:03,010
+And those of you who attended earlier seminars here in the last few years, we have been discussing
+
+39
+00:06:03,010 --> 00:06:12,430
+them again and again. And so I will only say that fundamentally, we must accept the fact
+
+40
+00:06:12,430 --> 00:06:19,230
+that in the developed countries, including the developed countries of the Soviet bloc,
+
+41
+00:06:19,690 --> 00:06:29,390
+we face long decades of very great shortages of young people available for traditional
+
+42
+00:06:29,390 --> 00:06:38,470
+work at any price, as a result both of the baby bust of the sharp decline in birth rates
+
+43
+00:06:38,470 --> 00:06:42,210
+and of the sharp shift in education.
+
+44
+00:06:43,430 --> 00:06:52,510
+And if you add the two together, we would find that the next 10 or 12 years in this
+
+45
+00:06:52,510 --> 00:07:01,270
+country have no more than one-third of the entrant people available for entrant jobs
+
+46
+00:07:01,270 --> 00:07:07,070
+in traditional employment, but one-third of what we had the last 20 years.
+
+47
+00:07:07,070 --> 00:07:12,810
+This is also, of course, in part the result of the fact that the participation of women
+
+48
+00:07:12,810 --> 00:07:21,190
+in the labor force cannot increase much more, because under 50, the labor force participation
+
+49
+00:07:21,190 --> 00:07:28,430
+of women is already equal to that of men in any developed economy except Japan.
+
+50
+00:07:28,430 --> 00:07:34,070
+So that from now on, what you will see as increased labor force participation will be
+
+51
+00:07:34,070 --> 00:07:36,150
+a statistical illusion.
+
+52
+00:07:36,150 --> 00:07:43,090
+As the older ones die off, who never were in the labor force, it will look as if the
+
+53
+00:07:43,090 --> 00:07:47,590
+total labor force participation rate went up, but it doesn't.
+
+54
+00:07:47,590 --> 00:07:59,330
+those who are in the labor force it is at its peak or at a peak can you this is on it isn't on
+
+55
+00:07:59,330 --> 00:08:13,560
+no no okay can you hear me now this is on i'm sorry this thanks very much for telling how is
+
+56
+00:08:13,560 --> 00:08:20,480
+this now okay and will you please not suffer in silence you suffered 10 minutes in silence which
+
+57
+00:08:20,480 --> 00:08:23,800
+is, I think, forbidden after age six months.
+
+58
+00:08:24,580 --> 00:08:27,960
+So will you please scream and say louder?
+
+59
+00:08:29,040 --> 00:08:29,660
+Thanks.
+
+60
+00:08:30,280 --> 00:08:37,540
+And so in all developed countries, we must expect the sharp drop in the number of entrance
+
+61
+00:08:37,540 --> 00:08:42,720
+people, whether they are young or older women, is the material available for traditional
+
+62
+00:08:42,720 --> 00:08:48,940
+work, which will incidentally cause very great turbulence because it will be accompanied
+
+63
+00:08:48,940 --> 00:08:58,000
+by small but highly visible areas of high redundancy of older people
+
+64
+00:08:58,000 --> 00:09:04,060
+in decaying industries, whether that's Youngstown or Nagoya or what have you.
+
+65
+00:09:06,240 --> 00:09:09,820
+And at the same time, in the developing world,
+
+66
+00:09:10,960 --> 00:09:15,460
+the very large number of babies who did not die in the 50s and 60s
+
+67
+00:09:15,460 --> 00:09:25,000
+are now reaching maturity and need work, so you will see increasingly that the pattern
+
+68
+00:09:25,000 --> 00:09:30,450
+of traditional manufacturing will change.
+
+69
+00:09:30,450 --> 00:09:37,570
+That part of it that can be automated, truly automated, will be automated simply because
+
+70
+00:09:37,570 --> 00:09:42,210
+for the first time the hardware for automation is available.
+
+71
+00:09:42,210 --> 00:09:49,070
+We have been talking automation 25 years, but we haven't seen much of it because it could be done on paper.
+
+72
+00:09:49,070 --> 00:09:59,570
+Now it can be done in process as the mini processor is being integrated with the tool, with the machine, with the instrument.
+
+73
+00:09:59,570 --> 00:10:22,070
+And this, incidentally, is likely to be as important an industrial revolution as the coming of the fractional horsepower motor was about 100 years ago, which really created the modern plant, because it made it possible to have modern power on the machine,
+
+74
+00:10:22,070 --> 00:10:27,110
+so that you did not have to build your plant next to a generating station
+
+75
+00:10:27,110 --> 00:10:30,370
+or did not have to have a generating station to have a plant.
+
+76
+00:10:32,010 --> 00:10:34,690
+As long as you transmitted power with a pulley,
+
+77
+00:10:34,690 --> 00:10:40,350
+you had to be within 100 yards of the source of power, or 200 yards.
+
+78
+00:10:40,890 --> 00:10:43,910
+And so you will see real automation.
+
+79
+00:10:45,090 --> 00:10:51,850
+And by the way, in this respect, this country is way behind.
+
+80
+00:10:52,070 --> 00:10:57,070
+compared to both the Germans and the Japanese, who are really pushing.
+
+81
+00:10:57,070 --> 00:11:06,070
+And on the other hand, where you cannot automate, you will see that labour-intensive stages of production
+
+82
+00:11:06,070 --> 00:11:13,070
+will be done increasingly where the labour is, and that's not in the developed countries.
+
+83
+00:11:13,070 --> 00:11:21,520
+And you will see production sharing in which the design, the management, the marketing
+
+84
+00:11:21,520 --> 00:11:29,460
+are done in and by the developed country, and the actual labor-intensive stages are
+
+85
+00:11:29,460 --> 00:11:33,500
+being done in every other place, growing rapidly.
+
+86
+00:11:33,500 --> 00:11:35,620
+It is already growing very fast.
+
+87
+00:11:35,620 --> 00:11:43,600
+and this violates very much the way governments and labor unions and politicians
+
+88
+00:11:43,600 --> 00:11:49,260
+but also bankers and businessmen look at the international economy.
+
+89
+00:11:49,260 --> 00:11:55,000
+We all still see in our mind's eye Adam Smith's complimentary trade
+
+90
+00:11:55,000 --> 00:11:59,700
+of English bullens against Portuguese wine as the model
+
+91
+00:11:59,700 --> 00:12:04,760
+and that even though it ceased to be the model about 150 years ago.
+
+92
+00:12:04,760 --> 00:12:27,510
+And that will increasingly be the wrong model. The right model are the shoes you and I are wearing, where the height came from an American cow and was tanned in southern Brazil, and the uppers were usually, the uppers are now being done in Haiti by a Japanese trading company, just to make things easy.
+
+93
+00:12:27,510 --> 00:12:42,190
+And the soles are done in the British Virgin Islands. And the shoes are then assembled in Puerto Rico for the American market and, let's say, in Barbados for the European and British markets.
+
+94
+00:12:42,190 --> 00:12:47,290
+and market designed in New York or in Zurich,
+
+95
+00:12:48,470 --> 00:12:50,750
+marketed in the developed countries,
+
+96
+00:12:50,850 --> 00:12:52,750
+which is where people wear shoes,
+
+97
+00:12:54,490 --> 00:13:00,150
+and labor content, except for the cattle raising,
+
+98
+00:13:00,830 --> 00:13:05,070
+is 60%, 70% developing countries,
+
+99
+00:13:05,990 --> 00:13:08,270
+where were those shoes made?
+
+100
+00:13:08,270 --> 00:13:10,710
+If you had to put on a label, made in,
+
+101
+00:13:10,850 --> 00:13:12,830
+what would you write on it?
+
+102
+00:13:12,830 --> 00:13:37,270
+And that is the pattern increasingly, and we are not yet organized, and least organized for it are the large, old multinationals who basically still see a 19th century pattern in which you have national subsidiaries, each of which is a parent company in miniature.
+
+103
+00:13:37,270 --> 00:13:42,810
+and thus the whole range and everything for a limited market
+
+104
+00:13:42,810 --> 00:13:47,070
+where tomorrow you will see plant facilities
+
+105
+00:13:47,070 --> 00:13:52,130
+that do one or two operations for the world market.
+
+106
+00:13:52,830 --> 00:13:54,230
+And we are not organized.
+
+107
+00:13:54,230 --> 00:14:02,370
+Let me say that this implies a shift in the center of gravity of international business
+
+108
+00:14:02,370 --> 00:14:04,930
+from capital to marketing.
+
+109
+00:14:06,220 --> 00:14:10,600
+Tomorrow's international will not be controlled by capital.
+
+110
+00:14:10,600 --> 00:14:17,520
+And incidentally, those of you who still feel that the demand of the Mexicans or the Brazilians
+
+111
+00:14:17,520 --> 00:14:23,000
+that you have foreign partners is so, and the imposition,
+
+112
+00:14:23,480 --> 00:14:28,000
+will you please accept the fact that for reasons which only they can understand,
+
+113
+00:14:28,380 --> 00:14:31,540
+these poor countries are willing to subsidize you,
+
+114
+00:14:31,540 --> 00:14:36,890
+and that they insist that you accept being subsidized for them.
+
+115
+00:14:37,310 --> 00:14:43,550
+Insist, however, that from the beginning you build something that has an export market.
+
+116
+00:14:43,670 --> 00:14:45,750
+In the first place, it won't grow any other way.
+
+117
+00:14:46,190 --> 00:14:48,630
+Secondly, you won't have control any other way.
+
+118
+00:14:48,630 --> 00:14:52,510
+And third, you won't really make a contribution any other way.
+
+119
+00:14:53,110 --> 00:14:57,430
+The people in the developing countries who now reach working age
+
+120
+00:14:57,430 --> 00:15:03,350
+cannot possibly find jobs supplying their own domestic market.
+
+121
+00:15:03,350 --> 00:15:08,950
+Even in Brazil, it isn't big enough and not capable of growing fast enough.
+
+122
+00:15:09,370 --> 00:15:13,530
+The only market is where the customers are and the purchasing power,
+
+123
+00:15:13,950 --> 00:15:15,830
+which is in the developed world.
+
+124
+00:15:16,210 --> 00:15:19,750
+So that's the only way to make a contribution today
+
+125
+00:15:19,750 --> 00:15:22,330
+to the developing market countries
+
+126
+00:15:22,330 --> 00:15:28,710
+is by creating jobs for export in labor-intensive stages of production.
+
+127
+00:15:28,710 --> 00:15:34,830
+And tomorrow's multinational, as a result, is likely to be a confederation
+
+128
+00:15:34,830 --> 00:15:40,950
+that's held together by control of marketing,
+
+129
+00:15:41,390 --> 00:15:49,710
+where today's multinational sees itself very much in the image of an army division.
+
+130
+00:15:51,200 --> 00:15:54,580
+I have suggested, if you want a metaphor for tomorrow's,
+
+131
+00:15:55,200 --> 00:16:02,300
+it'll be the symphony orchestra the conductor does not play the oboe and the
+
+132
+00:16:02,300 --> 00:16:07,500
+oboist does not do what the conductor does but the conductor keeps the score
+
+133
+00:16:07,500 --> 00:16:14,140
+and the conductor decides whether we play Beethoven or Bartok and that is
+
+134
+00:16:14,140 --> 00:16:20,540
+tomorrow's multinational but the oboist better play the oboe and not the
+
+135
+00:16:20,540 --> 00:16:25,260
+conductor I have at least never met a conductor whom I would entrust an oboe
+
+136
+00:16:25,260 --> 00:16:34,620
+and so that is tomorrow's multinational and the second thing to say is that you
+
+137
+00:16:34,620 --> 00:16:39,800
+know all of us have been talking about the last ten years being years of
+
+138
+00:16:39,800 --> 00:16:48,300
+stagnation but that is not true there have been years of stagnation in the
+
+139
+00:16:48,300 --> 00:16:53,620
+developing developed countries and by the way very unevenly in this country we
+
+140
+00:16:53,620 --> 00:17:00,340
+We had fairly substantial growth, basically, if I sound critical, I think we had growth
+
+141
+00:17:00,340 --> 00:17:03,200
+where we shouldn't have had it.
+
+142
+00:17:03,200 --> 00:17:05,500
+Ours was not the healthy development.
+
+143
+00:17:05,500 --> 00:17:10,300
+We had growth in old industries, not the new ones, basically.
+
+144
+00:17:10,300 --> 00:17:14,300
+But fairly substantial growth.
+
+145
+00:17:14,300 --> 00:17:23,120
+When Japan and Germany was there, very successful exploitation of the world market had no better
+
+146
+00:17:23,120 --> 00:17:30,220
+growth than we in some areas. But that is not the point. The point is that a whole group
+
+147
+00:17:30,220 --> 00:17:39,380
+of countries in this very difficult period had extraordinary fast growth in the industries
+
+148
+00:17:39,380 --> 00:17:45,720
+that are right for them. We have a whole new group in the world economy, whether you call
+
+149
+00:17:45,720 --> 00:17:52,820
+them the rapidly industrializing countries or the almost developed ones, Brazil and Mexico
+
+150
+00:17:52,820 --> 00:17:55,000
+and perhaps Colombia, close to it.
+
+151
+00:17:55,420 --> 00:18:02,040
+And, of course, the non-communist Chinese communities of Taiwan, Hong Kong, and Singapore.
+
+152
+00:18:02,780 --> 00:18:09,990
+By the way, I'm one of those who do not believe in the economic growth of Red China ahead of us.
+
+153
+00:18:09,990 --> 00:18:14,490
+I think Red China faces nothing but serious trouble the next 20 years.
+
+154
+00:18:15,610 --> 00:18:16,970
+But that's a footnote.
+
+155
+00:18:18,270 --> 00:18:25,270
+And maybe the Mediterranean.
+
+156
+00:18:26,300 --> 00:18:32,620
+These are almost developed countries, and my definition of an almost developed country
+
+157
+00:18:32,620 --> 00:18:37,760
+is a country that can do any one thing well, but not many things.
+
+158
+00:18:39,340 --> 00:18:45,940
+And these are the countries in which, in some of them, you have a combination in Brazil
+
+159
+00:18:45,940 --> 00:18:52,220
+of very large labor surpluses with substantial managerial competence,
+
+160
+00:18:52,220 --> 00:18:56,520
+And Brazil is alone a substantial domestic market.
+
+161
+00:18:57,240 --> 00:19:02,200
+In others like Mexico, you have the same without a substantial domestic market.
+
+162
+00:19:02,760 --> 00:19:06,120
+In the Chinese areas, you have no labor surplus.
+
+163
+00:19:06,280 --> 00:19:12,140
+Basically, they will increasingly have to move from labor-intensive industries,
+
+164
+00:19:12,300 --> 00:19:16,720
+even South Korea, into more knowledge-intensive ones.
+
+165
+00:19:16,720 --> 00:19:33,500
+But they all have in common that they are now becoming factors on the world market, that they are moving from a stage in which their development was capital-paced to one where it's export-paced.
+
+166
+00:19:33,500 --> 00:19:50,830
+They are all now moving into an export-led stage of development, and so they are all going to become major exporters, though probably not of finished goods, but of stages of production in many cases.
+
+167
+00:19:51,610 --> 00:19:58,210
+And at least the Brazilians, who in some ways are the most intelligent of the lot, see this quite clearly.
+
+168
+00:19:58,210 --> 00:20:05,710
+This is a different pattern from the Japanese, which was not export-based largely,
+
+169
+00:20:05,710 --> 00:20:10,710
+till Japan was fully developed, it was based on the building of a domestic market,
+
+170
+00:20:10,710 --> 00:20:16,710
+and it was based on bringing in technology and making the whole product.
+
+171
+00:20:16,710 --> 00:20:20,710
+Brazil does not behave that way.
+
+172
+00:20:20,710 --> 00:20:26,710
+They bring in technology, yes, but primarily they bring in stages of production
+
+173
+00:20:26,710 --> 00:20:30,630
+and they have been looking for export markets
+
+174
+00:20:30,630 --> 00:20:34,030
+and I think this is in view of their demographics
+
+175
+00:20:34,030 --> 00:20:36,230
+their right policy for them
+
+176
+00:20:36,230 --> 00:20:40,330
+but it's creating quite new opportunities
+
+177
+00:20:40,330 --> 00:20:42,790
+on the world market and quite new stresses
+
+178
+00:20:42,790 --> 00:20:47,630
+and I think that the almost developing countries
+
+179
+00:20:47,630 --> 00:20:51,110
+are the most interesting part of the world economy
+
+180
+00:20:51,110 --> 00:20:55,750
+they have been showing tremendous growth potential
+
+181
+00:20:55,750 --> 00:21:06,030
+at a very difficult time, because they were most severely hit by OPEC, and yet they have done.
+
+182
+00:21:06,790 --> 00:21:13,090
+And the third thing which I shall talk about, and here I'm going out on a limb,
+
+183
+00:21:13,090 --> 00:21:26,310
+which I promptly will then saw off behind me, is I think one can say with something like 75% probability
+
+184
+00:21:26,310 --> 00:21:36,120
+that the terms of trade will not improve in favor of the raw material producing countries
+
+185
+00:21:36,120 --> 00:21:42,290
+except for the major food producers, but will continue to deteriorate.
+
+186
+00:21:42,290 --> 00:21:49,220
+You know, if you look as a non-economist, which I am, I'm a consumer of economics, not a producer.
+
+187
+00:21:49,800 --> 00:21:57,640
+If you look at economics, one of the things that underlies the 20th century crisis of economics
+
+188
+00:21:57,640 --> 00:22:02,760
+and some of you know that I was a member of the original Keynes Seminar,
+
+189
+00:22:02,940 --> 00:22:05,220
+so I've been in crisis a long time,
+
+190
+00:22:08,240 --> 00:22:14,340
+is the fact that the basic assumption the 19th century economists made axiomatically,
+
+191
+00:22:15,880 --> 00:22:24,340
+that as you industrialize, you lose the capacity for effective, efficient, and competitive food production,
+
+192
+00:22:24,340 --> 00:22:29,680
+which was a generalization of the British and Belgian models.
+
+193
+00:22:30,140 --> 00:22:38,060
+that that was no longer true. That on the contrary, the more highly advanced industrially a country,
+
+194
+00:22:38,060 --> 00:22:45,900
+the more productive its agriculture. Even the British one has recovered from the low point of
+
+195
+00:22:45,900 --> 00:22:53,420
+late Victorian agriculture in terms both of total production and productivity, even though it was
+
+196
+00:22:53,420 --> 00:23:00,220
+and for so long sacrificed to the political expediency and considerations of the empire.
+
+197
+00:23:01,660 --> 00:23:10,380
+But it's no longer true. Precisely because agriculture has become both the most capital
+
+198
+00:23:10,380 --> 00:23:19,500
+intensive and the most knowledge intensive of all our major economic sectors, it is most productive
+
+199
+00:23:19,500 --> 00:23:24,960
+in highly developed countries such as the United States and Canada, which to a large
+
+200
+00:23:24,960 --> 00:23:29,000
+extent underlies the Northwest tension.
+
+201
+00:23:29,000 --> 00:23:34,860
+And beginning with 1900 or so, interrupted by two world wars, the terms of trade have
+
+202
+00:23:34,860 --> 00:23:43,120
+steadily drifted against countries that are primarily raw material producers.
+
+203
+00:23:43,120 --> 00:23:50,820
+In fact, I think one can say that the only way for a country to have advantageous terms
+
+204
+00:23:50,820 --> 00:23:56,740
+of trade is to have the knowledge base which only a modern industrial establishment can
+
+205
+00:23:56,740 --> 00:23:58,270
+give you.
+
+206
+00:23:58,270 --> 00:24:06,810
+This, I think, even goes for the OPEC countries, whose future I do not view with great optimism,
+
+207
+00:24:06,810 --> 00:24:13,110
+not for any length of time, politically, socially, or economically.
+
+208
+00:24:13,110 --> 00:24:23,730
+But except for situations where you can have a temporary monopoly, the rest of the pure
+
+209
+00:24:23,730 --> 00:24:30,810
+raw materials, I think, are likely to have a continuing downward drift in their terms
+
+210
+00:24:30,810 --> 00:24:42,560
+of trade, whether that's metals or minerals or forest products, for reasons which I do
+
+211
+00:24:42,560 --> 00:24:53,320
+I do not quite understand, but I think that the interruptions of this trend are temporary.
+
+212
+00:24:53,320 --> 00:25:04,320
+They are mostly wars or periods of high confusion, such as panic, and then you get this sudden
+
+213
+00:25:04,320 --> 00:25:11,320
+inflationary boom, followed by collapse, such as we have seen in almost any major commodity
+
+214
+00:25:11,320 --> 00:25:16,140
+commodities the last five years the small thing is to stay out of the boom
+
+215
+00:25:16,140 --> 00:25:22,900
+then and I think that if you plot it on a secular basis you will see a
+
+216
+00:25:22,900 --> 00:25:31,040
+continuing downward drift of the terms of trade largely because the marketing
+
+217
+00:25:31,040 --> 00:25:36,880
+the purchasing power of the developed world is so great and this will be
+
+218
+00:25:36,880 --> 00:25:46,760
+accelerated by automation. And so the last thing I would say is that I foresee a widening of the
+
+219
+00:25:46,760 --> 00:25:54,400
+north-south gap rather than a narrowing, no matter what aid policies there are, what transfer
+
+220
+00:25:54,400 --> 00:26:02,020
+policies there are, except for the almost developed countries as they develop their knowledge base
+
+221
+00:26:02,020 --> 00:26:11,300
+and the ability to market not so much products as the results of their labor,
+
+222
+00:26:11,440 --> 00:26:16,260
+their abundant labor stages of production in the developed countries
+
+223
+00:26:16,260 --> 00:26:19,760
+and then build their own domestic markets.
+
+224
+00:26:20,180 --> 00:26:23,440
+These, I think, are some of the things to say.
+
+225
+00:26:23,940 --> 00:26:27,720
+Let me say to me the most important single factor
+
+226
+00:26:27,720 --> 00:26:31,740
+from the point of view of the structure of the world economy
+
+227
+00:26:31,740 --> 00:26:35,340
+is the diminishing role of capital,
+
+228
+00:26:35,980 --> 00:26:40,260
+even though capital will be increasingly in short supply.
+
+229
+00:26:41,000 --> 00:26:44,060
+Capital formation today is totally inadequate,
+
+230
+00:26:44,620 --> 00:26:46,880
+as it always is in an inflationary period.
+
+231
+00:26:47,400 --> 00:26:51,340
+After all, inflation is the destruction of capital by government.
+
+232
+00:26:52,120 --> 00:26:57,120
+And it's one of the few things government is good at.
+
+233
+00:26:57,120 --> 00:27:01,300
+And very good at it.
+
+234
+00:27:01,300 --> 00:27:22,320
+And so we have inadequate capital formation, aggravated, let me say, by the fact that totally unlike the Keynesian assumption, we have built into the modern economy an under-savings tendency based on our age structure,
+
+235
+00:27:22,320 --> 00:27:25,760
+based on the fact that everybody in this room
+
+236
+00:27:25,760 --> 00:27:31,260
+saves some 25% to 30% of his income
+
+237
+00:27:31,260 --> 00:27:35,300
+and not a penny of it becomes capital formation.
+
+238
+00:27:36,240 --> 00:27:40,360
+Social Security, 12% of your salary,
+
+239
+00:27:40,540 --> 00:27:43,320
+up to 18,000 or 25,000 now,
+
+240
+00:27:43,740 --> 00:27:46,480
+goes out immediately as consumption.
+
+241
+00:27:47,710 --> 00:27:50,870
+And what you put into the pension plan of your company,
+
+242
+00:27:50,870 --> 00:28:04,900
+About 70% of it already goes out, and then the rest of the saving of most of us is the mortgage on the house, and that the house is not capital.
+
+243
+00:28:05,660 --> 00:28:15,060
+The house is durable consumer goods with a good resale value, but it is not the productive asset in the economy's sense.
+
+244
+00:28:15,060 --> 00:28:31,540
+So here is something like 40% of the typical wage and salary recipient income in developed countries that he looks upon as savings, and therefore he does not see any need to save more.
+
+245
+00:28:31,540 --> 00:29:00,570
+If you plot capital accumulation rates in relation to social security, then there is no great difference between Japan and this country. The high rate of capital formation in Japan is an illusion. The Japanese have no social security payment and very practically nothing per way of a pension plan and almost even less per way of a mortgage than Arnold Homo has.
+
+246
+00:29:00,570 --> 00:29:03,730
+and if you adjust for that
+
+247
+00:29:03,730 --> 00:29:04,810
+then the Japanese
+
+248
+00:29:04,810 --> 00:29:06,810
+form more capital than we do
+
+249
+00:29:06,810 --> 00:29:07,890
+but not much more
+
+250
+00:29:07,890 --> 00:29:09,410
+nor do the Germans
+
+251
+00:29:09,410 --> 00:29:10,990
+the Germans are the highest probably
+
+252
+00:29:10,990 --> 00:29:13,110
+so basically
+
+253
+00:29:13,110 --> 00:29:14,690
+we are trading
+
+254
+00:29:14,690 --> 00:29:17,800
+what may have been
+
+255
+00:29:17,800 --> 00:29:19,440
+genuine capital formation
+
+256
+00:29:19,440 --> 00:29:21,340
+I've never been convinced
+
+257
+00:29:21,340 --> 00:29:23,360
+that the economist really knows
+
+258
+00:29:23,360 --> 00:29:24,400
+how to measure it
+
+259
+00:29:24,400 --> 00:29:26,860
+against things that are clearly
+
+260
+00:29:26,860 --> 00:29:29,480
+savings but not capital formation
+
+261
+00:29:29,480 --> 00:29:36,480
+so there's a built-in tendency towards under saving in any moment

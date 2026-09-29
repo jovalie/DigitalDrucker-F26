@@ -1,0 +1,56 @@
+{
+ "pointer": "5039",
+ "duration_s": 1682.0535,
+ "n_windows": 3361,
+ "cluster_sim": [
+  0.6929,
+  0.0763
+ ],
+ "drucker_cluster": 0,
+ "both_drucker_guard": false,
+ "other_is_speaker": true,
+ "speech_frac": 0.9822,
+ "no_speech": false,
+ "drucker_regions": [
+  [
+   2.5,
+   57.5
+  ],
+  [
+   58.5,
+   125.0
+  ],
+  [
+   126.0,
+   191.5
+  ],
+  [
+   192.5,
+   197.0
+  ],
+  [
+   198.5,
+   477.0
+  ],
+  [
+   478.0,
+   566.0
+  ],
+  [
+   568.0,
+   1321.0
+  ],
+  [
+   1322.0,
+   1528.5
+  ],
+  [
+   1530.0,
+   1681.5
+  ]
+ ],
+ "drucker_s": 1669.0,
+ "drucker_frac": 0.9922,
+ "win": 2.0,
+ "hop": 0.5
+}

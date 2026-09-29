@@ -1,0 +1,1133 @@
+{
+ "pointer": "4849",
+ "media": "4849.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2587.3,
+ "segments": [
+  {
+   "start": 287.51,
+   "end": 315.27,
+   "text": "Ladies and gentlemen, colleagues, fellow members of the Academy, let me first say how delighted I am. Let me first start out with my usual injunction. If you have any difficulty hearing me, will you please not suffer in silence, but say louder that lady in white who's just sitting down there from Nova University."
+  },
+  {
+   "start": 315.27,
+   "end": 321.72,
+   "text": "if you have any trouble hearing me will you say louder first time let me first say how grateful"
+  },
+  {
+   "start": 321.72,
+   "end": 330.28,
+   "text": "i am to have been invited to be here contrary to the militia room i heard i wasn't invited"
+  },
+  {
+   "start": 330.28,
+   "end": 335.96,
+   "text": "because i'm the only one who was around when henry town gave his famous paper"
+  },
+  {
+   "start": 338.44,
+   "end": 344.54,
+   "text": "not yet in fact i wasn't even around when the academy was founded i was around"
+  },
+  {
+   "start": 344.54,
+   "end": 349.97,
+   "text": "But I had no interest in management in the mid-thirties."
+  },
+  {
+   "start": 349.97,
+   "end": 365.9,
+   "text": "And let me say, I've been around Fargo long enough to know how much success there has been in these last fifty years."
+  },
+  {
+   "start": 365.9,
+   "end": 371.9,
+   "text": "In fact, the real title of my talk today is The Problems of Success."
+  },
+  {
+   "start": 371.9,
+   "end": 391.22,
+   "text": "And my text is taken from Machiavelli's commentary on the Ten Books of Titus Livy, in which he said that more dukedoms and principalities and empires have been destroyed by success than by defeat."
+  },
+  {
+   "start": 391.22,
+   "end": 416.34,
+   "text": "And I think we are at that point where we in management think about that seriously. You know, the success is almost unbelievable. When you invited me here, I did a little research, as Ron Greenwood can tell you, I'd like to have somebody else look it up."
+  },
+  {
+   "start": 416.34,
+   "end": 425.59,
+   "text": "And I tried to find out how many people founded the Academy of Management in 1936."
+  },
+  {
+   "start": 425.59,
+   "end": 433.96,
+   "text": "And I'm not sure that I got the right number, but it is at most eight, and probably only six."
+  },
+  {
+   "start": 433.96,
+   "end": 442.4,
+   "text": "And in case you don't know, not one of them taught management."
+  },
+  {
+   "start": 442.4,
+   "end": 447.95,
+   "text": "In fact, I did the first one in 1949."
+  },
+  {
+   "start": 447.95,
+   "end": 456.84,
+   "text": "Before that you had personnel management and production management, and you won't believe it, insurance management."
+  },
+  {
+   "start": 456.84,
+   "end": 464.24,
+   "text": "Four of the seven I could identify as founders of the academy taught insurance management."
+  },
+  {
+   "start": 464.24,
+   "end": 470.14,
+   "text": "It was the only one of them you could get paid for."
+  },
+  {
+   "start": 470.14,
+   "end": 472.14,
+   "text": "Management, that was the first one."
+  },
+  {
+   "start": 472.14,
+   "end": 492.12,
+   "text": "And the reason, one reason why I'm not at the Harvard Business School is that I insisted on teaching management in 1947, and the then dean had no use for it. He wanted me to teach human relations, for which I had problems."
+  },
+  {
+   "start": 492.12,
+   "end": 504.26,
+   "text": "And management as a field did not really exist academically."
+  },
+  {
+   "start": 504.26,
+   "end": 510.76,
+   "text": "And when I became interested in, during World War II, and wanted to read up on it,"
+  },
+  {
+   "start": 510.76,
+   "end": 517.21,
+   "text": "thank God there were practically no books."
+  },
+  {
+   "start": 517.21,
+   "end": 526.75,
+   "text": "When the Academy was founded, there was not one book on management, not a single one."
+  },
+  {
+   "start": 526.75,
+   "end": 546.44,
+   "text": "And I don't have to tell you that the number of books and monographs and what have your management today goes beyond counting even by a particular computer or other indication."
+  },
+  {
+   "start": 546.44,
+   "end": 558.4,
+   "text": "These last two or three, there hasn't been a single Sunday where a book on management was not on the New York Times bestseller list."
+  },
+  {
+   "start": 558.4,
+   "end": 567.86,
+   "text": "Between you and me, I've been trying to think what you can do after the one-minute manager, the 50-minute subordinate."
+  },
+  {
+   "start": 567.86,
+   "end": 578.23,
+   "text": "I think tell me what you can now write at the second level."
+  },
+  {
+   "start": 578.23,
+   "end": 584.27,
+   "text": "When you look at the membership of the Academy, it's now 6,500."
+  },
+  {
+   "start": 584.27,
+   "end": 599.85,
+   "text": "There are very few in Oregon where you have that 15,000-fold growth."
+  },
+  {
+   "start": 599.85,
+   "end": 604.58,
+   "text": "And when you look, the growth rate is much faster."
+  },
+  {
+   "start": 604.58,
+   "end": 608.67,
+   "text": "So the success is there."
+  },
+  {
+   "start": 608.67,
+   "end": 615.32,
+   "text": "In fact, I don't think, very frankly, that we in the field realize how great it's been."
+  },
+  {
+   "start": 615.32,
+   "end": 619.52,
+   "text": "You know, when I rewrite all the articles you write,"
+  },
+  {
+   "start": 619.52,
+   "end": 654.35,
+   "text": "All of you talk about business management still. And in terms of the actual management, this is at a low level. One third and probably less. The great success signature is that in the last 50 years, management has become the universe, the constitutive, the generic institution of a modern society."
+  },
+  {
+   "start": 654.35,
+   "end": 667.28,
+   "text": "All are now being in and through, and organized, and managed."
+  },
+  {
+   "start": 667.28,
+   "end": 674.57,
+   "text": "Let me say all together that little bone I've picked."
+  },
+  {
+   "start": 674.57,
+   "end": 681.4,
+   "text": "It's that we don't seem to, that management, especially in the U.S.,"
+  },
+  {
+   "start": 681.4,
+   "end": 685.4,
+   "text": "has its origin not in business but in the public sector,"
+  },
+  {
+   "start": 685.4,
+   "end": 694.02,
+   "text": "and that its first major and effective applications were in the public sector."
+  },
+  {
+   "start": 694.02,
+   "end": 733.09,
+   "text": "Long used the term, Elio Roosevelt, President Roosevelt's, Teddy Roosevelt, Secretary of War, managed capital letters to reorganize the first senior executive who had the title manager, was not in a business where the title was unknown, but was a city manager in 1908."
+  },
+  {
+   "start": 733.09,
+   "end": 763.86,
+   "text": "And long before, just about the time when there were six founders, founded, or maybe there were eight, I could only find six, founded the Academy of Management, Luke Seguri, who is still alive, applied management deliberately and clearly to the federal government in 1937."
+  },
+  {
+   "start": 763.86,
+   "end": 791.61,
+   "text": "And when we sat down ten years later to apply management for the first time to a large conglomerate, then directly began. We went back to the duty and the reorganization of the federal government because it was their own practical application of management concepts up to that time."
+  },
+  {
+   "start": 791.61,
+   "end": 828.75,
+   "text": "And this is a mistake to forget, but it's an even greater mistake to overlook that through the hospital and the university and the labor union and the baseball club, and I'm talking of clients and friends of mine, our own management, looking to you in the management schools for concepts, but also for their people."
+  },
+  {
+   "start": 828.75,
+   "end": 834.34,
+   "text": "and that it is a serious mistake and an enormous one."
+  },
+  {
+   "start": 834.34,
+   "end": 842.29,
+   "text": "We are at the... there is absolutely no doubt that we are headed for a collapse,"
+  },
+  {
+   "start": 842.29,
+   "end": 847.31,
+   "text": "not an economic one, but a collapse of the management."
+  },
+  {
+   "start": 847.31,
+   "end": 854.94,
+   "text": "And then it will have been all you..."
+  },
+  {
+   "start": 854.94,
+   "end": 861.5,
+   "text": "when at least half the market for our graduates and for our..."
+  },
+  {
+   "start": 861.5,
+   "end": 868.05,
+   "text": "whether it's in marketing or whether it's in the management of people,"
+  },
+  {
+   "start": 868.05,
+   "end": 877.05,
+   "text": "or in structures, or in the handling of information, or what have you, is not in the business sector,"
+  },
+  {
+   "start": 877.05,
+   "end": 884.05,
+   "text": "but in the non-business sector, is a serious mistake. And our success is actually much"
+  },
+  {
+   "start": 884.05,
+   "end": 894.77,
+   "text": "greater than our own realization. Normally, successful sufferers, from an overestimation"
+  },
+  {
+   "start": 894.77,
+   "end": 906.82,
+   "text": "of their success. They become ragged. In our field, we are not yet aware of the magnitude of our success."
+  },
+  {
+   "start": 906.82,
+   "end": 916.96,
+   "text": "And we haven't yet really made our concept of it aware. And so the success is very, very great."
+  },
+  {
+   "start": 916.96,
+   "end": 924.3,
+   "text": "But that only means that the problems of success are very great. Success always creates its own problems."
+  },
+  {
+   "start": 924.3,
+   "end": 929.72,
+   "text": "and Machiavelli's poem of 530."
+  },
+  {
+   "start": 929.72,
+   "end": 935.12,
+   "text": "The problems of success have brought down and laid low"
+  },
+  {
+   "start": 935.12,
+   "end": 939.71,
+   "text": "more kings and empires and principalities than defeat."
+  },
+  {
+   "start": 939.71,
+   "end": 947.15,
+   "text": "And so, let me say, we are not really living up to nothing"
+  },
+  {
+   "start": 947.15,
+   "end": 954.63,
+   "text": "of the fact that success creates new challenges, demands,"
+  },
+  {
+   "start": 954.63,
+   "end": 964.03,
+   "text": "which are, as the authors are quite clear, we have worked"
+  },
+  {
+   "start": 964.03,
+   "end": 979.38,
+   "text": "work trying to understand this new social format in many ways it is brand new i don't think you'll"
+  },
+  {
+   "start": 979.38,
+   "end": 994.02,
+   "text": "realize largely before unprecedented what we are doing you know i'm always who is the greatest"
+  },
+  {
+   "start": 994.02,
+   "end": 999.86,
+   "text": "manager in this room is the greatest manager whom you know and i said was the greatest manager"
+  },
+  {
+   "start": 999.86,
+   "end": 1010.78,
+   "text": "i don't know it was a little before my time he's a fellow who imagined without any precedent"
+  },
+  {
+   "start": 1010.78,
+   "end": 1024.85,
+   "text": "the first pyramid then managed to talk the pharaoh letting him build it and giving him the money"
+  },
+  {
+   "start": 1024.85,
+   "end": 1034.21,
+   "text": "and then build it and design it and today six thousand years later it still stands there is no"
+  },
+  {
+   "start": 1034.21,
+   "end": 1053.2,
+   "text": "There is simply nothing. If you use that as your yardstick, probably the best you can figure comes up to a kind of scale of a hundred, may come up to six and two-thirds, but not much higher."
+  },
+  {
+   "start": 1053.2,
+   "end": 1059.41,
+   "text": "So, yes, there have been very great executives."
+  },
+  {
+   "start": 1059.41,
+   "end": 1063.7,
+   "text": "No, it could never be repeated."
+  },
+  {
+   "start": 1063.7,
+   "end": 1071.14,
+   "text": "And the test of a discipline is not achievement, it is ability to replicate."
+  },
+  {
+   "start": 1071.14,
+   "end": 1076.6,
+   "text": "Till it's learned and therefore can be replicated, you don't have a discipline."
+  },
+  {
+   "start": 1076.6,
+   "end": 1086.29,
+   "text": "You have theory, legend, myth, but not a discipline."
+  },
+  {
+   "start": 1086.29,
+   "end": 1091.29,
+   "text": "And that really only began in the last part of the 19th century."
+  },
+  {
+   "start": 1091.29,
+   "end": 1122.38,
+   "text": "And even if you go back to that fellow who built that first pyramid, there was that one great man, we know his name, the Egyptians very properly enlightened me, they got out of him. We have this, you know what he looked like, singularly disgusted by the world. And he had to be as suspected. No, he said, no participating management was suspected."
+  },
+  {
+   "start": 1122.38,
+   "end": 1145.59,
+   "text": "Maybe he had three or four gophers, three or four helpers, but there were 8,000 peasants who pulled at a rope when the overseer shouted."
+  },
+  {
+   "start": 1145.59,
+   "end": 1155.67,
+   "text": "And he was the only one who had really a concept of the design. He knew what the finished product was going to look like."
+  },
+  {
+   "start": 1155.67,
+   "end": 1163.11,
+   "text": "And who had objectives, let alone management by objectives and measurements."
+  },
+  {
+   "start": 1163.11,
+   "end": 1166.95,
+   "text": "The rest were old events built repetitively."
+  },
+  {
+   "start": 1166.95,
+   "end": 1172.48,
+   "text": "Will you please believe that Henry Ford did not invent the assembly line?"
+  },
+  {
+   "start": 1172.48,
+   "end": 1180.36,
+   "text": "The assembly line was invented in Mesopotamia and Egypt 6,000 years ago."
+  },
+  {
+   "start": 1180.36,
+   "end": 1186.36,
+   "text": "Henry Ford's assembly line was the last gasp of the traditional production concept,"
+  },
+  {
+   "start": 1186.36,
+   "end": 1189.26,
+   "text": "and not the first one."
+  },
+  {
+   "start": 1189.26,
+   "end": 1198.36,
+   "text": "And sometime around something new came in."
+  },
+  {
+   "start": 1198.36,
+   "end": 1205.56,
+   "text": "large-scale organizations in which people of different skills and different"
+  },
+  {
+   "start": 1205.56,
+   "end": 1214.27,
+   "text": "knowledges have to work together without immediate visit. In this country in the"
+  },
+  {
+   "start": 1214.27,
+   "end": 1224.44,
+   "text": "large railroad, on the other side in the national bank, and this is the"
+  },
+  {
+   "start": 1224.44,
+   "end": 1231.56,
+   "text": "origin of management as we now know it. And the job of management is to put"
+  },
+  {
+   "start": 1231.56,
+   "end": 1243.15,
+   "text": "to different skills and different knowledges for joint production and that was so new that"
+  },
+  {
+   "start": 1243.95,
+   "end": 1252.64,
+   "text": "a few years before it was first attempted it was declared impossible it was declared impossible"
+  },
+  {
+   "start": 1252.64,
+   "end": 1259.36,
+   "text": "when the first attempt was made to organize the first medical clinic of what people"
+  },
+  {
+   "start": 1259.36,
+   "end": 1278.11,
+   "text": "They considered modern lines, this is Germany in 18- never could it be declared impossible when a young German banker started to build what is now the Deutsche Bank, the major bank of Europe."
+  },
+  {
+   "start": 1278.11,
+   "end": 1288.58,
+   "text": "And it was declared impossible in the Narita Civil War when there were then real, it's a real father of manufacturing besides the bank of the German foreign labor,"
+  },
+  {
+   "start": 1288.58,
+   "end": 1293.94,
+   "text": "They were tied to the weight on the Union side during the Civil War."
+  },
+  {
+   "start": 1293.94,
+   "end": 1295.22,
+   "text": "It couldn't be done."
+  },
+  {
+   "start": 1295.22,
+   "end": 1302.66,
+   "text": "Everybody knew the more you can have work together are people who do the same job."
+  },
+  {
+   "start": 1302.66,
+   "end": 1312.02,
+   "text": "Napoleon created the modern division in which infantry and cavalry with a little artillery work together."
+  },
+  {
+   "start": 1312.02,
+   "end": 1319.86,
+   "text": "But to them, they have been as separate as if they had been separate, totally separate institutions."
+  },
+  {
+   "start": 1319.86,
+   "end": 1323.2,
+   "text": "But even Napoleon couldn't make it one career at all."
+  },
+  {
+   "start": 1323.2,
+   "end": 1327.07,
+   "text": "And after Napoleon, the attempt was given up."
+  },
+  {
+   "start": 1327.07,
+   "end": 1331.73,
+   "text": "The Russians tried to do it, the French tried to do it."
+  },
+  {
+   "start": 1331.73,
+   "end": 1333.95,
+   "text": "They couldn't do it."
+  },
+  {
+   "start": 1333.95,
+   "end": 1338.31,
+   "text": "The Civil War, as you perhaps have heard,"
+  },
+  {
+   "start": 1338.31,
+   "end": 1341.99,
+   "text": "Gettysburg was lost by the Confederacy"
+  },
+  {
+   "start": 1341.99,
+   "end": 1348.19,
+   "text": "because the infantry and the cavalry couldn't communicate."
+  },
+  {
+   "start": 1348.19,
+   "end": 1352.85,
+   "text": "And as late as 1915, when the only intelligence"
+  },
+  {
+   "start": 1352.85,
+   "end": 1362.05,
+   "text": "strategic concept of World War I, the Dardanelles Campaign, founded on the fact that the British"
+  },
+  {
+   "start": 1362.05,
+   "end": 1369.46,
+   "text": "Navy and the British infantry and the British artillery and the British cavalry knew that"
+  },
+  {
+   "start": 1369.46,
+   "end": 1377.04,
+   "text": "they could not go up, they could not be unified command, and in fact they couldn't communicate."
+  },
+  {
+   "start": 1377.04,
+   "end": 1390.82,
+   "text": "We are not much better off today. So this is very new. We are not quite as clear as most"
+  },
+  {
+   "start": 1390.82,
+   "end": 1398.0,
+   "text": "of you who have worked as practitioners know how difficult it still is to have people of"
+  },
+  {
+   "start": 1398.0,
+   "end": 1404.43,
+   "text": "different skills and knowledge really work together. One of the predictable things is"
+  },
+  {
+   "start": 1404.43,
+   "end": 1419.4,
+   "text": "that this is far more important since the moment information eliminated about 60% of"
+  },
+  {
+   "start": 1419.4,
+   "end": 1430.34,
+   "text": "management. Managers are really to serve no function other than to pass on messages."
+  },
+  {
+   "start": 1430.34,
+   "end": 1447.9,
+   "text": "the organization of the future military new modern disorder yesterday it's a simple go out to the"
+  },
+  {
+   "start": 1447.9,
+   "end": 1459.38,
+   "text": "summer festival when you're here to vanish and see let's say one of the late modern symphonies with"
+  },
+  {
+   "start": 1459.38,
+   "end": 1470.14,
+   "text": "the thousand players according to what you see there should be that chief executive conductor"
+  },
+  {
+   "start": 1470.14,
+   "end": 1484.98,
+   "text": "from cover me if she's operating and then six executive conductors and 42 division conductors"
+  },
+  {
+   "start": 1489.04,
+   "end": 1502.16,
+   "text": "just apply the principle of the span of control with your god that we have a lesson lesson"
+  },
+  {
+   "start": 1503.44,
+   "end": 1511.76,
+   "text": "if you apply that you know there ain't none not a single one that first trumpet the place"
+  },
+  {
+   "start": 1511.76,
+   "end": 1519.15,
+   "text": "directly to because he knows the score and takes up the responsibility."
+  },
+  {
+   "start": 1519.15,
+   "end": 1523.15,
+   "text": "I used to play in an orchestra when I was a boy, so I know."
+  },
+  {
+   "start": 1523.15,
+   "end": 1528.98,
+   "text": "And that is the organization."
+  },
+  {
+   "start": 1528.98,
+   "end": 1532.98,
+   "text": "It is not managers but specialists who know the score"
+  },
+  {
+   "start": 1532.98,
+   "end": 1535.45,
+   "text": "and take up the responsibility."
+  },
+  {
+   "start": 1535.45,
+   "end": 1542.22,
+   "text": "And all of the pay, the closet, the jobs,"
+  },
+  {
+   "start": 1542.22,
+   "end": 1548.37,
+   "text": "there will not be disability."
+  },
+  {
+   "start": 1548.37,
+   "end": 1562.47,
+   "text": "Ask the checkpoints, we already know."
+  },
+  {
+   "start": 1562.47,
+   "end": 1594.63,
+   "text": "This is not because we have computers. When British India that way 200 years back. And as I said, the symphony orchestra is one that we now since modern almost 100 years. So we know that there are major changes in management. But this is not what I'm going to talk about. These are not the problems of success."
+  },
+  {
+   "start": 1594.63,
+   "end": 1610.32,
+   "text": "The problems of success are right now that management has become invisible, they're clear."
+  },
+  {
+   "start": 1610.32,
+   "end": 1614.32,
+   "text": "I don't like the word leadership because it has a class connotation."
+  },
+  {
+   "start": 1614.32,
+   "end": 1619.77,
+   "text": "I don't like that it has a constitutional connotation."
+  },
+  {
+   "start": 1619.77,
+   "end": 1636.53,
+   "text": "And yet in other ways, in our society today there are no other except managers."
+  },
+  {
+   "start": 1636.53,
+   "end": 1645.72,
+   "text": "I think I have 40 ministers of very large Protestant congregations down with me."
+  },
+  {
+   "start": 1645.72,
+   "end": 1663.1,
+   "text": "And each of them basically has to ask the same question, how do I combine this spiritual role I have with being a manager of a very large organization, 5,000 members of the congregation."
+  },
+  {
+   "start": 1663.1,
+   "end": 1689.12,
+   "text": "And he sees himself, how do I then get through it in such a way that I'm ineffective? And the hospital people always ask the same question. And my old friends and clients in the labor movement ask the same question."
+  },
+  {
+   "start": 1689.12,
+   "end": 1707.62,
+   "text": "And believe me, the main reason why the labor movement countries are in such trouble is that they have not learned how to be enough in their managerial work."
+  },
+  {
+   "start": 1707.62,
+   "end": 1714.0,
+   "text": "And this is what I cannot accept anymore."
+  },
+  {
+   "start": 1714.0,
+   "end": 1725.39,
+   "text": "We are going to experience the emergence of a society in which there are no leadership groups except managers."
+  },
+  {
+   "start": 1725.39,
+   "end": 1730.39,
+   "text": "And they are probably, in some ways, a very old,"
+  },
+  {
+   "start": 1730.39,
+   "end": 1734.39,
+   "text": "which will be emergent of a very old structure."
+  },
+  {
+   "start": 1734.39,
+   "end": 1739.92,
+   "text": "Up till here, we had pluralist society,"
+  },
+  {
+   "start": 1739.92,
+   "end": 1743.77,
+   "text": "and then for four and three hundred and fourteen years,"
+  },
+  {
+   "start": 1743.77,
+   "end": 1747.33,
+   "text": "then cross-border society,"
+  },
+  {
+   "start": 1747.33,
+   "end": 1751.86,
+   "text": "in which there are no power centers within society."
+  },
+  {
+   "start": 1751.86,
+   "end": 1758.14,
+   "text": "Society itself consists of the molecules of the family,"
+  },
+  {
+   "start": 1758.14,
+   "end": 1766.1,
+   "text": "and there is one power center, the sovereign government."
+  },
+  {
+   "start": 1766.1,
+   "end": 1772.04,
+   "text": "The sovereign was coined exactly 400 years ago,"
+  },
+  {
+   "start": 1772.04,
+   "end": 1780.45,
+   "text": "but it is described as a society in which there is only one power center,"
+  },
+  {
+   "start": 1780.45,
+   "end": 1787.47,
+   "text": "the prince, by one of Machiavelli's grandchildren after the spirit."
+  },
+  {
+   "start": 1787.47,
+   "end": 1794.21,
+   "text": "And that's been, that's what you still learn and you probably still"
+  },
+  {
+   "start": 1794.21,
+   "end": 1826.28,
+   "text": "as in government, as in modern liberal theory, but it is the reality, the pluralism, in which almost everybody in this room and everybody else is a member of half a dozen different groups."
+  },
+  {
+   "start": 1826.28,
+   "end": 1839.27,
+   "text": "and the government who have recently objected to its affairs of pressure groups and nowadays and"
+  },
+  {
+   "start": 1839.27,
+   "end": 1847.94,
+   "text": "single cause groups. We are a pluralist society and at the same time each of these groups somehow"
+  },
+  {
+   "start": 1847.94,
+   "end": 1858.53,
+   "text": "is represented by an enemy and is only capable of action because of humanity and management"
+  },
+  {
+   "start": 1858.53,
+   "end": 1866.95,
+   "text": "the activity and so we are back again in pluralism with all the old problems of the world and at the"
+  },
+  {
+   "start": 1866.95,
+   "end": 1884.43,
+   "text": "At the same time, it's quite a new situation when the movement against pluralism really began."
+  },
+  {
+   "start": 1884.43,
+   "end": 1888.55,
+   "text": "It's very good, but it is illegal."
+  },
+  {
+   "start": 1888.55,
+   "end": 1902.31,
+   "text": "So we have the first question fixed here in a wealth of particularity."
+  },
+  {
+   "start": 1902.31,
+   "end": 1907.56,
+   "text": "Now, this is not a new question, though."
+  },
+  {
+   "start": 1907.56,
+   "end": 1920.1,
+   "text": "We say we own the country, but at times, in Europe, the question was finished and out of the way by 18 months of this country."
+  },
+  {
+   "start": 1920.1,
+   "end": 1926.85,
+   "text": "We've always realized, we've got a variety of reasons that involved things, but we don't go there."
+  },
+  {
+   "start": 1926.85,
+   "end": 1938.02,
+   "text": "And yet, how do you care of the byage doing its own personal interest?"
+  },
+  {
+   "start": 1938.02,
+   "end": 1941.52,
+   "text": "Or does anybody have to concern himself?"
+  },
+  {
+   "start": 1941.52,
+   "end": 1948.63,
+   "text": "When you look around the world, the only ones today faced up to it are the Japanese."
+  },
+  {
+   "start": 1948.63,
+   "end": 1956.29,
+   "text": "The real secret of Japan is none of the things I have been writing about."
+  },
+  {
+   "start": 1956.29,
+   "end": 1961.79,
+   "text": "I think about Japanese management much sooner than anybody else in 1955."
+  },
+  {
+   "start": 1961.79,
+   "end": 1980.87,
+   "text": "But it is the fact that the Japanese look to their business and that explains why they consider business management legitimate."
+  },
+  {
+   "start": 1980.87,
+   "end": 2000.53,
+   "text": "Now, how well they do it is because there's always a lot of lip service, and a lot of services, and many quick back-on to dedicate their digits."
+  },
+  {
+   "start": 2000.53,
+   "end": 2005.53,
+   "text": "That's why top management in a lot of Japanese companies doesn't manage."
+  },
+  {
+   "start": 2005.53,
+   "end": 2009.7,
+   "text": "The managers are supposed to look after the media."
+  },
+  {
+   "start": 2009.7,
+   "end": 2027.46,
+   "text": "The chairperson has been moved up on Mount, the Japanese equivalent of Mount Olympus, and the right thing for Japan."
+  },
+  {
+   "start": 2027.46,
+   "end": 2048.48,
+   "text": "My two levels down are being paid for your insurance in Mitsubishi, and there's a tension, very strong, not only in Japanese business, but even more in Japanese ministry."
+  },
+  {
+   "start": 2048.48,
+   "end": 2065.62,
+   "text": "In fact, the Federates are very tough. The advice ministry and the Ministry of Finance is not expected to start out with this question, what's really best for the ministry, but this question, what's best for Japan."
+  },
+  {
+   "start": 2065.62,
+   "end": 2071.32,
+   "text": "And so there was insufficient training at the chairman's level, at the president's level."
+  },
+  {
+   "start": 2071.32,
+   "end": 2074.32,
+   "text": "It starts out with what is right for the country."
+  },
+  {
+   "start": 2074.32,
+   "end": 2079.32,
+   "text": "Two levels down, the fellow is then supposed to be in a profit. That's another point."
+  },
+  {
+   "start": 2079.32,
+   "end": 2099.44,
+   "text": "But that explains why in Japan, management is the only country in which management is accepted."
+  },
+  {
+   "start": 2099.44,
+   "end": 2109.9,
+   "text": "And so the question is, society and its management are the only effective organs that stand me"
+  },
+  {
+   "start": 2109.9,
+   "end": 2123.9,
+   "text": "just out of the conflict of what we're doing."
+  },
+  {
+   "start": 2123.9,
+   "end": 2128.66,
+   "text": "The question is a very old one, you'll find it in Aristotle very quickly."
+  },
+  {
+   "start": 2128.66,
+   "end": 2138.04,
+   "text": "There has never been a satisfactory answer, but it's going to face us again."
+  },
+  {
+   "start": 2138.04,
+   "end": 2145.67,
+   "text": "And then we'll closely align in the form of, you know, the ruling classes or ruling"
+  },
+  {
+   "start": 2145.67,
+   "end": 2158.34,
+   "text": "past were visible and were in the old sense of the word privilege. The count and the bishop"
+  },
+  {
+   "start": 2158.34,
+   "end": 2169.77,
+   "text": "or what have you were clearly delimited and presented and who had ranked the old sense in"
+  },
+  {
+   "start": 2169.77,
+   "end": 2180.17,
+   "text": "which the words can almost not be tried to explain back to let's say an intelligent Englishman"
+  },
+  {
+   "start": 2180.17,
+   "end": 2191.54,
+   "text": "can be explained to you and today here is that friend of mine who headed the world's biggest"
+  },
+  {
+   "start": 2191.54,
+   "end": 2205.08,
+   "text": "bank he sat in the chairman's office there he was a big shot and wherever he went he flew by"
+  },
+  {
+   "start": 2205.08,
+   "end": 2214.79,
+   "text": "company plane and 16 senior vice presidents met him at every airport and then you know"
+  },
+  {
+   "start": 2214.79,
+   "end": 2227.08,
+   "text": "you retired at age 65 and this is a true story and the next day i went with him to the bank for"
+  },
+  {
+   "start": 2227.08,
+   "end": 2236.49,
+   "text": "the client of my medicine to the bank he came to the bank and the god said identify and i had my"
+  },
+  {
+   "start": 2236.49,
+   "end": 2244.25,
+   "text": "driver's license and an appointment and the chairman as of the day before did not have an id"
+  },
+  {
+   "start": 2244.25,
+   "end": 2254.39,
+   "text": "and the guard said sorry sir you can't come in here and the guard was right and the chairman"
+  },
+  {
+   "start": 2254.39,
+   "end": 2268.57,
+   "text": "was a nun because the way it is the office has importance the person has enough you know you"
+  },
+  {
+   "start": 2268.57,
+   "end": 2279.51,
+   "text": "go back and every boy knew the name of the count and the baron and the bishop"
+  },
+  {
+   "start": 2280.73,
+   "end": 2288.09,
+   "text": "how many people in this country know the names of the people of the ceos of the fortune 500"
+  },
+  {
+   "start": 2288.09,
+   "end": 2300.15,
+   "text": "How many of you know? I know these. These are Peter. Man is not. There is no rank. There is an office."
+  },
+  {
+   "start": 2300.15,
+   "end": 2317.32,
+   "text": "And there are, how many come to it? At its height, the House of Lords in Great Britain had 290."
+  },
+  {
+   "start": 2317.32,
+   "end": 2326.66,
+   "text": "That was all the peerage there was. That's how they killed it. A lot of bishops have got that."
+  },
+  {
+   "start": 2328.65,
+   "end": 2337.02,
+   "text": "And today, there are thousands and thousands and thousands of people in their own office who"
+  },
+  {
+   "start": 2337.02,
+   "end": 2349.67,
+   "text": "represent our society and in their own person are so believable and what are the demands of their"
+  },
+  {
+   "start": 2349.67,
+   "end": 2364.62,
+   "text": "behavior their representative societies judge themselves by the behavior of the representative"
+  },
+  {
+   "start": 2364.62,
+   "end": 2382.57,
+   "text": "and you and so let me ask you see here is mr leo ayatollah and you know he has destroyed the"
+  },
+  {
+   "start": 2382.57,
+   "end": 2400.8,
+   "text": "He cannot survive. An act of irresponsibility, which is that when he cut wages and salaries of the rank and file, he gave himself a $5 million bonus in the same month."
+  },
+  {
+   "start": 2400.8,
+   "end": 2412.13,
+   "text": "And as a result, as you all know, we work as a union, and I'm talking of old friends of mine on both sides."
+  },
+  {
+   "start": 2412.13,
+   "end": 2418.97,
+   "text": "Refuse to make any rank and size would not have been acceptable."
+  },
+  {
+   "start": 2418.97,
+   "end": 2425.5,
+   "text": "And that, believe me, I know enough about the economics of the wheel industry."
+  },
+  {
+   "start": 2425.5,
+   "end": 2433.92,
+   "text": "Too bad it has built-in labor costs, it cannot possibly survive."
+  },
+  {
+   "start": 2433.92,
+   "end": 2436.38,
+   "text": "That's their responsibility."
+  },
+  {
+   "start": 2436.38,
+   "end": 2442.56,
+   "text": "Now you may say that Mr. Ayatollah is a hawker, and they are good doctors."
+  },
+  {
+   "start": 2442.56,
+   "end": 2451.87,
+   "text": "None of them are strong, turning a dying company around."
+  },
+  {
+   "start": 2451.87,
+   "end": 2460.98,
+   "text": "Most think of a very, very brave front, but that's not that easy. That's tough."
+  },
+  {
+   "start": 2460.98,
+   "end": 2465.79,
+   "text": "And yet, at the same time, he has destroyed the country,"
+  },
+  {
+   "start": 2465.79,
+   "end": 2477.71,
+   "text": "like he has the 5,000 Chrysler workers and the 350,000 other members of the UAWC,"
+  },
+  {
+   "start": 2477.71,
+   "end": 2481.71,
+   "text": "simply by being irresponsible, by letting them down."
+  },
+  {
+   "start": 2481.71,
+   "end": 2485.71,
+   "text": "I don't think you can imagine the bitterness, unless you live in Detroit,"
+  },
+  {
+   "start": 2485.71,
+   "end": 2512.86,
+   "text": "The bitterness these people have. The man has let them down. He's one of us. That was his strength. He came out of the rags. He stood for us. And then when it came to the point he let us down. What are the values of a leadership group inside a few hours has to represent in its own the area."
+  },
+  {
+   "start": 2512.86,
+   "end": 2530.24,
+   "text": "not to be at the kind of point of social responsibility and all together."
+  },
+  {
+   "start": 2530.24,
+   "end": 2537.12,
+   "text": "You know, I was in New York, I'm in Eastern Asia, and I've been living in Southern California,"
+  },
+  {
+   "start": 2537.12,
+   "end": 2547.94,
+   "text": "and I sat on the mayor's management advisory committee and I quit because the mayor refused to accept the fact"
+  },
+  {
+   "start": 2547.94,
+   "end": 2553.94,
+   "text": "that the actuarial mortality tables of 1890 were not added,"
+  },
+  {
+   "start": 2553.94,
+   "end": 2563.27,
+   "text": "or working through the pension reserves needed in New York City in 1960, but that's besides the point."
+  },
+  {
+   "start": 2563.27,
+   "end": 2578.25,
+   "text": "And as you all know, the exodus began, becoming basically a town of the very poor,"
+  },
+  {
+   "start": 2578.25,
+   "end": 2583.29,
+   "text": "and one third of all happiness had left New York by 1968."
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 31.9,
+ "created_utc": "2026-09-29T02:21:42+00:00"
+}

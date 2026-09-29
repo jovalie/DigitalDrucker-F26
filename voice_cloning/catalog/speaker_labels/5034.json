@@ -1,0 +1,19 @@
+{
+ "pointer": "5034",
+ "duration_s": 2754.490375,
+ "n_windows": 4543,
+ "cluster_sim": [
+  0.4239,
+  0.5444
+ ],
+ "drucker_cluster": 1,
+ "both_drucker_guard": true,
+ "other_is_speaker": false,
+ "speech_frac": 0.053,
+ "no_speech": true,
+ "drucker_regions": [],
+ "drucker_s": 0,
+ "drucker_frac": 0.0,
+ "win": 2.0,
+ "hop": 0.5
+}

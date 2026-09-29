@@ -1,0 +1,1495 @@
+1
+00:00:03,670 --> 00:00:09,390
+Good morning. I'm Sam Craig, the Associate Dean for Academic Affairs, and it's my pleasure to
+
+2
+00:00:09,390 --> 00:00:15,090
+welcome you again to the Graduate School of Business for the second day of the Peter F.
+
+3
+00:00:15,190 --> 00:00:21,410
+Drucker Symposium. This is one of the more exciting and provocative events that take place
+
+4
+00:00:21,410 --> 00:00:27,440
+each year at the Graduate School of Business, and it's exciting and provocative because of
+
+5
+00:00:27,440 --> 00:00:33,400
+Peter Drucker, a man who's been characterized as the founding father of the science of
+
+6
+00:00:33,400 --> 00:00:40,900
+management, the most important management thinker of our time, a foremost philosopher
+
+7
+00:00:40,900 --> 00:00:42,000
+of American society.
+
+8
+00:00:43,020 --> 00:00:49,380
+Now, with Peter today is Mr. Donald E. Nicholson, president of Payne-Weber, one of the nation's
+
+9
+00:00:49,380 --> 00:00:51,960
+leading full-service securities firms.
+
+10
+00:00:52,180 --> 00:00:56,040
+Mr. Nicholson has been in the securities business for over 30 years.
+
+11
+00:00:58,840 --> 00:01:04,680
+One brief announcement before I turn the floor over to Peter Drucker and to Mr. Nicholson
+
+12
+00:01:04,680 --> 00:01:10,320
+is we're going to try to get both sets of remarks in before the coffee break to allow more time
+
+13
+00:01:10,320 --> 00:01:15,180
+for questions. Many of you were here yesterday, didn't feel there was enough time for questions,
+
+14
+00:01:15,740 --> 00:01:18,900
+so we'll try to allow more time for questions after the coffee break.
+
+15
+00:01:19,580 --> 00:01:26,820
+Professor Drucker. Thank you very much, Sam Craig. And let me say again how delighted I am to be back
+
+16
+00:01:26,820 --> 00:01:34,800
+at my old home and how happy I am to see so many old friends around here. And as you know,
+
+17
+00:01:34,800 --> 00:01:48,340
+topic is markets and segmentation myth and reality and as all of you I think
+
+18
+00:01:48,340 --> 00:02:03,780
+know a good many of major markets began to change to be closer thank you how is
+
+19
+00:02:03,780 --> 00:02:11,720
+this thing began to become fluid and things that had looked as solid as
+
+20
+00:02:11,720 --> 00:02:24,200
+granite for 30 or 50 years began to become very very and liquid and changing maybe the late 60s
+
+21
+00:02:24,200 --> 00:02:33,360
+early 70s and since then markets have changed some of them i think beyond recognition i think anyone
+
+22
+00:02:33,360 --> 00:02:41,760
+who knew the financial markets or can remember the financial markets of 1960 and would have a
+
+23
+00:02:41,760 --> 00:02:50,150
+hard time recognizing today's financial market. I don't think anybody would have considered it
+
+24
+00:02:50,150 --> 00:02:59,440
+possible, conceivable, that you could sell 260 billion dollars worth of mutual funds in a year
+
+25
+00:02:59,440 --> 00:03:10,000
+as was done last year, or that one of the leading treasury bill brokers happens to be a Japanese
+
+26
+00:03:10,000 --> 00:03:17,680
+brokerage. I don't think anybody in 1970 would have even considered that. Figments
+
+27
+00:03:17,680 --> 00:03:23,260
+of the imagination that would have been kind of signs of a seriously disordered
+
+28
+00:03:23,260 --> 00:03:32,520
+mind. And let me say if you talk to people at Sears Roebuck, you will find that they
+
+29
+00:03:32,520 --> 00:03:39,900
+are equally bewildered by a consumer market that just makes no sense to them.
+
+30
+00:03:39,900 --> 00:03:45,500
+and that quite obviously they do not yet understand and know how to cope with.
+
+31
+00:03:47,060 --> 00:04:00,620
+And I'm not so sure that the people at GM would be able to explain the consumer marketing goods
+
+32
+00:04:00,620 --> 00:04:06,220
+and understand it or accept that what has happened really could have happened.
+
+33
+00:04:07,840 --> 00:04:12,900
+So the changes have been very great indeed in all markets,
+
+34
+00:04:12,900 --> 00:04:20,800
+including let me say the market for academia where the changes may have been even greater
+
+35
+00:04:21,440 --> 00:04:28,160
+and where even the academicians i don't know them or understand them before so far they are being
+
+36
+00:04:28,160 --> 00:04:38,160
+covered by a tremendous boom and the rooms like any high tide tend to obscure changes in the
+
+37
+00:04:38,160 --> 00:04:47,680
+underlying structure but at the same time most of the things which all of us predicted when these
+
+38
+00:04:47,680 --> 00:04:56,050
+changes began have not happened what has happened are very different things and i don't think it is
+
+39
+00:04:56,050 --> 00:05:06,770
+possible yet to see what the market will look like when the transition is over it's not even
+
+40
+00:05:06,770 --> 00:05:15,430
+might be quite easy to see how far along we are in the transit. Just this morning
+
+41
+00:05:15,430 --> 00:05:21,890
+up in the Dean's office when Don Nicholson came in, we talked about the treaty and
+
+42
+00:05:21,890 --> 00:05:29,330
+he kind of said he thinks we are in the early stages of the transition. Am I putting words in your mouth? I don't think so.
+
+43
+00:05:29,330 --> 00:05:37,210
+Well I'm not sure, but he's the expert. And considering how much we have been
+
+44
+00:05:37,210 --> 00:05:45,300
+through in the financial markets, I kind of wonder. But then I don't think it's yet easy to say
+
+45
+00:05:48,140 --> 00:05:56,460
+what the new segmentation will be, but I think it is already possible to say
+
+46
+00:05:57,100 --> 00:06:06,250
+what is not going to work or what does not work. And it's probably not easy yet to say
+
+47
+00:06:06,250 --> 00:06:13,210
+when the transition will be over when we will again have a period of comparative stability
+
+48
+00:06:13,930 --> 00:06:30,010
+but i think it is possible to say uh in some markets uh where the selfish boundary lines are
+
+49
+00:06:30,570 --> 00:06:35,130
+what i mean to say is that for instance when you look at the healthcare market
+
+50
+00:06:35,130 --> 00:06:43,450
+which has changed perhaps next to the financial market the most it is possible to say that
+
+51
+00:06:46,970 --> 00:06:53,370
+no matter how what the economic pressures are no matter what the pressure from the doctors are and
+
+52
+00:06:53,370 --> 00:07:05,240
+so on the modern medicine requires a an organized center for the hospital and that such present
+
+53
+00:07:05,240 --> 00:07:12,840
+attempt as i don't know whether you know that 40 percent of all american physicians now have
+
+54
+00:07:12,840 --> 00:07:22,230
+do medical testing in their own offices uh in a desperate attempt to protect their revenue
+
+55
+00:07:22,230 --> 00:07:33,000
+because uh lab work is not regulated there are no government feelings on it and so is their fees for
+
+56
+00:07:33,000 --> 00:07:39,760
+for Medicare, which is where most of the practice is increasing for older people, sharply pertains
+
+57
+00:07:39,760 --> 00:07:50,040
+to government, they are desperately and frantically going into medical testing, which is a wonderful
+
+58
+00:07:50,040 --> 00:07:55,300
+move for the people who make that equipment.
+
+59
+00:07:55,300 --> 00:08:01,360
+I hope that if you have to go to a doctor, you will ask whether he does medical testing
+
+60
+00:08:01,360 --> 00:08:04,800
+And if he does, you see, I'll go to another doctor.
+
+61
+00:08:05,960 --> 00:08:10,420
+Because not one of those doctors knows how to calibrate their person.
+
+62
+00:08:11,200 --> 00:08:15,400
+And not one of them really knows qualified personnel.
+
+63
+00:08:16,560 --> 00:08:19,220
+And as you all know, medical tests are bad enough.
+
+64
+00:08:19,400 --> 00:08:20,620
+They are very unreliable.
+
+65
+00:08:21,260 --> 00:08:24,860
+60% of them are wrong, and the other ones are getting lost.
+
+66
+00:08:24,860 --> 00:08:29,940
+It's not as bad as the IRS, but it's getting close.
+
+67
+00:08:29,940 --> 00:08:40,940
+and you better go you know to either a big clinic that you have a group practice or to a hospital
+
+68
+00:08:40,940 --> 00:08:51,040
+so one can say with some predictability that when it comes to testing but also when it comes to
+
+69
+00:08:51,040 --> 00:08:58,950
+life threatening surgery and so on we need the hospital that's a very small part of its
+
+70
+00:08:58,950 --> 00:09:06,610
+traditional function and if you're in the hospital businesses they are not necessarily desirable
+
+71
+00:09:06,610 --> 00:09:15,090
+because nobody knows how to run a hospital in which a very substantial majority of the patients
+
+72
+00:09:15,090 --> 00:09:22,450
+do not survive and leave the hospital steward that is not the place in which people do good work
+
+73
+00:09:23,410 --> 00:09:30,680
+so we have a problem but one can see some boundary line and so this is what i think we are going to
+
+74
+00:09:30,920 --> 00:09:41,040
+I try to do in terms of the financial market, Don is going to look ahead, and I'm going
+
+75
+00:09:41,040 --> 00:09:45,480
+to try to report on what I think has happened.
+
+76
+00:09:45,480 --> 00:09:51,160
+And so when you look at it, the first thing to say is that when you have a phenomenon
+
+77
+00:09:51,160 --> 00:09:58,880
+like this, in which you have fundamental changes in all markets, or in most markets, you have
+
+78
+00:09:58,880 --> 00:10:02,940
+to assume that not that there are common causes,
+
+79
+00:10:02,940 --> 00:10:07,740
+but that the entire, shall we say, geology is changing.
+
+80
+00:10:07,740 --> 00:10:10,780
+That these are not things that are
+
+81
+00:10:10,780 --> 00:10:16,930
+caused by what is happening in finance, or in health care,
+
+82
+00:10:16,930 --> 00:10:19,890
+or in the consumer market.
+
+83
+00:10:19,890 --> 00:10:24,540
+You have to assume that there are common causes,
+
+84
+00:10:24,540 --> 00:10:27,180
+because it's simply the coincidence,
+
+85
+00:10:27,180 --> 00:10:29,920
+the probability of the coincidence
+
+86
+00:10:29,920 --> 00:10:39,600
+in half a dozen different major areas at the same time separate and independent things are moving
+
+87
+00:10:39,600 --> 00:10:46,210
+that's just not that's not i would say the probability is close to zero you have to assume
+
+88
+00:10:46,210 --> 00:10:52,690
+that you have fundamental change and the first thing they're forced to say is in analyzing
+
+89
+00:10:52,690 --> 00:11:20,410
+Don't start with your market. Start with what is going on. And there are a few things to be said. One is that, you know, around 1929, we entered a centralizing period that then greatly accelerated after World War II with the emergence of management.
+
+90
+00:11:20,410 --> 00:11:37,890
+And the hospital is a good place to demonstrate it. Before 1930, no practitioner would have put a pain patient into a hospital, except for surgery. And surgery only after 1890.
+
+91
+00:11:37,890 --> 00:11:51,660
+When the child of a respectable family had to have his tonsils out, that was done in
+
+92
+00:11:51,660 --> 00:11:56,920
+the doctor's office, maybe in the hospital, but then the child was sent home, and so there
+
+93
+00:11:56,920 --> 00:12:04,420
+was always an aunt available, or you could get the nurse for very little money, and nobody
+
+94
+00:12:04,420 --> 00:12:07,560
+thought of keeping the child overnight in the hospital.
+
+95
+00:12:07,560 --> 00:12:24,650
+And in 1929-30, the French resist, and for almost 50 years, the prevailing medical rule was that whatever age you are, you are better off in the hospital.
+
+96
+00:12:24,650 --> 00:12:31,240
+And around 1975, that changed. Not for economic reasons. They only speed it up.
+
+97
+00:12:31,240 --> 00:12:37,930
+And now the prevailing rule is that whatever age you are, you are better off outside the hospital.
+
+98
+00:12:37,930 --> 00:12:51,430
+and into the HMOs and home health service and what have you, and it began, this is the
+
+99
+00:12:51,430 --> 00:13:03,180
+mental hospital, which we basically disbanded in this country, and began to decentralize,
+
+100
+00:13:03,180 --> 00:13:15,250
+And we did the same thing in all areas, we centralized, whether in government or in education.
+
+101
+00:13:15,250 --> 00:13:25,180
+After World War II, we built a consolidated high school, largely because we knew that
+
+102
+00:13:25,180 --> 00:13:36,000
+the one-room schoolhouse or two-room schoolhouse was a rather deprived educational environment.
+
+103
+00:13:36,000 --> 00:13:45,090
+but the real reason is that we sought to use management and in those days we were sure that
+
+104
+00:13:45,090 --> 00:13:51,630
+we could only manage big enterprises and the bigger the better and the more manageable well
+
+105
+00:13:51,630 --> 00:13:58,270
+it hasn't quite worked out that way and the education we made we have been the most centralizing
+
+106
+00:13:58,270 --> 00:14:05,790
+of them all as which is the state this university or the university of michigan with their close to
+
+107
+00:14:05,790 --> 00:14:15,660
+60 000 students and i there we have not just begun to decentralize but let me say it's not
+
+108
+00:14:15,660 --> 00:14:23,870
+perhaps without meaning that in the last few years when the total number of young people
+
+109
+00:14:23,870 --> 00:14:32,590
+reaching politics has been going down the prestige medium-sized liberal arts colleges
+
+110
+00:14:32,590 --> 00:14:40,960
+have had the greatest increase in applications the oberlin and williams and so on their applications
+
+111
+00:14:40,960 --> 00:14:48,430
+have risen at the rate of 18 percent compound now for seven years which is the fastest ways
+
+112
+00:14:48,430 --> 00:14:56,240
+in applications ever reported in american education history and the large universities
+
+113
+00:14:56,240 --> 00:15:02,900
+hold are holding their own and this is perhaps a sign that even in education
+
+114
+00:15:02,900 --> 00:15:07,260
+the decentralizing trend running for itself.
+
+115
+00:15:07,260 --> 00:15:11,180
+And at the same time, we have a new centralizing one
+
+116
+00:15:11,180 --> 00:15:13,800
+that is slow, that is still going slow.
+
+117
+00:15:18,120 --> 00:15:22,540
+And there are very few, it shows in education,
+
+118
+00:15:22,540 --> 00:15:26,260
+it shows in finance, it shows almost anything.
+
+119
+00:15:26,260 --> 00:15:29,780
+There are no local businesses anymore,
+
+120
+00:15:29,780 --> 00:15:33,340
+just as after the 19, after 1920s,
+
+121
+00:15:33,340 --> 00:15:36,680
+There were no regional businesses in this country anymore.
+
+122
+00:15:37,160 --> 00:15:39,580
+Every business was in the national market.
+
+123
+00:15:40,080 --> 00:15:42,660
+So every business is in a global economy.
+
+124
+00:15:42,660 --> 00:15:48,160
+And the final trend you might look at is the holy demographics.
+
+125
+00:15:49,040 --> 00:15:50,080
+I would put it this way.
+
+126
+00:15:50,900 --> 00:16:01,580
+Here's the basic fundamental changes in the value system of different kinds of customers.
+
+127
+00:16:01,580 --> 00:16:22,880
+The only one that still has the value system which most marketers take for granted are blue-collar workers. And blue-collar workers are a rapidly disappearing share of the population. But even they don't have the value system.
+
+128
+00:16:22,880 --> 00:16:35,700
+Because when you look at this century, it is the greatest increase in all the capacity to generate wealth again with Frederick Taylor.
+
+129
+00:16:35,700 --> 00:16:51,090
+And it's unbelievable that there are no precedents and in developed countries we can produce about 18 to 25 times the wealth structure we could produce 100 years ago.
+
+130
+00:16:52,660 --> 00:16:56,800
+And where has this tremendous increase gone?
+
+131
+00:16:56,800 --> 00:17:03,290
+The largest legal share has come to media, not to material goods.
+
+132
+00:17:04,730 --> 00:17:11,010
+The low-collar worker of 1905 or 1906 worked 3,200 hours.
+
+133
+00:17:11,990 --> 00:17:19,830
+The unionized low-collar worker today works 1,750 hours a year, just a little more than half.
+
+134
+00:17:21,280 --> 00:17:27,960
+So that has taken half the increase in purchasing power in media.
+
+135
+00:17:27,960 --> 00:17:54,700
+Now that's not true of the likes of you. You work more than your predecessors did in 1905. Easy. In 1905, the typical lawyer worked five and a half short days, and night work was, I know, easy.
+
+136
+00:17:54,700 --> 00:18:04,700
+and the typical doctor spent really very few hours working.
+
+137
+00:18:04,700 --> 00:18:08,700
+Most hours he spent contemplating the rear end of the horse
+
+138
+00:18:08,700 --> 00:18:11,700
+as he jogged from one farm to another.
+
+139
+00:18:11,700 --> 00:18:16,290
+The actual working time was three or four hours a day
+
+140
+00:18:16,290 --> 00:18:20,290
+and all those wonderful stories of him sitting up to the dying tide.
+
+141
+00:18:20,290 --> 00:18:23,290
+Yes, but not every night.
+
+142
+00:18:23,290 --> 00:18:28,670
+He made sure that everybody knew it when he did it once a year.
+
+143
+00:18:28,670 --> 00:18:40,910
+And so knowledge workers worked longer hours, but not manual workers.
+
+144
+00:18:40,910 --> 00:18:51,400
+And the next year has gone to education, which around 1900 took no more than about 2% of
+
+145
+00:18:51,400 --> 00:18:57,580
+a very much smaller GMP, as against the 10 or 11% it takes now.
+
+146
+00:18:57,580 --> 00:19:06,960
+And then comes health care, which took no share of the GMP in 1900, and now takes 11%.
+
+147
+00:19:06,960 --> 00:19:16,260
+And those three have taken probably 70% to 80% of that incredible increase in the capacity to generate wealth.
+
+148
+00:19:17,280 --> 00:19:26,080
+And while each of them needs good, none of them is seen as a good to the point, let me say,
+
+149
+00:19:26,080 --> 00:19:33,440
+where it's very difficult to define what economics is with the old definition that it is the material
+
+150
+00:19:33,440 --> 00:19:41,010
+satisfaction is no longer holy. These are not material satisfactions, these are non-spiritual
+
+151
+00:19:41,010 --> 00:19:51,990
+satisfactions but not material. And that may be a very important factor in the change in the
+
+152
+00:19:51,990 --> 00:20:04,370
+and then one that so I would also at the fact that we have a level of income in
+
+153
+00:20:04,370 --> 00:20:14,800
+all developed countries in which income is no longer a relevant fact. Over 80% of the
+
+154
+00:20:14,800 --> 00:20:24,200
+population, 10% are poor, 15% perhaps may be poor, and 5% may be so
+
+155
+00:20:24,200 --> 00:20:30,980
+wealthy again that they don't fall into the rules. But 80% are not middle class, no.
+
+156
+00:20:30,980 --> 00:20:41,840
+But 80% are not basically determined by income, they are restrained by income.
+
+157
+00:20:41,840 --> 00:20:50,480
+And so that income classifications are beginning to be secondary, they are not
+
+158
+00:20:50,480 --> 00:21:00,160
+your village and in 1920 early 20s modern marketing begins when quite
+
+159
+00:21:00,160 --> 00:21:10,090
+independently into different places two people invented or discovered the
+
+160
+00:21:10,090 --> 00:21:16,690
+socio-economic classification by income Alfred Sloan in this country as a
+
+161
+00:21:16,690 --> 00:21:24,190
+a practicing manager in General Motors and a group of statisticians,
+
+162
+00:21:24,190 --> 00:21:30,190
+pathologists in Vienna, who then emigrated in the late 20s to Columbia University,
+
+163
+00:21:30,190 --> 00:21:41,030
+Paul C. W. Clausen, and so on, on the basis of certificate. When that was not over, but it's
+
+164
+00:21:41,030 --> 00:21:48,320
+become a rich thing that's what gm doesn't understand by the way uh and i don't think
+
+165
+00:21:51,090 --> 00:21:59,460
+and so that other things determine what people buy how you buy and where you buy
+
+166
+00:22:00,020 --> 00:22:07,990
+age and lifestyle and what have you and so let's look at for a few minutes at various markets and
+
+167
+00:22:07,990 --> 00:22:18,520
+that begin with the consumer market and you know what have been the successes and what has been the
+
+168
+00:22:18,520 --> 00:22:32,680
+failure the failure is the failure is here and you may say you can explain it by the fact that
+
+169
+00:22:32,680 --> 00:22:42,040
+for 50 years he has never had a problem and if for 50 years you are successful then believe me
+
+170
+00:22:42,040 --> 00:22:46,090
+you can't even handle a splinter in the finger.
+
+171
+00:22:47,350 --> 00:22:49,230
+But that's not the whole answer,
+
+172
+00:22:49,330 --> 00:22:52,290
+because these are very, these people are working very hard.
+
+173
+00:22:53,670 --> 00:22:55,170
+And then look at the success.
+
+174
+00:22:56,680 --> 00:22:59,540
+And you will soon begin to see,
+
+175
+00:23:00,180 --> 00:23:04,160
+if you look at successes in the general merchandise business,
+
+176
+00:23:04,160 --> 00:23:09,000
+on the one hand, something like,
+
+177
+00:23:09,360 --> 00:23:12,180
+I don't know the eastern, I don't know North Storm,
+
+178
+00:23:12,320 --> 00:23:13,760
+which is a West Coast thing,
+
+179
+00:23:13,760 --> 00:23:25,320
+of a shopping center, nine-story, which is upper,
+
+180
+00:23:25,760 --> 00:23:30,120
+which basically is not upper class, that's the whole point,
+
+181
+00:23:30,720 --> 00:23:37,220
+which is high-priced, exquisite,
+
+182
+00:23:37,700 --> 00:23:41,960
+and then you look at the profile of the customers,
+
+183
+00:23:43,530 --> 00:23:48,430
+and it goes, well, it is totally classless.
+
+184
+00:23:49,230 --> 00:23:52,410
+Okay, they just said, well, you buy it, more so.
+
+185
+00:23:53,780 --> 00:23:56,520
+And on the other hand, well, some others, I think,
+
+186
+00:23:56,520 --> 00:23:59,170
+are conspicuous by their absence.
+
+187
+00:23:59,170 --> 00:24:03,620
+But otherwise, that is, that the customers are not
+
+188
+00:24:03,620 --> 00:24:08,780
+are not different.
+
+189
+00:24:08,780 --> 00:24:12,550
+They are not indifferentiated by age.
+
+190
+00:24:12,550 --> 00:24:15,600
+They range from blue-collar families
+
+191
+00:24:15,600 --> 00:24:21,180
+to business people, executives.
+
+192
+00:24:21,180 --> 00:24:22,920
+There are people, in other words,
+
+193
+00:24:22,920 --> 00:24:29,820
+willing to take quite a bit more to get the service.
+
+194
+00:24:29,820 --> 00:24:38,020
+And at the other extreme of the spectrum, you have the successes like the Limited or like what the Walmart,
+
+195
+00:24:38,020 --> 00:24:58,540
+which are basically books that are enormous array of choice, no service whatsoever, Kmart, Pioneer, and in between it doesn't work.
+
+196
+00:24:58,540 --> 00:25:18,410
+And insofar as old establishments have been able to turn themselves around, if you look at R.H. Macy, Macy has created basically, which is similar to those two different kinds of stores.
+
+197
+00:25:18,410 --> 00:25:38,440
+And none of them is the old Macy's, the Macy's I knew when I first came to New York 50 odd years ago. One is basically an attempt to provide the service in finding some of the Macy's that live in the coast here.
+
+198
+00:25:38,440 --> 00:25:47,480
+And one, like the very successful San Francisco store, they came off and both were.
+
+199
+00:25:48,060 --> 00:25:52,500
+And the old Macy's is gone, and that's what saved Macy's.
+
+200
+00:25:52,580 --> 00:26:00,000
+Otherwise, Macy's would have saved the fate of Gimbel, which tried to maintain the old store.
+
+201
+00:26:00,280 --> 00:26:04,700
+And all of you know Bloomingdale, which basically sets an old stone pattern.
+
+202
+00:26:04,700 --> 00:26:08,700
+There are no terms of service between you and me.
+
+203
+00:26:08,700 --> 00:26:14,160
+Don't say my opinion hasn't really watched the service.
+
+204
+00:26:14,160 --> 00:26:20,160
+And so clearly there is the segmentation which has different values.
+
+205
+00:26:20,160 --> 00:26:22,160
+And now comes the shoppers.
+
+206
+00:26:22,160 --> 00:26:28,360
+When you look at who shops in those, they are exactly the same people.
+
+207
+00:26:28,360 --> 00:26:31,360
+You cannot tell the profile.
+
+208
+00:26:31,360 --> 00:26:38,690
+But also when you get predators, they both have the same people have an account in those.
+
+209
+00:26:38,690 --> 00:26:48,120
+In other words, you have the same people shopping, being able to have two value systems in the shop,
+
+210
+00:26:48,120 --> 00:26:52,920
+and do the shop different goods we don't know in different places.
+
+211
+00:26:52,920 --> 00:26:57,840
+But clearly, you can either go one way or the other.
+
+212
+00:26:57,840 --> 00:27:02,640
+The middle way, you don't satisfy anyone anymore.
+
+213
+00:27:02,640 --> 00:27:06,040
+You don't give enough service so that people say,
+
+214
+00:27:06,040 --> 00:27:11,420
+I go there because the service is good, and you don't offer enough variety and
+
+215
+00:27:11,420 --> 00:27:17,360
+enough price. A bargain for the people there, I go there because it's the one place,
+
+216
+00:27:17,360 --> 00:27:22,920
+you know, I'm not going to spend a lot of money for blue jeans for a nine-year-old
+
+217
+00:27:22,920 --> 00:27:30,710
+boy before he has put them on, he has already outgrown them. And in between there is no
+
+218
+00:27:30,710 --> 00:27:37,120
+market, and that was the market. And when you look at healthcare, let me see, you'll find
+
+219
+00:27:37,120 --> 00:27:51,770
+very similar and when you look however consumer business you all know that in the last few years
+
+220
+00:27:52,330 --> 00:28:00,030
+the large advertising agencies all over the world have been in a wise merge of frenzy and this is
+
+221
+00:28:00,030 --> 00:28:07,470
+usually explained by saying that marketing has become global and you know to an old-timer like
+
+222
+00:28:07,470 --> 00:28:16,540
+me that's a very suspect when you see that kind of activity the normal explanation that the market
+
+223
+00:28:16,540 --> 00:28:22,460
+has become saturated and there are people who believe that the good lord ordained that you
+
+224
+00:28:22,460 --> 00:28:30,140
+have to grow 20 percent a year believe the lord ordained nothing of the sort and then
+
+225
+00:28:30,140 --> 00:28:39,580
+And they think they can overcome a mature market that no longer grows by
+
+226
+00:28:39,580 --> 00:28:40,580
+.
+
+227
+00:28:40,580 --> 00:28:50,000
+The result, inevitably, is sharply decreased profitability and the shake-out, and I think
+
+228
+00:28:50,000 --> 00:28:55,600
+that's what's going ahead in the advertising industry, because it's clear that the market
+
+229
+00:28:55,600 --> 00:28:56,600
+is saturated.
+
+230
+00:28:56,600 --> 00:29:05,190
+There is only so much advertising you can put on television, and we have exceeded it.
+
+231
+00:29:05,190 --> 00:29:10,570
+And in all countries, the media are saturated with advertising.
+
+232
+00:29:10,570 --> 00:29:16,130
+And by the same time, advertising is beginning to have less and less results.
+
+233
+00:29:16,130 --> 00:29:23,270
+The margin of return on the advertising dollar is going down very sharply, simply because
+
+234
+00:29:23,270 --> 00:29:27,210
+there is no distinction anymore.
+
+235
+00:29:27,210 --> 00:29:34,870
+And then the advertising agencies are under extreme pressure, and you see those mega-merchants.
+
+236
+00:29:34,870 --> 00:29:40,580
+But when you look at the global market, yes and no.
+
+237
+00:29:40,580 --> 00:29:45,240
+We already see that it isn't true that there is global marketing.
+
+238
+00:29:45,240 --> 00:29:58,930
+Yes, there is global marketing for some things, mostly for immediate consumer goods with high
+
+239
+00:29:58,930 --> 00:29:59,930
+visibility.
+
+240
+00:29:59,930 --> 00:30:04,480
+whether they're two-state or stereo.
+
+241
+00:30:05,580 --> 00:30:07,920
+For everything else, markets are fragmented.
+
+242
+00:30:08,840 --> 00:30:11,520
+They are not becoming bigger and more global.
+
+243
+00:30:12,100 --> 00:30:15,920
+You have some global markets that are highly specialized.
+
+244
+00:30:16,840 --> 00:30:22,560
+Let's say for skiing, where you have the same kind of people
+
+245
+00:30:22,560 --> 00:30:26,640
+buying the same skis or the same exercise equipment
+
+246
+00:30:26,640 --> 00:30:29,200
+in all developed countries.
+
+247
+00:30:29,200 --> 00:30:35,310
+and the affluent people in developing countries.
+
+248
+00:30:35,930 --> 00:30:37,650
+And they are tiny markets,
+
+249
+00:30:39,380 --> 00:30:43,040
+and yet they are worldwide and require worldwide marketing.
+
+250
+00:30:43,040 --> 00:30:47,580
+And at the same time, you have increasing fragmentation
+
+251
+00:30:47,580 --> 00:30:50,660
+in the development of local states.
+
+252
+00:30:51,060 --> 00:30:54,460
+So the real sense in marketing are not global.
+
+253
+00:30:55,060 --> 00:31:01,000
+The things that have been global for a long time remain global.
+
+254
+00:31:01,000 --> 00:31:12,820
+The other things become either socially fragmented or locally fragmented, and so the global market
+
+255
+00:31:12,820 --> 00:31:14,190
+knows.
+
+256
+00:31:14,190 --> 00:31:22,210
+The global information, yes, the global market, no.
+
+257
+00:31:22,210 --> 00:31:27,900
+And now you look at finance, where we all knew.
+
+258
+00:31:27,900 --> 00:31:32,820
+And when I say we, I include myself, I'm not saying I knew better than anybody else, none
+
+259
+00:31:32,820 --> 00:31:33,820
+of us did.
+
+260
+00:31:33,820 --> 00:31:50,750
+that there would be the financial supermarkets and that all financial products would be bought or sold through the same distribution channels
+
+261
+00:31:50,750 --> 00:32:01,430
+and you know it hasn't happened. In fact, what's something much more interesting?
+
+262
+00:32:01,430 --> 00:32:13,900
+The distinction between different kinds of customers has become greater, not lesser.
+
+263
+00:32:13,900 --> 00:32:31,820
+What I'm saying is that we have the most active stock market ever, and it's an insurrection.
+
+264
+00:32:33,540 --> 00:32:47,000
+And the American individual investor has been a net seller of listed and unlisted securities the last 10 years.
+
+265
+00:32:47,000 --> 00:32:57,980
+He has been trading steadily in direct holding in companies against holdings in intermediaries.
+
+266
+00:32:58,100 --> 00:33:02,280
+the pension funds, which he doesn't control.
+
+267
+00:33:02,280 --> 00:33:03,740
+Also the mutual funds.
+
+268
+00:33:03,740 --> 00:33:06,180
+I don't know what proportion of mutual funds
+
+269
+00:33:06,180 --> 00:33:10,640
+they represent, basically exchange rather than
+
+270
+00:33:10,640 --> 00:33:12,040
+new investments.
+
+271
+00:33:12,040 --> 00:33:16,190
+Maybe Donald, but it's a substandard.
+
+272
+00:33:16,190 --> 00:33:20,650
+And yet, at the same time, the distinction between products
+
+273
+00:33:20,650 --> 00:33:24,190
+has largely, well, I wouldn't say disappeared.
+
+274
+00:33:24,190 --> 00:33:25,650
+Here is that.
+
+275
+00:33:25,650 --> 00:33:34,840
+Well, I take my neighbor, who may be the richest man in the small town in which I live,
+
+276
+00:33:35,720 --> 00:33:37,140
+who has five pharmacies.
+
+277
+00:33:37,140 --> 00:33:39,980
+And I said, why five?
+
+278
+00:33:40,480 --> 00:33:45,830
+And he said, you know, if you don't have a big pharmacy chain,
+
+279
+00:33:46,610 --> 00:33:52,160
+the owner has to be in the store at least one day a week.
+
+280
+00:33:54,480 --> 00:33:56,760
+And I like to play golf one day a week.
+
+281
+00:33:58,010 --> 00:34:02,070
+And so he has five pharmacies, a gold mine.
+
+282
+00:34:02,570 --> 00:34:03,910
+And he works very hard.
+
+283
+00:34:03,910 --> 00:34:14,960
+and he does a good job and you know the secret of a farmer any weekly business is to be friendly
+
+284
+00:34:14,960 --> 00:34:20,560
+be nice to the customers he serves and he makes sure that they say people smile and that they
+
+285
+00:34:20,560 --> 00:34:27,120
+know customers by name and said when you come in let's see what can we do for you and that's it
+
+286
+00:34:27,120 --> 00:34:34,210
+otherwise he has exactly the same product every other drugstore in the country has you don't have
+
+287
+00:34:34,210 --> 00:34:45,110
+have to go to him to buy Colgate or to have the prescription.
+
+288
+00:34:45,110 --> 00:34:49,750
+And I don't quite truly have an enormous income.
+
+289
+00:34:49,750 --> 00:34:55,390
+And you know, what does he buy?
+
+290
+00:34:55,390 --> 00:35:00,360
+What he buys, he no longer distinguishes
+
+291
+00:35:00,360 --> 00:35:03,540
+between what every financial textbook
+
+292
+00:35:03,540 --> 00:35:07,040
+tells you are totally different products.
+
+293
+00:35:07,040 --> 00:35:12,130
+He buys real estate trusts and taxed as a partnership,
+
+294
+00:35:12,610 --> 00:35:15,490
+maybe insofar as I can say I'm allowed to,
+
+295
+00:35:15,850 --> 00:35:19,850
+and mutual funds and deferred annuities.
+
+296
+00:35:19,850 --> 00:35:24,240
+He's basically very conservative, defensive.
+
+297
+00:35:24,800 --> 00:35:28,860
+He's more conservative in what he's making
+
+298
+00:35:28,860 --> 00:35:32,200
+than with making money by investing.
+
+299
+00:35:32,900 --> 00:35:38,930
+But the products to him are not differentiated.
+
+300
+00:35:38,930 --> 00:36:01,740
+We are simply alternate forms of investment, but he is quite true in where he buys.
+
+301
+00:36:01,740 --> 00:36:11,220
+You know, for 20 years we have said the commercial bank really is the best way to sell to the
+
+302
+00:36:11,220 --> 00:36:15,220
+individual affluent person, these other customers anyhow.
+
+303
+00:36:15,220 --> 00:36:26,750
+Somehow, this is not how media, public see the commercial bank, the Swiss have done it
+
+304
+00:36:26,750 --> 00:36:28,410
+better.
+
+305
+00:36:28,410 --> 00:36:36,490
+No, it's the traditional broker-dealer that has passed this business.
+
+306
+00:36:36,490 --> 00:36:42,860
+And so far, without a challenge.
+
+307
+00:36:42,860 --> 00:36:49,900
+And here we see a robot and here figures that now there's an enormous class of investors
+
+308
+00:36:49,900 --> 00:36:57,800
+and investment is just as much a purchase for the family as automobile insurance or
+
+309
+00:36:57,800 --> 00:37:04,400
+refrigerator and so thereby being bitter and I think most of anybody in the EU don't know
+
+310
+00:37:04,400 --> 00:37:06,740
+it's not been a great success.
+
+311
+00:37:06,740 --> 00:37:13,140
+In fact, so far they have been able to do it, dismantle being bitter as far as I can
+
+312
+00:37:13,140 --> 00:37:23,140
+because we do not really like to discuss our IRA next door to where our neighbor
+
+313
+00:37:23,140 --> 00:37:31,200
+shop for her daughter's underwear. No, we don't really. It is not the right environment.
+
+314
+00:37:31,200 --> 00:37:37,710
+Also, we have a sneaking suspicion that those people who have been trained to be
+
+315
+00:37:37,710 --> 00:37:46,720
+sales clerks in furniture are perhaps not ideally equipped to advise us on our
+
+316
+00:37:46,720 --> 00:38:02,630
+investment. Some of them don't quite work. It has not worked. And if you look at the same time, you know, very few firms have been able to build both an
+
+317
+00:38:02,630 --> 00:38:09,550
+institutional and a retail business. A very small number of New York-based
+
+318
+00:38:09,550 --> 00:38:20,750
+firehouses, of whom we have one here, how many others? Three or four or so at most. Everybody has tried. And the most
+
+319
+00:38:20,750 --> 00:38:29,210
+successful ones have been regionals who only go in the retail business. AG Becker in St. Louis,
+
+320
+00:38:29,850 --> 00:38:36,600
+who don't touch the institution. And on the other hand, there are the institutional houses,
+
+321
+00:38:36,600 --> 00:38:48,520
+ornaments, and so on. And in very few cases has anybody been successful in servicing both.
+
+322
+00:38:48,520 --> 00:38:59,200
+And the large banks have been very good in expanding in all areas of money,
+
+323
+00:39:00,050 --> 00:39:06,690
+but they have been totally unsuccessful, by and large, in expanding in the capital market,
+
+324
+00:39:06,690 --> 00:39:12,870
+pension funds, yes, but we don't look to them in this country.
+
+325
+00:39:13,210 --> 00:39:15,130
+Now, that's not the law of nature.
+
+326
+00:39:15,350 --> 00:39:16,150
+That's not Germany.
+
+327
+00:39:16,150 --> 00:39:24,410
+On the other hand, if you look at Germany, the German large banks, which were institutional
+
+328
+00:39:24,410 --> 00:39:34,420
+primarily, have not been able to get the retail business, even though they are trying very
+
+329
+00:39:34,420 --> 00:39:35,420
+hard.
+
+330
+00:39:35,420 --> 00:39:41,500
+The retail business is dominated in Germany by city bank affiliates.
+
+331
+00:39:41,500 --> 00:39:49,360
+They have 50 percent of the German, 48 percent of the German retail banking business.
+
+332
+00:39:49,360 --> 00:39:58,190
+Partly, maybe the German large banks were asleep at the switch, but not very long.
+
+333
+00:39:58,190 --> 00:40:06,130
+But fundamentally, the German family is not comfortable in those marble halls of the Deutsche
+
+334
+00:40:06,130 --> 00:40:13,470
+Bank, and knows that they are not really welcome, no matter what the Deutsche Bank says.
+
+335
+00:40:13,470 --> 00:40:17,610
+And they aren't, believe me.
+
+336
+00:40:17,610 --> 00:40:23,490
+And these aren't their kinds of people.
+
+337
+00:40:23,490 --> 00:40:27,890
+And so we have no financial supermarket.
+
+338
+00:40:27,890 --> 00:40:36,650
+But the new segmentation is not by traditional product and not by traditional distributive
+
+339
+00:40:36,650 --> 00:40:37,650
+channel.
+
+340
+00:40:37,650 --> 00:40:49,260
+It is by customer acceptance of the kind of institution that is fitting for this kind
+
+341
+00:40:49,260 --> 00:40:51,140
+of business.
+
+342
+00:40:51,140 --> 00:40:58,850
+the large buyer house is fitting for this or the regional broker the and even though
+
+343
+00:40:59,890 --> 00:41:05,410
+my hunches said none of the regional brokers there's more than four or five percent of its
+
+344
+00:41:05,410 --> 00:41:12,290
+business enlisted stock exchange securities they are still stock exchange houses and that gives
+
+345
+00:41:12,290 --> 00:41:24,100
+them a credibility when on the other hand in the institutional market by a
+
+346
+00:41:24,100 --> 00:41:30,670
+large institutions deal with people who were institutional and so you have the
+
+347
+00:41:30,670 --> 00:41:40,790
+segmentation by customers and no longer by product line and so what can one say
+
+348
+00:41:40,790 --> 00:41:51,570
+one can say first this is a time not to go by what anybody tells you including
+
+349
+00:41:51,570 --> 00:42:01,380
+me but to make sure you're out in the market you are sure and let me say this
+
+350
+00:42:01,380 --> 00:42:08,920
+is a time when that oldest rule of the marketer becomes important we have been
+
+351
+00:42:08,920 --> 00:42:14,880
+telling you for as long as we have been talking marketing which is now about 40
+
+352
+00:42:14,880 --> 00:42:25,950
+odd years uh that the most important people to know are your non-customers the ones who should
+
+353
+00:42:25,950 --> 00:42:33,150
+be betting they are far they are the really important people if only because you always
+
+354
+00:42:33,150 --> 00:42:43,700
+outnumber your customers and this is a tank because you can't go anymore but people have
+
+355
+00:42:43,700 --> 00:42:50,510
+been our customers and therefore they are our customers you have to go by
+
+356
+00:42:52,590 --> 00:42:58,830
+the market is changing in ways which are not historical and then one better
+
+357
+00:43:00,110 --> 00:43:11,020
+understand and know and see the geological forward lines before there is and the second thing to say
+
+358
+00:43:11,020 --> 00:43:20,020
+is look for the fundamentals because this is a general change and not one
+
+359
+00:43:20,020 --> 00:43:31,750
+that is financial and hospitals and underwear and what have your capital
+
+360
+00:43:31,750 --> 00:43:39,010
+goods clearly the basic contours are changing they are changing in part
+
+361
+00:43:39,010 --> 00:43:52,590
+because of information in part because fundamental changes because really the
+
+362
+00:43:52,590 --> 00:44:00,260
+way to put it is that incomes are no longer a determinant of buying for the
+
+363
+00:44:00,260 --> 00:44:08,190
+great bulk of people in the great bulk of the culture incidentally then this is
+
+364
+00:44:08,190 --> 00:44:21,120
+true in housing when you the old formula for could predict in my time when i was an investment backer
+
+365
+00:44:22,640 --> 00:44:30,750
+we had the largest english real estate concern is our main client and they could predict within
+
+366
+00:44:30,750 --> 00:44:41,070
+a few pounds what kind of a house a family would buy simply because families bought to the point
+
+367
+00:44:41,070 --> 00:44:54,340
+where the families bought houses so that the service cost between 26 and 32 percent of their
+
+368
+00:44:54,340 --> 00:45:05,170
+income period that doesn't work anymore or you young people working here in the financial district
+
+369
+00:45:05,170 --> 00:45:11,330
+wouldn't pay what you pay for new york apartments our people living in my part of the world wouldn't
+
+370
+00:45:11,330 --> 00:45:20,290
+pay what you have to pay in Santa Monica for a house obviously this is not the
+
+371
+00:45:20,290 --> 00:45:27,800
+way but not to be my children they look first at what do I need and what do I
+
+372
+00:45:27,800 --> 00:45:37,560
+want and if we can't afford that made forces to make a compromise but we don't
+
+373
+00:45:37,560 --> 00:45:43,780
+start-up housing has it not seen economically but this terms almost of
+
+374
+00:45:43,780 --> 00:45:55,060
+personnel and so when economics are a restraint and not a motivation

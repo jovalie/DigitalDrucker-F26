@@ -1,0 +1,158 @@
+{
+ "pointer": "4944",
+ "media": "4944.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 217.1,
+ "segments": [
+  {
+   "start": 2.78,
+   "end": 9.42,
+   "text": "for the that the bureaucracy is trying to arrest control of business away from the banks"
+  },
+  {
+   "start": 10.14,
+   "end": 17.3,
+   "text": "through the postal savings bank and that's a bitter fierce conflict that may explode"
+  },
+  {
+   "start": 18.66,
+   "end": 25.46,
+   "text": "the concord between japanese government and japanese business on which japanese"
+  },
+  {
+   "start": 25.46,
+   "end": 32.26,
+   "text": "force for policy has been resting. And it's a very bitter contest and ruthless."
+  },
+  {
+   "start": 36.65,
+   "end": 44.49,
+   "text": "But in this country, we will have the question of, can we create either a new organ or make the"
+  },
+  {
+   "start": 44.49,
+   "end": 55.29,
+   "text": "existing organs effective enough so that management have a boss, that they are accountable, but also"
+  },
+  {
+   "start": 55.29,
+   "end": 63.93,
+   "text": "so that they are accountable for the performance of the enterprise, which in the long run is the"
+  },
+  {
+   "start": 65.45,
+   "end": 76.94,
+   "text": "only thing that produces the golden eggs for anybody. We have a precedent in this country."
+  },
+  {
+   "start": 76.94,
+   "end": 86.22,
+   "text": "Every time you read in the paper that a company goes into chapter 11, we invoke our revision of"
+  },
+  {
+   "start": 86.22,
+   "end": 90.66,
+   "text": "of the bankruptcy laws, 1896 and 1937,"
+  },
+  {
+   "start": 90.66,
+   "end": 94.44,
+   "text": "which puts a preservation of the growing concern"
+  },
+  {
+   "start": 94.44,
+   "end": 98.95,
+   "text": "before the interests of any one stakeholder."
+  },
+  {
+   "start": 98.95,
+   "end": 102.39,
+   "text": "And the creditors have not done badly under it."
+  },
+  {
+   "start": 102.39,
+   "end": 107.72,
+   "text": "In fact, if you compare what creditors got before it"
+  },
+  {
+   "start": 107.72,
+   "end": 109.3,
+   "text": "with what they are getting now, they're"
+  },
+  {
+   "start": 109.3,
+   "end": 111.84,
+   "text": "getting about four times as much."
+  },
+  {
+   "start": 111.84,
+   "end": 114.38,
+   "text": "When we forced government companies"
+  },
+  {
+   "start": 114.38,
+   "end": 117.66,
+   "text": "into liquidation, which is the equivalent of the hostile"
+  },
+  {
+   "start": 117.66,
+   "end": 124.61,
+   "text": "take over, creditors by and large never got more than $0.12 or $0.14 on the dollar."
+  },
+  {
+   "start": 124.61,
+   "end": 127.32,
+   "text": "That's what they get in a fire sale."
+  },
+  {
+   "start": 127.32,
+   "end": 133.8,
+   "text": "Now you can expect either 100% or 95% or what have you."
+  },
+  {
+   "start": 133.8,
+   "end": 135.84,
+   "text": "And so we have a precedent."
+  },
+  {
+   "start": 135.84,
+   "end": 143.28,
+   "text": "But whether we will be fast enough and wise enough and have enough vision to fashion the"
+  },
+  {
+   "start": 143.28,
+   "end": 153.42,
+   "text": "next step in making the free enterprise something that is a social as well as an economic institution."
+  },
+  {
+   "start": 153.42,
+   "end": 159.72,
+   "text": "That's going to be the great challenge of the next 10 or 15 years, and we are beginning"
+  },
+  {
+   "start": 159.72,
+   "end": 161.9,
+   "text": "to face up to it."
+  },
+  {
+   "start": 161.9,
+   "end": 173.4,
+   "text": "And Bill Goose promised you 220, but you all know old school teachers, they keep on talking."
+  },
+  {
+   "start": 173.4,
+   "end": 176.62,
+   "text": "So my apologies, but it's still only 2.25."
+  },
+  {
+   "start": 177.02,
+   "end": 178.88,
+   "text": "Thank you very much and thank you."
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 31.61,
+ "created_utc": "2026-09-29T02:24:55+00:00"
+}

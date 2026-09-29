@@ -1,0 +1,1883 @@
+{
+ "pointer": "4945",
+ "media": "4945.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2757.0,
+ "segments": [
+  {
+   "start": 3.67,
+   "end": 9.39,
+   "text": "Good morning. I'm Sam Craig, the Associate Dean for Academic Affairs, and it's my pleasure to"
+  },
+  {
+   "start": 9.39,
+   "end": 15.09,
+   "text": "welcome you again to the Graduate School of Business for the second day of the Peter F."
+  },
+  {
+   "start": 15.19,
+   "end": 21.41,
+   "text": "Drucker Symposium. This is one of the more exciting and provocative events that take place"
+  },
+  {
+   "start": 21.41,
+   "end": 27.44,
+   "text": "each year at the Graduate School of Business, and it's exciting and provocative because of"
+  },
+  {
+   "start": 27.44,
+   "end": 33.4,
+   "text": "Peter Drucker, a man who's been characterized as the founding father of the science of"
+  },
+  {
+   "start": 33.4,
+   "end": 40.9,
+   "text": "management, the most important management thinker of our time, a foremost philosopher"
+  },
+  {
+   "start": 40.9,
+   "end": 42.0,
+   "text": "of American society."
+  },
+  {
+   "start": 43.02,
+   "end": 49.38,
+   "text": "Now, with Peter today is Mr. Donald E. Nicholson, president of Payne-Weber, one of the nation's"
+  },
+  {
+   "start": 49.38,
+   "end": 51.96,
+   "text": "leading full-service securities firms."
+  },
+  {
+   "start": 52.18,
+   "end": 56.04,
+   "text": "Mr. Nicholson has been in the securities business for over 30 years."
+  },
+  {
+   "start": 58.84,
+   "end": 64.68,
+   "text": "One brief announcement before I turn the floor over to Peter Drucker and to Mr. Nicholson"
+  },
+  {
+   "start": 64.68,
+   "end": 70.32,
+   "text": "is we're going to try to get both sets of remarks in before the coffee break to allow more time"
+  },
+  {
+   "start": 70.32,
+   "end": 75.18,
+   "text": "for questions. Many of you were here yesterday, didn't feel there was enough time for questions,"
+  },
+  {
+   "start": 75.74,
+   "end": 78.9,
+   "text": "so we'll try to allow more time for questions after the coffee break."
+  },
+  {
+   "start": 79.58,
+   "end": 86.82,
+   "text": "Professor Drucker. Thank you very much, Sam Craig. And let me say again how delighted I am to be back"
+  },
+  {
+   "start": 86.82,
+   "end": 94.8,
+   "text": "at my old home and how happy I am to see so many old friends around here. And as you know,"
+  },
+  {
+   "start": 94.8,
+   "end": 108.34,
+   "text": "topic is markets and segmentation myth and reality and as all of you I think"
+  },
+  {
+   "start": 108.34,
+   "end": 123.78,
+   "text": "know a good many of major markets began to change to be closer thank you how is"
+  },
+  {
+   "start": 123.78,
+   "end": 131.72,
+   "text": "this thing began to become fluid and things that had looked as solid as"
+  },
+  {
+   "start": 131.72,
+   "end": 144.2,
+   "text": "granite for 30 or 50 years began to become very very and liquid and changing maybe the late 60s"
+  },
+  {
+   "start": 144.2,
+   "end": 153.36,
+   "text": "early 70s and since then markets have changed some of them i think beyond recognition i think anyone"
+  },
+  {
+   "start": 153.36,
+   "end": 161.76,
+   "text": "who knew the financial markets or can remember the financial markets of 1960 and would have a"
+  },
+  {
+   "start": 161.76,
+   "end": 170.15,
+   "text": "hard time recognizing today's financial market. I don't think anybody would have considered it"
+  },
+  {
+   "start": 170.15,
+   "end": 179.44,
+   "text": "possible, conceivable, that you could sell 260 billion dollars worth of mutual funds in a year"
+  },
+  {
+   "start": 179.44,
+   "end": 190.0,
+   "text": "as was done last year, or that one of the leading treasury bill brokers happens to be a Japanese"
+  },
+  {
+   "start": 190.0,
+   "end": 197.68,
+   "text": "brokerage. I don't think anybody in 1970 would have even considered that. Figments"
+  },
+  {
+   "start": 197.68,
+   "end": 203.26,
+   "text": "of the imagination that would have been kind of signs of a seriously disordered"
+  },
+  {
+   "start": 203.26,
+   "end": 212.52,
+   "text": "mind. And let me say if you talk to people at Sears Roebuck, you will find that they"
+  },
+  {
+   "start": 212.52,
+   "end": 219.9,
+   "text": "are equally bewildered by a consumer market that just makes no sense to them."
+  },
+  {
+   "start": 219.9,
+   "end": 225.5,
+   "text": "and that quite obviously they do not yet understand and know how to cope with."
+  },
+  {
+   "start": 227.06,
+   "end": 240.62,
+   "text": "And I'm not so sure that the people at GM would be able to explain the consumer marketing goods"
+  },
+  {
+   "start": 240.62,
+   "end": 246.22,
+   "text": "and understand it or accept that what has happened really could have happened."
+  },
+  {
+   "start": 247.84,
+   "end": 252.9,
+   "text": "So the changes have been very great indeed in all markets,"
+  },
+  {
+   "start": 252.9,
+   "end": 260.8,
+   "text": "including let me say the market for academia where the changes may have been even greater"
+  },
+  {
+   "start": 261.44,
+   "end": 268.16,
+   "text": "and where even the academicians i don't know them or understand them before so far they are being"
+  },
+  {
+   "start": 268.16,
+   "end": 278.16,
+   "text": "covered by a tremendous boom and the rooms like any high tide tend to obscure changes in the"
+  },
+  {
+   "start": 278.16,
+   "end": 287.68,
+   "text": "underlying structure but at the same time most of the things which all of us predicted when these"
+  },
+  {
+   "start": 287.68,
+   "end": 296.05,
+   "text": "changes began have not happened what has happened are very different things and i don't think it is"
+  },
+  {
+   "start": 296.05,
+   "end": 306.77,
+   "text": "possible yet to see what the market will look like when the transition is over it's not even"
+  },
+  {
+   "start": 306.77,
+   "end": 315.43,
+   "text": "might be quite easy to see how far along we are in the transit. Just this morning"
+  },
+  {
+   "start": 315.43,
+   "end": 321.89,
+   "text": "up in the Dean's office when Don Nicholson came in, we talked about the treaty and"
+  },
+  {
+   "start": 321.89,
+   "end": 329.33,
+   "text": "he kind of said he thinks we are in the early stages of the transition. Am I putting words in your mouth? I don't think so."
+  },
+  {
+   "start": 329.33,
+   "end": 337.21,
+   "text": "Well I'm not sure, but he's the expert. And considering how much we have been"
+  },
+  {
+   "start": 337.21,
+   "end": 345.3,
+   "text": "through in the financial markets, I kind of wonder. But then I don't think it's yet easy to say"
+  },
+  {
+   "start": 348.14,
+   "end": 356.46,
+   "text": "what the new segmentation will be, but I think it is already possible to say"
+  },
+  {
+   "start": 357.1,
+   "end": 366.25,
+   "text": "what is not going to work or what does not work. And it's probably not easy yet to say"
+  },
+  {
+   "start": 366.25,
+   "end": 373.21,
+   "text": "when the transition will be over when we will again have a period of comparative stability"
+  },
+  {
+   "start": 373.93,
+   "end": 390.01,
+   "text": "but i think it is possible to say uh in some markets uh where the selfish boundary lines are"
+  },
+  {
+   "start": 390.57,
+   "end": 395.13,
+   "text": "what i mean to say is that for instance when you look at the healthcare market"
+  },
+  {
+   "start": 395.13,
+   "end": 403.45,
+   "text": "which has changed perhaps next to the financial market the most it is possible to say that"
+  },
+  {
+   "start": 406.97,
+   "end": 413.37,
+   "text": "no matter how what the economic pressures are no matter what the pressure from the doctors are and"
+  },
+  {
+   "start": 413.37,
+   "end": 425.24,
+   "text": "so on the modern medicine requires a an organized center for the hospital and that such present"
+  },
+  {
+   "start": 425.24,
+   "end": 432.84,
+   "text": "attempt as i don't know whether you know that 40 percent of all american physicians now have"
+  },
+  {
+   "start": 432.84,
+   "end": 442.23,
+   "text": "do medical testing in their own offices uh in a desperate attempt to protect their revenue"
+  },
+  {
+   "start": 442.23,
+   "end": 453.0,
+   "text": "because uh lab work is not regulated there are no government feelings on it and so is their fees for"
+  },
+  {
+   "start": 453.0,
+   "end": 459.76,
+   "text": "for Medicare, which is where most of the practice is increasing for older people, sharply pertains"
+  },
+  {
+   "start": 459.76,
+   "end": 470.04,
+   "text": "to government, they are desperately and frantically going into medical testing, which is a wonderful"
+  },
+  {
+   "start": 470.04,
+   "end": 475.3,
+   "text": "move for the people who make that equipment."
+  },
+  {
+   "start": 475.3,
+   "end": 481.36,
+   "text": "I hope that if you have to go to a doctor, you will ask whether he does medical testing"
+  },
+  {
+   "start": 481.36,
+   "end": 484.8,
+   "text": "And if he does, you see, I'll go to another doctor."
+  },
+  {
+   "start": 485.96,
+   "end": 490.42,
+   "text": "Because not one of those doctors knows how to calibrate their person."
+  },
+  {
+   "start": 491.2,
+   "end": 495.4,
+   "text": "And not one of them really knows qualified personnel."
+  },
+  {
+   "start": 496.56,
+   "end": 499.22,
+   "text": "And as you all know, medical tests are bad enough."
+  },
+  {
+   "start": 499.4,
+   "end": 500.62,
+   "text": "They are very unreliable."
+  },
+  {
+   "start": 501.26,
+   "end": 504.86,
+   "text": "60% of them are wrong, and the other ones are getting lost."
+  },
+  {
+   "start": 504.86,
+   "end": 509.94,
+   "text": "It's not as bad as the IRS, but it's getting close."
+  },
+  {
+   "start": 509.94,
+   "end": 520.94,
+   "text": "and you better go you know to either a big clinic that you have a group practice or to a hospital"
+  },
+  {
+   "start": 520.94,
+   "end": 531.04,
+   "text": "so one can say with some predictability that when it comes to testing but also when it comes to"
+  },
+  {
+   "start": 531.04,
+   "end": 538.95,
+   "text": "life threatening surgery and so on we need the hospital that's a very small part of its"
+  },
+  {
+   "start": 538.95,
+   "end": 546.61,
+   "text": "traditional function and if you're in the hospital businesses they are not necessarily desirable"
+  },
+  {
+   "start": 546.61,
+   "end": 555.09,
+   "text": "because nobody knows how to run a hospital in which a very substantial majority of the patients"
+  },
+  {
+   "start": 555.09,
+   "end": 562.45,
+   "text": "do not survive and leave the hospital steward that is not the place in which people do good work"
+  },
+  {
+   "start": 563.41,
+   "end": 570.68,
+   "text": "so we have a problem but one can see some boundary line and so this is what i think we are going to"
+  },
+  {
+   "start": 570.92,
+   "end": 581.04,
+   "text": "I try to do in terms of the financial market, Don is going to look ahead, and I'm going"
+  },
+  {
+   "start": 581.04,
+   "end": 585.48,
+   "text": "to try to report on what I think has happened."
+  },
+  {
+   "start": 585.48,
+   "end": 591.16,
+   "text": "And so when you look at it, the first thing to say is that when you have a phenomenon"
+  },
+  {
+   "start": 591.16,
+   "end": 598.88,
+   "text": "like this, in which you have fundamental changes in all markets, or in most markets, you have"
+  },
+  {
+   "start": 598.88,
+   "end": 602.94,
+   "text": "to assume that not that there are common causes,"
+  },
+  {
+   "start": 602.94,
+   "end": 607.74,
+   "text": "but that the entire, shall we say, geology is changing."
+  },
+  {
+   "start": 607.74,
+   "end": 610.78,
+   "text": "That these are not things that are"
+  },
+  {
+   "start": 610.78,
+   "end": 616.93,
+   "text": "caused by what is happening in finance, or in health care,"
+  },
+  {
+   "start": 616.93,
+   "end": 619.89,
+   "text": "or in the consumer market."
+  },
+  {
+   "start": 619.89,
+   "end": 624.54,
+   "text": "You have to assume that there are common causes,"
+  },
+  {
+   "start": 624.54,
+   "end": 627.18,
+   "text": "because it's simply the coincidence,"
+  },
+  {
+   "start": 627.18,
+   "end": 629.92,
+   "text": "the probability of the coincidence"
+  },
+  {
+   "start": 629.92,
+   "end": 639.6,
+   "text": "in half a dozen different major areas at the same time separate and independent things are moving"
+  },
+  {
+   "start": 639.6,
+   "end": 646.21,
+   "text": "that's just not that's not i would say the probability is close to zero you have to assume"
+  },
+  {
+   "start": 646.21,
+   "end": 652.69,
+   "text": "that you have fundamental change and the first thing they're forced to say is in analyzing"
+  },
+  {
+   "start": 652.69,
+   "end": 680.41,
+   "text": "Don't start with your market. Start with what is going on. And there are a few things to be said. One is that, you know, around 1929, we entered a centralizing period that then greatly accelerated after World War II with the emergence of management."
+  },
+  {
+   "start": 680.41,
+   "end": 697.89,
+   "text": "And the hospital is a good place to demonstrate it. Before 1930, no practitioner would have put a pain patient into a hospital, except for surgery. And surgery only after 1890."
+  },
+  {
+   "start": 697.89,
+   "end": 711.66,
+   "text": "When the child of a respectable family had to have his tonsils out, that was done in"
+  },
+  {
+   "start": 711.66,
+   "end": 716.92,
+   "text": "the doctor's office, maybe in the hospital, but then the child was sent home, and so there"
+  },
+  {
+   "start": 716.92,
+   "end": 724.42,
+   "text": "was always an aunt available, or you could get the nurse for very little money, and nobody"
+  },
+  {
+   "start": 724.42,
+   "end": 727.56,
+   "text": "thought of keeping the child overnight in the hospital."
+  },
+  {
+   "start": 727.56,
+   "end": 744.65,
+   "text": "And in 1929-30, the French resist, and for almost 50 years, the prevailing medical rule was that whatever age you are, you are better off in the hospital."
+  },
+  {
+   "start": 744.65,
+   "end": 751.24,
+   "text": "And around 1975, that changed. Not for economic reasons. They only speed it up."
+  },
+  {
+   "start": 751.24,
+   "end": 757.93,
+   "text": "And now the prevailing rule is that whatever age you are, you are better off outside the hospital."
+  },
+  {
+   "start": 757.93,
+   "end": 771.43,
+   "text": "and into the HMOs and home health service and what have you, and it began, this is the"
+  },
+  {
+   "start": 771.43,
+   "end": 783.18,
+   "text": "mental hospital, which we basically disbanded in this country, and began to decentralize,"
+  },
+  {
+   "start": 783.18,
+   "end": 795.25,
+   "text": "And we did the same thing in all areas, we centralized, whether in government or in education."
+  },
+  {
+   "start": 795.25,
+   "end": 805.18,
+   "text": "After World War II, we built a consolidated high school, largely because we knew that"
+  },
+  {
+   "start": 805.18,
+   "end": 816.0,
+   "text": "the one-room schoolhouse or two-room schoolhouse was a rather deprived educational environment."
+  },
+  {
+   "start": 816.0,
+   "end": 825.09,
+   "text": "but the real reason is that we sought to use management and in those days we were sure that"
+  },
+  {
+   "start": 825.09,
+   "end": 831.63,
+   "text": "we could only manage big enterprises and the bigger the better and the more manageable well"
+  },
+  {
+   "start": 831.63,
+   "end": 838.27,
+   "text": "it hasn't quite worked out that way and the education we made we have been the most centralizing"
+  },
+  {
+   "start": 838.27,
+   "end": 845.79,
+   "text": "of them all as which is the state this university or the university of michigan with their close to"
+  },
+  {
+   "start": 845.79,
+   "end": 855.66,
+   "text": "60 000 students and i there we have not just begun to decentralize but let me say it's not"
+  },
+  {
+   "start": 855.66,
+   "end": 863.87,
+   "text": "perhaps without meaning that in the last few years when the total number of young people"
+  },
+  {
+   "start": 863.87,
+   "end": 872.59,
+   "text": "reaching politics has been going down the prestige medium-sized liberal arts colleges"
+  },
+  {
+   "start": 872.59,
+   "end": 880.96,
+   "text": "have had the greatest increase in applications the oberlin and williams and so on their applications"
+  },
+  {
+   "start": 880.96,
+   "end": 888.43,
+   "text": "have risen at the rate of 18 percent compound now for seven years which is the fastest ways"
+  },
+  {
+   "start": 888.43,
+   "end": 896.24,
+   "text": "in applications ever reported in american education history and the large universities"
+  },
+  {
+   "start": 896.24,
+   "end": 902.9,
+   "text": "hold are holding their own and this is perhaps a sign that even in education"
+  },
+  {
+   "start": 902.9,
+   "end": 907.26,
+   "text": "the decentralizing trend running for itself."
+  },
+  {
+   "start": 907.26,
+   "end": 911.18,
+   "text": "And at the same time, we have a new centralizing one"
+  },
+  {
+   "start": 911.18,
+   "end": 913.8,
+   "text": "that is slow, that is still going slow."
+  },
+  {
+   "start": 918.12,
+   "end": 922.54,
+   "text": "And there are very few, it shows in education,"
+  },
+  {
+   "start": 922.54,
+   "end": 926.26,
+   "text": "it shows in finance, it shows almost anything."
+  },
+  {
+   "start": 926.26,
+   "end": 929.78,
+   "text": "There are no local businesses anymore,"
+  },
+  {
+   "start": 929.78,
+   "end": 933.34,
+   "text": "just as after the 19, after 1920s,"
+  },
+  {
+   "start": 933.34,
+   "end": 936.68,
+   "text": "There were no regional businesses in this country anymore."
+  },
+  {
+   "start": 937.16,
+   "end": 939.58,
+   "text": "Every business was in the national market."
+  },
+  {
+   "start": 940.08,
+   "end": 942.66,
+   "text": "So every business is in a global economy."
+  },
+  {
+   "start": 942.66,
+   "end": 948.16,
+   "text": "And the final trend you might look at is the holy demographics."
+  },
+  {
+   "start": 949.04,
+   "end": 950.08,
+   "text": "I would put it this way."
+  },
+  {
+   "start": 950.9,
+   "end": 961.58,
+   "text": "Here's the basic fundamental changes in the value system of different kinds of customers."
+  },
+  {
+   "start": 961.58,
+   "end": 982.88,
+   "text": "The only one that still has the value system which most marketers take for granted are blue-collar workers. And blue-collar workers are a rapidly disappearing share of the population. But even they don't have the value system."
+  },
+  {
+   "start": 982.88,
+   "end": 995.7,
+   "text": "Because when you look at this century, it is the greatest increase in all the capacity to generate wealth again with Frederick Taylor."
+  },
+  {
+   "start": 995.7,
+   "end": 1011.09,
+   "text": "And it's unbelievable that there are no precedents and in developed countries we can produce about 18 to 25 times the wealth structure we could produce 100 years ago."
+  },
+  {
+   "start": 1012.66,
+   "end": 1016.8,
+   "text": "And where has this tremendous increase gone?"
+  },
+  {
+   "start": 1016.8,
+   "end": 1023.29,
+   "text": "The largest legal share has come to media, not to material goods."
+  },
+  {
+   "start": 1024.73,
+   "end": 1031.01,
+   "text": "The low-collar worker of 1905 or 1906 worked 3,200 hours."
+  },
+  {
+   "start": 1031.99,
+   "end": 1039.83,
+   "text": "The unionized low-collar worker today works 1,750 hours a year, just a little more than half."
+  },
+  {
+   "start": 1041.28,
+   "end": 1047.96,
+   "text": "So that has taken half the increase in purchasing power in media."
+  },
+  {
+   "start": 1047.96,
+   "end": 1074.7,
+   "text": "Now that's not true of the likes of you. You work more than your predecessors did in 1905. Easy. In 1905, the typical lawyer worked five and a half short days, and night work was, I know, easy."
+  },
+  {
+   "start": 1074.7,
+   "end": 1084.7,
+   "text": "and the typical doctor spent really very few hours working."
+  },
+  {
+   "start": 1084.7,
+   "end": 1088.7,
+   "text": "Most hours he spent contemplating the rear end of the horse"
+  },
+  {
+   "start": 1088.7,
+   "end": 1091.7,
+   "text": "as he jogged from one farm to another."
+  },
+  {
+   "start": 1091.7,
+   "end": 1096.29,
+   "text": "The actual working time was three or four hours a day"
+  },
+  {
+   "start": 1096.29,
+   "end": 1100.29,
+   "text": "and all those wonderful stories of him sitting up to the dying tide."
+  },
+  {
+   "start": 1100.29,
+   "end": 1103.29,
+   "text": "Yes, but not every night."
+  },
+  {
+   "start": 1103.29,
+   "end": 1108.67,
+   "text": "He made sure that everybody knew it when he did it once a year."
+  },
+  {
+   "start": 1108.67,
+   "end": 1120.91,
+   "text": "And so knowledge workers worked longer hours, but not manual workers."
+  },
+  {
+   "start": 1120.91,
+   "end": 1131.4,
+   "text": "And the next year has gone to education, which around 1900 took no more than about 2% of"
+  },
+  {
+   "start": 1131.4,
+   "end": 1137.58,
+   "text": "a very much smaller GMP, as against the 10 or 11% it takes now."
+  },
+  {
+   "start": 1137.58,
+   "end": 1146.96,
+   "text": "And then comes health care, which took no share of the GMP in 1900, and now takes 11%."
+  },
+  {
+   "start": 1146.96,
+   "end": 1156.26,
+   "text": "And those three have taken probably 70% to 80% of that incredible increase in the capacity to generate wealth."
+  },
+  {
+   "start": 1157.28,
+   "end": 1166.08,
+   "text": "And while each of them needs good, none of them is seen as a good to the point, let me say,"
+  },
+  {
+   "start": 1166.08,
+   "end": 1173.44,
+   "text": "where it's very difficult to define what economics is with the old definition that it is the material"
+  },
+  {
+   "start": 1173.44,
+   "end": 1181.01,
+   "text": "satisfaction is no longer holy. These are not material satisfactions, these are non-spiritual"
+  },
+  {
+   "start": 1181.01,
+   "end": 1191.99,
+   "text": "satisfactions but not material. And that may be a very important factor in the change in the"
+  },
+  {
+   "start": 1191.99,
+   "end": 1204.37,
+   "text": "and then one that so I would also at the fact that we have a level of income in"
+  },
+  {
+   "start": 1204.37,
+   "end": 1214.8,
+   "text": "all developed countries in which income is no longer a relevant fact. Over 80% of the"
+  },
+  {
+   "start": 1214.8,
+   "end": 1224.2,
+   "text": "population, 10% are poor, 15% perhaps may be poor, and 5% may be so"
+  },
+  {
+   "start": 1224.2,
+   "end": 1230.98,
+   "text": "wealthy again that they don't fall into the rules. But 80% are not middle class, no."
+  },
+  {
+   "start": 1230.98,
+   "end": 1241.84,
+   "text": "But 80% are not basically determined by income, they are restrained by income."
+  },
+  {
+   "start": 1241.84,
+   "end": 1250.48,
+   "text": "And so that income classifications are beginning to be secondary, they are not"
+  },
+  {
+   "start": 1250.48,
+   "end": 1260.16,
+   "text": "your village and in 1920 early 20s modern marketing begins when quite"
+  },
+  {
+   "start": 1260.16,
+   "end": 1270.09,
+   "text": "independently into different places two people invented or discovered the"
+  },
+  {
+   "start": 1270.09,
+   "end": 1276.69,
+   "text": "socio-economic classification by income Alfred Sloan in this country as a"
+  },
+  {
+   "start": 1276.69,
+   "end": 1284.19,
+   "text": "a practicing manager in General Motors and a group of statisticians,"
+  },
+  {
+   "start": 1284.19,
+   "end": 1290.19,
+   "text": "pathologists in Vienna, who then emigrated in the late 20s to Columbia University,"
+  },
+  {
+   "start": 1290.19,
+   "end": 1301.03,
+   "text": "Paul C. W. Clausen, and so on, on the basis of certificate. When that was not over, but it's"
+  },
+  {
+   "start": 1301.03,
+   "end": 1308.32,
+   "text": "become a rich thing that's what gm doesn't understand by the way uh and i don't think"
+  },
+  {
+   "start": 1311.09,
+   "end": 1319.46,
+   "text": "and so that other things determine what people buy how you buy and where you buy"
+  },
+  {
+   "start": 1320.02,
+   "end": 1327.99,
+   "text": "age and lifestyle and what have you and so let's look at for a few minutes at various markets and"
+  },
+  {
+   "start": 1327.99,
+   "end": 1338.52,
+   "text": "that begin with the consumer market and you know what have been the successes and what has been the"
+  },
+  {
+   "start": 1338.52,
+   "end": 1352.68,
+   "text": "failure the failure is the failure is here and you may say you can explain it by the fact that"
+  },
+  {
+   "start": 1352.68,
+   "end": 1362.04,
+   "text": "for 50 years he has never had a problem and if for 50 years you are successful then believe me"
+  },
+  {
+   "start": 1362.04,
+   "end": 1366.09,
+   "text": "you can't even handle a splinter in the finger."
+  },
+  {
+   "start": 1367.35,
+   "end": 1369.23,
+   "text": "But that's not the whole answer,"
+  },
+  {
+   "start": 1369.33,
+   "end": 1372.29,
+   "text": "because these are very, these people are working very hard."
+  },
+  {
+   "start": 1373.67,
+   "end": 1375.17,
+   "text": "And then look at the success."
+  },
+  {
+   "start": 1376.68,
+   "end": 1379.54,
+   "text": "And you will soon begin to see,"
+  },
+  {
+   "start": 1380.18,
+   "end": 1384.16,
+   "text": "if you look at successes in the general merchandise business,"
+  },
+  {
+   "start": 1384.16,
+   "end": 1389.0,
+   "text": "on the one hand, something like,"
+  },
+  {
+   "start": 1389.36,
+   "end": 1392.18,
+   "text": "I don't know the eastern, I don't know North Storm,"
+  },
+  {
+   "start": 1392.32,
+   "end": 1393.76,
+   "text": "which is a West Coast thing,"
+  },
+  {
+   "start": 1393.76,
+   "end": 1405.32,
+   "text": "of a shopping center, nine-story, which is upper,"
+  },
+  {
+   "start": 1405.76,
+   "end": 1410.12,
+   "text": "which basically is not upper class, that's the whole point,"
+  },
+  {
+   "start": 1410.72,
+   "end": 1417.22,
+   "text": "which is high-priced, exquisite,"
+  },
+  {
+   "start": 1417.7,
+   "end": 1421.96,
+   "text": "and then you look at the profile of the customers,"
+  },
+  {
+   "start": 1423.53,
+   "end": 1428.43,
+   "text": "and it goes, well, it is totally classless."
+  },
+  {
+   "start": 1429.23,
+   "end": 1432.41,
+   "text": "Okay, they just said, well, you buy it, more so."
+  },
+  {
+   "start": 1433.78,
+   "end": 1436.52,
+   "text": "And on the other hand, well, some others, I think,"
+  },
+  {
+   "start": 1436.52,
+   "end": 1439.17,
+   "text": "are conspicuous by their absence."
+  },
+  {
+   "start": 1439.17,
+   "end": 1443.62,
+   "text": "But otherwise, that is, that the customers are not"
+  },
+  {
+   "start": 1443.62,
+   "end": 1448.78,
+   "text": "are not different."
+  },
+  {
+   "start": 1448.78,
+   "end": 1452.55,
+   "text": "They are not indifferentiated by age."
+  },
+  {
+   "start": 1452.55,
+   "end": 1455.6,
+   "text": "They range from blue-collar families"
+  },
+  {
+   "start": 1455.6,
+   "end": 1461.18,
+   "text": "to business people, executives."
+  },
+  {
+   "start": 1461.18,
+   "end": 1462.92,
+   "text": "There are people, in other words,"
+  },
+  {
+   "start": 1462.92,
+   "end": 1469.82,
+   "text": "willing to take quite a bit more to get the service."
+  },
+  {
+   "start": 1469.82,
+   "end": 1478.02,
+   "text": "And at the other extreme of the spectrum, you have the successes like the Limited or like what the Walmart,"
+  },
+  {
+   "start": 1478.02,
+   "end": 1498.54,
+   "text": "which are basically books that are enormous array of choice, no service whatsoever, Kmart, Pioneer, and in between it doesn't work."
+  },
+  {
+   "start": 1498.54,
+   "end": 1518.41,
+   "text": "And insofar as old establishments have been able to turn themselves around, if you look at R.H. Macy, Macy has created basically, which is similar to those two different kinds of stores."
+  },
+  {
+   "start": 1518.41,
+   "end": 1538.44,
+   "text": "And none of them is the old Macy's, the Macy's I knew when I first came to New York 50 odd years ago. One is basically an attempt to provide the service in finding some of the Macy's that live in the coast here."
+  },
+  {
+   "start": 1538.44,
+   "end": 1547.48,
+   "text": "And one, like the very successful San Francisco store, they came off and both were."
+  },
+  {
+   "start": 1548.06,
+   "end": 1552.5,
+   "text": "And the old Macy's is gone, and that's what saved Macy's."
+  },
+  {
+   "start": 1552.58,
+   "end": 1560.0,
+   "text": "Otherwise, Macy's would have saved the fate of Gimbel, which tried to maintain the old store."
+  },
+  {
+   "start": 1560.28,
+   "end": 1564.7,
+   "text": "And all of you know Bloomingdale, which basically sets an old stone pattern."
+  },
+  {
+   "start": 1564.7,
+   "end": 1568.7,
+   "text": "There are no terms of service between you and me."
+  },
+  {
+   "start": 1568.7,
+   "end": 1574.16,
+   "text": "Don't say my opinion hasn't really watched the service."
+  },
+  {
+   "start": 1574.16,
+   "end": 1580.16,
+   "text": "And so clearly there is the segmentation which has different values."
+  },
+  {
+   "start": 1580.16,
+   "end": 1582.16,
+   "text": "And now comes the shoppers."
+  },
+  {
+   "start": 1582.16,
+   "end": 1588.36,
+   "text": "When you look at who shops in those, they are exactly the same people."
+  },
+  {
+   "start": 1588.36,
+   "end": 1591.36,
+   "text": "You cannot tell the profile."
+  },
+  {
+   "start": 1591.36,
+   "end": 1598.69,
+   "text": "But also when you get predators, they both have the same people have an account in those."
+  },
+  {
+   "start": 1598.69,
+   "end": 1608.12,
+   "text": "In other words, you have the same people shopping, being able to have two value systems in the shop,"
+  },
+  {
+   "start": 1608.12,
+   "end": 1612.92,
+   "text": "and do the shop different goods we don't know in different places."
+  },
+  {
+   "start": 1612.92,
+   "end": 1617.84,
+   "text": "But clearly, you can either go one way or the other."
+  },
+  {
+   "start": 1617.84,
+   "end": 1622.64,
+   "text": "The middle way, you don't satisfy anyone anymore."
+  },
+  {
+   "start": 1622.64,
+   "end": 1626.04,
+   "text": "You don't give enough service so that people say,"
+  },
+  {
+   "start": 1626.04,
+   "end": 1631.42,
+   "text": "I go there because the service is good, and you don't offer enough variety and"
+  },
+  {
+   "start": 1631.42,
+   "end": 1637.36,
+   "text": "enough price. A bargain for the people there, I go there because it's the one place,"
+  },
+  {
+   "start": 1637.36,
+   "end": 1642.92,
+   "text": "you know, I'm not going to spend a lot of money for blue jeans for a nine-year-old"
+  },
+  {
+   "start": 1642.92,
+   "end": 1650.71,
+   "text": "boy before he has put them on, he has already outgrown them. And in between there is no"
+  },
+  {
+   "start": 1650.71,
+   "end": 1657.12,
+   "text": "market, and that was the market. And when you look at healthcare, let me see, you'll find"
+  },
+  {
+   "start": 1657.12,
+   "end": 1671.77,
+   "text": "very similar and when you look however consumer business you all know that in the last few years"
+  },
+  {
+   "start": 1672.33,
+   "end": 1680.03,
+   "text": "the large advertising agencies all over the world have been in a wise merge of frenzy and this is"
+  },
+  {
+   "start": 1680.03,
+   "end": 1687.47,
+   "text": "usually explained by saying that marketing has become global and you know to an old-timer like"
+  },
+  {
+   "start": 1687.47,
+   "end": 1696.54,
+   "text": "me that's a very suspect when you see that kind of activity the normal explanation that the market"
+  },
+  {
+   "start": 1696.54,
+   "end": 1702.46,
+   "text": "has become saturated and there are people who believe that the good lord ordained that you"
+  },
+  {
+   "start": 1702.46,
+   "end": 1710.14,
+   "text": "have to grow 20 percent a year believe the lord ordained nothing of the sort and then"
+  },
+  {
+   "start": 1710.14,
+   "end": 1719.58,
+   "text": "And they think they can overcome a mature market that no longer grows by"
+  },
+  {
+   "start": 1719.58,
+   "end": 1720.58,
+   "text": "."
+  },
+  {
+   "start": 1720.58,
+   "end": 1730.0,
+   "text": "The result, inevitably, is sharply decreased profitability and the shake-out, and I think"
+  },
+  {
+   "start": 1730.0,
+   "end": 1735.6,
+   "text": "that's what's going ahead in the advertising industry, because it's clear that the market"
+  },
+  {
+   "start": 1735.6,
+   "end": 1736.6,
+   "text": "is saturated."
+  },
+  {
+   "start": 1736.6,
+   "end": 1745.19,
+   "text": "There is only so much advertising you can put on television, and we have exceeded it."
+  },
+  {
+   "start": 1745.19,
+   "end": 1750.57,
+   "text": "And in all countries, the media are saturated with advertising."
+  },
+  {
+   "start": 1750.57,
+   "end": 1756.13,
+   "text": "And by the same time, advertising is beginning to have less and less results."
+  },
+  {
+   "start": 1756.13,
+   "end": 1763.27,
+   "text": "The margin of return on the advertising dollar is going down very sharply, simply because"
+  },
+  {
+   "start": 1763.27,
+   "end": 1767.21,
+   "text": "there is no distinction anymore."
+  },
+  {
+   "start": 1767.21,
+   "end": 1774.87,
+   "text": "And then the advertising agencies are under extreme pressure, and you see those mega-merchants."
+  },
+  {
+   "start": 1774.87,
+   "end": 1780.58,
+   "text": "But when you look at the global market, yes and no."
+  },
+  {
+   "start": 1780.58,
+   "end": 1785.24,
+   "text": "We already see that it isn't true that there is global marketing."
+  },
+  {
+   "start": 1785.24,
+   "end": 1798.93,
+   "text": "Yes, there is global marketing for some things, mostly for immediate consumer goods with high"
+  },
+  {
+   "start": 1798.93,
+   "end": 1799.93,
+   "text": "visibility."
+  },
+  {
+   "start": 1799.93,
+   "end": 1804.48,
+   "text": "whether they're two-state or stereo."
+  },
+  {
+   "start": 1805.58,
+   "end": 1807.92,
+   "text": "For everything else, markets are fragmented."
+  },
+  {
+   "start": 1808.84,
+   "end": 1811.52,
+   "text": "They are not becoming bigger and more global."
+  },
+  {
+   "start": 1812.1,
+   "end": 1815.92,
+   "text": "You have some global markets that are highly specialized."
+  },
+  {
+   "start": 1816.84,
+   "end": 1822.56,
+   "text": "Let's say for skiing, where you have the same kind of people"
+  },
+  {
+   "start": 1822.56,
+   "end": 1826.64,
+   "text": "buying the same skis or the same exercise equipment"
+  },
+  {
+   "start": 1826.64,
+   "end": 1829.2,
+   "text": "in all developed countries."
+  },
+  {
+   "start": 1829.2,
+   "end": 1835.31,
+   "text": "and the affluent people in developing countries."
+  },
+  {
+   "start": 1835.93,
+   "end": 1837.65,
+   "text": "And they are tiny markets,"
+  },
+  {
+   "start": 1839.38,
+   "end": 1843.04,
+   "text": "and yet they are worldwide and require worldwide marketing."
+  },
+  {
+   "start": 1843.04,
+   "end": 1847.58,
+   "text": "And at the same time, you have increasing fragmentation"
+  },
+  {
+   "start": 1847.58,
+   "end": 1850.66,
+   "text": "in the development of local states."
+  },
+  {
+   "start": 1851.06,
+   "end": 1854.46,
+   "text": "So the real sense in marketing are not global."
+  },
+  {
+   "start": 1855.06,
+   "end": 1861.0,
+   "text": "The things that have been global for a long time remain global."
+  },
+  {
+   "start": 1861.0,
+   "end": 1872.82,
+   "text": "The other things become either socially fragmented or locally fragmented, and so the global market"
+  },
+  {
+   "start": 1872.82,
+   "end": 1874.19,
+   "text": "knows."
+  },
+  {
+   "start": 1874.19,
+   "end": 1882.21,
+   "text": "The global information, yes, the global market, no."
+  },
+  {
+   "start": 1882.21,
+   "end": 1887.9,
+   "text": "And now you look at finance, where we all knew."
+  },
+  {
+   "start": 1887.9,
+   "end": 1892.82,
+   "text": "And when I say we, I include myself, I'm not saying I knew better than anybody else, none"
+  },
+  {
+   "start": 1892.82,
+   "end": 1893.82,
+   "text": "of us did."
+  },
+  {
+   "start": 1893.82,
+   "end": 1910.75,
+   "text": "that there would be the financial supermarkets and that all financial products would be bought or sold through the same distribution channels"
+  },
+  {
+   "start": 1910.75,
+   "end": 1921.43,
+   "text": "and you know it hasn't happened. In fact, what's something much more interesting?"
+  },
+  {
+   "start": 1921.43,
+   "end": 1933.9,
+   "text": "The distinction between different kinds of customers has become greater, not lesser."
+  },
+  {
+   "start": 1933.9,
+   "end": 1951.82,
+   "text": "What I'm saying is that we have the most active stock market ever, and it's an insurrection."
+  },
+  {
+   "start": 1953.54,
+   "end": 1967.0,
+   "text": "And the American individual investor has been a net seller of listed and unlisted securities the last 10 years."
+  },
+  {
+   "start": 1967.0,
+   "end": 1977.98,
+   "text": "He has been trading steadily in direct holding in companies against holdings in intermediaries."
+  },
+  {
+   "start": 1978.1,
+   "end": 1982.28,
+   "text": "the pension funds, which he doesn't control."
+  },
+  {
+   "start": 1982.28,
+   "end": 1983.74,
+   "text": "Also the mutual funds."
+  },
+  {
+   "start": 1983.74,
+   "end": 1986.18,
+   "text": "I don't know what proportion of mutual funds"
+  },
+  {
+   "start": 1986.18,
+   "end": 1990.64,
+   "text": "they represent, basically exchange rather than"
+  },
+  {
+   "start": 1990.64,
+   "end": 1992.04,
+   "text": "new investments."
+  },
+  {
+   "start": 1992.04,
+   "end": 1996.19,
+   "text": "Maybe Donald, but it's a substandard."
+  },
+  {
+   "start": 1996.19,
+   "end": 2000.65,
+   "text": "And yet, at the same time, the distinction between products"
+  },
+  {
+   "start": 2000.65,
+   "end": 2004.19,
+   "text": "has largely, well, I wouldn't say disappeared."
+  },
+  {
+   "start": 2004.19,
+   "end": 2005.65,
+   "text": "Here is that."
+  },
+  {
+   "start": 2005.65,
+   "end": 2014.84,
+   "text": "Well, I take my neighbor, who may be the richest man in the small town in which I live,"
+  },
+  {
+   "start": 2015.72,
+   "end": 2017.14,
+   "text": "who has five pharmacies."
+  },
+  {
+   "start": 2017.14,
+   "end": 2019.98,
+   "text": "And I said, why five?"
+  },
+  {
+   "start": 2020.48,
+   "end": 2025.83,
+   "text": "And he said, you know, if you don't have a big pharmacy chain,"
+  },
+  {
+   "start": 2026.61,
+   "end": 2032.16,
+   "text": "the owner has to be in the store at least one day a week."
+  },
+  {
+   "start": 2034.48,
+   "end": 2036.76,
+   "text": "And I like to play golf one day a week."
+  },
+  {
+   "start": 2038.01,
+   "end": 2042.07,
+   "text": "And so he has five pharmacies, a gold mine."
+  },
+  {
+   "start": 2042.57,
+   "end": 2043.91,
+   "text": "And he works very hard."
+  },
+  {
+   "start": 2043.91,
+   "end": 2054.96,
+   "text": "and he does a good job and you know the secret of a farmer any weekly business is to be friendly"
+  },
+  {
+   "start": 2054.96,
+   "end": 2060.56,
+   "text": "be nice to the customers he serves and he makes sure that they say people smile and that they"
+  },
+  {
+   "start": 2060.56,
+   "end": 2067.12,
+   "text": "know customers by name and said when you come in let's see what can we do for you and that's it"
+  },
+  {
+   "start": 2067.12,
+   "end": 2074.21,
+   "text": "otherwise he has exactly the same product every other drugstore in the country has you don't have"
+  },
+  {
+   "start": 2074.21,
+   "end": 2085.11,
+   "text": "have to go to him to buy Colgate or to have the prescription."
+  },
+  {
+   "start": 2085.11,
+   "end": 2089.75,
+   "text": "And I don't quite truly have an enormous income."
+  },
+  {
+   "start": 2089.75,
+   "end": 2095.39,
+   "text": "And you know, what does he buy?"
+  },
+  {
+   "start": 2095.39,
+   "end": 2100.36,
+   "text": "What he buys, he no longer distinguishes"
+  },
+  {
+   "start": 2100.36,
+   "end": 2103.54,
+   "text": "between what every financial textbook"
+  },
+  {
+   "start": 2103.54,
+   "end": 2107.04,
+   "text": "tells you are totally different products."
+  },
+  {
+   "start": 2107.04,
+   "end": 2112.13,
+   "text": "He buys real estate trusts and taxed as a partnership,"
+  },
+  {
+   "start": 2112.61,
+   "end": 2115.49,
+   "text": "maybe insofar as I can say I'm allowed to,"
+  },
+  {
+   "start": 2115.85,
+   "end": 2119.85,
+   "text": "and mutual funds and deferred annuities."
+  },
+  {
+   "start": 2119.85,
+   "end": 2124.24,
+   "text": "He's basically very conservative, defensive."
+  },
+  {
+   "start": 2124.8,
+   "end": 2128.86,
+   "text": "He's more conservative in what he's making"
+  },
+  {
+   "start": 2128.86,
+   "end": 2132.2,
+   "text": "than with making money by investing."
+  },
+  {
+   "start": 2132.9,
+   "end": 2138.93,
+   "text": "But the products to him are not differentiated."
+  },
+  {
+   "start": 2138.93,
+   "end": 2161.74,
+   "text": "We are simply alternate forms of investment, but he is quite true in where he buys."
+  },
+  {
+   "start": 2161.74,
+   "end": 2171.22,
+   "text": "You know, for 20 years we have said the commercial bank really is the best way to sell to the"
+  },
+  {
+   "start": 2171.22,
+   "end": 2175.22,
+   "text": "individual affluent person, these other customers anyhow."
+  },
+  {
+   "start": 2175.22,
+   "end": 2186.75,
+   "text": "Somehow, this is not how media, public see the commercial bank, the Swiss have done it"
+  },
+  {
+   "start": 2186.75,
+   "end": 2188.41,
+   "text": "better."
+  },
+  {
+   "start": 2188.41,
+   "end": 2196.49,
+   "text": "No, it's the traditional broker-dealer that has passed this business."
+  },
+  {
+   "start": 2196.49,
+   "end": 2202.86,
+   "text": "And so far, without a challenge."
+  },
+  {
+   "start": 2202.86,
+   "end": 2209.9,
+   "text": "And here we see a robot and here figures that now there's an enormous class of investors"
+  },
+  {
+   "start": 2209.9,
+   "end": 2217.8,
+   "text": "and investment is just as much a purchase for the family as automobile insurance or"
+  },
+  {
+   "start": 2217.8,
+   "end": 2224.4,
+   "text": "refrigerator and so thereby being bitter and I think most of anybody in the EU don't know"
+  },
+  {
+   "start": 2224.4,
+   "end": 2226.74,
+   "text": "it's not been a great success."
+  },
+  {
+   "start": 2226.74,
+   "end": 2233.14,
+   "text": "In fact, so far they have been able to do it, dismantle being bitter as far as I can"
+  },
+  {
+   "start": 2233.14,
+   "end": 2243.14,
+   "text": "because we do not really like to discuss our IRA next door to where our neighbor"
+  },
+  {
+   "start": 2243.14,
+   "end": 2251.2,
+   "text": "shop for her daughter's underwear. No, we don't really. It is not the right environment."
+  },
+  {
+   "start": 2251.2,
+   "end": 2257.71,
+   "text": "Also, we have a sneaking suspicion that those people who have been trained to be"
+  },
+  {
+   "start": 2257.71,
+   "end": 2266.72,
+   "text": "sales clerks in furniture are perhaps not ideally equipped to advise us on our"
+  },
+  {
+   "start": 2266.72,
+   "end": 2282.63,
+   "text": "investment. Some of them don't quite work. It has not worked. And if you look at the same time, you know, very few firms have been able to build both an"
+  },
+  {
+   "start": 2282.63,
+   "end": 2289.55,
+   "text": "institutional and a retail business. A very small number of New York-based"
+  },
+  {
+   "start": 2289.55,
+   "end": 2300.75,
+   "text": "firehouses, of whom we have one here, how many others? Three or four or so at most. Everybody has tried. And the most"
+  },
+  {
+   "start": 2300.75,
+   "end": 2309.21,
+   "text": "successful ones have been regionals who only go in the retail business. AG Becker in St. Louis,"
+  },
+  {
+   "start": 2309.85,
+   "end": 2316.6,
+   "text": "who don't touch the institution. And on the other hand, there are the institutional houses,"
+  },
+  {
+   "start": 2316.6,
+   "end": 2328.52,
+   "text": "ornaments, and so on. And in very few cases has anybody been successful in servicing both."
+  },
+  {
+   "start": 2328.52,
+   "end": 2339.2,
+   "text": "And the large banks have been very good in expanding in all areas of money,"
+  },
+  {
+   "start": 2340.05,
+   "end": 2346.69,
+   "text": "but they have been totally unsuccessful, by and large, in expanding in the capital market,"
+  },
+  {
+   "start": 2346.69,
+   "end": 2352.87,
+   "text": "pension funds, yes, but we don't look to them in this country."
+  },
+  {
+   "start": 2353.21,
+   "end": 2355.13,
+   "text": "Now, that's not the law of nature."
+  },
+  {
+   "start": 2355.35,
+   "end": 2356.15,
+   "text": "That's not Germany."
+  },
+  {
+   "start": 2356.15,
+   "end": 2364.41,
+   "text": "On the other hand, if you look at Germany, the German large banks, which were institutional"
+  },
+  {
+   "start": 2364.41,
+   "end": 2374.42,
+   "text": "primarily, have not been able to get the retail business, even though they are trying very"
+  },
+  {
+   "start": 2374.42,
+   "end": 2375.42,
+   "text": "hard."
+  },
+  {
+   "start": 2375.42,
+   "end": 2381.5,
+   "text": "The retail business is dominated in Germany by city bank affiliates."
+  },
+  {
+   "start": 2381.5,
+   "end": 2389.36,
+   "text": "They have 50 percent of the German, 48 percent of the German retail banking business."
+  },
+  {
+   "start": 2389.36,
+   "end": 2398.19,
+   "text": "Partly, maybe the German large banks were asleep at the switch, but not very long."
+  },
+  {
+   "start": 2398.19,
+   "end": 2406.13,
+   "text": "But fundamentally, the German family is not comfortable in those marble halls of the Deutsche"
+  },
+  {
+   "start": 2406.13,
+   "end": 2413.47,
+   "text": "Bank, and knows that they are not really welcome, no matter what the Deutsche Bank says."
+  },
+  {
+   "start": 2413.47,
+   "end": 2417.61,
+   "text": "And they aren't, believe me."
+  },
+  {
+   "start": 2417.61,
+   "end": 2423.49,
+   "text": "And these aren't their kinds of people."
+  },
+  {
+   "start": 2423.49,
+   "end": 2427.89,
+   "text": "And so we have no financial supermarket."
+  },
+  {
+   "start": 2427.89,
+   "end": 2436.65,
+   "text": "But the new segmentation is not by traditional product and not by traditional distributive"
+  },
+  {
+   "start": 2436.65,
+   "end": 2437.65,
+   "text": "channel."
+  },
+  {
+   "start": 2437.65,
+   "end": 2449.26,
+   "text": "It is by customer acceptance of the kind of institution that is fitting for this kind"
+  },
+  {
+   "start": 2449.26,
+   "end": 2451.14,
+   "text": "of business."
+  },
+  {
+   "start": 2451.14,
+   "end": 2458.85,
+   "text": "the large buyer house is fitting for this or the regional broker the and even though"
+  },
+  {
+   "start": 2459.89,
+   "end": 2465.41,
+   "text": "my hunches said none of the regional brokers there's more than four or five percent of its"
+  },
+  {
+   "start": 2465.41,
+   "end": 2472.29,
+   "text": "business enlisted stock exchange securities they are still stock exchange houses and that gives"
+  },
+  {
+   "start": 2472.29,
+   "end": 2484.1,
+   "text": "them a credibility when on the other hand in the institutional market by a"
+  },
+  {
+   "start": 2484.1,
+   "end": 2490.67,
+   "text": "large institutions deal with people who were institutional and so you have the"
+  },
+  {
+   "start": 2490.67,
+   "end": 2500.79,
+   "text": "segmentation by customers and no longer by product line and so what can one say"
+  },
+  {
+   "start": 2500.79,
+   "end": 2511.57,
+   "text": "one can say first this is a time not to go by what anybody tells you including"
+  },
+  {
+   "start": 2511.57,
+   "end": 2521.38,
+   "text": "me but to make sure you're out in the market you are sure and let me say this"
+  },
+  {
+   "start": 2521.38,
+   "end": 2528.92,
+   "text": "is a time when that oldest rule of the marketer becomes important we have been"
+  },
+  {
+   "start": 2528.92,
+   "end": 2534.88,
+   "text": "telling you for as long as we have been talking marketing which is now about 40"
+  },
+  {
+   "start": 2534.88,
+   "end": 2545.95,
+   "text": "odd years uh that the most important people to know are your non-customers the ones who should"
+  },
+  {
+   "start": 2545.95,
+   "end": 2553.15,
+   "text": "be betting they are far they are the really important people if only because you always"
+  },
+  {
+   "start": 2553.15,
+   "end": 2563.7,
+   "text": "outnumber your customers and this is a tank because you can't go anymore but people have"
+  },
+  {
+   "start": 2563.7,
+   "end": 2570.51,
+   "text": "been our customers and therefore they are our customers you have to go by"
+  },
+  {
+   "start": 2572.59,
+   "end": 2578.83,
+   "text": "the market is changing in ways which are not historical and then one better"
+  },
+  {
+   "start": 2580.11,
+   "end": 2591.02,
+   "text": "understand and know and see the geological forward lines before there is and the second thing to say"
+  },
+  {
+   "start": 2591.02,
+   "end": 2600.02,
+   "text": "is look for the fundamentals because this is a general change and not one"
+  },
+  {
+   "start": 2600.02,
+   "end": 2611.75,
+   "text": "that is financial and hospitals and underwear and what have your capital"
+  },
+  {
+   "start": 2611.75,
+   "end": 2619.01,
+   "text": "goods clearly the basic contours are changing they are changing in part"
+  },
+  {
+   "start": 2619.01,
+   "end": 2632.59,
+   "text": "because of information in part because fundamental changes because really the"
+  },
+  {
+   "start": 2632.59,
+   "end": 2640.26,
+   "text": "way to put it is that incomes are no longer a determinant of buying for the"
+  },
+  {
+   "start": 2640.26,
+   "end": 2648.19,
+   "text": "great bulk of people in the great bulk of the culture incidentally then this is"
+  },
+  {
+   "start": 2648.19,
+   "end": 2661.12,
+   "text": "true in housing when you the old formula for could predict in my time when i was an investment backer"
+  },
+  {
+   "start": 2662.64,
+   "end": 2670.75,
+   "text": "we had the largest english real estate concern is our main client and they could predict within"
+  },
+  {
+   "start": 2670.75,
+   "end": 2681.07,
+   "text": "a few pounds what kind of a house a family would buy simply because families bought to the point"
+  },
+  {
+   "start": 2681.07,
+   "end": 2694.34,
+   "text": "where the families bought houses so that the service cost between 26 and 32 percent of their"
+  },
+  {
+   "start": 2694.34,
+   "end": 2705.17,
+   "text": "income period that doesn't work anymore or you young people working here in the financial district"
+  },
+  {
+   "start": 2705.17,
+   "end": 2711.33,
+   "text": "wouldn't pay what you pay for new york apartments our people living in my part of the world wouldn't"
+  },
+  {
+   "start": 2711.33,
+   "end": 2720.29,
+   "text": "pay what you have to pay in Santa Monica for a house obviously this is not the"
+  },
+  {
+   "start": 2720.29,
+   "end": 2727.8,
+   "text": "way but not to be my children they look first at what do I need and what do I"
+  },
+  {
+   "start": 2727.8,
+   "end": 2737.56,
+   "text": "want and if we can't afford that made forces to make a compromise but we don't"
+  },
+  {
+   "start": 2737.56,
+   "end": 2743.78,
+   "text": "start-up housing has it not seen economically but this terms almost of"
+  },
+  {
+   "start": 2743.78,
+   "end": 2755.06,
+   "text": "personnel and so when economics are a restraint and not a motivation"
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 26.15,
+ "created_utc": "2026-09-29T02:27:40+00:00"
+}

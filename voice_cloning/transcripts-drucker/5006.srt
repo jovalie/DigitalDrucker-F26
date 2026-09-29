@@ -1,0 +1,1903 @@
+1
+00:00:02,550 --> 00:00:10,580
+be for any customer, certainly for a bank. You see, you might see the same with colleges.
+
+2
+00:00:10,580 --> 00:00:23,910
+We contract with a timesharing outfit for student records, script grades, admissions papers. You
+
+3
+00:00:23,910 --> 00:00:33,530
+know, we can easily afford to wait two weeks, even for our own internal payroll, because this
+
+4
+00:00:33,530 --> 00:00:45,670
+business here doesn't run on data. All right, we try to do registration at close to the opening of
+
+5
+00:00:45,670 --> 00:00:58,010
+classes as possible. Not everybody does, you know. The large universities won't try to have
+
+6
+00:00:58,010 --> 00:01:03,210
+registrations as far ahead as possible because they can't handle the problem of classroom
+
+7
+00:01:03,210 --> 00:01:12,330
+assignment. We have no problem. Most of our classes are small and at the last minute we can shift the
+
+8
+00:01:12,330 --> 00:01:25,750
+class that spills over the unit into another place. If your name is UCLA you can do that. UCLA is now
+
+9
+00:01:25,750 --> 00:01:35,670
+working on classroom assignments for next September. By now it's frozen itself, and it's jiggling and juggling.
+
+10
+00:01:35,670 --> 00:01:42,780
+I say you want advanced registration if you don't know by the 15th of June,
+
+11
+00:01:42,780 --> 00:01:50,370
+within plus or minus 5% what your classroom sizes are going to be,
+
+12
+00:01:50,370 --> 00:01:54,830
+the large and enormous undergraduate population.
+
+13
+00:01:54,830 --> 00:02:04,100
+You know, you have to have advanced notice that sociology is out and psychology is in,
+
+14
+00:02:04,100 --> 00:02:11,940
+and chemistry goes down and all the kids move into biology.
+
+15
+00:02:11,940 --> 00:02:18,370
+And these trends are very strong, but not easy to spot unless you have real registration.
+
+16
+00:02:18,370 --> 00:02:24,410
+You want early registration. You want late one.
+
+17
+00:02:24,410 --> 00:02:33,840
+But we could easily have it two weeks early.
+
+18
+00:02:33,840 --> 00:02:42,000
+And as far as we are concerned, being a second-class customer of a data processing outfit would not make any difference.
+
+19
+00:02:42,760 --> 00:02:45,700
+Well, by its convenience, it won't in a great way.
+
+20
+00:02:45,700 --> 00:02:57,770
+On the other hand, if Monty Day here put the outfit of her medical lab on a computer, computerized them,
+
+21
+00:02:58,510 --> 00:03:06,380
+and believed she could not afford to get service on an infant when available basis,
+
+22
+00:03:06,380 --> 00:03:18,580
+That surgeon up there is waiting for you. You don't run a pathology lab, but you have one.
+
+23
+00:03:18,580 --> 00:03:27,100
+And you know, he's standing with a knife in his hand, waiting for the feedback. Is that malign or benign?
+
+24
+00:03:27,100 --> 00:03:34,100
+If you tell him that, he's going to get it in three weeks when they get around to it. I'm going to make him happy.
+
+25
+00:03:34,100 --> 00:03:57,760
+But even in the medical lab, which Martin runs, you have to know that doctor expects to get these back so that he can make these diagnoses. So that depends on the customer.
+
+26
+00:03:57,760 --> 00:04:04,240
+And if your customer is a bank and you sell data process,
+
+27
+00:04:04,240 --> 00:04:06,960
+well, that's what is a bank.
+
+28
+00:04:06,960 --> 00:04:09,520
+Don't believe that a bank deals with money.
+
+29
+00:04:09,520 --> 00:04:12,180
+Bankers believe that.
+
+30
+00:04:12,180 --> 00:04:16,100
+A bank deals in information, in data.
+
+31
+00:04:16,100 --> 00:04:18,720
+They refer to money.
+
+32
+00:04:18,720 --> 00:04:20,540
+No bank has ever seen money.
+
+33
+00:04:20,540 --> 00:04:25,660
+These electronic blips,
+
+34
+00:04:25,660 --> 00:04:31,820
+and they deal with this data.
+
+35
+00:04:31,820 --> 00:04:36,420
+He moves data from here to there.
+
+36
+00:04:36,420 --> 00:04:38,880
+And that equals cash flow.
+
+37
+00:04:38,880 --> 00:04:40,560
+No cash flow.
+
+38
+00:04:40,560 --> 00:04:42,700
+Any of you ever seen cash flow, by the way?
+
+39
+00:04:44,280 --> 00:04:46,000
+Only the little moron has.
+
+40
+00:04:48,560 --> 00:04:50,170
+The little moron, don't you?
+
+41
+00:04:50,910 --> 00:04:54,500
+Why did you tiptoe past the bathroom cabinet
+
+42
+00:04:54,500 --> 00:04:56,860
+so as not to wake up to sleeping pills?
+
+43
+00:04:57,820 --> 00:04:59,660
+Well, there must be...
+
+44
+00:04:59,660 --> 00:05:00,320
+No, you don't.
+
+45
+00:05:00,400 --> 00:05:02,560
+You don't have nine-year-old grandson, right?
+
+46
+00:05:04,120 --> 00:05:09,210
+But I'm going to ask him tomorrow morning
+
+47
+00:05:09,210 --> 00:05:12,190
+what the little moron joked about the cash flow.
+
+48
+00:05:12,330 --> 00:05:12,950
+There must be.
+
+49
+00:05:14,570 --> 00:05:17,110
+But if the only one who has seen cash flow
+
+50
+00:05:17,110 --> 00:05:31,770
+The rest of us see data, and that's when the brink's truck overturns, then you see cash, not otherwise.
+
+51
+00:05:31,770 --> 00:05:50,370
+Whatever it is, you see, the capacity, the data processing capacity of the equipment is not the reason why the banks are in the data.
+
+52
+00:05:50,370 --> 00:06:14,440
+Do you know what's the specific problem of data processing which Marty's computer there at the City of Port Possible cannot handle and which your computer is doing so poorly? Do you know what it is?
+
+53
+00:06:14,440 --> 00:06:34,500
+well i think the bank is pure human error but what is your body what is the problem
+
+54
+00:06:34,500 --> 00:06:41,620
+what is it that banks are good at not alone there's one or two other institutions that are
+
+55
+00:06:41,620 --> 00:06:50,540
+good at it and the rest of us i know them good at all that this data processing works banks are
+
+56
+00:06:50,540 --> 00:07:04,380
+among the very few that have time and to handle data and documents data and this is what the
+
+57
+00:07:04,380 --> 00:07:13,380
+insurance companies are the only other ones. We say maybe the U.S. Customs Office has a similar problem.
+
+58
+00:07:13,380 --> 00:07:22,010
+A customs entity consists of information and documents, but if anybody has had any experience
+
+59
+00:07:22,010 --> 00:07:28,180
+with the Customs Office, they are not terribly good at it. The U.S. Immigration Service, let me say,
+
+60
+00:07:28,980 --> 00:07:38,220
+habitually uses, loses every other file. Everybody who has ever had to get a visa, let me say,
+
+61
+00:07:38,220 --> 00:07:47,000
+or a professor from abroad knows that he has to make that application three times the first time
+
+62
+00:07:47,000 --> 00:07:55,240
+they lose the file the second time it gets to the wrong office the third time you send somebody with
+
+63
+00:07:58,500 --> 00:08:06,200
+and then they only lose the message but to get the file back they don't know how to do it it's not
+
+64
+00:08:06,200 --> 00:08:15,780
+that they are bureaucratic and stupid. They don't know how to do it. Banks have done it for a long time.
+
+65
+00:08:15,780 --> 00:08:32,490
+What? No way. It's long before that. What was the origin of the first banking transaction to Western Europe?
+
+66
+00:08:32,490 --> 00:08:45,970
+Where you wouldn't need bankers. You just can handle them. They left a lot of credit so that you don't have to ship gold.
+
+67
+00:08:45,970 --> 00:08:50,310
+You really wanted to ship gold in the Europe of 1500.
+
+68
+00:08:50,310 --> 00:08:57,040
+Anybody would consider that a particularly safe thing to do.
+
+69
+00:08:57,040 --> 00:09:04,320
+Before the Dutch, or the Baltics, we don't know,
+
+70
+00:09:04,320 --> 00:09:07,900
+but it's probably the Dutch or British, northern.
+
+71
+00:09:07,900 --> 00:09:15,030
+And then the modern weather.
+
+72
+00:09:15,030 --> 00:09:21,720
+You lost about seven out of every ten boats
+
+73
+00:09:21,720 --> 00:09:24,340
+that plied the coast of Europe.
+
+74
+00:09:24,340 --> 00:09:35,190
+The European coasts are singularly treacherous, from the Baltic into the Mediterranean, past the Strait of Gibraltar and the Mediterranean.
+
+75
+00:09:35,190 --> 00:09:50,440
+These are all shallow and narrow seas, in which the wind changes without any warning, in which fogs are very frequent, and in which you have very rocky shores.
+
+76
+00:09:50,440 --> 00:10:01,670
+the fact that they were pirate investors. For that reason they offered abundant safe harbors for pirates.
+
+77
+00:10:01,670 --> 00:10:13,460
+They had one little rocky cove after the other from Flensburg in the north on the northeast side of
+
+78
+00:10:13,460 --> 00:10:24,680
+Denmark or from the Norwegian shores all the way to Alexandria and each one little pirate cove after the other
+
+79
+00:10:24,680 --> 00:10:33,900
+where an old vehicle pirate craft they don't have much rain you have always when you don't
+
+80
+00:10:35,540 --> 00:10:43,430
+30 40 miles 60 miles or when you can't grow forever but during that over that distance
+
+81
+00:10:43,430 --> 00:10:50,040
+they are independent of the wind and they are fast so they operated out of the little code
+
+82
+00:10:50,040 --> 00:10:57,370
+plus the fact that the weather was against you and you couldn't stand out to see because
+
+83
+00:10:57,370 --> 00:11:04,170
+but you had a compass and you already had a sail that you could sail into the wind with the damn
+
+84
+00:11:04,170 --> 00:11:11,510
+thing couldn't be steered proper and so with you well suddenly a sudden shift in the wind you got
+
+85
+00:11:11,510 --> 00:11:21,930
+broke and he over and turned out it's the dutch brother it's a stern post which is 16th century
+
+86
+00:11:21,930 --> 00:11:29,180
+or late 15th the first dutch ships are shown around 1520 and they broke the monopoly of the
+
+87
+00:11:29,180 --> 00:11:37,320
+Mediterranean, not Colombo. Colombo would have been totally unimportant if they hadn't been
+
+88
+00:11:37,320 --> 00:11:47,030
+able to sail these things, and in Columbus' time they couldn't yet. But it was a response to
+
+89
+00:11:47,030 --> 00:11:54,070
+the Portuguese and Spanish great savers, the development of the Dutch harbor. It was very
+
+90
+00:11:54,070 --> 00:12:02,380
+ungainly, high stern, slow but safe, and due also because they were big, formerly a big ship,
+
+91
+00:12:02,380 --> 00:12:11,020
+couldn't couldn't have one because sudden change of wind those good so you
+
+92
+00:12:11,020 --> 00:12:16,810
+didn't they could have a big one and could put five four guns on it then you
+
+93
+00:12:16,810 --> 00:12:23,770
+suddenly could choose those pirates out of the water and you said in the
+
+94
+00:12:23,770 --> 00:12:33,630
+attack you know the blood and why could you use man transport you know of the
+
+95
+00:12:33,630 --> 00:12:46,700
+most important invention of them all is made land transport but that's a
+
+96
+00:12:46,700 --> 00:12:51,040
+I'm a Californian, really, if I ever hear about it.
+
+97
+00:12:51,040 --> 00:13:01,590
+As a matter of fact, I'm surprised she didn't say the three of you.
+
+98
+00:13:01,590 --> 00:13:09,430
+You know, the springs of the carriage, the sprung carriage,
+
+99
+00:13:09,430 --> 00:13:14,060
+just imagine you couldn't ship anything over land,
+
+100
+00:13:14,060 --> 00:13:20,300
+except the crudest stuff, which then meant that
+
+101
+00:13:20,300 --> 00:13:29,670
+as long as you had the body of the corpse sitting directly on the wings.
+
+102
+00:13:29,670 --> 00:13:31,670
+You ever ridden in one of them?
+
+103
+00:13:31,670 --> 00:13:37,060
+Standing for exactly a hundred yards.
+
+104
+00:13:37,060 --> 00:13:41,060
+And then only if you're sitting on a load of manure.
+
+105
+00:13:41,060 --> 00:13:45,340
+Otherwise everything is broken.
+
+106
+00:13:45,340 --> 00:13:49,820
+And it's terribly slow as a wizard.
+
+107
+00:13:49,820 --> 00:13:54,670
+Therefore again you have, you know, either you have pirates
+
+108
+00:13:54,670 --> 00:14:02,650
+or you have to pay every blackmailer with an account who can have a castle and a bridge or a path.
+
+109
+00:14:02,650 --> 00:14:07,750
+You end up, my sisters will have, the pirates have taken.
+
+110
+00:14:07,750 --> 00:14:10,750
+And it was, the first thing wasn't sprung, it was suspended.
+
+111
+00:14:10,750 --> 00:14:17,500
+That's about the same time, early, well, middle of the 16th century.
+
+112
+00:14:17,500 --> 00:14:23,380
+That first picture we have of a suspended one is a famous woodcut.
+
+113
+00:14:23,380 --> 00:14:32,610
+cut but was done 30 years after the event martin luther was spirited away from the diet of wounds
+
+114
+00:14:32,610 --> 00:14:41,550
+in which he had defied the emperor by the elector of saxony saved in a coach hidden and we have a
+
+115
+00:14:41,550 --> 00:14:54,720
+woodcut of 1540 that was in 1519 beginning of the reformation and the woodcut is of 1552 and
+
+116
+00:14:54,720 --> 00:14:59,720
+and they chose a suspended carriage in which Luther was being transported.
+
+117
+00:14:59,720 --> 00:15:07,370
+But that was almost certainly not the carriage in which Luther was being transported.
+
+118
+00:15:07,370 --> 00:15:13,380
+And almost certainly he wasn't transported in the carriage,
+
+119
+00:15:13,380 --> 00:15:16,840
+despite his girth.
+
+120
+00:15:16,840 --> 00:15:23,990
+The man weighed 280 pounds if he weighed an ounce or an oomph.
+
+121
+00:15:23,990 --> 00:15:32,900
+Despite that, they hoisted him on a four-legged animal.
+
+122
+00:15:32,900 --> 00:15:38,970
+probably a horse or a mule, because he wouldn't have survived that character.
+
+123
+00:15:38,970 --> 00:15:48,970
+But by the 1550s he had become so used to suspended characters that even a historical event
+
+124
+00:15:48,970 --> 00:15:52,970
+he automatically assumed that's what he had, almost certain that he did.
+
+125
+00:15:52,970 --> 00:15:59,970
+They came up shortly thereafter and sprang in the early 17th century.
+
+126
+00:15:59,970 --> 00:16:04,490
+And all of a sudden, it didn't make any sense to build roads.
+
+127
+00:16:04,490 --> 00:16:08,210
+But the point of having roads, if you can't use the wheels,
+
+128
+00:16:08,210 --> 00:16:12,210
+wheelbases were strictly for short-distance looms,
+
+129
+00:16:12,210 --> 00:16:18,800
+and the springs are just a key invention
+
+130
+00:16:18,800 --> 00:16:22,260
+that really created modern transportation.
+
+131
+00:16:22,260 --> 00:16:26,730
+The key answer was far more important than the steam engine.
+
+132
+00:16:26,730 --> 00:16:28,730
+That came much later.
+
+133
+00:16:28,730 --> 00:16:34,540
+So, let me say, the banks invented the letter of credit
+
+134
+00:16:34,540 --> 00:16:39,870
+so that you didn't have to move cash,
+
+135
+00:16:39,870 --> 00:16:45,440
+apart from the fact that the Middle Ages were extremely
+
+136
+00:16:45,440 --> 00:16:49,100
+short of precious metals.
+
+137
+00:16:49,100 --> 00:16:55,080
+That was before the silver came in from America.
+
+138
+00:16:55,080 --> 00:17:00,420
+And yet, trade and commerce and industry had exploded.
+
+139
+00:17:00,420 --> 00:17:03,200
+And so there was an acute shortage.
+
+140
+00:17:03,200 --> 00:17:10,050
+And so they invented money of it and reinvented it
+
+141
+00:17:10,050 --> 00:17:16,300
+in every period in which precious metals are sold,
+
+142
+00:17:16,300 --> 00:17:20,060
+the merchants get around to it by inventing credit,
+
+143
+00:17:20,060 --> 00:17:22,870
+which is data.
+
+144
+00:17:22,870 --> 00:17:25,710
+And then you have the letter of credit
+
+145
+00:17:25,710 --> 00:17:29,750
+is the first banking document.
+
+146
+00:17:29,750 --> 00:17:33,720
+Pairs of the Champagne and Pairs of Lyon
+
+147
+00:17:33,720 --> 00:17:40,340
+and then Pairs of Nander, 1340, 1360,
+
+148
+00:17:40,340 --> 00:17:44,140
+the Medici make their money on being the people
+
+149
+00:17:44,140 --> 00:17:49,540
+who got the leadership in being able to handle these things
+
+150
+00:17:49,540 --> 00:17:53,140
+with branches and with an information system that
+
+151
+00:17:53,140 --> 00:18:02,840
+was real time, in that the main postman beat the merchant.
+
+152
+00:18:02,840 --> 00:18:07,460
+They were fighting so that they were there in Antwerp
+
+153
+00:18:07,460 --> 00:18:10,980
+with the counter copy of the letter of credit
+
+154
+00:18:10,980 --> 00:18:12,960
+two weeks before the merchant got there,
+
+155
+00:18:12,960 --> 00:18:15,640
+so that from the point of view of the merchant,
+
+156
+00:18:15,640 --> 00:18:19,280
+the information was there in real time.
+
+157
+00:18:19,280 --> 00:18:24,280
+We had the money when he got there, it was waiting for him, he had the credit open.
+
+158
+00:18:24,280 --> 00:18:29,620
+And the Medici partner or correspondent banker in Antwerp
+
+159
+00:18:29,620 --> 00:18:33,660
+could already make himself liquid.
+
+160
+00:18:33,660 --> 00:18:40,000
+And so banks risked on their ability not to handle money,
+
+161
+00:18:40,000 --> 00:18:43,000
+but to handle data and documents.
+
+162
+00:18:43,000 --> 00:18:48,010
+And that is why the banks are getting into data processing business.
+
+163
+00:18:48,010 --> 00:18:55,440
+They have a capacity, a skill, which you in manufacturing or you in the department store
+
+164
+00:18:55,440 --> 00:18:58,150
+don't have, or you in the hospital.
+
+165
+00:19:00,050 --> 00:19:01,770
+They understand the problem.
+
+166
+00:19:04,420 --> 00:19:09,940
+Now, you in manufacturing are used to handling things without logic, information alone.
+
+167
+00:19:11,570 --> 00:19:18,910
+When you get into the immigration service, where you have both, they lose the document.
+
+168
+00:19:20,450 --> 00:19:25,670
+Well, you can't, for me, immigration service being a government service, can't afford it,
+
+169
+00:19:25,670 --> 00:19:26,070
+you know.
+
+170
+00:19:26,070 --> 00:19:33,260
+I have no choice I need a visa for that professor of mine unfortunately there is
+
+171
+00:19:33,260 --> 00:19:38,840
+no competitor from whom I can get it or believe me I'd go there but I'm
+
+172
+00:19:38,840 --> 00:19:46,710
+shocked I'm tired every time I brought one in they'll ask the document twice
+
+173
+00:19:46,710 --> 00:19:52,080
+but once they'll ask them completely once you sent them to the embassy in
+
+174
+00:19:52,080 --> 00:20:00,900
+Nigeria you know let's say a time as I said it works with some delay so if I
+
+175
+00:20:00,900 --> 00:20:07,690
+could if I could get typical to handle that for me I'd be delighted and they
+
+176
+00:20:07,690 --> 00:20:15,430
+won't let me but that's the government monopoly in everything else their
+
+177
+00:20:15,430 --> 00:20:20,920
+competition is possible I would love to have some competition with many of those
+
+178
+00:20:20,920 --> 00:20:25,920
+government monopolies this thing could happen but they're the only one the
+
+179
+00:20:25,920 --> 00:20:35,050
+The post office supposedly can handle documents, but it cannot handle information.
+
+180
+00:20:35,050 --> 00:20:38,050
+That's why register letter is such a pain.
+
+181
+00:20:38,050 --> 00:20:40,770
+You have to have both.
+
+182
+00:20:40,770 --> 00:20:46,270
+And how many times, when you send a certified letter with return address requested to you,
+
+183
+00:20:46,270 --> 00:20:47,270
+you get it back.
+
+184
+00:20:47,270 --> 00:20:51,000
+One out of ten times.
+
+185
+00:20:51,000 --> 00:20:56,630
+Because it can't handle documents and information.
+
+186
+00:20:56,630 --> 00:21:05,090
+But let me say so, the banks have a natural advantage because that is their business.
+
+187
+00:21:05,090 --> 00:21:14,800
+And a few of them, a few of us in information handling saw that barrier and tried to convince the bank.
+
+188
+00:21:14,800 --> 00:21:18,390
+The banks were very reluctant because they didn't understand.
+
+189
+00:21:18,390 --> 00:21:21,620
+They thought they handled the money.
+
+190
+00:21:21,620 --> 00:21:25,050
+But that's 25 years ago.
+
+191
+00:21:25,050 --> 00:21:29,050
+15 years, 10 years later, the bank went on.
+
+192
+00:21:29,050 --> 00:21:33,480
+They realized that they handled data and not money.
+
+193
+00:21:33,480 --> 00:21:39,050
+The bank included a data processing business.
+
+194
+00:21:39,050 --> 00:21:46,510
+And the data do not, anybody know where the word data comes from?
+
+195
+00:21:47,130 --> 00:21:49,090
+When did it get into general use?
+
+196
+00:21:55,640 --> 00:21:58,380
+You see, the computer rests on two things.
+
+197
+00:21:59,230 --> 00:22:05,130
+And one is an intellectual breakthrough, which is the concept of data.
+
+198
+00:22:07,080 --> 00:22:08,540
+Numbers are very old.
+
+199
+00:22:09,600 --> 00:22:14,180
+The first man to use the word data is probably still alive.
+
+200
+00:22:15,930 --> 00:22:26,370
+If so, he is, well, no, he wouldn't be a handbook or close to it.
+
+201
+00:22:26,370 --> 00:22:38,130
+His name is or was Otto Neurath, N-E-U-R-A-T-H, an Austrian who emigrated to the United States around 1908
+
+202
+00:22:38,130 --> 00:22:46,160
+and was a statistician of the World Production Group and the Bernie Beruching World, but one is a very young man.
+
+203
+00:22:46,160 --> 00:22:55,320
+Then returned to Austria and the University of Vienna, and the whole concept of quantitating missiles is Otto Neurath.
+
+204
+00:22:55,320 --> 00:23:06,050
+None of, nobody ever before had this idea that numbers and their very abstraction are universal.
+
+205
+00:23:06,050 --> 00:23:15,980
+That in other words, you count trees exactly the same way you count any other, the concept of population,
+
+206
+00:23:15,980 --> 00:23:24,840
+of universe, the terms you all take for granted, are concepts of the last 60 years' statistical theory.
+
+207
+00:23:24,840 --> 00:23:31,840
+He had very largely come out of Western Europe, Viennese schools, even though he thought that he was over here.
+
+208
+00:23:31,840 --> 00:23:40,320
+But he went to Vienna because nobody in this country had any interest, nobody.
+
+209
+00:23:40,320 --> 00:23:44,320
+He couldn't see the Viennese.
+
+210
+00:23:44,320 --> 00:23:52,760
+He was an Austrian who had achieved significant success abroad, so they were willing to finance him,
+
+211
+00:23:52,760 --> 00:23:54,760
+even though they didn't understand him.
+
+212
+00:23:54,760 --> 00:24:01,830
+He had a hard time, and he also is the father of graphic representations.
+
+213
+00:24:01,830 --> 00:24:09,290
+You take for granted that one shows population with a little cut-out figure of a human being,
+
+214
+00:24:09,290 --> 00:24:12,290
+you know, six feet representing a million.
+
+215
+00:24:12,290 --> 00:24:14,290
+You know what I'm talking about?
+
+216
+00:24:14,290 --> 00:24:21,880
+He invented this when he had to brief President Wilson during World War I
+
+217
+00:24:21,880 --> 00:24:28,440
+or one and found that the good man couldn't understand figures, being a political scientist.
+
+218
+00:24:28,440 --> 00:24:38,830
+And that's the origin. He put the war production figures on that graphic form showing tanks,
+
+219
+00:24:38,830 --> 00:24:48,840
+you know, a silhouette and guns. There you could see this week, next week, projection in September,
+
+220
+00:24:48,840 --> 00:25:00,890
+where will we be? Last week red, this week green, next September yellow. And that was
+
+221
+00:25:00,890 --> 00:25:10,730
+a radical breakthrough. Nobody, nobody ever looked at such a poor except that they don't need that stuff.
+
+222
+00:25:10,730 --> 00:25:20,960
+They can look at figures, at tables, and at bar charts, the 18th century. Suddenly you had laymen
+
+223
+00:25:20,960 --> 00:25:28,920
+who had never handled things, and they had to see and visualize. So he invented. And, but
+
+224
+00:25:29,720 --> 00:25:39,690
+that, here's that idea of data, and it made no sense to anybody. In fact, the job he wanted was
+
+225
+00:25:39,690 --> 00:25:46,880
+editor of the Statistic Yearbook of the League of Nations, which was the first modern statistics
+
+226
+00:25:46,880 --> 00:25:52,640
+international yearbook, and he was turned down because the author's author sources,
+
+227
+00:25:52,640 --> 00:25:58,080
+the distinguished English civil servant economist who was the first director general of the League
+
+228
+00:25:58,080 --> 00:26:06,380
+of Nations, could not understand that nonsense about data. And so he picked himself a traditional
+
+229
+00:26:06,380 --> 00:26:16,720
+Frenchman published very conventional, dull, and unusable books, that's only 60 years old.
+
+230
+00:26:16,720 --> 00:26:23,040
+Without this, the computer, let me say, would not be in general view, because you need both
+
+231
+00:26:23,040 --> 00:26:34,220
+the technical capability, the rapid and massaging, manipulation of data, and the concept of data
+
+232
+00:26:34,220 --> 00:26:42,460
+under which what the data are about is irrelevant. You handle the data and then relate them to me.
+
+233
+00:26:43,360 --> 00:27:15,730
+That's very much. So in this, the nice compromise which the bank would give you, you have to make up your mind whether you optimize the business, and then you handle the data of whoever, then you are basically a public carrier.
+
+234
+00:27:15,730 --> 00:27:35,170
+carriers? Anybody? Do we have any lawyers or public carriers that doesn't think so?
+
+235
+00:27:35,170 --> 00:27:45,000
+Okay, go on. At the same rate? Well, not the same rate. It doesn't have to be at the
+
+236
+00:27:45,000 --> 00:27:52,800
+published rate. Now, a public carrier doesn't have to publish weight, that's the difference.
+
+237
+00:27:52,800 --> 00:28:01,120
+A common carrier is a league, and the bitter fight, one of the bitterest fights looming
+
+238
+00:28:01,120 --> 00:28:09,290
+whether an intrastate pipeline is a common or a public carrier you heard about it if it's a common
+
+239
+00:28:09,290 --> 00:28:14,140
+carrier then it has to have a preset tariff a public carrier doesn't have to have one but it's
+
+240
+00:28:14,140 --> 00:28:30,350
+got to take the gas from all commerce and it but it can negotiate a common carrier can uh and yes
+
+241
+00:28:30,350 --> 00:28:42,120
+but this is basically you're getting into the that category because the service that is essential to
+
+242
+00:28:42,120 --> 00:28:49,880
+the conduct of business and then if you have even if you don't have a natural monopoly even if you
+
+243
+00:28:49,880 --> 00:28:56,730
+have an advantage position in it you will be expected to be available to everybody this is
+
+244
+00:28:56,730 --> 00:29:04,890
+the hospital getting into that position every time you read indignation because they're so into
+
+245
+00:29:04,890 --> 00:29:10,250
+hospital turn the way this or that kind of a patient the public and effects that are in common
+
+246
+00:29:10,250 --> 00:29:20,680
+or public carrier no leading definition of that but the common feeling is because it's essential
+
+247
+00:29:20,680 --> 00:29:29,370
+the obliter processing is getting there the only the other alternative is to do it in-house
+
+248
+00:29:29,370 --> 00:29:39,020
+what are the pros what are the cons but the greatest argument for not doing it in-house
+
+249
+00:29:39,020 --> 00:29:48,240
+but setting it up separately whether you own it or lease it whether you call it a company
+
+250
+00:29:48,240 --> 00:30:18,890
+already envisioned but economics are the result of what you get paid for for bricks and mortar
+
+251
+00:30:18,890 --> 00:30:31,800
+see the real questions the ability to attack them it's a real economic argument
+
+252
+00:30:34,640 --> 00:30:40,720
+except the fact that by the time you reach my age everybody in this room will be able to fiddle
+
+253
+00:30:40,720 --> 00:30:47,470
+every figure anyway he or she wants or i have been going i will have lived in vain is one of
+
+254
+00:30:47,470 --> 00:30:52,670
+the things i'm trying to tell you you have to learn in case you haven't gone on and you will
+
+255
+00:30:52,670 --> 00:31:02,040
+here i'm a data processor in western bank corporation where do i go in korea term
+
+256
+00:31:02,040 --> 00:31:20,970
+end of the data processing uh my people no please mind you would be a bit surprised if i could take
+
+257
+00:31:20,970 --> 00:31:27,450
+a good young banker and teach him data processing it isn't that hard but the data processing people
+
+258
+00:31:27,450 --> 00:31:40,790
+make life miserable. And if I am the executive vice president of the bank and I look at the
+
+259
+00:31:40,790 --> 00:31:54,280
+data processing people, what do I see? Professionals or what? I'm going to rank. You see, that's
+
+260
+00:31:54,280 --> 00:32:02,750
+the greatest argument for not having your medical lab is in a hospital. It makes much
+
+261
+00:32:02,750 --> 00:32:12,150
+more sense to have a hospital and build it. Because you then can think you're highly trained
+
+262
+00:32:12,150 --> 00:32:22,510
+There's a president of the lab, or a director.
+
+263
+00:32:22,510 --> 00:32:31,840
+Believe me, everybody says I don't give a fig for titles.
+
+264
+00:32:31,840 --> 00:32:35,430
+Then why should we have titles?
+
+265
+00:32:35,430 --> 00:32:42,050
+If people would be very keenly interested in titles, they'd long ago have titles.
+
+266
+00:32:42,050 --> 00:32:50,270
+Don't ever, particularly banks, take a title in lieu of a raise.
+
+267
+00:32:50,270 --> 00:32:52,830
+That's a mistake in a bank.
+
+268
+00:32:52,830 --> 00:32:58,520
+One does it in the military, because the raise is automatic.
+
+269
+00:32:58,520 --> 00:33:03,890
+But don't ever say typos don't.
+
+270
+00:33:03,890 --> 00:33:14,930
+One looks at what's appreciated in the bank, the people who deal with the customer, the loan officer,
+
+271
+00:33:14,930 --> 00:33:19,600
+not the backroom boys who wait up.
+
+272
+00:33:19,600 --> 00:33:27,280
+In a hospital, it's patient care, the doctors and everything.
+
+273
+00:33:27,280 --> 00:33:35,460
+And even though your lab today is the structural, the skeleton, the hard skeleton of a hospital,
+
+274
+00:33:35,460 --> 00:33:37,460
+without which it would collapse in 10 minutes,
+
+275
+00:33:37,460 --> 00:33:47,100
+The patient here has the glamour, and then one says, what do we have to do to attract?
+
+276
+00:33:47,100 --> 00:33:54,470
+And then if you defend them, you better think through what you have to do to attract and hold the people you need.
+
+277
+00:33:54,470 --> 00:34:01,940
+And maybe you set it up separately so that they do not see themselves.
+
+278
+00:34:01,940 --> 00:34:07,940
+They see their own career ladder. They don't want to become bankers, but they want to become top managers.
+
+279
+00:34:07,940 --> 00:34:16,560
+okay bank america until number three except to go back to one remark that was made
+
+280
+00:34:17,120 --> 00:34:22,880
+where one of the people here said uh maybe those people in the bank are afraid that
+
+281
+00:34:23,520 --> 00:34:30,800
+that needs a process improvement of theirs will get too big what do you do if a business that is
+
+282
+00:34:30,800 --> 00:34:43,620
+and oh and similarly it starts as a support operation that and these are because you have
+
+283
+00:34:43,620 --> 00:34:54,720
+the minimum quantum problem as you might have here that the minimum you can really have to make to
+
+284
+00:34:54,720 --> 00:35:01,780
+give you the service you need is so much longer than what you use yourself if you have a lot of
+
+285
+00:35:01,780 --> 00:35:09,830
+excess capacity and so you might as well sell it and make money on it or because you'll figure
+
+286
+00:35:14,000 --> 00:35:28,740
+the way GM figures after here are these accessory people and how do we keep them honest if
+
+287
+00:35:29,460 --> 00:35:41,240
+we take all their supply we become their capital they are a cost plus basis and sure we can go out
+
+288
+00:35:41,240 --> 00:35:48,840
+and check what the market price is but believe me if you have 55 of the market then what you pay is
+
+289
+00:35:48,840 --> 00:35:57,240
+the market price and in other words ford went the other way for said we want to keep enough in-house
+
+290
+00:35:57,240 --> 00:36:07,720
+capacity to check our suppliers price but if you are gm you can't depend on outside supply
+
+291
+00:36:07,720 --> 00:36:15,380
+they're too big and then how do you make sure that you that you don't become the captive of your
+
+292
+00:36:15,380 --> 00:36:25,280
+captive suppliers but the only way you can is by having them have enough for the business outside
+
+293
+00:36:25,840 --> 00:36:38,240
+competitively so that the competitors or viewers or independents give you a market test both on
+
+294
+00:36:38,240 --> 00:36:49,890
+price and quality and service uh you might reach that conclusion and it may be the most
+
+295
+00:36:49,890 --> 00:36:56,610
+important reason when you deal with something that in its value system is so different
+
+296
+00:36:59,300 --> 00:37:07,480
+that you better set it up outside because you won't take the teeth. You see the problem, the reason why
+
+297
+00:37:07,480 --> 00:37:14,840
+we in the Claremont Colleges have saga in, not in the Faculty House, but in the Colleges, to do the
+
+298
+00:37:14,840 --> 00:37:21,890
+The feeling is not that we could do feeding, though God help us if we try.
+
+299
+00:37:21,890 --> 00:37:29,480
+You know, in a college environment, in a university environment,
+
+300
+00:37:29,480 --> 00:37:32,480
+the people who do the feeding are never going to do it.
+
+301
+00:37:32,480 --> 00:37:48,600
+Can you see the faculty council of the graduate school?
+
+302
+00:37:48,600 --> 00:37:55,680
+Kids anyway, all they can become in here.
+
+303
+00:37:55,680 --> 00:38:00,560
+We may pay them very well, not because we want to,
+
+304
+00:38:00,560 --> 00:38:09,440
+because we have no choice but we won't treat them right. We can't. We don't really respect one another.
+
+305
+00:38:09,440 --> 00:38:17,750
+All right, the kids have to be fed. Well, there has to be toilet paper in the toilet.
+
+306
+00:38:17,750 --> 00:38:24,790
+That's not really... You can easily imagine an educational process without these support
+
+307
+00:38:24,790 --> 00:38:34,360
+activities. And nobody who's looking after these is going to get the hearing.
+
+308
+00:38:35,990 --> 00:38:45,650
+You really think any of them is likely to be invited by faculty members for dinner?
+
+309
+00:38:47,910 --> 00:39:11,520
+So, there are no opportunities for adult ethnic monies, opportunities for recognition, and for self-development, and for growth, and for growing anything.
+
+310
+00:39:11,520 --> 00:39:17,160
+And then set it up as a separate activity.
+
+311
+00:39:17,160 --> 00:39:24,040
+The fellow runs the CMC Claremont Men's College feeding operation for Saga.
+
+312
+00:39:24,040 --> 00:39:35,760
+If he does a good job, he may find himself regional manager of the Saga College or institutional
+
+313
+00:39:35,760 --> 00:39:47,810
+feeding places for Southern California, San Gabriel, I don't know how Saga is organized.
+
+314
+00:39:47,810 --> 00:39:51,930
+There may be 50 places in this immediate vicinity.
+
+315
+00:39:51,930 --> 00:40:01,160
+He has got a place, got a promotion ladder on his own, a promotion ladder on which the
+
+316
+00:40:01,160 --> 00:40:09,060
+assistant professor of english is not on that ladder on the other hand the issue isn't going
+
+317
+00:40:09,060 --> 00:40:24,370
+to be on the academic ladder and he gets he has a problem there are people who listen to him and
+
+318
+00:40:24,370 --> 00:40:32,420
+know what he's talking about and can say jim look i'll forget that that there's anything oh jim look
+
+319
+00:40:32,420 --> 00:40:42,050
+you're just trying to rush an elephant under the rug to cut the very real man's the main big
+
+320
+00:40:42,050 --> 00:41:04,310
+problem they know and uh we understand that that's a very cool thing the more cold one that we in
+
+321
+00:41:04,310 --> 00:41:19,840
+this country use except which is the reason why uh we don't if you have a hotel chain well all
+
+322
+00:41:19,840 --> 00:41:26,000
+right you can get good commercial on this but let's imagine those sheraton hotels in new york
+
+323
+00:41:26,000 --> 00:41:30,910
+and maybe seven of them for all I know and care.
+
+324
+00:41:30,910 --> 00:41:34,940
+If they have to set up their own laundry,
+
+325
+00:41:34,940 --> 00:41:37,940
+then they might do well.
+
+326
+00:41:37,940 --> 00:41:42,820
+And they'll probably contract with an independent laundry,
+
+327
+00:41:42,820 --> 00:41:46,240
+or plenty of laundry.
+
+328
+00:41:46,240 --> 00:41:48,240
+And they might well be advised to set it up
+
+329
+00:41:48,240 --> 00:41:51,240
+in a business that sells on the outside market.
+
+330
+00:41:51,240 --> 00:41:54,240
+First a laundry manager, then has a P&L,
+
+331
+00:41:54,240 --> 00:41:57,210
+can talk about the results.
+
+332
+00:41:57,210 --> 00:42:00,030
+But he can also say to you,
+
+333
+00:42:00,030 --> 00:42:05,240
+look, most demands of you is like that.
+
+334
+00:42:05,240 --> 00:42:25,220
+I say 18 other hotels, not one of them, or you can say, look, children, you don't know what you are trying to economize on.
+
+335
+00:42:25,220 --> 00:42:36,770
+Just a very few ways of really judging a hotel.
+
+336
+00:42:36,770 --> 00:42:41,920
+Normal is very visible, and it makes more sense.
+
+337
+00:42:41,920 --> 00:42:45,920
+And all your competitors spend a little more money on normal.
+
+338
+00:42:45,920 --> 00:42:51,440
+And don't spend on bath towers.
+
+339
+00:42:51,440 --> 00:42:56,930
+And you are missing your best.
+
+340
+00:42:56,930 --> 00:43:22,740
+But you can also say, look, if you don't like it, take it elsewhere. See where they can get better service for less money elsewhere. I don't need, not very far from here in Santa Barbara, there is a research facility. How many of you know TEMPO? TEMPO is GE.
+
+341
+00:43:22,740 --> 00:44:16,910
+GE started it, give or take, 25 years ago, the think tank for the defense, because nobody in GE knew that fellow in the jet engine department in Cincinnati, when he knew Bishop, and that fellow in the small aircraft engine department in South Lynn, Massachusetts, when he knew Bishop,
+
+342
+00:44:16,910 --> 00:44:35,700
+And then that fellow went out and got himself a few outside contracts.
+
+343
+00:44:35,700 --> 00:44:41,700
+And suddenly, I wouldn't say overnight, but within a year, the position totally changed.
+
+344
+00:44:41,700 --> 00:44:47,700
+The first time that fellow would say to my friend up there in Massachusetts,
+
+345
+00:44:47,700 --> 00:44:53,260
+Look, Leopold, I don't think I can take that assignment of yours.
+
+346
+00:44:53,260 --> 00:45:02,250
+We are fully booked with work for Phillips.
+
+347
+00:45:02,250 --> 00:45:16,870
+different. That's what he actually said by 1957. Suddenly, Mikulov there, who had been complaining
+
+348
+00:45:16,870 --> 00:45:24,710
+all the time about those long years, so impractical, and would think 20 years when what we need is 20
+
+349
+00:45:24,710 --> 00:45:34,440
+days, took the shuttle down, the Eastern Airline shuttle down to New York and stormed into the
+
+350
+00:45:34,440 --> 00:45:44,270
+president's office and scream those bans without the Santa Barbara you have to
+
+351
+00:45:44,270 --> 00:45:51,290
+write me tell you the rest of history I think you can also and sudden simply be
+
+352
+00:45:51,290 --> 00:46:00,310
+cool that fellow has outside with permission and here was well known that
+
+353
+00:46:00,310 --> 00:46:09,800
+is that these Phillips had made up his mind to become a competitor
+
+354
+00:46:09,800 --> 00:46:16,300
+And certainly, therefore, they must be good. They must be worth listening.
+
+355
+00:46:16,300 --> 00:46:24,720
+So, on the other hand, on the inside, you can tell them what to do.
+
+356
+00:46:24,720 --> 00:46:38,580
+On the outside, you know, they'll say, look, you still want to organize that flow of
+
+357
+00:46:38,580 --> 00:46:46,480
+in your agency department, which is where fans lose a lot of money,
+
+358
+00:46:46,480 --> 00:46:50,480
+staff transfers, and so on, for other people. They have no idea how to price it.
+
+359
+00:46:50,480 --> 00:47:01,370
+The only sensible thing is to go out of agency. Nobody's ever made money out of it.
+
+360
+00:47:01,370 --> 00:47:08,720
+And everybody says, but it brings in other business. There is no spread of evidence that it does.
+
+361
+00:47:08,720 --> 00:47:19,240
+Leave us at home. We have other things to do. Nobody's going to pay us a penny for agency.
+
+362
+00:47:19,240 --> 00:47:26,430
+Nobody gives to who? If you lose customers, the more the better.
+
+363
+00:47:26,430 --> 00:47:32,200
+You know, if you're on the inside, you can't see that.
+
+364
+00:47:32,200 --> 00:47:37,200
+Here are our friends and colleagues and brethren in agency in trouble.
+
+365
+00:47:37,200 --> 00:47:40,200
+They've been in trouble since 1832,
+
+366
+00:47:40,200 --> 00:47:44,200
+whenever the First Bank went into the Indian idea.
+
+367
+00:47:44,200 --> 00:47:50,230
+They need it. They're losing money.
+
+368
+00:47:50,230 --> 00:47:55,710
+The more business they get, the more money do they lose.
+
+369
+00:47:55,710 --> 00:47:59,710
+The old story of the Eastside New York peddler saying,
+
+370
+00:47:59,710 --> 00:48:06,780
+Look at this tie. I pay 95 cents for it.
+
+371
+00:48:06,780 --> 00:48:12,780
+unless you have it for 65 cents, and somebody says, how can you possibly make money that way?
+
+372
+00:48:12,780 --> 00:48:16,780
+And he says, it's volume that runs it.
+
+373
+00:48:16,780 --> 00:48:19,780
+Nobody here says that. It's very old school.
+
+374
+00:48:19,780 --> 00:48:23,340
+I know many businesses that run that way.
+
+375
+00:48:23,340 --> 00:48:28,000
+Whereas, believe me, that federal does not run it that way.
+
+376
+00:48:28,000 --> 00:48:33,080
+He only talks that way. I know businesses that run it that way.
+
+377
+00:48:33,080 --> 00:48:38,080
+But, so, an agency in the big commercial banks does run that.
+
+378
+00:48:38,080 --> 00:48:49,030
+On your inside you can't say that, for reasons totally incomprehensible.
+
+379
+00:48:49,030 --> 00:48:57,720
+You keep on running agencies, as long as you want to keep on running.
+
+380
+00:48:57,720 --> 00:49:04,570
+But the first rule of data processing, as of most other endeavours, is
+
+381
+00:49:04,570 --> 00:49:08,570
+the wrong thing has to be done, don't do it efficiently.
+
+382
+00:49:08,570 --> 00:49:16,490
+The wrong thing has to be done, do it prudently.
+
+383
+00:49:16,490 --> 00:49:24,390
+You can't say that. You may argue, but you're overruled.
+
+384
+00:49:24,390 --> 00:49:32,470
+you are making money if you're willing to pay us that much rate to be going I
+
+385
+00:49:32,470 --> 00:49:38,940
+don't think you're going to pay it means with the outside you cannot say what we
+
+386
+00:49:38,940 --> 00:49:46,000
+have to optimize our business then said you have to say we have to optimize you
+
+387
+00:49:46,000 --> 00:49:57,680
+so these are the only alternative in between there is no okay we have another
+
+388
+00:49:57,680 --> 00:50:09,280
+an hour or not twice uh last tuesday several of you said we are not willing to give up yet on the
+
+389
+00:50:10,000 --> 00:50:19,460
+art museum remember i admire your persistence i'm not sure i admire your judgment
+
+390
+00:50:23,060 --> 00:50:38,480
+uh i was perfectly willing to do that uh remember we said that was that one defined
+
+391
+00:50:38,480 --> 00:50:48,820
+the problem. One digs in one's heels, no matter how flawed the dean is, over that wide old
+
+392
+00:50:48,820 --> 00:50:56,140
+billet of the graduate council who reports what his friend the great museum director says.
+
+393
+00:50:56,140 --> 00:51:03,650
+It looks awfully fraudulent. Then you look it up in a book and indeed that apocryphal text
+
+394
+00:51:03,650 --> 00:51:09,570
+on one of your concerts from time to time tells you first when determined what business you're in.
+
+395
+00:51:09,570 --> 00:51:24,350
+but will you please live that one does not in a diagnostic with the field of things first one makes
+
+396
+00:51:24,350 --> 00:51:39,730
+the diagnosis then one looks at it but when you come in to see your physician you want him to
+
+397
+00:51:39,730 --> 00:51:50,690
+listen to you and to look at you and to take your measurements and to sit and look at what
+
+398
+00:51:50,690 --> 00:51:55,860
+Then you may very well have to write the book.
+
+399
+00:51:55,860 --> 00:52:04,110
+Very often, let me see, the good ones do it, although the good ones never do it in the presence of the patient.
+
+400
+00:52:04,110 --> 00:52:10,310
+For good reason. That makes the patient very uneasy.
+
+401
+00:52:10,310 --> 00:52:16,310
+Patients believe, have to believe, that the doctor knows the answer.
+
+402
+00:52:16,310 --> 00:52:21,680
+Whereas every doctor can tell you that he doesn't even know the question.
+
+403
+00:52:21,680 --> 00:52:25,140
+But the patient doesn't want to hear that.
+
+404
+00:52:25,140 --> 00:52:29,120
+But the good doctor, after you are gone,
+
+405
+00:52:29,120 --> 00:52:34,380
+he wants to ask you, you know, call me in a week,
+
+406
+00:52:34,380 --> 00:52:39,490
+then very often goes and cracks something.
+
+407
+00:52:39,490 --> 00:52:49,540
+Maybe he only realizes that he's forgotten.
+
+408
+00:52:49,540 --> 00:52:55,420
+He's not putting his own perfect, you know,
+
+409
+00:52:55,420 --> 00:52:57,420
+he just hasn't had the scapegoat.
+
+410
+00:52:57,420 --> 00:53:00,600
+He's just forgotten.
+
+411
+00:53:00,600 --> 00:53:02,600
+Or he realizes that he's overlooked.
+
+412
+00:53:02,600 --> 00:53:06,940
+Or he has realized that he'll call in in a week
+
+413
+00:53:06,940 --> 00:53:08,940
+and say, I'm perfectly all right.
+
+414
+00:53:08,940 --> 00:53:15,790
+That's so much better. But if you come back, maybe he makes an additional test.
+
+415
+00:53:15,790 --> 00:53:22,560
+It is unlike a living. And then he cracks a book.
+
+416
+00:53:22,560 --> 00:53:25,560
+And it's not a good man who never cracks a book.
+
+417
+00:53:25,560 --> 00:53:32,650
+But it's a hopeless one who starts out with reading up instead of looking at their patients.
+
+418
+00:53:32,650 --> 00:53:36,430
+And management is a diagnostic system.
+
+419
+00:53:36,430 --> 00:53:41,430
+Every business is different, every institution is different, every situation is different.
+
+420
+00:53:41,430 --> 00:53:53,420
+And then one looks at these situations, and one then, and one thinks through these possible
+
+421
+00:53:53,420 --> 00:53:57,050
+definitions of the problem, and what are first things.
+
+422
+00:53:57,050 --> 00:54:04,060
+The second thing you learn is one thinks through a minimum of three alternatives.
+
+423
+00:54:04,060 --> 00:54:07,940
+Don't give up till you have three.
+
+424
+00:54:07,940 --> 00:54:12,900
+You don't need more of them.
+
+425
+00:54:12,900 --> 00:54:17,900
+If you have overlooked one, you know, and you have three, chances are in the process
+
+426
+00:54:17,900 --> 00:54:21,900
+of analyzing, of testing them, you're going to fall over the floor.
+
+427
+00:54:21,900 --> 00:54:28,630
+But if you don't have three, you are unlikely to reach a real understanding.
+
+428
+00:54:28,630 --> 00:54:38,060
+Not because of the nature of the universe, but because of the nature of the human mind.
+
+429
+00:54:38,060 --> 00:54:44,060
+We have no idea whether this corresponds to the way the universe is organized.
+
+430
+00:54:44,060 --> 00:54:47,060
+Because we can only perceive the way we can perceive.
+
+431
+00:54:47,060 --> 00:54:52,120
+And therefore we do not perceive the universe.
+
+432
+00:54:52,120 --> 00:54:55,120
+We perceive what our mind can perceive.
+
+433
+00:54:55,120 --> 00:55:07,680
+And just as any of you can hear sounds in the high-pitched, any dog can hear, no, any
+
+434
+00:55:07,680 --> 00:55:15,720
+dog can hear high-pitched noises, and practically none of us can hear them.
+
+435
+00:55:15,720 --> 00:55:18,720
+And that doesn't mean that those noises don't exist.
+
+436
+00:55:18,720 --> 00:55:20,720
+They are very real noises for the dog.
+
+437
+00:55:20,720 --> 00:55:23,630
+They are not noises for us.
+
+438
+00:55:23,630 --> 00:55:29,770
+And we can only perceive the ones in our band.
+
+439
+00:55:29,770 --> 00:55:33,270
+And on the other hand, we can see colors, you know, and dogs do not.
+
+440
+00:55:35,100 --> 00:55:37,240
+Dogs are colorblind, cats are not.
+
+441
+00:55:38,530 --> 00:55:43,590
+And the dog's world is black and white, maybe gray.
+
+442
+00:55:44,780 --> 00:55:47,940
+The dog is a very colorful world.
+
+443
+00:55:48,600 --> 00:55:53,530
+And dogs cannot perceive colors, and we can.
+
+444
+00:55:53,750 --> 00:55:58,410
+We can only perceive what we can perceive.
+
+445
+00:55:59,780 --> 00:56:04,710
+And the way we perceive, for reasons we do not understand,
+
+446
+00:56:04,710 --> 00:56:09,640
+but which always, in fact, itself is amply documented.
+
+447
+00:56:09,640 --> 00:56:18,920
+We do not really differentiate if we have fewer than three choices.
+
+448
+00:56:18,920 --> 00:56:25,320
+It is very hard for us to differentiate two because then we fall into black and white.
+
+449
+00:56:25,320 --> 00:56:32,430
+And then most of you, I think, I hope know, practically the entire spectrum is between black and white.
+
+450
+00:56:32,430 --> 00:56:40,530
+And if all you can differentiate is black and white, you're colorblind. You don't see reality.
+
+451
+00:56:40,530 --> 00:56:51,330
+And so you need black, white, and red, and then you can differentiate actually color the differences.
+
+452
+00:56:51,330 --> 00:56:57,480
+We may have to work with, of all animals, the finest quality.
+
+453
+00:56:57,480 --> 00:57:03,410
+Nobody can tell you that.
+
+454
+00:57:03,410 --> 00:57:14,920
+The human mind is so structured that it doesn't require us to be,
+
+455
+00:57:14,920 --> 00:57:16,920
+but it could be useful.
+
+456
+00:57:16,920 --> 00:57:18,920
+And it is so structured that we don't know.
+
+457
+00:57:18,920 --> 00:57:24,080
+For all we know, toads can differentiate 17 objects.
+
+458
+00:57:24,080 --> 00:57:27,280
+We don't know.
+
+459
+00:57:27,280 --> 00:57:29,280
+And no way we can find it out.
+
+460
+00:57:29,280 --> 00:57:36,260
+We are bumping up against the upper limit.
+
+461
+00:57:36,260 --> 00:57:40,520
+For most of us it is five, for very few.
+
+462
+00:57:40,520 --> 00:58:15,550
+And so if you go much about three, we begin to become one doesn't give in until one has three, getting alternative definitions. And once you have three that are adequate, one doesn't really, there's no compelling need to go on from there on, it's play rather than lead.
+
+463
+00:58:15,550 --> 00:58:24,660
+And then the next thing is one says, well, are these all serious hypotheses?
+
+464
+00:58:25,860 --> 00:58:31,740
+Do they all end with these definitions?
+
+465
+00:58:32,800 --> 00:58:47,550
+Hypothesis is a yes that embraces that which all the objects are.
+
+466
+00:58:49,420 --> 00:58:50,340
+But it's it.
+
+467
+00:58:51,760 --> 00:58:55,530
+And then one says, let's guess.
+
+468
+00:58:55,770 --> 00:59:03,680
+You see, if we had found that one of our definitions is not finished with the hypothesis,
+
+469
+00:59:03,680 --> 00:59:12,470
+It's more than probably the thing to go back and look for a definitive definition that we can be tested.
+
+470
+00:59:12,470 --> 00:59:23,300
+But we may not have found it.
+
+471
+00:59:23,300 --> 00:59:32,300
+What can we identify saying these people did objectively wrong?
+
+472
+00:59:32,300 --> 00:59:35,300
+Simply violating the rules.
+
+473
+00:59:35,300 --> 00:59:40,080
+People decisions we know the rules.
+
+474
+00:59:40,080 --> 00:59:42,700
+We know what not to do.
+
+475
+00:59:42,700 --> 00:59:44,700
+We don't know what to do.
+
+476
+00:59:44,700 --> 00:59:53,990
+If you know but not to pray, know not to start with a name, start with the assignment.

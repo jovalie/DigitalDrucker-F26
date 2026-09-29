@@ -1,0 +1,1408 @@
+{
+ "pointer": "5038",
+ "media": "5038.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2701.0,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "text": "Okay, now what do you want, sir?"
+  },
+  {
+   "start": 3.0,
+   "end": 7.0,
+   "text": "Let me repeat some administrative."
+  },
+  {
+   "start": 7.0,
+   "end": 11.0,
+   "text": "Anybody who wants a book autographed, I'd be happy to."
+  },
+  {
+   "start": 11.0,
+   "end": 16.93,
+   "text": "Number two, if I run beyond nine o'clock, will you tell me?"
+  },
+  {
+   "start": 16.93,
+   "end": 23.35,
+   "text": "You know I'm out. Some of you, old-timers, know that I don't ever watch the clock."
+  },
+  {
+   "start": 23.35,
+   "end": 26.35,
+   "text": "Several of you have asked me two questions."
+  },
+  {
+   "start": 26.35,
+   "end": 42.24,
+   "text": "If I can't come, can I send a colleague of mine? Secondly, if I think my boss might be able to learn something, can I bring him here as a guest?"
+  },
+  {
+   "start": 42.24,
+   "end": 48.58,
+   "text": "Both questions please, here he is on cue, being all right to answer."
+  },
+  {
+   "start": 48.58,
+   "end": 55.17,
+   "text": "Paul, you want to talk about substitutes and bosses and guests?"
+  },
+  {
+   "start": 55.17,
+   "end": 77.35,
+   "text": "Because I don't know the rules. All I know is that you'll find a way of taking your money."
+  },
+  {
+   "start": 77.35,
+   "end": 160.37,
+   "text": "Any other administrative matters before the House cases?"
+  },
+  {
+   "start": 160.37,
+   "end": 178.6,
+   "text": "We now are next Tuesday, so that we can then decide which case we begin and be ready to start discussing a case next Tuesday. So we won't decide on the next Tuesday which one."
+  },
+  {
+   "start": 178.6,
+   "end": 218.47,
+   "text": "I have one request. For those of you who want credit for this course, academic credit, I don't care when you turn in your paper. I have no deny. But let me suggest to you strongly that you try to do so before the next module starts."
+  },
+  {
+   "start": 218.47,
+   "end": 228.71,
+   "text": "are not because it makes life otherwise difficult for the real, really important person in this program,"
+  },
+  {
+   "start": 228.71,
+   "end": 233.61,
+   "text": "who is neither for Albrecht nor I, but for the administrative assistant."
+  },
+  {
+   "start": 234.23,
+   "end": 248.01,
+   "text": "But also because experience has proven that one doesn't do a good job if one delays a paper"
+  },
+  {
+   "start": 248.01,
+   "end": 252.51,
+   "text": "beyond the kind of unit to which it pertains."
+  },
+  {
+   "start": 252.51,
+   "end": 282.37,
+   "text": "And then this unit closes, I think, on the 20th or the 19th of November, I think it's the 19th, and here it is, Christmas, and you are in the next unit if you are in one, far removed from this, and this sits on your desk, and you're all with the people, and it becomes a chore, and a nuisance, and a millstone around the neck."
+  },
+  {
+   "start": 282.37,
+   "end": 314.39,
+   "text": "And so you sit down at 2 o'clock in the morning and kind of push her out, and it shows. So if you possibly can do it, you want to get credit before we adjourn, not for my sake, and really not for the sake of a grade, which in this program doesn't matter much, but for the sake of your satisfaction."
+  },
+  {
+   "start": 314.39,
+   "end": 350.48,
+   "text": "It isn't much fun to do full work. You know, we talked earlier today about the need to know how you and your business, and incidentally, same story for non-businesses, are really doing corrected for inflationary distortion in terms of sales and profits and capital accounts."
+  },
+  {
+   "start": 350.48,
+   "end": 362.58,
+   "text": "We talked about the need to manage for liquidity, and we talked about the need to know your productivity figures."
+  },
+  {
+   "start": 363.38,
+   "end": 374.5,
+   "text": "And incidentally, let me say, the productivity figures are of greater importance to the non-business and public service institutions,"
+  },
+  {
+   "start": 374.5,
+   "end": 399.24,
+   "text": "Where they are the only things you have. A profit figure, if you have one, is not a very meaningful one in a hospital or a university, and nobody knows what it means in a government agency. A productivity figure is very meaningful."
+  },
+  {
+   "start": 399.24,
+   "end": 431.46,
+   "text": "The crisis of the hospital is not a cost inflation. It's a productivity crisis. The hospital has become notoriously less productive, no matter how you define it. But if you look at what the hospital gets out of a burdened term, it makes sense to a hospital."
+  },
+  {
+   "start": 431.46,
+   "end": 438.02,
+   "text": "which is people who are discharged that, for the time being, cured, approved,"
+  },
+  {
+   "start": 438.02,
+   "end": 445.28,
+   "text": "who have not improved, you see,"
+  },
+  {
+   "start": 445.28,
+   "end": 449.88,
+   "text": "was the point is we didn't put a terminal cancer patient in the hospital."
+  },
+  {
+   "start": 449.88,
+   "end": 455.68,
+   "text": "We let him stay, we let him die at home in his bed, maybe, for better or worse."
+  },
+  {
+   "start": 455.68,
+   "end": 464.05,
+   "text": "Uh, yeah, but it's still a fact that the hospital is not more productive."
+  },
+  {
+   "start": 464.05,
+   "end": 468.05,
+   "text": "It's still a fact that, in any terms that make sense to the hospital,"
+  },
+  {
+   "start": 468.05,
+   "end": 474.51,
+   "text": "You don't get more results out there at the basic prices."
+  },
+  {
+   "start": 474.51,
+   "end": 477.23,
+   "text": "The rest are simple."
+  },
+  {
+   "start": 477.23,
+   "end": 483.64,
+   "text": "And maybe the same thing is true of the university or the school."
+  },
+  {
+   "start": 483.64,
+   "end": 491.04,
+   "text": "And so in public service institutions where we don't have, where we don't manage"
+  },
+  {
+   "start": 491.04,
+   "end": 501.7,
+   "text": "for economic results, productivity measurements which tell us to what extent we get"
+  },
+  {
+   "start": 501.7,
+   "end": 507.54,
+   "text": "The results that are, the right results for us should not be constrained."
+  },
+  {
+   "start": 507.54,
+   "end": 513.54,
+   "text": "Out of the resources entrusted to us may be more important and more meaningful,"
+  },
+  {
+   "start": 513.54,
+   "end": 520.3,
+   "text": "and in public service institutions they're even less used."
+  },
+  {
+   "start": 520.3,
+   "end": 525.3,
+   "text": "And so I would strongly urge your public service people in here,"
+  },
+  {
+   "start": 525.3,
+   "end": 537.3,
+   "text": "whether that's a library, welfare agency, or a hospital, or a school, or a water district,"
+  },
+  {
+   "start": 537.3,
+   "end": 551.51,
+   "text": "So try to think through what productivity measures are appropriate to us, and try to get some information, so that you have some managerial control."
+  },
+  {
+   "start": 551.51,
+   "end": 568.45,
+   "text": "If you let productivity slide, no matter whether the taxpayers are willing to vote that bond issue, no matter whether the liberal mystique declares you to be good,"
+  },
+  {
+   "start": 568.45,
+   "end": 574.05,
+   "text": "me see the trouble with the liberal mystique is that it's a fashion and like every fashion it"
+  },
+  {
+   "start": 574.05,
+   "end": 585.09,
+   "text": "shifts over 18 months and so one better not count on it for much longer no matter how much you can"
+  },
+  {
+   "start": 585.09,
+   "end": 592.85,
+   "text": "get out of the budget of the city or the county or the federal government if your productivity"
+  },
+  {
+   "start": 592.85,
+   "end": 601.09,
+   "text": "goes down in terms of the results that are meaningful to your institution you're going to win prices"
+  },
+  {
+   "start": 601.89,
+   "end": 612.53,
+   "text": "fairly fast five years or so so make sure don't say productivity that's a business measure it's"
+  },
+  {
+   "start": 612.53,
+   "end": 620.9,
+   "text": "a measure for the utilization of resources for results and the public service institutions"
+  },
+  {
+   "start": 620.9,
+   "end": 626.66,
+   "text": "it may be more important simply because you've got no other measures the other measures a"
+  },
+  {
+   "start": 626.66,
+   "end": 633.57,
+   "text": "business at least has some other measures they're not terribly good they're rubber"
+  },
+  {
+   "start": 636.91,
+   "end": 644.3,
+   "text": "but at least you have we have in the other institutions we don't and then these then"
+  },
+  {
+   "start": 644.3,
+   "end": 654.51,
+   "text": "become the only available ways of saying are we actually learning to do a better job"
+  },
+  {
+   "start": 654.51,
+   "end": 667.95,
+   "text": "or are we at least holding tonight or are we doing a less good job let me for the rest of our time"
+  },
+  {
+   "start": 667.95,
+   "end": 675.98,
+   "text": "and i want to have a little time for questions put in two more things i would look at today"
+  },
+  {
+   "start": 677.6,
+   "end": 683.6,
+   "text": "and if those of you who are from here before say while he is prefer again"
+  },
+  {
+   "start": 684.56,
+   "end": 694.82,
+   "text": "riding his hobby horses i'll have no objection yes i do this is the time to make sure that your"
+  },
+  {
+   "start": 694.82,
+   "end": 709.62,
+   "text": "efforts are concentrated uh you know some of us good can you hear me now thanks thanks some of"
+  },
+  {
+   "start": 709.62,
+   "end": 714.58,
+   "text": "us are old enough to remember world war ii but for goodness sake don't mention world war ii"
+  },
+  {
+   "start": 714.58,
+   "end": 721.0,
+   "text": "and the graduate these days, let me say, you'll get the answer, something back, like,"
+  },
+  {
+   "start": 721.0,
+   "end": 731.72,
+   "text": "isn't this when they destroyed the Persian fleet? And the undergraduate is right."
+  },
+  {
+   "start": 731.72,
+   "end": 747.27,
+   "text": "But in World War II, I was a privileged servant boy. I was commanded to sit in"
+  },
+  {
+   "start": 747.27,
+   "end": 755.46,
+   "text": "several times at, in General MacArthur's strategic conferences, there was the lowliest of lowly"
+  },
+  {
+   "start": 755.46,
+   "end": 760.9,
+   "text": "spear carriers and a civilian to boot. And you have no idea how low that was."
+  },
+  {
+   "start": 762.18,
+   "end": 773.54,
+   "text": "But still, and I did not like the old man between you and me. You know, he was one of those you either"
+  },
+  {
+   "start": 773.54,
+   "end": 782.92,
+   "text": "where his body and so or you couldn't stand him and it was the other way around he either"
+  },
+  {
+   "start": 782.92,
+   "end": 791.86,
+   "text": "protected you the mother the way a mother be a protector or you were beyond damnation"
+  },
+  {
+   "start": 793.22,
+   "end": 800.02,
+   "text": "that was the latter category and but still i sat in there it was a very impressive performance"
+  },
+  {
+   "start": 800.02,
+   "end": 813.22,
+   "text": "The old man didn't open his mouth. To the very end, he listened. These were the discussions about which of these islands do we land on."
+  },
+  {
+   "start": 813.22,
+   "end": 824.22,
+   "text": "He listened to his staff people about intelligence reporting so many Japanese there and the geographers reporting this has a beach."
+  },
+  {
+   "start": 824.22,
+   "end": 831.22,
+   "text": "And usually it turned out the geographers didn't know what they were talking about because they were using old Japanese charts."
+  },
+  {
+   "start": 831.22,
+   "end": 839.32,
+   "text": "and the Japanese believe in economy and something useless, you don't send the"
+  },
+  {
+   "start": 839.32,
+   "end": 846.22,
+   "text": "geographer there, you just throw the chart the way you think it might be. Not"
+  },
+  {
+   "start": 846.22,
+   "end": 853.76,
+   "text": "one of those charts turned out to be right. And meteorologists talking about weather"
+  },
+  {
+   "start": 853.76,
+   "end": 861.1,
+   "text": "and logistics people about bringing in equipment and the Navy about how many"
+  },
+  {
+   "start": 861.1,
+   "end": 867.28,
+   "text": "landing craft it could put ashore and what umbrella it could put up against"
+  },
+  {
+   "start": 867.28,
+   "end": 872.38,
+   "text": "the air attacks. Very complicated. And the old gentleman listened and listened and"
+  },
+  {
+   "start": 872.38,
+   "end": 880.06,
+   "text": "listened. Occasionally asked a question. But then the staff settled on Rabaul,"
+  },
+  {
+   "start": 880.06,
+   "end": 885.95,
+   "text": "Taraba, what have you. And then the old man would come in with the final"
+  },
+  {
+   "start": 885.95,
+   "end": 895.46,
+   "text": "question, which always was, all right boys, we have a beach up there, but do we have a"
+  },
+  {
+   "start": 895.46,
+   "end": 904.41,
+   "text": "beach? And nine times out of ten it turned out there was no beach, just a beach. And"
+  },
+  {
+   "start": 904.41,
+   "end": 913.26,
+   "text": "the few times he forgot to ask that question, or the few times he was assured there was a"
+  },
+  {
+   "start": 913.26,
+   "end": 919.08,
+   "text": "beach and he didn't work himself till out there was one. That's when we took those horrible"
+  },
+  {
+   "start": 919.08,
+   "end": 929.9,
+   "text": "casual palau uh only a beaches but what do you do can't move any place there ain't no beach"
+  },
+  {
+   "start": 929.9,
+   "end": 936.88,
+   "text": "only mountains around and then you sit there and you don't have to have very good japanese artillery"
+  },
+  {
+   "start": 936.88,
+   "end": 942.96,
+   "text": "you know big heavy casual people do that but that's not terribly difficult to shoot fish in"
+  },
+  {
+   "start": 942.96,
+   "end": 951.6,
+   "text": "the barrel uh and i've never forgotten this look at your businesses with that quick in the last"
+  },
+  {
+   "start": 951.6,
+   "end": 959.12,
+   "text": "10 years practically every business i know has expanded in and not only businesses their worst"
+  },
+  {
+   "start": 959.12,
+   "end": 967.55,
+   "text": "offenders are universities much worse offended into a hell of a lot of people and there ain't"
+  },
+  {
+   "start": 967.55,
+   "end": 981.79,
+   "text": "no beach there no matter how good the job you do you can't get there and this is the time to"
+  },
+  {
+   "start": 981.79,
+   "end": 992.94,
+   "text": "concentrate where your efforts will get the worst offenders by the way in business have not been"
+  },
+  {
+   "start": 992.94,
+   "end": 1000.41,
+   "text": "the conglomerates but the commercial banks we have gotten into and you know a number of features"
+  },
+  {
+   "start": 1000.41,
+   "end": 1011.95,
+   "text": "where they're just not the game no matter how good and successful constant this is the time to look"
+  },
+  {
+   "start": 1011.95,
+   "end": 1021.15,
+   "text": "at your business see where are the areas where if we do a really good job and good jobs are not"
+  },
+  {
+   "start": 1021.15,
+   "end": 1048.27,
+   "text": "Right now, I think one of us have lived. We can really get results. This Thursday, my friend and colleague, Proctor Thompson, is going to start a unit on cost-effectiveness analysis. And I'm really anticipating some of the things he's going to talk about."
+  },
+  {
+   "start": 1048.27,
+   "end": 1054.18,
+   "text": "and listen to Proctor, those of you who are coming here, and to his guests."
+  },
+  {
+   "start": 1054.18,
+   "end": 1057.18,
+   "text": "Because this is the way to look at things, you see."
+  },
+  {
+   "start": 1057.18,
+   "end": 1060.18,
+   "text": "Not how great is the risk."
+  },
+  {
+   "start": 1060.18,
+   "end": 1068.88,
+   "text": "The worst mistakes one makes because one moves into things that have small risks,"
+  },
+  {
+   "start": 1068.88,
+   "end": 1071.82,
+   "text": "but even smaller opportunities."
+  },
+  {
+   "start": 1071.82,
+   "end": 1080.21,
+   "text": "Under minimized risk, one maximizes opportunity."
+  },
+  {
+   "start": 1080.21,
+   "end": 1089.12,
+   "text": "things that sticks are made, because one moves into something it looks awfully good. But it turns out"
+  },
+  {
+   "start": 1089.12,
+   "end": 1097.28,
+   "text": "that it's no matter how hard you try and how successful you are, there isn't much to do."
+  },
+  {
+   "start": 1100.69,
+   "end": 1115.2,
+   "text": "Or because one does make the amphibian landing at great cost, and finally one has secured the"
+  },
+  {
+   "start": 1115.2,
+   "end": 1127.45,
+   "text": "the beach. But the cost of expanding the beach is political. Now you're up against Westinghouse"
+  },
+  {
+   "start": 1127.45,
+   "end": 1137.5,
+   "text": "and GE and IBM and Xerox, and the only way you can expand is to take it away from them."
+  },
+  {
+   "start": 1137.5,
+   "end": 1147.28,
+   "text": "And then one always says, but we have the quality, and everybody in this room has said"
+  },
+  {
+   "start": 1147.28,
+   "end": 1152.28,
+   "text": "it, except that from the customer's point of view, the product is indistinguishable."
+  },
+  {
+   "start": 1152.28,
+   "end": 1157.87,
+   "text": "You have quality the way the engineer defines quality. You know the ingenious definition"
+  },
+  {
+   "start": 1157.87,
+   "end": 1167.87,
+   "text": "What? No, something that costs a great deal. That's number one. And it is very difficult to do."
+  },
+  {
+   "start": 1167.87,
+   "end": 1173.87,
+   "text": "That, ladies and gentlemen, is incompetent in politics. It's incompetent."
+  },
+  {
+   "start": 1173.87,
+   "end": 1183.87,
+   "text": "And so, one says, what does it make? Is it really a differentiation for the user?"
+  },
+  {
+   "start": 1183.87,
+   "end": 1194.37,
+   "text": "and mean for differentiation. Ah, what you call quantity may not be one at all. You"
+  },
+  {
+   "start": 1194.37,
+   "end": 1199.57,
+   "text": "have a toaster and instead of popping up in front, the pieces of toast come up on"
+  },
+  {
+   "start": 1199.57,
+   "end": 1206.01,
+   "text": "the side. That's a terrific technological breakthrough and you have to invent the"
+  },
+  {
+   "start": 1206.01,
+   "end": 1215.37,
+   "text": "law of gravity to do it. You really think your wives notice it? It is a meaningful"
+  },
+  {
+   "start": 1215.37,
+   "end": 1227.48,
+   "text": "differentiation to the one who's the only one who knows what quality is, is the user. We"
+  },
+  {
+   "start": 1227.48,
+   "end": 1235.9,
+   "text": "know only what cost is. So one looks and concentrates. This is the time to"
+  },
+  {
+   "start": 1235.9,
+   "end": 1244.43,
+   "text": "liquidate, withdraw, spin off, sell off, what have you. I'm always in favor of making money out of"
+  },
+  {
+   "start": 1244.43,
+   "end": 1252.68,
+   "text": "my mistakes but it doesn't always work. You see that the only ones who have the license to do"
+  },
+  {
+   "start": 1252.68,
+   "end": 1263.4,
+   "text": "that as you know are internists and even surgeons have a committee with watches and but the rest of"
+  },
+  {
+   "start": 1263.4,
+   "end": 1268.6,
+   "text": "us can't always make money out of our homes, you see, because they're like that. So if I find a"
+  },
+  {
+   "start": 1268.6,
+   "end": 1274.76,
+   "text": "beachhead where now I know I should never have landed there, I try to find somebody else willing"
+  },
+  {
+   "start": 1274.76,
+   "end": 1285.13,
+   "text": "to pay for it. But in any event, contain it. Make sure you don't pour more resources. And above all,"
+  },
+  {
+   "start": 1285.13,
+   "end": 1294.38,
+   "text": "resources aren't money. The critical resources in a time of turbulence are good. There are few"
+  },
+  {
+   "start": 1294.38,
+   "end": 1321.7,
+   "text": "You really perform, and you will find that your good people are on those beaches because you are tough, you are difficult, you are open on all sides, and everybody can shoot with you, and everybody does, and so you put your best man in it, and as a result he's tied down there by constant enemy fire, and he can't have any good."
+  },
+  {
+   "start": 1321.7,
+   "end": 1327.4,
+   "text": "So make sure you pull him out and put him where results are."
+  },
+  {
+   "start": 1327.7,
+   "end": 1334.87,
+   "text": "This is the time above all others to concentrate and to look at one's business and say,"
+  },
+  {
+   "start": 1335.51,
+   "end": 1343.82,
+   "text": "now all right, we have tried a few things that worked, we have tried a few things that didn't work."
+  },
+  {
+   "start": 1343.92,
+   "end": 1345.34,
+   "text": "Mind you, these are the harmless things."
+  },
+  {
+   "start": 1345.72,
+   "end": 1347.34,
+   "text": "Failure, liquidation, service."
+  },
+  {
+   "start": 1348.71,
+   "end": 1351.43,
+   "text": "Where are the things that almost work?"
+  },
+  {
+   "start": 1351.97,
+   "end": 1353.17,
+   "text": "These are the dangerous things."
+  },
+  {
+   "start": 1353.17,
+   "end": 1358.76,
+   "text": "If you can't land at all, if you're driven off by the shore batteries at heavy costs,"
+  },
+  {
+   "start": 1358.76,
+   "end": 1366.15,
+   "text": "all right, you have lost a couple of ships, and it's more men than you like to think about,"
+  },
+  {
+   "start": 1366.15,
+   "end": 1370.64,
+   "text": "but at least you know it's been a failure."
+  },
+  {
+   "start": 1370.64,
+   "end": 1376.38,
+   "text": "It's a Tarawa and Palau operation, the two most costly ones in the world,"
+  },
+  {
+   "start": 1376.38,
+   "end": 1382.32,
+   "text": "where we had no business."
+  },
+  {
+   "start": 1382.32,
+   "end": 1390.79,
+   "text": "Because, oh, you could get rid of it. There wasn't anything else to be had."
+  },
+  {
+   "start": 1390.79,
+   "end": 1401.86,
+   "text": "And so we're successes in the sense that after unspeakable bloodletting, we have the teachers, and then, after all, we have..."
+  },
+  {
+   "start": 1401.86,
+   "end": 1410.54,
+   "text": "Where are the things where you have success and say, now you are a factor in this activity?"
+  },
+  {
+   "start": 1410.54,
+   "end": 1427.42,
+   "text": "But that only you can do because you don't have the technical competence to go beyond this one little instrument you have."
+  },
+  {
+   "start": 1427.42,
+   "end": 1431.42,
+   "text": "You don't have the marketing strength. You don't have the capital."
+  },
+  {
+   "start": 1431.42,
+   "end": 1444.74,
+   "text": "That's that one little instrument that measures winning ceramic glazes, blue changes to green."
+  },
+  {
+   "start": 1444.74,
+   "end": 1447.74,
+   "text": "Very important. Nobody's ever been able to do it before."
+  },
+  {
+   "start": 1447.74,
+   "end": 1452.78,
+   "text": "And you have it. Here, all right, very fine."
+  },
+  {
+   "start": 1452.78,
+   "end": 1456.78,
+   "text": "There are about 11 places in the world that need it, and you have them all."
+  },
+  {
+   "start": 1456.78,
+   "end": 1478.31,
+   "text": "Here's the link to pay your money for this. There's a very old story, talking to Peggy Smith, that reminded me of it, which one always remembers."
+  },
+  {
+   "start": 1478.31,
+   "end": 1494.5,
+   "text": "The story goes to music history. That Johannes Brahms, around 1880 or thereabouts, heard an 18-year-old incredible music approach to a piano."
+  },
+  {
+   "start": 1494.5,
+   "end": 1505.3,
+   "text": "little Jewish boy from Russia, he died and he needed a scholarship. So he sent him to one of the music patrons of Vienna for a scholarship."
+  },
+  {
+   "start": 1505.3,
+   "end": 1515.49,
+   "text": "And then he heard that the patron had turned him down, and a few days later he ran into that rich man on the street and said,"
+  },
+  {
+   "start": 1515.49,
+   "end": 1522.18,
+   "text": "I don't understand, Baron, why you turned down that brilliant child I sent you, incredibly gifted."
+  },
+  {
+   "start": 1522.18,
+   "end": 1530.54,
+   "text": "be gifted. And Sir Baron said, you know, my dear Brahms, I have absolutely no interest in having"
+  },
+  {
+   "start": 1530.54,
+   "end": 1540.86,
+   "text": "Sir Minuit Wars played in 57 seconds. Remember that. If that's all you can do, don't give a"
+  },
+  {
+   "start": 1540.86,
+   "end": 1549.92,
+   "text": "scholarship. Now, there's a kind of joke there in that pack. That little boy's name was Maurice"
+  },
+  {
+   "start": 1549.92,
+   "end": 1555.66,
+   "text": "Rosenstorn, who then became the greatest pianist of early 20th century Europe. That's a decisive"
+  },
+  {
+   "start": 1555.66,
+   "end": 1566.95,
+   "text": "punch. Remember only that one doesn't pay for having so many points played in 50 seconds."
+  },
+  {
+   "start": 1566.95,
+   "end": 1574.47,
+   "text": "It's bad enough to have it played in 60 seconds, for those of you who haven't played it."
+  },
+  {
+   "start": 1574.47,
+   "end": 1588.66,
+   "text": "And so where do you have things that sap your strength, require resources, represent great triumphs"
+  },
+  {
+   "start": 1588.66,
+   "end": 1595.57,
+   "text": "vanity over common sense, or of engineering over economics. Those are the"
+  },
+  {
+   "start": 1595.57,
+   "end": 1605.97,
+   "text": "two most dangerous traps, the most expensive ones. And that will not lead anywhere. And the test is not what your"
+  },
+  {
+   "start": 1605.97,
+   "end": 1612.52,
+   "text": "marketing people project. Everybody in this room has a marketing man who can"
+  },
+  {
+   "start": 1612.52,
+   "end": 1623.11,
+   "text": "project anything, I hope. Don't you? The test is experience. For four years you have projected that you are going to get into the scientific"
+  },
+  {
+   "start": 1623.11,
+   "end": 1633.43,
+   "text": "instrument and all you have is still that one thing that's a ceramic maker when a place changes"
+  },
+  {
+   "start": 1633.43,
+   "end": 1644.07,
+   "text": "from one color to another and it's a very specific technology and very highly developed but the only"
+  },
+  {
+   "start": 1644.07,
+   "end": 1652.4,
+   "text": "application there is is just that application and then one says where is there somebody who's"
+  },
+  {
+   "start": 1652.4,
+   "end": 1661.17,
+   "text": "got a broad range of instruments for the ceramic industry to whom this is a use for addition and"
+  },
+  {
+   "start": 1661.17,
+   "end": 1671.44,
+   "text": "how much are we with your concentrate your resources now where results and goes on and look"
+  },
+  {
+   "start": 1671.44,
+   "end": 1680.31,
+   "text": "especially for the beaches that have no beach because in a turbulent time the premium is"
+  },
+  {
+   "start": 1680.31,
+   "end": 1687.07,
+   "text": "are people who know how to handle a situation for which there is no precedent."
+  },
+  {
+   "start": 1687.59,
+   "end": 1689.47,
+   "text": "That's the definition of it, you understand."
+  },
+  {
+   "start": 1691.17,
+   "end": 1695.05,
+   "text": "Suddenly, in your oldest market, which you are now inside out,"
+  },
+  {
+   "start": 1695.61,
+   "end": 1700.72,
+   "text": "something goes wrong, and you have no idea what it is,"
+  },
+  {
+   "start": 1701.78,
+   "end": 1706.38,
+   "text": "and then there is a premium on the man who can handle himself"
+  },
+  {
+   "start": 1706.38,
+   "end": 1711.64,
+   "text": "without you holding his hand, without you huddling with him,"
+  },
+  {
+   "start": 1711.64,
+   "end": 1723.6,
+   "text": "without your being able to direct him, who knows when to come back to you and say,"
+  },
+  {
+   "start": 1723.6,
+   "end": 1733.39,
+   "text": "look, I need to discuss this. Or look, there's something going on out there which I don't understand."
+  },
+  {
+   "start": 1734.19,
+   "end": 1740.77,
+   "text": "Or look, there's a cloud on the horizon and it's still tiny, not even as large as a man's hand."
+  },
+  {
+   "start": 1741.25,
+   "end": 1749.2,
+   "text": "But I don't like to look so. And who at the same time can look at things and say,"
+  },
+  {
+   "start": 1749.2,
+   "end": 1759.66,
+   "text": "Others we know how to manage. This I can do as premium on having the man who has"
+  },
+  {
+   "start": 1759.66,
+   "end": 1771.04,
+   "text": "judgment and experience and reliability in the sense that you can, you can sleep"
+  },
+  {
+   "start": 1771.04,
+   "end": 1777.52,
+   "text": "soundly, you know, if you don't worry about it. You know that if things go wrong, he'll"
+  },
+  {
+   "start": 1777.52,
+   "end": 1784.3,
+   "text": "tell you. He isn't going to brush an elephant under the rug. No, sir, he's not"
+  },
+  {
+   "start": 1784.3,
+   "end": 1794.24,
+   "text": "going to surprise you. But you also know that he has been through complicated, obscure,"
+  },
+  {
+   "start": 1794.24,
+   "end": 1805.95,
+   "text": "confused situations. He isn't going to panic. But on the other hand, you know that if the"
+  },
+  {
+   "start": 1805.95,
+   "end": 1814.59,
+   "text": "wind goes up to 50 miles an hour and the temperature drops to zero, he isn't going to say,"
+  },
+  {
+   "start": 1814.59,
+   "end": 1822.02,
+   "text": "we are going to make this peak tonight. He's going to say the chill factor is too much for me and I'm"
+  },
+  {
+   "start": 1822.02,
+   "end": 1828.82,
+   "text": "I'm going to kill the mountain. The mountain is still going to be there next summer, you know."
+  },
+  {
+   "start": 1828.82,
+   "end": 1834.99,
+   "text": "He had a little book. He knows when it makes no sense."
+  },
+  {
+   "start": 1834.99,
+   "end": 1839.59,
+   "text": "And there are not very many people like that."
+  },
+  {
+   "start": 1839.59,
+   "end": 1848.4,
+   "text": "When you look at your businesses, you'll find they are all in the places where there are no results."
+  },
+  {
+   "start": 1848.4,
+   "end": 1856.62,
+   "text": "Because that's where one puts one's business. Those are the really tough ones, the really difficult ones."
+  },
+  {
+   "start": 1856.62,
+   "end": 1860.98,
+   "text": "And you need them today where you will get them."
+  },
+  {
+   "start": 1860.98,
+   "end": 1872.48,
+   "text": "So concentrate, look at your business, and see what all the things we went into, they looked all right, they didn't turn out too badly, or you'd be out of it."
+  },
+  {
+   "start": 1872.48,
+   "end": 1891.61,
+   "text": "But the question is always, knowing what we now know, and if the answer is no, then one doesn't say, should we go out, but how fast can we?"
+  },
+  {
+   "start": 1891.61,
+   "end": 1904.39,
+   "text": "and this is the time to do it because to go back to the hurricane metaphor this is no time to carry"
+  },
+  {
+   "start": 1904.39,
+   "end": 1913.03,
+   "text": "a necessary over overhead structure this is when one trims and when there's a minimum of safe and"
+  },
+  {
+   "start": 1913.03,
+   "end": 1920.47,
+   "text": "that is a maximum and the final thing they're saying and this may be the most important one"
+  },
+  {
+   "start": 1920.47,
+   "end": 1927.93,
+   "text": "and i'm actually leading into things proctor thompson may be talking about on thursday and"
+  },
+  {
+   "start": 1927.93,
+   "end": 1938.91,
+   "text": "is going to talk about a little later this year, learn in your business to factor into"
+  },
+  {
+   "start": 1938.91,
+   "end": 1952.44,
+   "text": "your decisions the one economy that has predicted value. That's the world economy. You know"
+  },
+  {
+   "start": 1952.44,
+   "end": 1960.89,
+   "text": "here in Southern California, which I've known now for about 40 years, you have about 150"
+  },
+  {
+   "start": 1960.89,
+   "end": 1969.94,
+   "text": "businesses in Los Angeles which are now sizable businesses. Most of them were started by graduates"
+  },
+  {
+   "start": 1969.94,
+   "end": 1975.46,
+   "text": "by graduates of the class, Pomona class of 1920, which must have been the leanest,"
+  },
+  {
+   "start": 1975.46,
+   "end": 1982.24,
+   "text": "greediest, and most accomplished class ever graduated from anybody. All sons of"
+  },
+  {
+   "start": 1982.24,
+   "end": 1990.64,
+   "text": "missionary, all terribly hungry, obviously. And they all started, not all, they started"
+  },
+  {
+   "start": 1990.64,
+   "end": 1998.82,
+   "text": "businesses, and in those years, you wouldn't believe it, California was an"
+  },
+  {
+   "start": 1998.82,
+   "end": 2007.51,
+   "text": "underdeveloped country in every sense of the word except in respect to sunshine where it was better"
+  },
+  {
+   "start": 2007.51,
+   "end": 2017.26,
+   "text": "than it's now uh but while it was had been for a long time politically part of the united states"
+  },
+  {
+   "start": 2017.98,
+   "end": 2027.0,
+   "text": "economically it was not it was separated from the united states uh by three thousand miles"
+  },
+  {
+   "start": 2027.0,
+   "end": 2038.33,
+   "text": "of desert in the Santa Fe Railroad, both very powerful separators. And for most eastern businesses,"
+  },
+  {
+   "start": 2038.33,
+   "end": 2045.77,
+   "text": "there was no point doing business in California. You had a million inhabitants or so, or maybe two,"
+  },
+  {
+   "start": 2045.77,
+   "end": 2056.54,
+   "text": "I've forgotten how many there were in 1920. There wasn't very many. Anybody know? Spread over a lot"
+  },
+  {
+   "start": 2056.54,
+   "end": 2071.58,
+   "text": "or went to space, transportation was very difficult and very expensive and very slow."
+  },
+  {
+   "start": 2071.58,
+   "end": 2084.3,
+   "text": "While family incomes were always high in California, the lifestyle was also different so"
+  },
+  {
+   "start": 2084.3,
+   "end": 2089.82,
+   "text": "that it wasn't quite the same market. And so every Easter business was perfectly willing to"
+  },
+  {
+   "start": 2090.46,
+   "end": 2098.84,
+   "text": "hand over their very small technology to a California company or to give them an exclusive"
+  },
+  {
+   "start": 2098.84,
+   "end": 2106.33,
+   "text": "sales, representation, and the technology. And so I had a lot of companies brought up in the 20s, and an"
+  },
+  {
+   "start": 2106.33,
+   "end": 2116.3,
+   "text": "enormous number of them are now very substantial companies, 150, 200, 300, 400 million. This is well"
+  },
+  {
+   "start": 2116.3,
+   "end": 2123.78,
+   "text": "before the aerospace industry. And Hollywood, let me say, contrary to what theory, never was economically"
+  },
+  {
+   "start": 2123.78,
+   "end": 2138.24,
+   "text": "important. It just means they're front page, but they never employed many people, never spent much money here, just because they lost the publicity."
+  },
+  {
+   "start": 2138.24,
+   "end": 2150.2,
+   "text": "But there are very prosaic companies making hand tools and silver pipe and adhesive labels."
+  },
+  {
+   "start": 2150.2,
+   "end": 2158.6,
+   "text": "You mentioned there's three that came straight out of Pomona and are in here. Explain why we have such lovely business."
+  },
+  {
+   "start": 2158.6,
+   "end": 2176.94,
+   "text": "And so on. And I've been talking to a good many of them over the years. I became interested in them well over 20 years ago when I first came out here for a three-week summer course in Pomona, funded for one of them, of course."
+  },
+  {
+   "start": 2176.94,
+   "end": 2184.94,
+   "text": "And you know, most of the founders are still alive. They're getting on in years, but they're still alive."
+  },
+  {
+   "start": 2184.94,
+   "end": 2198.86,
+   "text": "And you talk to them and say, how did you build a local fuel distributor, the agent for somebody who's connected in New York,"
+  },
+  {
+   "start": 2198.86,
+   "end": 2204.86,
+   "text": "making rents or whatever it was, into a national landfill company?"
+  },
+  {
+   "start": 2204.86,
+   "end": 2218.22,
+   "text": "Or how do you build an agent for a small tractor company out of Peoria into the largest designer and builder of specialized agricultural machinery?"
+  },
+  {
+   "start": 2218.22,
+   "end": 2225.34,
+   "text": "And you get the same answer. Not in these words, but that's what it amounts to."
+  },
+  {
+   "start": 2225.34,
+   "end": 2234.29,
+   "text": "Well, of course, I wrote the tie. You have to do something awfully foolish not to succeed."
+  },
+  {
+   "start": 2234.29,
+   "end": 2251.36,
+   "text": "But also I learned very early that while the Californian market was totally separate and seemed totally isolated and felt totally different,"
+  },
+  {
+   "start": 2251.36,
+   "end": 2264.58,
+   "text": "I learned very early to look at the national economy and to make my decisions on its basis."
+  },
+  {
+   "start": 2264.58,
+   "end": 2268.92,
+   "text": "So this explains why they survived the Depression."
+  },
+  {
+   "start": 2268.92,
+   "end": 2275.32,
+   "text": "The Depression hit California about 18 months after it hit the rest of the country, 24 months after."
+  },
+  {
+   "start": 2275.32,
+   "end": 2279.32,
+   "text": "And those that looked at California only went under."
+  },
+  {
+   "start": 2279.32,
+   "end": 2284.1,
+   "text": "They expected California to be immune."
+  },
+  {
+   "start": 2284.1,
+   "end": 2288.56,
+   "text": "And those that looked at the U.S. economy and said,"
+  },
+  {
+   "start": 2288.56,
+   "end": 2291.56,
+   "text": "I don't like what I see."
+  },
+  {
+   "start": 2291.56,
+   "end": 2299.56,
+   "text": "And while we have the Sierra, and the Rocky Mountains, and the desert, and the Santa Ferreros between us,"
+  },
+  {
+   "start": 2299.56,
+   "end": 2308.62,
+   "text": "and the unpleasantness in New York and Chicago, I better behave as if we'd make it until we survive."
+  },
+  {
+   "start": 2308.62,
+   "end": 2315.0,
+   "text": "And when you ask him, how much time did you spend on this?"
+  },
+  {
+   "start": 2315.0,
+   "end": 2323.66,
+   "text": "I said, oh, practically none at all. We just subscribed to a few national publications, and not just the Censored magazine."
+  },
+  {
+   "start": 2323.66,
+   "end": 2329.48,
+   "text": "know where the center was around those states or whatever the equivalent was."
+  },
+  {
+   "start": 2329.48,
+   "end": 2342.9,
+   "text": "Today, let me say, learn to look at the world, even if your business is purely local."
+  },
+  {
+   "start": 2342.9,
+   "end": 2349.14,
+   "text": "And if you look at the businesses in the world that have done well these last 50 years in the"
+  },
+  {
+   "start": 2349.14,
+   "end": 2358.92,
+   "text": "economy, they are the ones who have taken their cues from the world economy. And there is no"
+  },
+  {
+   "start": 2358.92,
+   "end": 2380.06,
+   "text": "countries in which economic forecasts based on domestic figures were reliable, whether this is this country or France, the worst case is England or Germany."
+  },
+  {
+   "start": 2380.06,
+   "end": 2392.06,
+   "text": "The Japanese, all their success, largely due to the fact that they never faced any of their projections on their domestic economy, but always started out as a world economy and then said,"
+  },
+  {
+   "start": 2392.06,
+   "end": 2399.51,
+   "text": "What should the domestic economy then be to take full advantage of this?"
+  },
+  {
+   "start": 2400.95,
+   "end": 2406.39,
+   "text": "Domestic economies have been grossly misleading."
+  },
+  {
+   "start": 2407.99,
+   "end": 2413.92,
+   "text": "Partly, let me say, because the economists overrate their capacity."
+  },
+  {
+   "start": 2415.02,
+   "end": 2423.02,
+   "text": "We don't know nearly as much about economics as the economists the last ten years believe."
+  },
+  {
+   "start": 2423.02,
+   "end": 2427.08,
+   "text": "They suffer from a very bad case of arrogance."
+  },
+  {
+   "start": 2427.08,
+   "end": 2438.84,
+   "text": "Partly work for reasons which I think some of my colleagues in this program will talk to you about."
+  },
+  {
+   "start": 2438.84,
+   "end": 2446.74,
+   "text": "Partly, however, because they're dynamics. We're not internationally, but in the world economy."
+  },
+  {
+   "start": 2446.74,
+   "end": 2458.5,
+   "text": "What a world economy is, is very hard to define, and you might have to be very primitive and very elementary"
+  },
+  {
+   "start": 2458.5,
+   "end": 2472.18,
+   "text": "and define an economy as a unity or community of information and expectations in respect to material satisfaction."
+  },
+  {
+   "start": 2472.18,
+   "end": 2480.72,
+   "text": "Now that is much too primitive for the modern economy, who talks money and credit and whatever,"
+  },
+  {
+   "start": 2480.72,
+   "end": 2487.37,
+   "text": "but it's fundamental, and that's probably what an economy really is,"
+  },
+  {
+   "start": 2487.37,
+   "end": 2494.81,
+   "text": "the community of information and expectation in respect to material satisfaction, not in respect"
+  },
+  {
+   "start": 2494.81,
+   "end": 2503.63,
+   "text": "to the salvation of your soul, not in respect to aesthetics, though they have an impact, but to"
+  },
+  {
+   "start": 2503.63,
+   "end": 2511.32,
+   "text": "material satisfaction then for goodness sake don't ask me what that means. It's not that"
+  },
+  {
+   "start": 2511.32,
+   "end": 2521.34,
+   "text": "good and services sound awfully concrete until you take a closer look and how do you factor this"
+  },
+  {
+   "start": 2521.34,
+   "end": 2535.48,
+   "text": "course into the gluten services definition uh how do you factor the fact that better health care"
+  },
+  {
+   "start": 2535.48,
+   "end": 2542.68,
+   "text": "consists despite little people not so much of getting better but of being able to go to the"
+  },
+  {
+   "start": 2542.68,
+   "end": 2552.7,
+   "text": "doctor that is better definition for most of us the real definition to have services available"
+  },
+  {
+   "start": 2552.7,
+   "end": 2560.81,
+   "text": "not to have what they can do we don't really know uh so how do you factor the fact that"
+  },
+  {
+   "start": 2560.81,
+   "end": 2568.41,
+   "text": "things aren't quite that simple. I don't, except the fact that the world, thank God, is more diverse"
+  },
+  {
+   "start": 2568.41,
+   "end": 2582.52,
+   "text": "than any one academic discipline is willing to admit. But the world economy has become a reality."
+  },
+  {
+   "start": 2582.52,
+   "end": 2589.29,
+   "text": "What I'm talking about, I think, has probably no place in the world today. It may be central"
+  },
+  {
+   "start": 2589.29,
+   "end": 2593.85,
+   "text": "Tibet sometimes, I haven't been there, or in the valleys in the mountains of New Guinea,"
+  },
+  {
+   "start": 2593.85,
+   "end": 2607.72,
+   "text": "where I have it. I have no intention of it, but where you might on the screen at the back of me"
+  },
+  {
+   "start": 2607.72,
+   "end": 2620.33,
+   "text": "someplace here behind the blackboard, you throw a picture of a mushroom cloud, you throw a picture of"
+  },
+  {
+   "start": 2620.33,
+   "end": 2629.15,
+   "text": "a space vehicle taking off, you know what it is. You show a picture of an automobile"
+  },
+  {
+   "start": 2629.15,
+   "end": 2651.85,
+   "text": "get the thinking started you have it come that wasn't 250 years ago one for instance you have"
+  },
+  {
+   "start": 2651.85,
+   "end": 2660.43,
+   "text": "a community of expecting people everywhere want the same thing they can't necessarily afford it"
+  },
+  {
+   "start": 2660.43,
+   "end": 2674.65,
+   "text": "but up there in the high end in the indian pueblo unchanged in things uh maybe they don't really"
+  },
+  {
+   "start": 2674.65,
+   "end": 2684.9,
+   "text": "know how you and I live, but they think. They think we all live in 84-room houses, but they"
+  },
+  {
+   "start": 2684.9,
+   "end": 2693.35,
+   "text": "are closer to reality. They think. And you have a world economy which is a community"
+  },
+  {
+   "start": 2693.35,
+   "end": 2699.77,
+   "text": "of shared expectations and appetites and values in respect to material satisfaction."
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 27.1,
+ "created_utc": "2026-09-29T02:45:26+00:00"
+}

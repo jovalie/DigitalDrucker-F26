@@ -1,0 +1,15 @@
+[Unit]
+Description=Drucker TTS webapp (CosyVoice 2, GPU1, tailnet)
+After=network-online.target tailscaled.service
+Wants=network-online.target
+[Service]
+Type=simple
+User=jzheng_cmc
+Group=hpcusers
+WorkingDirectory=/mnt/raid/shared/tts
+Environment=CUDA_VISIBLE_DEVICES=1
+ExecStart=/mnt/raid/shared/tts/serve-tts.sh
+Restart=on-failure
+RestartSec=5
+[Install]
+WantedBy=multi-user.target
