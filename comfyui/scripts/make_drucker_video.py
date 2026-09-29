@@ -26,6 +26,7 @@ import argparse
 import io
 import json
 import mimetypes
+import re
 import subprocess
 import sys
 import time
@@ -202,6 +203,28 @@ def split_audio(path: Path, seconds: float, work: Path) -> list[Path]:
     return sorted(work.glob("chunk_*.wav"))
 
 
+def motion_report(path: Path, fps: int = 25, threshold: float = 0.4) -> float:
+    """Per-second inter-frame motion; LTX sometimes renders a near-static take.
+
+    Measured as the mean |frame(t) - frame(t-1)| luma. Two takes of the same 21 s clip with
+    different seeds scored median 0.34 (visibly frozen) vs 1.73 (lively), so it is worth
+    checking every render.
+    """
+    out = subprocess.run(["ffmpeg", "-v", "error", "-i", str(path), "-vf",
+                          "tblend=all_mode=difference,signalstats,"
+                          "metadata=print:key=lavfi.signalstats.YAVG:file=-",
+                          "-f", "null", "-"], capture_output=True, text=True).stdout
+    vals = [float(x) for x in re.findall(r"YAVG=([0-9.]+)", out)]
+    if not vals:
+        return float("nan")
+    secs = [sum(vals[i:i + fps]) / len(vals[i:i + fps]) for i in range(0, len(vals), fps)]
+    static = [i for i, v in enumerate(secs) if v < threshold]
+    print("== motion check: " + " ".join(f"{v:.1f}" for v in secs))
+    print(f"   median {sorted(secs)[len(secs)//2]:.2f} | near-static seconds {len(static)}/{len(secs)}"
+          + ("   <-- re-run with a different --seed" if len(static) > len(secs) / 4 else ""))
+    return sorted(secs)[len(secs) // 2]
+
+
 def concat_videos(videos: list[Path], out: Path) -> Path:
     lst = out.parent / "concat.txt"
     lst.write_text("".join(f"file '{v.resolve()}'\n" for v in videos))
@@ -281,6 +304,8 @@ def render_one(args, prompt: dict) -> int:
             dst = out if len(files) == 1 else out.parent / f["filename"]
             dst.write_bytes(data)
             print(f"   saved {dst} ({len(data)/1e6:.2f} MB)")
+            if args.check_motion:
+                motion_report(dst)
         return 0
 
 
@@ -312,6 +337,9 @@ def main() -> int:
                     help="files are already in the server's input dir")
     ap.add_argument("--timeout", type=float, default=14400)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--check-motion", action="store_true",
+                    help="after rendering, report per-second motion and flag a near-static take "
+                         "(LTX motion varies a lot with the seed; needs ffmpeg locally)")
     args = ap.parse_args()
 
     tpl = Path(args.template)
