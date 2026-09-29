@@ -93,6 +93,21 @@ def patch(prompt: dict, args) -> list[str]:
             n["inputs"]["value"] = f"{head}[SPEECH]: {args.speech.strip()}{sounds}"
             log.append(f"speech -> {args.speech[:60]!r} [{nid}]")
 
+    if getattr(args, "no_camera_move", False):
+        for nid, n in find(prompt, "PrimitiveStringMultiline",
+                           where=lambda x: "[VISUAL]" in str(x.get("inputs", {}).get("value", ""))):
+            txt = n["inputs"]["value"]
+            txt = txt.replace(
+                "Begin with a medium environmental shot showing him seated behind the desk. "
+                "The camera remains mostly stable with an extremely slow, subtle cinematic push-in.",
+                "Hold a static, locked-off medium shot of him seated behind the desk for the whole clip. "
+                "The camera does not move at all: no zoom, no push-in, no dolly, no reframing, no change "
+                "of framing or focal length.")
+            txt = txt.replace("cinematic push-in", "static framing")
+            txt = txt.replace("extremely slow, subtle cinematic", "static")
+            n["inputs"]["value"] = txt
+            log.append(f"camera -> locked off (no zoom/push-in) [{nid}]")
+
     empty = find(prompt, "EmptyLTXVLatentVideo")
     if empty and any(v is not None for v in (args.width, args.height, args.duration, args.fps)):
         _, n = empty[0]
@@ -337,6 +352,9 @@ def main() -> int:
                     help="files are already in the server's input dir")
     ap.add_argument("--timeout", type=float, default=14400)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--no-camera-move", action="store_true",
+                    help="rewrite the prompt for a locked-off static shot (the template asks for a "
+                         "'subtle cinematic push-in', which reads as an odd gradual zoom)")
     ap.add_argument("--check-motion", action="store_true",
                     help="after rendering, report per-second motion and flag a near-static take "
                          "(LTX motion varies a lot with the seed; needs ffmpeg locally)")
