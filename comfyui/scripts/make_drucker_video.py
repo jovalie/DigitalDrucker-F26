@@ -302,6 +302,9 @@ def main() -> int:
     ap.add_argument("--prefix", default=None, help="SaveVideo filename_prefix")
     ap.add_argument("--node-set", action="append", metavar="NODE.inputs.FIELD=VALUE")
     ap.add_argument("--out", help="where to save the produced video")
+    ap.add_argument("--normalize-audio", action="store_true",
+                    help="loudness-normalize the speech first (CosyVoice output can contain quiet "
+                         "passages, and quiet audio produces a nearly motionless render)")
     ap.add_argument("--chunk-seconds", type=float,
                     help="render in pieces of this many seconds and stitch (long videos OOM in "
                          "the x2 upscale stage; ~13 s is safe on a 45 GB L40S)")
@@ -340,6 +343,15 @@ def main() -> int:
         keep = find(tmpl_prompt, "LoadAudio")
         args.audio_name = keep[0][1]["inputs"]["audio"] if keep else None
         print(f"== keeping template audio: {args.audio_name}")
+
+    if args.normalize_audio and audio:
+        norm = work / "speech_normalized.wav"
+        subprocess.run(["ffmpeg", "-v", "error", "-i", str(audio), "-af",
+                        "loudnorm=I=-18:TP=-1.5:LRA=11", "-ar", "24000", "-y", str(norm)],
+                       check=True)
+        print(f"== normalized speech -> {norm}")
+        audio = norm
+        args.audio = str(norm)
 
     if args.chunk_seconds and audio:
         parts = split_audio(audio, args.chunk_seconds, work)
