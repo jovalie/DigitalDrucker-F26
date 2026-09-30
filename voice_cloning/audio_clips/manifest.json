@@ -1,0 +1,57 @@
+[
+ {
+  "pointer": "4793",
+  "year": "1981",
+  "start": 433.5,
+  "seconds": 120.0,
+  "snr_db": 33.4,
+  "centroid_hz": 1642.0,
+  "file": "drucker_4793_1981_433s_120s.wav",
+  "source": "media/1981/4793__peter-drucker-symposium---managing-the-increasing-complexity.mp4",
+  "title": "Peter Drucker symposium - \u201cmanaging the increasing complexity of large organizations\u201d - reel I, part 1 of 2; 1981-04-22"
+ },
+ {
+  "pointer": "4997",
+  "year": "1979",
+  "start": 61.0,
+  "seconds": 120.0,
+  "snr_db": 37.3,
+  "centroid_hz": 584.0,
+  "file": "drucker_4997_1979_61s_120s.wav",
+  "source": "media/1979/4997__peter-drucker-symposium-iii-41879---with-worth-loomis-and-wi.mp4",
+  "title": "Peter Drucker symposium III, 4/18/79 - with Worth Loomis and William Dill, side a"
+ },
+ {
+  "pointer": "4943",
+  "year": "1987",
+  "start": 1047.5,
+  "seconds": 120.0,
+  "snr_db": 41.8,
+  "centroid_hz": 429.0,
+  "file": "drucker_4943_1987_1047s_120s.wav",
+  "source": "media/1987/4943__drucker-symposium-day-1-luncheon---tape-3-side-a-1987-04-29.mp4",
+  "title": "Drucker symposium day 1 \u2013 luncheon - tape 3, side a, 1987-04-29"
+ },
+ {
+  "pointer": "3561",
+  "year": "1980",
+  "start": 381.0,
+  "seconds": 120.0,
+  "snr_db": 33.1,
+  "centroid_hz": 680.0,
+  "file": "drucker_3561_1980_381s_120s.wav",
+  "source": "media/1980/3561__peter-drucker-lectures-1980-04-22-cassette-2-side-1.mp4",
+  "title": "Peter Drucker lectures, 1980-04-22, cassette 2, side 1"
+ },
+ {
+  "pointer": "4938",
+  "year": "1977",
+  "start": 2771.5,
+  "seconds": 120.0,
+  "snr_db": 32.3,
+  "centroid_hz": 389.0,
+  "file": "drucker_4938_1977_2771s_120s.wav",
+  "source": "media/1977/4938__drucker-on-managing-effectively-how-to-manage-your-bossmanag.mp4",
+  "title": "Drucker on managing effectively: how to manage your boss/management basics: the major tools"
+ }
+]
