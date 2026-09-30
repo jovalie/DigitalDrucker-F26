@@ -1,0 +1,21 @@
+{
+ "pointer": "5031",
+ "media": "5031.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2756.6,
+ "segments": [
+  {
+   "start": 1.07,
+   "end": 2.35,
+   "text": "I thought it was really small.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 279.32,
+ "created_utc": "2026-09-20T23:05:01+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

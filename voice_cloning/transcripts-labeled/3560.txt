@@ -1,0 +1,276 @@
+[OTHER] Good morning, ladies and gentlemen.
+[OTHER] Let's begin approximately on time.
+[OTHER] My name is Bob Hawkins.
+[OTHER] I'm chairman of the International Business Area at NYU Business School.
+[OTHER] As you know, the morning's discussions will deal with various dimensions of the international environment
+[OTHER] to which American business is increasingly exposed and dependent.
+[OTHER] The dimensions which will be discussed will include the turbulent present as well as the uncertain future
+[OTHER] It's obviously a pleasure for me to serve as the moderator for the morning
+[OTHER] and to introduce to you Peter Drucker, who you all know on my immediate right, and Irving Friedman
+[OTHER] I am an international economist and have frequently found over the years that Peter Drucker's insights
+[OTHER] on the international economy often push economists like me away from our narrow technical economic
+[OTHER] models to look at a big, discontinuous, and sometimes obvious, in hindsight anyway,
+[OTHER] change in the economy that we were missing in our narrow models. I expect that he will
+[OTHER] do that again this morning, and Irving Friedman will also add to that pushing away from our
+[OTHER] narrow economic model as to what's going on in the real world.
+[OTHER] I'd like to say one thing about the schedule so that you know where we're going.
+[OTHER] As you know from the program, the first component of the morning's discussion will deal with
+[OTHER] the world economy, its structural changes, threats, and opportunities.
+[OTHER] The format will be that Peter Drucker will talk rather informally for 20 minutes or so,
+[OTHER] followed then by a also relatively informal comment by Irving Friedman.
+[OTHER] And then the floor will be open for questions and answers.
+[OTHER] and I already see that I have a rather substantial stack of questions to address to the panelists.
+[OTHER] At approximately 11 o'clock we will break for a bit of coffee
+[OTHER] and then from about 11.15 or 11.20 to 12.15 or so
+[OTHER] we will have a more formal presentation on what can we learn from other managements by Peter Drucker.
+[OTHER] So, without further ado, and since he needs no introduction, I turn the first session over to Professor Peter Drucker.
+[DRUCKER] Thank you very much, Bob Hawkins.
+[DRUCKER] Ladies and gentlemen, let me say again how very happy I am to be once more back home at GBA.
+[DRUCKER] And, by the way, in an act of rash optimism, I promise that I'll be back next year.
+[DRUCKER] But let me say, above all, how delighted and honored I am to have Dr. Friedman join us today.
+[DRUCKER] I have been an admirer of his for, I think, oh, make it 30 years since he really, more than anybody else,
+[DRUCKER] got the International Monetary Fund off the ground
+[DRUCKER] and operating as the senior department head there for many years,
+[DRUCKER] and my admiration for him has been greatly increased
+[DRUCKER] by his having written, with due respect to all other economists,
+[DRUCKER] the only book on inflation that's worth reading
+[DRUCKER] and worth reading more every day.
+[DRUCKER] And so I'm very grateful, Irving, that you agreed to join us here today.
+[DRUCKER] And because of Dr. Friedman's presence on the panel, I shall restrain myself from making any comments on international monetary and financial matters, which would be sheer folly in his presence.
+[DRUCKER] And I leave that to you, and I will talk about other elements that are not more within my ken, but less within yours.
+[DRUCKER] And let me say it is very clear that we are in the midst of structural changes in the world economy.
+[DRUCKER] In many ways, the disappearance of anything that could be called a key currency, which
+[DRUCKER] was quite clear, and the rapid shift away from the traditional industries as the main
+[DRUCKER] carriers of international trade and so on.
+[DRUCKER] And I want to focus today really on three and only three of these changes, all of them structural, all of them hard to quantify and therefore unlikely to appear yet in the economic models Bob Hawkins talked about.
+[DRUCKER] And all of them kind of contrary not just to conventional wisdom, but above all to conventional rhetoric, conventional modes of political and managerial behavior.
+[DRUCKER] And the first is the demographic shifts.
+[DRUCKER] And those of you who attended earlier seminars here in the last few years, we have been discussing them again and again.
+[DRUCKER] And so I will only say that fundamentally we must accept the fact that in the developed countries, including the developed countries of the Soviet bloc, we face long decades of very great shortages of young people available for traditional work at any price.
+[DRUCKER] as a result both of the baby bust of the sharp decline in birth rates
+[DRUCKER] and of the sharp shift in education.
+[DRUCKER] And if you add the two together,
+[DRUCKER] we would have in the next 10 or 12 years in this country
+[DRUCKER] have no more than one-third of the people available for entrance jobs
+[DRUCKER] in traditional employment, about one-third of what we had the last 20 years.
+[DRUCKER] This is also, of course, in part the result of the fact that the participation of women
+[DRUCKER] in the labor force cannot increase much more, because under 50, the labor force participation
+[DRUCKER] of women is already equal to that of men in any developed economy except Japan, so that
+[DRUCKER] from now on what you will see as increased labor force participation will
+[DRUCKER] be a statistical illusion as the older ones die off who never were in the labor
+[DRUCKER] force it will look as if the total labor force participation rate went up but it
+[DRUCKER] doesn't is that for those who are in the labor force it is at its peak or at the
+[DRUCKER] peak can you this is on it isn't on okay can you hear me now this is on i'm sorry this
+[DRUCKER] thanks very much for telling how is this now okay and will you please not suffer in silence
+[DRUCKER] you suffer 10 minutes in silence which is i think forbidden after each six months
+[DRUCKER] so will you please scream
+[DRUCKER] and say louder
+[DRUCKER] thanks
+[DRUCKER] and so in all developed
+[DRUCKER] countries we must expect the
+[DRUCKER] sharp drop in the number of young
+[DRUCKER] of entrance people whether they are
+[DRUCKER] young or older women is the material
+[DRUCKER] available for traditional
+[DRUCKER] work which will incidentally
+[DRUCKER] cause very great turbulence
+[DRUCKER] because it will be accompanied
+[DRUCKER] by small
+[DRUCKER] but highly visible
+[DRUCKER] areas of high redundancy of older
+[DRUCKER] people in decaying industries, whether that's Youngstown
+[DRUCKER] or Nagoya or what have you.
+[DRUCKER] And at the same time, in the developing
+[DRUCKER] world, the very large number of babies who did not
+[DRUCKER] die in the 50s and 60s are now reaching
+[DRUCKER] maturity and need work. So you will see
+[DRUCKER] increasingly that the pattern of traditional manufacturing will change.
+[DRUCKER] That part of it that can be automated, truly automated,
+[DRUCKER] will be automated simply because for the first time
+[DRUCKER] the hardware for automation is available.
+[DRUCKER] We have been talking automation 25 years,
+[DRUCKER] but we haven't seen much of it because it could be done on paper.
+[DRUCKER] Now it can be done in process as the mini-processor is being integrated with the tool, with the machine, with the instrument, and this, incidentally, is likely to be as important an industrial revolution as the coming of the fractional horsepower motor was about 100 years ago,
+[DRUCKER] which really created the modern plant
+[DRUCKER] because it made it possible to have modern power on the machine
+[DRUCKER] so that you did not have to build your plant next to a generating station
+[DRUCKER] or did not have to have a generating station to have a plant.
+[DRUCKER] As long as you transmitted power with a pulley,
+[DRUCKER] you had to be within 100 yards of the source of power, or 200 yards.
+[DRUCKER] And so you will see real automation, and by the way, in this respect, this country is way behind compared to both the Germans and the Japanese who are really pushing.
+[DRUCKER] and on the other hand where you cannot automate
+[DRUCKER] you will see that labor intensive stages of production
+[DRUCKER] will be done increasingly where the labor is
+[DRUCKER] and that's not in the developed countries
+[DRUCKER] and you will see production sharing
+[DRUCKER] in which the design, the management, the marketing
+[DRUCKER] are done in and by the developed country
+[DRUCKER] and the actual labor-intensive stages are being planned.
+[DRUCKER] Every other place is growing rapidly.
+[DRUCKER] It is already growing very fast.
+[DRUCKER] And this violates very much the way governments and labor unions and politicians,
+[DRUCKER] but also bankers and businessmen, look at the international economy.
+[DRUCKER] We all still see in our mind's eye Adam Smith's complementary trade,
+[DRUCKER] English Bullens against Portuguese wine as the model and that even though it
+[DRUCKER] ceased to be the model about a hundred and fifty years ago and that will
+[DRUCKER] increasingly be the wrong model the right model are the shoes you and I are
+[DRUCKER] wearing where the height came from an American cow and was tanned in southern
+[DRUCKER] Brazil and the uppers were usually the uppers are now being done in Haiti by
+[DRUCKER] Japanese trading company just to make things easy and the soles are done in
+[DRUCKER] the British Virgin Islands and the shoes are then assembled in Puerto Rico for
+[DRUCKER] the American market and let's say in Barbados for the European and British
+[DRUCKER] markets and market designed in New York or in Zurich marketed in the developed
+[DRUCKER] countries which is where people wear shoes and labor content except for the
+[DRUCKER] cattle raising is sixty percent seventy percent developing countries wear wear
+[DRUCKER] those shoes made if you had to put on a label made in what would you write on
+[DRUCKER] write on it and that is a pattern increasingly and we are not yet
+[DRUCKER] organized and least organized for it are the large old multinationals who
+[DRUCKER] basically still see a 19th century pattern in which you have national
+[DRUCKER] subsidiaries each of which is a parent company in miniature and that's the
+[DRUCKER] whole range and everything for a limited market where tomorrow you will see plant
+[DRUCKER] facilities that do one or two operations for the world market and we are not
+[DRUCKER] organized. Let me say that this implies a shift in the center of gravity of
+[DRUCKER] international business from capital to marketing. Tomorrow's international will
+[DRUCKER] not be controlled by capital and incidentally those of you who still feel
+[DRUCKER] that the demand of the Mexicans or the Brazilians that you have foreign
+[DRUCKER] partners is an imposition. Will you please accept the fact that for reasons
+[DRUCKER] which only they can understand these poor countries are willing to subsidize
+[DRUCKER] you and that they insist that you accept being subsidized for them. Insist,
+[DRUCKER] however, that from the beginning you build something that has an export
+[DRUCKER] market. In the first place, it won't grow any other way. Secondly, you won't have control
+[DRUCKER] any other way. And third, you won't really make a contribution any other way. The people
+[DRUCKER] in the developing countries who now reach working age cannot possibly find jobs supplying
+[DRUCKER] their own domestic market. Even in Brazil, it isn't big enough and not capable of growing
+[DRUCKER] fast enough. The only market is where the customers are and the purchasing power, which
+[DRUCKER] is in the developed world. So that's the only way to make a contribution today to the developing
+[DRUCKER] market countries is by creating jobs for export in labor-intensive stages of production.
+[DRUCKER] And tomorrow's Multinational, as a result, is likely to be a confederation that's held together by control of marketing, where today's Multinational sees itself very much in the image of an army division.
+[DRUCKER] I have suggested, if you want a metaphor for tomorrow's, it'll be the symphony orchestra.
+[DRUCKER] The conductor does not play the oboe.
+[DRUCKER] And the oboist does not do what the conductor does, but the conductor keeps the score.
+[DRUCKER] And the conductor decides whether we play Beethoven or Bartok.
+[DRUCKER] And that is tomorrow's multinational.
+[DRUCKER] the oboe is better play the oboe and not the conductor. I have at least never met
+[DRUCKER] a conductor whom I would entrust an oboe with. And so that is tomorrow's
+[DRUCKER] multinational. And the second thing to say is that, you know, all of us have been
+[DRUCKER] talking about the last ten years being years of stagnation, but that is not true.
+[DRUCKER] there have been years of stagnation in the developing developed countries and
+[DRUCKER] by the way very unevenly in this country we had fairly substantial growth
+[DRUCKER] basically if I sound critical I think we had growth where we shouldn't have had
+[DRUCKER] it ours was not the healthy development we had growth in old industries not in
+[DRUCKER] new ones, basically, but fairly substantial growth, when Japan and Germany, with their
+[DRUCKER] very successful exploitation of the world market, had a lot better growth than we in
+[DRUCKER] some areas.
+[DRUCKER] But that is not the point.
+[DRUCKER] The point is that a whole group of countries in this very difficult period had extraordinary
+[DRUCKER] fast growth in the industries that are right for them. We have a whole new group in the
+[DRUCKER] world economy, whether you call them the rapidly industrializing countries or the almost developed
+[DRUCKER] ones, Brazil and Mexico and perhaps Colombia close to it. And of course the non-communist
+[DRUCKER] Chinese communities of Taiwan, Hong Kong and Singapore. By the way, I'm one of those who
+[DRUCKER] do not believe in the economic growth of red china ahead of us i think where china faces nothing but
+[DRUCKER] serious trouble the next 20 years uh but that's a footnote and uh be the mediterranean these are
+[DRUCKER] almost developed countries and the definition of an oh my definition of an almost developed
+[DRUCKER] country is a country that can do any one thing well but not many things and these
+[DRUCKER] are the countries in which in some of them you have a combination in Brazil of
+[DRUCKER] very large labor surpluses with substantial managerial competence and
+[DRUCKER] Brazil is alone a substantial domestic market in others like Mexico you have
+[DRUCKER] the same without the substantial domestic market in the Chinese areas you
+[DRUCKER] have no labor surplus basically they will increasingly have to move from
+[DRUCKER] labor-intensive industries even South Korea and to more knowledge intensive
+[DRUCKER] ones but they all have in common that they are now becoming factors on the
+[DRUCKER] world market that they are moving from a stage in which their development was
+[DRUCKER] capital-paced to one where it's export-paced. They are all now moving into an
+[DRUCKER] export-led stage of development and so they are all going to become major
+[DRUCKER] exporters though probably not of finished goods but of stages of
+[DRUCKER] production in many cases and at least the Brazilians who in some ways are the
+[DRUCKER] most intelligent of the lot see this quite clearly. This is a different
+[DRUCKER] pattern from the Japanese which was not export based largely, particularly Japan
+[DRUCKER] was fully developed it was based on the building of a domestic market and it was
+[DRUCKER] based on bringing in technology and making the whole product. Brazil does not
+[DRUCKER] behave that way. They bring in technology, yes, but primarily they bring in stages
+[DRUCKER] of production and they have been looking for export markets and I think this is
+[DRUCKER] in view of their demographics, their right policy for them, but it's creating
+[DRUCKER] quite new opportunities
+[DRUCKER] on the world market and quite
+[DRUCKER] new stresses and
+[DRUCKER] I think that the
+[DRUCKER] almost developing countries
+[DRUCKER] are the most interesting part
+[DRUCKER] of the world economy
+[DRUCKER] they have been showing tremendous
+[DRUCKER] growth potential
+[DRUCKER] at a very
+[DRUCKER] difficult time because they were
+[DRUCKER] most severely hit
+[DRUCKER] by OPEC
+[DRUCKER] and yet they have done
+[DRUCKER] And the third thing which I shall talk about, and here I'm going out on a limb which I promptly will then saw off behind me, is I think one can say with something like 75% probability that the terms of trade will not improve in favor of the raw material producing countries,
+[DRUCKER] except for the major food producers, but will continue to deteriorate.
+[DRUCKER] You know, if you look as a non-economist, which I am,
+[DRUCKER] I'm a consumer of economics, not a producer.
+[DRUCKER] If you look at economics, one of the things that underlies
+[DRUCKER] the 20th century crisis of economics,
+[DRUCKER] and some of you know that I was a member of the original Keynes Seminar,
+[DRUCKER] so I've been in crisis a long time.
+[DRUCKER] is the fact that the basic assumption
+[DRUCKER] the 19th century economists made axiomatically
+[DRUCKER] that as you industrialize,
+[DRUCKER] you lose the capacity for effective, efficient,
+[DRUCKER] and competitive food production,
+[DRUCKER] which was a generalization of the British and Belgian models.
+[DRUCKER] That that was no longer true,
+[DRUCKER] that on the contrary,
+[DRUCKER] the more highly advanced industrially a country, the more productive its agriculture.
+[DRUCKER] Even the British one has recovered from the low point of late Victorian agriculture
+[DRUCKER] in terms both of total production and productivity,
+[DRUCKER] even though it was then for so long sacrificed to the political expediency and considerations of the empire.
+[DRUCKER] But this is no longer true.
+[DRUCKER] The most, precisely because agriculture has become both the most capital intensive and the most knowledge intensive of all our major economic sectors, it is most productive in highly developed countries such as the United States and Canada, which to a large extent underlies the Northwest tension.
+[DRUCKER] And beginning with 1900 or so, interrupted by two world wars, the terms of trade have steadily drifted against countries that are primarily raw material producers.
+[DRUCKER] In fact, I think one can say that the only way for a country to have advantageous terms of trade is to have the knowledge base which only a modern industrial establishment can give you.
+[DRUCKER] This, I think, even goes for the OPEC countries, whose future I do not view with great optimism,
+[DRUCKER] not for any length of time, politically, socially, or economically.
+[DRUCKER] But except for situations where you can have a temporary monopoly, the rest of the pure
+[DRUCKER] raw materials I think are likely to have a continuing downward drift in their
+[DRUCKER] terms of trade whether that's metals or minerals or forest products for reasons
+[DRUCKER] which I do not quite understand but I think that the interruptions of this
+[DRUCKER] trend are temporary they are mostly wars or period of high uh confusion such as the uh when panic
+[DRUCKER] and then you get this sudden inflationary boom and followed by collapse such as we have seen in
+[DRUCKER] almost any major commodity the last five years the small thing is to stay out of the boom then
+[DRUCKER] And I think that if you plot it on a secular basis, you will see a continuing downward
+[DRUCKER] drift of the terms of trade, largely because the marketing, the purchasing power of the
+[DRUCKER] developed world is so great.
+[DRUCKER] And this will be accelerated by automation.
+[DRUCKER] And so the last thing I would say is that I foresee a widening of the north-south gap
+[DRUCKER] rather than a narrowing, no matter what aid policies there are, what transfer policies
+[DRUCKER] there are, except for the almost developed countries as they develop their knowledge
+[DRUCKER] base and the ability to market not so much products as the results of their labor, their
+[DRUCKER] abundant labor stages of production in the developed countries and then build their own
+[DRUCKER] domestic markets.
+[DRUCKER] These, I think, are some of the things to say.
+[DRUCKER] Let me say to me the most important single factor from the point of view of the structure
+[DRUCKER] of the world economy, is the diminishing role of capital, even though capital will be increasingly
+[DRUCKER] in short supply. Capital formation today is totally inadequate, as it always is in an
+[DRUCKER] inflationary period. After all, inflation is the destruction of capital by government.
+[DRUCKER] and that and one of the few things government is good at and very good at
+[DRUCKER] and so we have inadequate capital formation aggravated let me see by the
+[DRUCKER] fact that totally unlike the Keynesian assumption we have built into the modern
+[DRUCKER] economy and under savings tendency, based on our age structure, based on the fact
+[DRUCKER] that everybody in this room saves some 25 to 30 percent of his income and not a
+[DRUCKER] penny of it becomes capital formation. Social Security, 12 percent of your
+[DRUCKER] salary up to 18,000 or 25,000 now goes out immediately as consumption and what
+[DRUCKER] you put into the pension plan of your company about 70% of it already goes out
+[DRUCKER] when then the rest of the saving of most of us is the mortgage on the house and
+[DRUCKER] that the house is not capital the house is durable consumer goods with a good
+[DRUCKER] resale value, but it is not the productive asset in the economist's sense.
+[DRUCKER] So here is something like 40% of the typical wage and salary recipient income in developed
+[DRUCKER] countries that he looks upon as savings, and therefore he does not see any need to save
+[DRUCKER] more if you plot capital accumulation rates in relation to social security, then there
+[DRUCKER] is no great difference between Japan and this country. The high rate of capital formation
+[DRUCKER] in Japan is an illusion. The Japanese have no social security payment and very practically
+[DRUCKER] nothing per way of a pension plan and almost even less per way of a mortgage than Arnold
+[DRUCKER] homo us. And if you adjust for that, then the Japanese form more capital than we do,
+[DRUCKER] but not much more. Nor do the Germans. The Germans are the highest probably. So basically
+[DRUCKER] we are trading what may have been genuine capital formation. I've never been convinced
+[DRUCKER] that the economist really knows how to measure it. Again, things that are clearly savings
+[DRUCKER] but not capital formation. So there is a built-in tendency towards under-saving in any

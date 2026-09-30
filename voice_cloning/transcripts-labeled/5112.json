@@ -1,0 +1,3073 @@
+{
+ "pointer": "5112",
+ "media": "5112.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 3596.3,
+ "segments": [
+  {
+   "start": 2.13,
+   "end": 24.83,
+   "text": "Some people coming in. Do I get any more papers from anybody? Today we are tackling our last case in this module because next Tuesday I think we'll keep our session open for questions from you.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.934
+  },
+  {
+   "start": 24.83,
+   "end": 44.43,
+   "text": "But let me say that I hope you will direct your questions to at least areas that are contiguous to management. Somebody, when I came in, somebody waylaid me and said, can we discuss the code strike today?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 44.43,
+   "end": 49.43,
+   "text": "But not in this class. At dinner, yes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 49.43,
+   "end": 55.43,
+   "text": "Because, A, I have nothing to contribute that you can't read in the papers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 55.43,
+   "end": 58.43,
+   "text": "I read exactly the same papers you do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 58.43,
+   "end": 63.43,
+   "text": "And secondly, because, let's stick to it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 63.43,
+   "end": 68.43,
+   "text": "We have little enough time, seven modules is a very short period.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 68.43,
+   "end": 77.43,
+   "text": "somewhat to what's a big enough and big enough and worthy enough subject matter.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 77.43,
+   "end": 84.43,
+   "text": "So next week if you have questions, they should be in and around the management, whether they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 84.43,
+   "end": 91.43,
+   "text": "deal with your personal effectiveness or with organization or with decision making.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 91.43,
+   "end": 125.31,
+   "text": "But things that have to do with somewhat related to our authorized and announced topic, you know, we're not going to be terribly pedantic about it, but still, at the core strike, I think some outside, on the other hand, somebody might say, well, here is the reorganization of a major company or major government agency.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 125.31,
+   "end": 134.31,
+   "text": "How does it fit in with what we know about what is the right way or the wrong way to structure?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 134.31,
+   "end": 139.31,
+   "text": "That's fine, even though we haven't paid much attention to modern recovery and legal structure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 139.31,
+   "end": 143.31,
+   "text": "That's well within our purview.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 143.31,
+   "end": 147.31,
+   "text": "Who wants to start and what are the results?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 147.31,
+   "end": 159.49,
+   "text": "Incidentally, anybody here know enough?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.425
+  },
+  {
+   "start": 159.49,
+   "end": 182.32,
+   "text": "You know what hospital this is? Very well known. In the Midwest. But I have dramatized the story slightly, but very slightly. Let's telescope the time frame. Yes, sir.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.912
+  },
+  {
+   "start": 182.32,
+   "end": 191.32,
+   "text": "I have one question. This is a community hospital. Do the doctors own the hospital? Who owns the hospital?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.556
+  },
+  {
+   "start": 191.32,
+   "end": 195.32,
+   "text": "Who owns the community hospital normally?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 195.32,
+   "end": 196.32,
+   "text": "Corporate?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 196.32,
+   "end": 197.32,
+   "text": "No.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 197.32,
+   "end": 199.32,
+   "text": "Who owns the community hospital?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 199.32,
+   "end": 200.32,
+   "text": "No.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 200.32,
+   "end": 202.32,
+   "text": "Not in this country.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 202.32,
+   "end": 203.32,
+   "text": "Just the corporation?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 203.32,
+   "end": 206.32,
+   "text": "What is the corporation?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 206.32,
+   "end": 208.32,
+   "text": "The answer is no one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 208.32,
+   "end": 210.32,
+   "text": "No one?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 210.32,
+   "end": 215.32,
+   "text": "The answer is the corporation of the public law.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 215.32,
+   "end": 218.32,
+   "text": "If you want to incorporate into the public law,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 218.32,
+   "end": 222.32,
+   "text": "you need three corporators, and that's all you do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 222.32,
+   "end": 225.32,
+   "text": "Then you meet in the lawyer's office,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 225.32,
+   "end": 227.32,
+   "text": "and you establish that you're not for profit,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 227.32,
+   "end": 230.32,
+   "text": "and therefore you don't have to register with the Secretary of State",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 230.32,
+   "end": 233.32,
+   "text": "of the sovereign state of California, or whatever it is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 233.32,
+   "end": 235.32,
+   "text": "And off you go.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 241.63,
+   "end": 246.0,
+   "text": "The idea that somebody has to own...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 247.0,
+   "end": 249.0,
+   "text": "What difference does it make anyhow?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 249.0,
+   "end": 270.8,
+   "text": "here is that hospital which burner runs which is an airport hospital there's no",
+   "speaker": "drucker",
+   "drucker_coverage": 0.839
+  },
+  {
+   "start": 270.8,
+   "end": 276.32,
+   "text": "doubt to own the airport do you think it run very differently from the community",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 276.32,
+   "end": 284.0,
+   "text": "hospital if you have a little broken leg did they do anything different there and",
+   "speaker": "drucker",
+   "drucker_coverage": 0.87
+  },
+  {
+   "start": 284.0,
+   "end": 288.58,
+   "text": "next to you is the hospital that the doctor don't do they run it very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 288.58,
+   "end": 298.92,
+   "text": "differently and then there's a hospital the city of Los Angeles or the county",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 298.92,
+   "end": 303.6,
+   "text": "runs and they have problems in there because but they're not ownership",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 303.6,
+   "end": 314.84,
+   "text": "problems so ownership has become a very unimportant secondary factor in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 314.84,
+   "end": 349.4,
+   "text": "Practically everything. Control and management matters. So here we have a community hospital, the corporation owned it. The membership corporation means that the members elect the board and the board appoints the members.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.913
+  },
+  {
+   "start": 349.4,
+   "end": 364.31,
+   "text": "that the membership corporation and the liabilities and responsibilities of",
+   "speaker": "drucker",
+   "drucker_coverage": 0.799
+  },
+  {
+   "start": 364.31,
+   "end": 373.63,
+   "text": "these two organs are very woolly affairs. I would today, however, advise you not to go on the board of a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 373.63,
+   "end": 381.15,
+   "text": "community hospital unless you are willing to work pretty hard and we have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 381.15,
+   "end": 389.25,
+   "text": "adequate liability insurance, because you are almost certainly the target of a malpractice suit.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 389.25,
+   "end": 404.04,
+   "text": "You are the board is the corporation and is liable, personally. Now what are the results, how did it go about that?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 404.04,
+   "end": 422.5,
+   "text": "What is the case, what about it? Are you willing to make the stab at it? Yes, sir.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.702
+  },
+  {
+   "start": 422.5,
+   "end": 424.5,
+   "text": "Can you speak up?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 424.5,
+   "end": 428.5,
+   "text": "They haven't defined what the objectives are of the hospital.",
+   "speaker": "other",
+   "drucker_coverage": 0.25
+  },
+  {
+   "start": 428.5,
+   "end": 430.5,
+   "text": "They just go day by day.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 430.5,
+   "end": 439.34,
+   "text": "And that's the key of the case, the lack of...",
+   "speaker": "other",
+   "drucker_coverage": 0.152
+  },
+  {
+   "start": 439.34,
+   "end": 441.34,
+   "text": "Are you sure?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 441.34,
+   "end": 443.34,
+   "text": "I mean, you make an assertion.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 443.34,
+   "end": 448.34,
+   "text": "Is there much evidence? Is there really foundation for it in the case?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 448.34,
+   "end": 452.68,
+   "text": "Well, at the end of the case,",
+   "speaker": "other",
+   "drucker_coverage": 0.267
+  },
+  {
+   "start": 452.68,
+   "end": 464.22,
+   "text": "Three, five, ten years later, I've asked for a number on one of the answers on the story.",
+   "speaker": "other",
+   "drucker_coverage": 0.106
+  },
+  {
+   "start": 464.22,
+   "end": 476.14,
+   "text": "Yes, you know, maybe not. But you still need to see. They haven't set the objective seriously, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.916
+  },
+  {
+   "start": 476.14,
+   "end": 481.14,
+   "text": "No warrant in the case for it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 481.14,
+   "end": 488.14,
+   "text": "And incidentally, one doesn't make the necessary assumption.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 488.14,
+   "end": 497.86,
+   "text": "You have heard me talk about , I'm sure have you?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.691
+  },
+  {
+   "start": 497.86,
+   "end": 500.86,
+   "text": "You can't start .",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 500.86,
+   "end": 502.86,
+   "text": "This is not the necessary assumption.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 502.86,
+   "end": 505.86,
+   "text": "You don't make it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 505.86,
+   "end": 509.86,
+   "text": "It's quite .",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 509.86,
+   "end": 518.79,
+   "text": "They have too many of them.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.888
+  },
+  {
+   "start": 518.79,
+   "end": 528.3,
+   "text": "and not compatible with one another.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.737
+  },
+  {
+   "start": 528.3,
+   "end": 541.44,
+   "text": "Anybody here willing to argue that Armstrong asked the wrong question?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.467
+  },
+  {
+   "start": 541.44,
+   "end": 543.18,
+   "text": "What question?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 543.18,
+   "end": 544.12,
+   "text": "He says,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 544.12,
+   "end": 550.03,
+   "text": "I still don't know what results are or should be.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 550.03,
+   "end": 556.54,
+   "text": "Is there a doctor in the house? No?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 556.54,
+   "end": 557.98,
+   "text": "You know any",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 557.98,
+   "end": 560.94,
+   "text": "American physician",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 560.94,
+   "end": 566.61,
+   "text": "would say this is a stupid question.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 566.61,
+   "end": 569.67,
+   "text": "See, what do you mean results of the hospital?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 569.67,
+   "end": 584.24,
+   "text": "The hospital is a cost center. I have results in my practice, and the hospital is an extension of my practice.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 584.24,
+   "end": 599.19,
+   "text": "And there are no results of the hospital. The hospital can be damaged, can upset patients, can hurt them, but it can't do anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 599.19,
+   "end": 616.09,
+   "text": "I can't have results until, the only way to measure a hospital is whether they, whether it adequately supports me in my practice.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 616.09,
+   "end": 622.09,
+   "text": "I know what results are, you would say, in my practice. I know what I expect.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 622.09,
+   "end": 636.69,
+   "text": "Oh, it's serious that he really does, but I have a pretty good idea. Maybe I can't quantify it, but I can define. And there are lots of good ones, too, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 636.69,
+   "end": 640.69,
+   "text": "They do look at rich women on their practice and say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 640.69,
+   "end": 646.32,
+   "text": "what am I doing by my patients?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 646.32,
+   "end": 650.32,
+   "text": "And the hospital is a place where I put my patients",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 650.32,
+   "end": 653.32,
+   "text": "so that I get access to resources.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 653.32,
+   "end": 657.12,
+   "text": "They are my resources.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 657.12,
+   "end": 661.56,
+   "text": "I order the x-rays, not the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 661.56,
+   "end": 667.48,
+   "text": "I order the sleeping pills, not the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 667.48,
+   "end": 673.84,
+   "text": "I make the diagnosis, not the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 673.84,
+   "end": 692.22,
+   "text": "The question is, does the hospital satisfy my expectations?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 692.22,
+   "end": 695.22,
+   "text": "And I know how to measure the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 695.22,
+   "end": 707.64,
+   "text": "On the one hand, I look at how well they do the jobs which I order them to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.839
+  },
+  {
+   "start": 707.64,
+   "end": 709.64,
+   "text": "Do I get those x-rays back?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 709.64,
+   "end": 715.64,
+   "text": "Hey, do I get the right x-rays back to mix up my patients?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 715.64,
+   "end": 725.78,
+   "text": "Do I get the x-rays well needed to read?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 725.78,
+   "end": 727.78,
+   "text": "Do I get them back fast enough?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 727.78,
+   "end": 742.63,
+   "text": "When there is a crisis and they mobilize the resources of the hospital, are they available?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.933
+  },
+  {
+   "start": 742.63,
+   "end": 755.91,
+   "text": "And there is a minimum standard of patient care.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.887
+  },
+  {
+   "start": 755.91,
+   "end": 765.14,
+   "text": "If the hospital falls below it, my patients will move and drive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 765.14,
+   "end": 767.32,
+   "text": "They will rebuild.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 767.32,
+   "end": 773.12,
+   "text": "And eventually, what made the choice to go to another hospital are those patients.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 773.12,
+   "end": 775.52,
+   "text": "And that's what I mean by results.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 775.52,
+   "end": 779.92,
+   "text": "The results, they're not results of the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 779.92,
+   "end": 790.16,
+   "text": "They don't want to go through the costs since they're not the results of the government.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.902
+  },
+  {
+   "start": 790.16,
+   "end": 795.16,
+   "text": "Much doubt that the typical internist would argue that way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 795.16,
+   "end": 803.44,
+   "text": "No, I don't think the internist would argue that way.",
+   "speaker": "other",
+   "drucker_coverage": 0.101
+  },
+  {
+   "start": 803.44,
+   "end": 806.44,
+   "text": "That's the workshop viewpoint of the doctor,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.813
+  },
+  {
+   "start": 806.44,
+   "end": 812.44,
+   "text": "but the overall responsibility still rests with the Board of Trustees.",
+   "speaker": "other",
+   "drucker_coverage": 0.26
+  },
+  {
+   "start": 812.44,
+   "end": 822.76,
+   "text": "And we're getting confident documents on the staff of the hospital for working.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.413
+  },
+  {
+   "start": 822.76,
+   "end": 829.76,
+   "text": "Well, no doubt it's a war of prestige and responsibility, but is it for results or for standards?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 829.76,
+   "end": 837.2,
+   "text": "It doesn't really matter.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 837.2,
+   "end": 855.3,
+   "text": "What's the doctor's point of view? What does the doctor consider a well-managed hospital?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.613
+  },
+  {
+   "start": 855.3,
+   "end": 860.3,
+   "text": "Let me say, you bring a malpractice issue against the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 860.3,
+   "end": 864.3,
+   "text": "Do you bring it because of a lack of results or what?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 864.3,
+   "end": 869.7,
+   "text": "What does a malpractice issue allege?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.815
+  },
+  {
+   "start": 869.7,
+   "end": 874.93,
+   "text": "Negative results?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 874.93,
+   "end": 876.93,
+   "text": "No, not results, never.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 876.93,
+   "end": 877.93,
+   "text": "Negligence?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 877.93,
+   "end": 882.56,
+   "text": "Violation of the procedure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 882.56,
+   "end": 888.56,
+   "text": "It would have been proper procedure to take a second blood test.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 888.56,
+   "end": 890.56,
+   "text": "And it wasn't done.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 890.56,
+   "end": 920.81,
+   "text": "That's procedure, and the physician who testifies for the defense would testify that it isn't proper procedure to take a second blood test with this diagnosis. One will do, and the plaintiff will allege that it violates good procedure not to take a second one. It's negligent.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 921.81,
+   "end": 933.15,
+   "text": "Procedure. We say the physician looks upon the hospital purely for procedure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 933.15,
+   "end": 939.68,
+   "text": "Is there good procedure, not is there good result? Yes, sir.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 939.68,
+   "end": 945.82,
+   "text": "Yes, there are two.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.837
+  },
+  {
+   "start": 945.82,
+   "end": 955.16,
+   "text": "The result should be to have more activity.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.625
+  },
+  {
+   "start": 955.16,
+   "end": 963.16,
+   "text": "not with the cost of it, and whether the facilities are used,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 963.16,
+   "end": 968.16,
+   "text": "whether or not it's determined by the physician very largely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 968.16,
+   "end": 981.63,
+   "text": "We see that wherever you have the emphasis on procedure or ritual,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 981.63,
+   "end": 1009.88,
+   "text": "You don't focus that. You look at the oldest continuous civilization the world has now, which is China. And you know in the Chinese tradition results are never known.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.805
+  },
+  {
+   "start": 1009.88,
+   "end": 1035.56,
+   "text": "always good procedure. The whole Confucian idea is that behavior in conformity with the proper rules, while it does not ensue a success, violation therefore guarantees disaster, to violate the harmony of the universe.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1035.56,
+   "end": 1055.6,
+   "text": "And as long as you observe proper procedure, you have done whatever you can do, and results are meaningless to you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1055.6,
+   "end": 1075.17,
+   "text": "And this is written and procedural, ritual behavior, not results matters.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.821
+  },
+  {
+   "start": 1075.17,
+   "end": 1080.17,
+   "text": "Provided he have said please, you can slit his throat with impurity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1080.17,
+   "end": 1086.17,
+   "text": "But you better say please. There's something to be said for that view.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1086.17,
+   "end": 1099.11,
+   "text": "But, so maybe, how about the physician in other countries, do you know?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1099.11,
+   "end": 1103.11,
+   "text": "Would you like me to take the view of the internist,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1103.11,
+   "end": 1108.11,
+   "text": "that the American internist looks upon the hospital as his workshop?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1108.11,
+   "end": 1113.11,
+   "text": "What do you say? The extension of his office.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1113.11,
+   "end": 1122.65,
+   "text": "If it's Australia, he might be in charge of the hospital.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.371
+  },
+  {
+   "start": 1122.65,
+   "end": 1132.65,
+   "text": "Well, but there's still a line between his being the administrator with an M.D. degree",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1132.65,
+   "end": 1135.65,
+   "text": "and the administrator as the M.D., practicing physician.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1135.65,
+   "end": 1141.65,
+   "text": "Let me say that in the Army Hospital where Colonel Brunner worked,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1141.65,
+   "end": 1146.65,
+   "text": "your administrator is likely still to be an M.D., isn't it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1146.65,
+   "end": 1156.65,
+   "text": "I'm sure. But where he has the license to practice medicine, I don't think he does, does he? Occasionally.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1156.65,
+   "end": 1163.65,
+   "text": "It's becoming more and more common for the names of the hospitals to actually be practicing.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.714
+  },
+  {
+   "start": 1163.65,
+   "end": 1173.65,
+   "text": "Actually, because they are frustrated otherwise. But let me say, he draws a good line between the two things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1173.65,
+   "end": 1186.65,
+   "text": "The army or the military isn't ready yet to have non-MDs administer hospitals, and therefore it has to frustrate physicians.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1186.65,
+   "end": 1190.65,
+   "text": "Only people don't go into medicine, let me say, to administer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1190.65,
+   "end": 1196.65,
+   "text": "That's the only motivation for becoming a doctor, the least likely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1196.65,
+   "end": 1212.65,
+   "text": "and getting the military that you have to, beyond a certain rank, and so they are very trusty, so the military, and says alright, on alternate Fridays you can still kill people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1212.65,
+   "end": 1223.21,
+   "text": "And so, but then you are a physician and not an administrator, so it goes on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1223.21,
+   "end": 1243.76,
+   "text": "Now, if you go to the British Health Service, got any idea how the hospital is organized there?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.708
+  },
+  {
+   "start": 1243.76,
+   "end": 1251.41,
+   "text": "Jim, you know it, don't you? Jim Carroll. You stayed out of it?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.869
+  },
+  {
+   "start": 1251.41,
+   "end": 1253.41,
+   "text": "Yes, I stayed out of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1253.41,
+   "end": 1275.81,
+   "text": "Well, there the hospital is totally divorced from the practicing physician in the community who cannot even refer patients to the hospital officially or unofficially in the smaller places he does.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1275.81,
+   "end": 1289.81,
+   "text": "The hospital has its own staff of salaried, employed people, though they can have a private practice on the side, but they're full-time, employed staff.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1289.81,
+   "end": 1304.19,
+   "text": "And they're the only ones, in fact, who work in the hospital. They're employees of the hospital, which is a governmental institution.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1304.19,
+   "end": 1320.36,
+   "text": "And there you would get a very different answer because the hospital is clearly not the workshop of the community physician.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1320.36,
+   "end": 1329.96,
+   "text": "It is a place that exists to take care of serious damage that has already been done.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1329.96,
+   "end": 1332.96,
+   "text": "No nonsense about preventive medicine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1332.96,
+   "end": 1341.78,
+   "text": "Very few British hospitals have maternity and most of them have closed it, because having",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1341.78,
+   "end": 1348.09,
+   "text": "a baby is not really a disease.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1348.09,
+   "end": 1361.66,
+   "text": "That's done in basically lying in facilities which are more, it's a diagnostic and treatment",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1361.66,
+   "end": 1362.66,
+   "text": "center.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1362.66,
+   "end": 1378.51,
+   "text": "And in this country, the physician who refers you to the hospital knows that these patients are automatically admitted.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1378.51,
+   "end": 1389.51,
+   "text": "In the British hospital, they are not admitted by an outside physician, only by the inside, by the registrar.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1389.51,
+   "end": 1403.37,
+   "text": "And the registrar or the report of the title there is quite apt to say no, no reasons.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1403.37,
+   "end": 1409.37,
+   "text": "Not serious enough that physicians in the community can take care of it perfectly,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1409.37,
+   "end": 1414.37,
+   "text": "or the family can. No reason to have people come to the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1414.37,
+   "end": 1434.75,
+   "text": "And there you have a very clear objective, not that clear, but the definition of the hospital's function is to take care of damage that has already been done, serious damage, fairly serious.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1434.75,
+   "end": 1454.41,
+   "text": "And one can set, maybe objectives is a very big word, one can set expectations, and one can then do, say, well, how well do we measure up against the hospital, as such.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1454.41,
+   "end": 1468.4,
+   "text": "The American hospital, from the point of view of the American physicians, the hospital is a building, not an institute.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1468.4,
+   "end": 1480.4,
+   "text": "He and the other physicians in the community share a facility simply because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1480.4,
+   "end": 1496.4,
+   "text": "Not one of them has enough patience to justify, to make possible, the cost and the skills and the support which modern practice of medicine requires.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1497.4,
+   "end": 1504.4,
+   "text": "But fundamentally the physician, the American physician, is like certainly the older generation of Americans.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1504.4,
+   "end": 1521.0,
+   "text": "You look upon the hospital as a place, as a workshop, as a toolbox, as many physicians would say. And as such it's got no results.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1521.0,
+   "end": 1543.53,
+   "text": "So it can do a poorer job or a better job. But that is, the results are entirely in the physician's practice. And the hospital can do damage. However, it cannot have results.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1543.53,
+   "end": 1558.47,
+   "text": "And the malpractice suit, let me say, has exactly the same features of rationale.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.9
+  },
+  {
+   "start": 1558.47,
+   "end": 1568.52,
+   "text": "It is no defense to the malpractice suit that the patient recovers. The outcome is irrelevant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1568.52,
+   "end": 1581.84,
+   "text": "The allegation of the malpractice suit is that the patient or the hospital did not observe proper practice.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.925
+  },
+  {
+   "start": 1581.84,
+   "end": 1612.65,
+   "text": "Not the result. Now it is unlike that somebody who recovers nicely and beautifully is going to bring a malpractice, but it's by no means unknown. And on the other hand, lack of results is irrelevant to the malpractice.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1612.65,
+   "end": 1631.78,
+   "text": "My practice here starts out with the assumption that there is, at any given time, within their known established parameters of knowledge, a good practice.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1631.78,
+   "end": 1645.99,
+   "text": "And to please, good practice is adequate defense in any negligence, you may appreciate. Negligence is always ritualistic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1649.78,
+   "end": 1662.46,
+   "text": "Here you have a dog, normally fairly well-behaved beast, and you have tied the dog up.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.882
+  },
+  {
+   "start": 1662.46,
+   "end": 1675.17,
+   "text": "And in a thunderstorm, the dog has never been paranoid in a thunderstorm before, but you know some dogs do get very upset.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.882
+  },
+  {
+   "start": 1675.17,
+   "end": 1686.17,
+   "text": "And in a thunderstorm, suddenly that nice loving family pet becomes hysterical,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1686.17,
+   "end": 1692.17,
+   "text": "chews through her leash and runs out in the street and runs into the bicycle.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1692.17,
+   "end": 1701.53,
+   "text": "and the boy on the bicycle has a bad spilling, cracks a few ribs and what have you.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.84
+  },
+  {
+   "start": 1701.53,
+   "end": 1715.34,
+   "text": "That is not relevant. What is relevant is knowing the history of the dog,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1715.34,
+   "end": 1721.88,
+   "text": "who never before ran out in the street and attacked anybody.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1721.88,
+   "end": 1735.11,
+   "text": "You observe proper ritual, proper practice, proper procedure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1735.11,
+   "end": 1742.11,
+   "text": "You tied up the dog, the dog never before chewed her leash through, never before tore loose.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1742.11,
+   "end": 1749.11,
+   "text": "Well, that's fine. Dogs are not considered inherently vicious animals.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1749.11,
+   "end": 1757.41,
+   "text": "On the other hand, if that had been a bail, there is no defense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1757.41,
+   "end": 1771.97,
+   "text": "Old doctrine that the keeper of a vicious animal is liable regardless of any negligence or guilt.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1771.97,
+   "end": 1776.97,
+   "text": "What underlies European automobile insurance concepts?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1776.97,
+   "end": 1784.97,
+   "text": "where a Swiss judge in 1906, when nobody knew what to do with the automobile,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1784.97,
+   "end": 1787.97,
+   "text": "that automobile was basically a vicious animal.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1787.97,
+   "end": 1792.32,
+   "text": "And therefore, whoever keeps it is liable, period.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1792.32,
+   "end": 1796.32,
+   "text": "Whether he observes proper precautions or not.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1796.32,
+   "end": 1802.32,
+   "text": "A vicious animal, if you have to have one around your life, don't help.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1802.32,
+   "end": 1810.32,
+   "text": "there is no proper procedure precisely because it is a vicious animal.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1810.32,
+   "end": 1820.32,
+   "text": "But a dog is not considered a vicious animal unless there is a history of being vicious.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1820.32,
+   "end": 1831.6,
+   "text": "And you have observed proper practice and therefore you are not negligent.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1831.6,
+   "end": 1841.06,
+   "text": "So the first question is what kind of an institution? Do you have an institution at home?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1841.06,
+   "end": 1849.06,
+   "text": "Because if you don't, you see, if all you have is a building filled with instruments",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1849.06,
+   "end": 1859.06,
+   "text": "and with people who carry out the doctor's instructions with high degree of skill,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1859.06,
+   "end": 1870.06,
+   "text": "But still, the doctors' instructions, and we increasing it, the nurses in a kind of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1870.06,
+   "end": 1880.5,
+   "text": "twilight zone today, very much so we call it, the nice, pleasant idea of the physicians",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1880.5,
+   "end": 1886.5,
+   "text": "that she just carries out after the orders is able to be too absurd to be swallowed,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1886.5,
+   "end": 1896.74,
+   "text": "except by physicians, and so, but basically, but still the law, neither the law nor the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1896.74,
+   "end": 1901.62,
+   "text": "let alone the physicians have accepted the fact that the nurse is the executive officer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1901.62,
+   "end": 1911.44,
+   "text": "of the hospital and not a highly skilled health worker. But that's fairly recent, that's the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1911.44,
+   "end": 1916.2,
+   "text": "last 80, 40 years, you see, and things don't move quite that fast.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1917.64,
+   "end": 1923.42,
+   "text": "Now, the first question is, is it a meaningful question to see what are the results in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1923.42,
+   "end": 1923.7,
+   "text": "hospital?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1924.62,
+   "end": 1925.22,
+   "text": "Yes, sir.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1925.94,
+   "end": 1930.3,
+   "text": "Are you saying, in effect, that you can't have results in a service-oriented business?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1930.32,
+   "end": 1931.74,
+   "text": "No, not serious.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1931.74,
+   "end": 1935.74,
+   "text": "In a service-oriented business, you cannot have results.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1936.36,
+   "end": 1940.12,
+   "text": "But you don't in the hospital provide services to the doctor?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1941.44,
+   "end": 1957.24,
+   "text": "Yes, the doctor may say, this hospital does not provide. All right, you already see, maybe you then look at the hospital and you define the results as satisfying to the doctor. He's your customer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1957.24,
+   "end": 1964.24,
+   "text": "And that's what most hospital administrators would say, let me see.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1964.24,
+   "end": 1969.52,
+   "text": "They would not say it out loud, because it isn't popular.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1969.52,
+   "end": 1974.83,
+   "text": "But you know, there is another characteristic of the American hospital,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1974.83,
+   "end": 1979.83,
+   "text": "which is unlikely to be found in any other place, unlikely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1979.83,
+   "end": 1982.83,
+   "text": "It's competitive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1982.83,
+   "end": 2001.26,
+   "text": "Here out in this part of the world, how many hospitals do we have that compete for the K-1 position?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.946
+  },
+  {
+   "start": 2001.26,
+   "end": 2002.26,
+   "text": "Six.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2002.26,
+   "end": 2006.26,
+   "text": "Six. With any enough driving distance?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2006.26,
+   "end": 2015.26,
+   "text": "Apart from the fact that there's kind of permanent competition with the whole group of private physicians in this area, very strong.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2015.26,
+   "end": 2024.68,
+   "text": "away about three major within that we see anybody know within what we use",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2024.68,
+   "end": 2030.02,
+   "text": "hospitals compete community heart was in Mayo Clinic is something else again or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2030.02,
+   "end": 2037.16,
+   "text": "the city of hope I mean but the ordinary community with one radius you know one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2037.16,
+   "end": 2052.26,
+   "text": "way five months one way yeah why oh what about the patient's family we say that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2052.26,
+   "end": 2057.96,
+   "text": "and what is very interesting is that whereas in practically all other",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2057.96,
+   "end": 2065.46,
+   "text": "institutions the competitive radius is lengthening in hospital is shrinking",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2065.46,
+   "end": 2071.8,
+   "text": "Anybody know why? Because of so many married women working.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2071.8,
+   "end": 2081.18,
+   "text": "The mother of the child, you know, who doesn't work, can drive eight miles.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2081.18,
+   "end": 2087.49,
+   "text": "Here's little Susie in the hospital, but here's mother working.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2087.49,
+   "end": 2092.49,
+   "text": "And so she has to visit little Susie on her way home or on her way to work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2092.49,
+   "end": 2099.49,
+   "text": "And so she's becoming more aware of the need to have the hospital close by.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2099.49,
+   "end": 2115.62,
+   "text": "Incidentally, this is not seen either by the public or by the traditional health care people,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2115.62,
+   "end": 2119.62,
+   "text": "or they would build hospitals out of cardboard.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2119.62,
+   "end": 2125.62,
+   "text": "And this hurts, because if a hospital has to be where people are,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2125.62,
+   "end": 2131.62,
+   "text": "then by definition any hospital is in the wrong location within 25 years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2131.62,
+   "end": 2140.69,
+   "text": "There are, in this country, very few population centers that do not have structural changes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2140.69,
+   "end": 2149.61,
+   "text": "within a generation, and then the hospitals are in the wrong place, which not only means",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2149.61,
+   "end": 2156.13,
+   "text": "that you have an expensive facility where the patient ain't, but you have no hospital",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2156.13,
+   "end": 2159.86,
+   "text": "where they are.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2159.86,
+   "end": 2167.56,
+   "text": "And so actually hospitals and schools ought not to be considered monuments, but temporary",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2167.56,
+   "end": 2169.82,
+   "text": "buildings.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2169.82,
+   "end": 2179.51,
+   "text": "And one of the most badly needed inventions is the building material that on the first",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2179.51,
+   "end": 2186.45,
+   "text": "day of the 26 years dissolves into component atoms.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2186.45,
+   "end": 2189.21,
+   "text": "Otherwise, you keep on in temporary buildings, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2189.21,
+   "end": 2194.33,
+   "text": "The tendency of the human being is to keep on in temporary.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2194.33,
+   "end": 2197.83,
+   "text": "It's packed it up.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2197.83,
+   "end": 2200.79,
+   "text": "Hospitals become both also too expensive to maintain.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2200.79,
+   "end": 2207.83,
+   "text": "All the hospitals you deal with, they're very rapidly changing technology.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2207.83,
+   "end": 2212.63,
+   "text": "If you look at a modern hospital today, 60% of the instrumentation,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2212.63,
+   "end": 2217.22,
+   "text": "it was not ended at the end of World War II.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2217.22,
+   "end": 2224.82,
+   "text": "no other productive facility that has changed so drastically. And so there's nothing more",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2224.82,
+   "end": 2232.72,
+   "text": "expensive than to pour new old wine, new wine in those bottles. That's what we've been doing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2232.72,
+   "end": 2237.32,
+   "text": "Hospitals in this country are very competitive whereas in most of the rest of the world they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2237.32,
+   "end": 2251.58,
+   "text": "enough. This is partly because the American hospital came in with population and the European",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2251.58,
+   "end": 2259.7,
+   "text": "hospital came in after population. The European hospital is a Greek, you all know that the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2259.7,
+   "end": 2267.34,
+   "text": "Greek hospital is 12th century, that's perfectly true, and it's also perfectly untrue. Fundamentally",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2267.34,
+   "end": 2279.38,
+   "text": "hospitals like retail of the 18th century uh and by that time in western europe at least",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2279.38,
+   "end": 2286.26,
+   "text": "and southern europe settlement was pretty far finished so you knew where people were",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2286.26,
+   "end": 2291.3,
+   "text": "going to be sure that the new major communities the german cities",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2291.3,
+   "end": 2293.3,
+   "text": "between the U.S. and the United States,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2293.3,
+   "end": 2295.3,
+   "text": "and Liverpool and Manchester,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2295.3,
+   "end": 2297.3,
+   "text": "but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2297.3,
+   "end": 2299.3,
+   "text": "Birmingham is fairly small, but by",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2299.3,
+   "end": 2301.3,
+   "text": "and large the pattern was established.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2301.3,
+   "end": 2303.3,
+   "text": "And so the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2303.3,
+   "end": 2305.3,
+   "text": "hospital came in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2305.3,
+   "end": 2309.63,
+   "text": "where people already were,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2309.63,
+   "end": 2311.63,
+   "text": "and so the hospital came in, so to speak,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2311.63,
+   "end": 2313.63,
+   "text": "rationally. But also",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2313.63,
+   "end": 2315.63,
+   "text": "the hospital in Europe was from the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2315.63,
+   "end": 2317.63,
+   "text": "beginning a governmental",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2317.63,
+   "end": 2319.63,
+   "text": "institution, not in Great Britain",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2319.63,
+   "end": 2321.63,
+   "text": "but on the continent,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2321.63,
+   "end": 2327.27,
+   "text": "and the part of a local government system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2327.27,
+   "end": 2331.41,
+   "text": "And by design, you have the design",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2331.41,
+   "end": 2338.11,
+   "text": "is 18th century of modern local government, the district.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2338.11,
+   "end": 2343.89,
+   "text": "You had a district tax collector, a district judge,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2343.89,
+   "end": 2351.47,
+   "text": "a district chief of police, and a district hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2351.47,
+   "end": 2354.89,
+   "text": "That's Florence of 1770, which is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2354.89,
+   "end": 2360.27,
+   "text": "the first modern, rational, enlightened governmental structure,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2360.27,
+   "end": 2365.01,
+   "text": "which was then picked up by the French and the Austrians and the Russians",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2365.01,
+   "end": 2368.37,
+   "text": "and the rest of Italy, the Spaniards.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2368.83,
+   "end": 2371.15,
+   "text": "And so you have the district hospitals.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2372.31,
+   "end": 2374.59,
+   "text": "And except in very big cities, that's it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2375.25,
+   "end": 2376.41,
+   "text": "There's no competition.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2379.39,
+   "end": 2383.17,
+   "text": "And the doctor in the district has no choice.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2383.17,
+   "end": 2402.47,
+   "text": "The only hospital that will accept this patient, if you practice in rural France or small town France, is the hospital in the only perfect use. Now then, it has to accept your patient.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2402.47,
+   "end": 2443.75,
+   "text": "And in this country it's a very competitive situation. It isn't only that, every hospital has to try to keep its beds filled. It has to get the local doctors to use it, but also it has to try to be able to attract the leadership of the medical community or it very rapidly loses.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.903
+  },
+  {
+   "start": 2443.75,
+   "end": 2448.75,
+   "text": "it's support by the physicians. They almost have another place to go to.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2448.75,
+   "end": 2453.75,
+   "text": "And so, any hospital administrator normally in this country,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2453.75,
+   "end": 2460.44,
+   "text": "they're asking, whom do you serve? You would say, well,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2460.44,
+   "end": 2465.44,
+   "text": "on whom do I depend? And let me say, patients",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2465.44,
+   "end": 2470.44,
+   "text": "are an ultimate risk trader. There is a hospital in this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2470.44,
+   "end": 2479.02,
+   "text": "community which is not being put out of business but which is somewhat endangered",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2479.02,
+   "end": 2485.4,
+   "text": "because a good many people around here don't like it and they don't like it to the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2485.4,
+   "end": 2493.68,
+   "text": "point where they say to the doctor rather than go there I switch to another",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2493.68,
+   "end": 2503.2,
+   "text": "the doctor and when you reach that point then the hospital is and then the patient has an ultimate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2503.2,
+   "end": 2514.98,
+   "text": "not control impact but how often do you think that happens that one of our colleagues here",
+   "speaker": "drucker",
+   "drucker_coverage": 0.915
+  },
+  {
+   "start": 2516.58,
+   "end": 2519.78,
+   "text": "i think most of you have met repeat we haven't did with many of you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2520.66,
+   "end": 2527.62,
+   "text": "now lou was hired two years ago to take over a hospital that was put out of business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2529.73,
+   "end": 2536.73,
+   "text": "by the citizens of Laguna Beach, basically a loop of beach, what was it, Laguna Beach,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2536.73,
+   "end": 2543.73,
+   "text": "huh? Enough of them had said, rather than go there, I die in my own bed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2543.73,
+   "end": 2549.73,
+   "text": "At least in my own bed they changed the sheet once in a while, huh?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2549.73,
+   "end": 2556.73,
+   "text": "And, but you know that took 25 years of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2556.73,
+   "end": 2561.73,
+   "text": "systematic and purposeful mismanagement. Anybody know what happened or can guess?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2561.73,
+   "end": 2568.11,
+   "text": "This was the Cassidy Hospital. And then",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2568.11,
+   "end": 2573.11,
+   "text": "shrinking in number, refuse to hire lay",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2573.11,
+   "end": 2579.45,
+   "text": "nurses. They insisted on the religious running",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2579.45,
+   "end": 2584.45,
+   "text": "it entirely. There is a point beyond which you can't do that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2584.45,
+   "end": 2590.89,
+   "text": "And they went way beyond that. It isn't that they didn't hire lay",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2590.89,
+   "end": 2600.89,
+   "text": "nurses, but they made life very miserable for itself. They didn't let them do anything to promote or advance their pain.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2600.89,
+   "end": 2612.17,
+   "text": "You know, you resent it and show it. And so the standard of services at hospital, of patient care, and of medical care,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2612.17,
+   "end": 2628.17,
+   "text": "just erode to the point where the patients, the community, meet with their feet, mostly with their feet against the heart.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2628.17,
+   "end": 2640.89,
+   "text": "That's very rare. That's a high degree of erosion. But the physicians do it very fast, much faster.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2640.89,
+   "end": 2662.22,
+   "text": "So, if you look at it as a hospital providing a service, in the sense in which you used to think, something against which other people exchange purchasing power, then you ask, who is the customer?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2662.22,
+   "end": 2667.72,
+   "text": "and one always decides who the customer is by saying well who makes the buying",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2667.72,
+   "end": 2674.98,
+   "text": "decision and it isn't the patient and one of the things which hospital",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2674.98,
+   "end": 2680.28,
+   "text": "administrators today find singularly complexing is that the situation is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2680.28,
+   "end": 2691.65,
+   "text": "changing because the third party pay over the one who pays the bill is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2691.65,
+   "end": 2698.73,
+   "text": "beginning to get into the buying decision. Not in a positive way but in a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2698.73,
+   "end": 2711.23,
+   "text": "negative way. Increasingly they not only determine what the hospital won't, will or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2711.23,
+   "end": 2718.21,
+   "text": "will not get reimbursed for, so they determine what is paid for, but also they determine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2718.21,
+   "end": 2727.45,
+   "text": "increasingly what hospitals to allow their subscribers to go to we have not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2727.45,
+   "end": 2739.88,
+   "text": "reached the point where you work for General Motors and you're under the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2739.88,
+   "end": 2746.54,
+   "text": "health plan and except in an emergency you can choose from these hospitals in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2746.54,
+   "end": 2752.48,
+   "text": "the community but not from others which again the European practice but they're",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2752.48,
+   "end": 2756.76,
+   "text": "They think they are very fast.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2756.76,
+   "end": 2759.76,
+   "text": "GM is in fact in Flint.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2759.76,
+   "end": 2767.13,
+   "text": "When they made the GMC, this GM is doing this with the union or without,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2767.13,
+   "end": 2780.96,
+   "text": "on the basis of our appraisal of the costs and of the standards of care.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2780.96,
+   "end": 2785.96,
+   "text": "And once this happens, quite clearly the third party pays off",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2785.96,
+   "end": 2793.96,
+   "text": "It begins to have some influence, and the most innovative thinker in American health care,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2793.96,
+   "end": 2800.96,
+   "text": "a Boston surgeon by the name of Eckhart, very interesting, is strongly in favor of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2800.96,
+   "end": 2807.96,
+   "text": "He thinks that the one thing that is wrong with our system is that the people who pay the bill,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2807.96,
+   "end": 2815.76,
+   "text": "who are not you and I, the large employers, the large human beings,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2815.76,
+   "end": 2844.19,
+   "text": "Do not take responsibility. Do not use their power, which if you had said that 10 years ago you would have just been howled down when it was absolutely clear that the last thing we would want is for the employers to interfere in the doctor-patient or hospital-patient relationship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2844.19,
+   "end": 2852.19,
+   "text": "Today, Balaknath doesn't have the great majority of the hospitals on his side.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2852.19,
+   "end": 2859.19,
+   "text": "He's finding a very receptive ear amongst the large employers,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2859.19,
+   "end": 2865.19,
+   "text": "simply because it isn't that the bill is so high, but that it's so uncontrolled.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2865.19,
+   "end": 2872.19,
+   "text": "So you get a second constituency, but basically this is very good, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2872.19,
+   "end": 2879.19,
+   "text": "But that's already saying that our friend Armstrong asks a meaningful question.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2879.19,
+   "end": 2903.81,
+   "text": "If you take the line that it isn't a meaningful question, that the hospital basically is a joint support for the medical fraternity in the communities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2903.81,
+   "end": 2928.73,
+   "text": "That what goes on in terms of medical care is determined by individual physicians under the new system, kind of controlled by fellow physicians and by nobody else, and very loose.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2928.73,
+   "end": 2944.86,
+   "text": "uh that the physician lays down the treatment of his or her patients",
+   "speaker": "drucker",
+   "drucker_coverage": 0.876
+  },
+  {
+   "start": 2946.7,
+   "end": 2955.95,
+   "text": "and ensure an experienced nurse be known to go to the chief of the service and say i don't quite",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2955.95,
+   "end": 2969.6,
+   "text": "know what goes on here uh you better have a look but she doesn't lose at all uh and here is that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2969.6,
+   "end": 2983.57,
+   "text": "a doctor who practices despite being an alcoholic, and the people in the hospital feel a little",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2983.57,
+   "end": 3000.46,
+   "text": "uneasy about it, and try to do something about it. You'd be surprised how hard it is. And",
+   "speaker": "drucker",
+   "drucker_coverage": 0.822
+  },
+  {
+   "start": 3000.46,
+   "end": 3011.46,
+   "text": "then you would say that the hospital is procedural, and in procedures you set standards, which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3011.46,
+   "end": 3024.01,
+   "text": "which are not, yes, you assume that your standards and your procedures have a relevance,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.88
+  },
+  {
+   "start": 3024.01,
+   "end": 3030.01,
+   "text": "but it's not a matter of results, it's a matter of observing proper procedures.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3030.01,
+   "end": 3037.01,
+   "text": "And this is quite clear of the Lord of Sunny Hospital in my practice here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3037.01,
+   "end": 3066.44,
+   "text": "Anybody know the major governmental institution around today which is totally procedurally focused and totally non-result focused? It's OSHA. That's the problem with OSHA. Occupational Safety and Health Administration.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3066.44,
+   "end": 3074.58,
+   "text": "OSHA, it is no argument with OSHA that we have never had an accident.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3074.58,
+   "end": 3083.32,
+   "text": "In fact, it makes OSHA terribly suspicious.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.714
+  },
+  {
+   "start": 3086.32,
+   "end": 3092.32,
+   "text": "Because OSHA is concerned with their proper procedure, only.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3092.32,
+   "end": 3095.32,
+   "text": "And that's why OSHA upsets people so much.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3098.32,
+   "end": 3101.32,
+   "text": "Let's not even argue whether that's the right approach to safety.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3101.32,
+   "end": 3114.4,
+   "text": "All our experience proves it isn't. All our experience proves that safety is not the result of equipment, but of people, and that too.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3114.4,
+   "end": 3134.5,
+   "text": "There is unsafe equipment. And if you have people who use a welding torch without wearing goggles,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.826
+  },
+  {
+   "start": 3134.5,
+   "end": 3140.5,
+   "text": "you are likely to have some eye injuries, no matter how careful they are.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3140.5,
+   "end": 3145.5,
+   "text": "Because you can't really be careful with a welding torch, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3145.5,
+   "end": 3154.39,
+   "text": "On the other hand, let me say that just putting goggles on is not going to prevent injuries",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3154.39,
+   "end": 3160.39,
+   "text": "if you don't do something additional, which is make people safety conscious.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3160.39,
+   "end": 3163.39,
+   "text": "Anybody know how one does that, by the way?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3163.39,
+   "end": 3167.8,
+   "text": "Anybody know what works in safety claims?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3167.8,
+   "end": 3171.88,
+   "text": "Do we have any personal people in this room?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3171.88,
+   "end": 3174.88,
+   "text": "Nobody has anything to do with safety?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3174.88,
+   "end": 3179.88,
+   "text": "It is one area in which a carrot is totally useless.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3179.88,
+   "end": 3184.88,
+   "text": "There are two areas in which we know that only the stick works.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3184.88,
+   "end": 3191.66,
+   "text": "One is the treatment of the alcoholic.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.779
+  },
+  {
+   "start": 3191.66,
+   "end": 3198.66,
+   "text": "We have learned painfully that if one can stop an alcoholic at all,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3198.66,
+   "end": 3208.66,
+   "text": "He did it only by being rude, and that means being nice to alcoholics is the worst thing one can do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3208.66,
+   "end": 3218.66,
+   "text": "And that's the only thing that has ever worked, is to say, if you don't stop, we are going to fire you,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3218.66,
+   "end": 3221.66,
+   "text": "and we are going to make sure that you won't get another job.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3221.66,
+   "end": 3234.06,
+   "text": "And that works not in the majority of cases, I'm sorry to say, but the only thing that works at home, nothing else has ever worked without the market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3234.06,
+   "end": 3246.06,
+   "text": "We know that. And the other thing that we see, where carrots and incentives and rewards are totally meaningless, we see.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3246.06,
+   "end": 3257.34,
+   "text": "Anybody know the safest production facility around?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.778
+  },
+  {
+   "start": 3257.34,
+   "end": 3263.06,
+   "text": "You know what it is? It's an atomic submarine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3263.06,
+   "end": 3267.06,
+   "text": "There has never been an accident. You know why?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3267.06,
+   "end": 3273.06,
+   "text": "That if you skin your neck with an atomic submarine, you're suspended without pay.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3273.06,
+   "end": 3281.64,
+   "text": "Pending court martial. Yes, sir.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.883
+  },
+  {
+   "start": 3281.64,
+   "end": 3287.64,
+   "text": "And this incidentally is an industrial invention, not an alien.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3287.64,
+   "end": 3302.03,
+   "text": "This Admiral Rickover learned from Alfred Sloan, the General Motors, oh in the 20s, when accidents were",
+   "speaker": "drucker",
+   "drucker_coverage": 0.931
+  },
+  {
+   "start": 3302.03,
+   "end": 3307.67,
+   "text": "right and nobody paid much attention and people just said, well what do you expect to happen?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3307.67,
+   "end": 3314.41,
+   "text": "People work with the bus, so he laid down on that. So GM wasn't in the business of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3314.41,
+   "end": 3321.89,
+   "text": "threatening or killing people and that any supervisor who had an accident on the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3321.89,
+   "end": 3330.69,
+   "text": "workplace was suspended and his manager pending court martial and if it happened",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3330.69,
+   "end": 3339.62,
+   "text": "the second time he was out without court martial, without the hearing. He had to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3339.62,
+   "end": 3344.2,
+   "text": "backtrack on this during World War II under the threat of formal unionization",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3344.2,
+   "end": 3367.28,
+   "text": "But it's still basically GM policy. And GM has almost no access. Simply because he, you know, here is that supervisor and everybody else sees him getting fired because he had the second minor accident.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.957
+  },
+  {
+   "start": 3367.28,
+   "end": 3375.28,
+   "text": "We surprise how salutary it is for the rest of us, or gets demoted.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3375.28,
+   "end": 3384.16,
+   "text": "And secondly, it gets part of the behaviour of people who stinks it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3384.16,
+   "end": 3396.16,
+   "text": "And the supervisor is willing to face up to that old employee who takes the chance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3396.16,
+   "end": 3404.29,
+   "text": "You know, a safety vest event in a foundry is a nuisance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3404.29,
+   "end": 3411.69,
+   "text": "The damn thing weighs 50 pounds, and it's hot enough in a foundry without it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3411.69,
+   "end": 3416.61,
+   "text": "And so, the fellow won't wear it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3416.61,
+   "end": 3424.13,
+   "text": "And any of you who ever had to work with a safety helmet on, disagreeable things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3424.13,
+   "end": 3435.65,
+   "text": "and a host in the crew that's the foreman he's just an old worker he's a top of the union shop steward",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3436.53,
+   "end": 3449.31,
+   "text": "the former ngm the foreman damn well will and will say well either you or i go and i won't go",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3450.99,
+   "end": 3455.47,
+   "text": "and and everybody in the place knows that the former isn't harassing him",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3455.47,
+   "end": 3461.47,
+   "text": "It is the foreman next that's on the block, so he has got the support of the crew.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3461.47,
+   "end": 3464.47,
+   "text": "Nobody likes to wear safety, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3464.47,
+   "end": 3468.47,
+   "text": "Everybody tries to think it will happen to somebody else, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3468.47,
+   "end": 3472.47,
+   "text": "And GM has practically no idea.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3472.47,
+   "end": 3477.47,
+   "text": "And the Air Force, due respect to our two Air Force members,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3477.47,
+   "end": 3483.77,
+   "text": "in the early World War II days,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.841
+  },
+  {
+   "start": 3483.77,
+   "end": 3502.23,
+   "text": "Bill Knutson, who came in as lieutenant general to the Air Force, from GM tried to protect the Air Force, and the general seemed to allow him, but too severe, and the Air Force has all the elaborate safety procedures, and safety here does not have a safety record.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3502.23,
+   "end": 3516.96,
+   "text": "the horse, he isn't tough enough. He's exceptionally bad. He blames the equipment. In the gym, you can't blame the equipment.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.932
+  },
+  {
+   "start": 3516.96,
+   "end": 3534.05,
+   "text": "And if the equipment isn't safe, then it's your job to scream. And we know there are few things where only sensitive work and sticks don't work at all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3534.05,
+   "end": 3543.87,
+   "text": "Anybody know the best example where you never use punishment?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.593
+  },
+  {
+   "start": 3543.87,
+   "end": 3550.36,
+   "text": "In training any animal, including the human one, in a routine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3550.36,
+   "end": 3560.54,
+   "text": "For routine behaviour one uses only incentives and never, never punish.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3560.54,
+   "end": 3566.74,
+   "text": "Grandmother knew this when she put the piece of chocolate on their nose,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3566.74,
+   "end": 3572.24,
+   "text": "the child breaks the scale, if it doesn't fall off you get the piece of chocolate,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3572.24,
+   "end": 3577.37,
+   "text": "And that works better than scolding the child.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3577.37,
+   "end": 3582.16,
+   "text": "And also, the feedback is there, you know?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3582.16,
+   "end": 3585.14,
+   "text": "You control your hand, or the feedback will fall off.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3585.14,
+   "end": 3587.26,
+   "text": "You see immediately.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3587.26,
+   "end": 3589.18,
+   "text": "Very effective feedback .",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3589.18,
+   "end": 3594.46,
+   "text": "And so, children learn not to keep their hands.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 30.0,
+ "created_utc": "2026-09-20T23:07:06+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

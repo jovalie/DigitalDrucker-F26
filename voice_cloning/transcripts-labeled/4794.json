@@ -1,0 +1,1974 @@
+{
+ "pointer": "4794",
+ "media": "4794.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1492.6,
+ "segments": [
+  {
+   "start": 2.54,
+   "end": 4.06,
+   "text": "Okay, thank you very much, Peter.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 4.18,
+   "end": 10.06,
+   "text": "I can't think of anyone better qualified to comment on your remarks than our dean, Bill May.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 10.36,
+   "end": 14.12,
+   "text": "As we noted earlier, Bill spent 42 years with the American Can Company,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 14.28,
+   "end": 16.4,
+   "text": "15 of which as chairman and the CEO,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 17.08,
+   "end": 24.3,
+   "text": "during which he initiated some very innovative experiments or changes in organizational design.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 24.3,
+   "end": 31.84,
+   "text": "He also has associations with almost, I guess, three dozen other complex organizations of various types,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 31.84,
+   "end": 38.8,
+   "text": "public private national international in the role of trustee board member chairman member dean",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 38.8,
+   "end": 46.48,
+   "text": "faculty he knows organization bill it's yours thank you tom as peter talked i uh i thought",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 46.48,
+   "end": 52.12,
+   "text": "that i was not going to be able to fulfill the role that um that bob hawkins did yesterday of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 52.12,
+   "end": 58.48,
+   "text": "agreeing with him in almost every detail but then as he continued i found that my differences were",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 58.48,
+   "end": 62.94,
+   "text": "gradual nuances and matters of degree",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 62.94,
+   "end": 67.02,
+   "text": "rather than really matters of substance. Because he would start",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 67.02,
+   "end": 71.1,
+   "text": "out and say that you can't have an amorphous",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 71.1,
+   "end": 74.98,
+   "text": "structure, you have to have high degree of rigidity, and then later on he would say that the rigidity",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 74.98,
+   "end": 79.1,
+   "text": "has to be modified and some degree of flexibility has to",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 79.1,
+   "end": 82.82,
+   "text": "exist in it. What we talked about",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 82.82,
+   "end": 87.18,
+   "text": "principally was the fact that we're in a period of more rapid change.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 87.18,
+   "end": 92.26,
+   "text": "It's illustrated in a way by what Peter said was the prominent science of today.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 92.44,
+   "end": 96.92,
+   "text": "Instead of the rigidities of physics, the basic science you have now,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 97.08,
+   "end": 102.78,
+   "text": "the prominent science being in biology, which is more amorphous, more subjective,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 103.24,
+   "end": 109.88,
+   "text": "and less objective than something as easily defined and as stable as mathematics and physics.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 110.92,
+   "end": 116.54,
+   "text": "Matter of fact, the single point of decision-making, I think, has gone.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 116.54,
+   "end": 121.6,
+   "text": "I think his early remarks about the manager of the bank, the CEO of the bank.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 122.12,
+   "end": 125.94,
+   "text": "Incidentally, the CEO title is not of very long standing.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 126.34,
+   "end": 131.08,
+   "text": "The CEO title, the so-called chief executive title, arose in World War II.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 131.72,
+   "end": 138.76,
+   "text": "And the reason it arose in World War II was that the procurement agencies of the armed services wanted someone they could pin.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 139.54,
+   "end": 145.74,
+   "text": "And so the title of Chief Executive Officer, single point that they could go back to,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 146.04,
+   "end": 148.72,
+   "text": "was established and it's been perpetuated ever since.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 148.72,
+   "end": 153.68,
+   "text": "But now we have COO, Chief Operating Officer, CFO, Chief Financial Officer,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 154.24,
+   "end": 157.02,
+   "text": "and we have a hell of a lot of chiefs.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 157.66,
+   "end": 165.04,
+   "text": "But the complexities and the change in the business structure",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 165.04,
+   "end": 171.64,
+   "text": "has been brought about by the more rapid development of society as a whole,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 172.28,
+   "end": 178.6,
+   "text": "the exponential growth of technology, the other impacts,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 178.6,
+   "end": 184.84,
+   "text": "the broadening of responsibilities either forced upon the business community",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 184.84,
+   "end": 188.3,
+   "text": "or assumed by the business community for societal obligations.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 188.3,
+   "end": 197.14,
+   "text": "And this latter thing I'd like to talk about a little bit before I move on to some other aspects of organizational structure",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 197.14,
+   "end": 202.78,
+   "text": "and the matching of these organizational structures to the complexities of the present business day life.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 204.02,
+   "end": 211.62,
+   "text": "Our society has become more and more institutionalized in the last few decades.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 211.62,
+   "end": 217.5,
+   "text": "And instead of doing things on individual initiative and taking care of ourselves,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 217.5,
+   "end": 221.62,
+   "text": "we become more deeply dependent upon an institution.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 222.2,
+   "end": 225.4,
+   "text": "And, of course, the institution that we have been dependent upon",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 225.4,
+   "end": 227.7,
+   "text": "has been principally the governmental institution.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 228.96,
+   "end": 230.96,
+   "text": "Recently there have been some disappointments.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 231.32,
+   "end": 237.16,
+   "text": "Some of the anticipations, the entitlements, so-called entitlements, have not been met.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 237.84,
+   "end": 241.78,
+   "text": "And now society is looking in a different direction.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 242.42,
+   "end": 246.44,
+   "text": "And they're looking in the direction of the private enterprise system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 246.44,
+   "end": 256.28,
+   "text": "And I think that one of the things we have to be certain we do not do is to assume responsibilities which we cannot fulfill.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 256.9,
+   "end": 269.06,
+   "text": "The government, being a political animal, was prone to do that, but then the reckoning, the auditing of performance was an amorphous thing,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 269.06,
+   "end": 279.44,
+   "text": "And somehow or other, because of glibness and articulateness, they could prove that what they promised was really either impossible or had been accomplished,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 279.64,
+   "end": 282.78,
+   "text": "and they'd get elected the next term with more promises which were not fulfilled.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 283.28,
+   "end": 287.22,
+   "text": "But the private enterprise system cannot go in that direction.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 287.38,
+   "end": 291.16,
+   "text": "There's a stronger accounting of the private enterprise system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 291.16,
+   "end": 298.12,
+   "text": "And so I say let's not take on social obligations that are foreign to our abilities",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 298.12,
+   "end": 308.26,
+   "text": "and which we have a little probability of accomplishing because you won't be forgiven.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 308.46,
+   "end": 311.58,
+   "text": "And the other thing that interests me is that I think a lot of businessmen,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 311.58,
+   "end": 325.16,
+   "text": "And I'm not opposed to societal obligations, and I'm not opposed to the realization that Venice operates as a legal citizen in a way.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 326.0,
+   "end": 329.84,
+   "text": "That's what an organizational Venice is.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 329.88,
+   "end": 331.44,
+   "text": "It's a legal citizen, legal entity.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 331.94,
+   "end": 339.0,
+   "text": "And like any other conscientious citizen, it has to fulfill certain obligations and be socially aware.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 340.0,
+   "end": 344.48,
+   "text": "But I think a lot of businessmen feel that by taking on these social obligations",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 344.48,
+   "end": 349.66,
+   "text": "that they're going to be loved, and they aren't.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 351.62,
+   "end": 356.0,
+   "text": "The society will be just as critical, just as cynical,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 356.56,
+   "end": 360.28,
+   "text": "just as demanding in the future as it has been in the past.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 360.28,
+   "end": 365.66,
+   "text": "And if the businessman thinks that by taking on some of these societal needs",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 365.66,
+   "end": 367.38,
+   "text": "He's going to get a lot of affection.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 368.72,
+   "end": 370.8,
+   "text": "He better look someplace else for that affection.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 372.0,
+   "end": 378.86,
+   "text": "Now, the other thing that's become more complex has been the external impacts upon business,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 379.08,
+   "end": 386.92,
+   "text": "the regulations, the laws changing so rapidly to meet certain societal concerns or demands.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 387.54,
+   "end": 393.36,
+   "text": "And this has brought about a final decision point at lower echelons in the organization.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 394.36,
+   "end": 401.42,
+   "text": "For example, there are very few chief executive officers who would overrule their counsel in a legal matter.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 402.06,
+   "end": 407.5,
+   "text": "There are few chief executive officers who would overrule, let's say, their accountant",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 407.5,
+   "end": 415.38,
+   "text": "in certain matters pertaining to the SEC or ERISA or the other obligations that you have to fulfill.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 416.06,
+   "end": 422.72,
+   "text": "So the decision points, the final decision points, are going down away from the chief executive officer",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 422.72,
+   "end": 428.86,
+   "text": "and we're getting a more decision by consensus, a higher degree of collegiality,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 429.36,
+   "end": 431.06,
+   "text": "a higher degree of peer relationship.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 431.86,
+   "end": 437.52,
+   "text": "You've had the Office of the Chairman, all sorts of examples of that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 438.16,
+   "end": 444.16,
+   "text": "Also, because of these complex interrelating responsibilities and obligations,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 444.74,
+   "end": 448.16,
+   "text": "we have adopted something that has been given the term matrix management.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 449.06,
+   "end": 454.12,
+   "text": "Matrix management is a functional guidance and an operating guidance.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 454.12,
+   "end": 461.14,
+   "text": "And it can be easily illustrated by one of the things that Peter referred to,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 461.26,
+   "end": 467.92,
+   "text": "and that is, let's say, the business, divisional, whatever organizational structure you have, controller.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 469.08,
+   "end": 474.44,
+   "text": "He has operating responsibilities to the business in which he finds himself.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 474.44,
+   "end": 483.58,
+   "text": "But he has functional responsibilities to the corporate controller so that you have a uniformity of reporting and a uniformity of policymaking.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 485.95,
+   "end": 499.59,
+   "text": "The other aspect that is creeping into the business world is the understanding or the assumption that every successful big business is a bunch of small businesses.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 500.59,
+   "end": 505.69,
+   "text": "If you can run that idea through and do it effectively,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 506.47,
+   "end": 511.01,
+   "text": "you obtain a higher degree of flexibility with a higher degree of security.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 511.49,
+   "end": 515.11,
+   "text": "As Peter said, everybody wants to work for Citibank because they can tolerate failure",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 515.11,
+   "end": 519.89,
+   "text": "and they can also support your inadequacies and your lack of contribution.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 520.53,
+   "end": 525.59,
+   "text": "But in a major corporation, you have the same degree of pocketbook.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 525.59,
+   "end": 530.19,
+   "text": "pocketbook. I hate to use the term deep pocket because that's what the Justice Department uses,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 530.27,
+   "end": 537.43,
+   "text": "but you have a large pocketbook that can do some of the things that a small business cannot do.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 538.05,
+   "end": 544.59,
+   "text": "On the other hand, if the big business is so tied up in interrelationships and reporting",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 544.59,
+   "end": 552.25,
+   "text": "relationships and the rigid skeleton, then it loses the opportunity to take advantage of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 552.25,
+   "end": 560.81,
+   "text": "market development, product development, fast, crisp movement, which a small business possesses",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 560.81,
+   "end": 566.55,
+   "text": "and is often the reason why a small business can sometimes run around and defeat a large",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 566.55,
+   "end": 568.93,
+   "text": "business of much, much greater strength.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 571.3,
+   "end": 582.26,
+   "text": "Now, also, strategic planning is becoming more and more of a watchword, and I differentiate",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 582.26,
+   "end": 586.02,
+   "text": "strategic planning from business planning and the strategic planning comes from the top",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 586.02,
+   "end": 588.68,
+   "text": "and business planning comes fundamentally from the bottom.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 589.68,
+   "end": 592.74,
+   "text": "Strategic planning is the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 592.74,
+   "end": 598.2,
+   "text": "executives of the corporation, the leaders, the managers of the corporation",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 598.2,
+   "end": 602.18,
+   "text": "determining what are their thrust areas, what are",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 602.18,
+   "end": 606.44,
+   "text": "the areas in which they have the expertise, the ability,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 608.06,
+   "end": 610.22,
+   "text": "the wherewithal, the management",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 610.22,
+   "end": 619.56,
+   "text": "strength to participate and these set forth relatively broad areas but enough sufficiently",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 619.56,
+   "end": 624.72,
+   "text": "enough to find to give guidance to the business planning now the business planning had better",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 624.72,
+   "end": 628.96,
+   "text": "and the acquisition planning had better fall within these strategic planning guidelines",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 628.96,
+   "end": 635.3,
+   "text": "or i think you're in trouble very often things that are involved things that are popular",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 635.3,
+   "end": 639.84,
+   "text": "or things that are cheap become appealing to a major corporation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 640.62,
+   "end": 643.66,
+   "text": "And generally you find out that they are cheap when you get them.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 643.74,
+   "end": 646.68,
+   "text": "We've had a few experiences along those lines.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 647.58,
+   "end": 651.08,
+   "text": "Information systems became a highly popular area,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 651.2,
+   "end": 653.26,
+   "text": "so we bought two information systems companies.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 654.6,
+   "end": 657.5,
+   "text": "We know more belong to information systems",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 657.5,
+   "end": 660.8,
+   "text": "than perhaps Peter belongs to information systems.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 660.8,
+   "end": 663.38,
+   "text": "But anyway, maybe he'll resent that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 663.38,
+   "end": 667.68,
+   "text": "But so we had these two things.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 667.68,
+   "end": 669.32,
+   "text": "And you know.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 669.32,
+   "end": 675.4,
+   "text": "But unlike you, I get paid for it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 675.4,
+   "end": 675.9,
+   "text": "We didn't.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 675.9,
+   "end": 677.22,
+   "text": "That was the trouble.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 677.22,
+   "end": 678.42,
+   "text": "We didn't get paid for it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 678.42,
+   "end": 681.64,
+   "text": "We found out that, and these were",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 681.64,
+   "end": 687.7,
+   "text": "two well-qualified operations, really, very professional.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 687.7,
+   "end": 691.86,
+   "text": "But we found out that the cost of servicing them",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 691.86,
+   "end": 694.56,
+   "text": "was greater than the money we were getting",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 694.56,
+   "end": 697.46,
+   "text": "by the servicing of the clients we had.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 697.46,
+   "end": 700.06,
+   "text": "And this is not an atypical case.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 700.06,
+   "end": 702.48,
+   "text": "I'm a director of another corporation which really",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 702.48,
+   "end": 705.74,
+   "text": "belongs in informational systems and only recently",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 705.74,
+   "end": 709.34,
+   "text": "have they turned the corner from loss to profit.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 709.34,
+   "end": 714.76,
+   "text": "But those are the things that a good strategic plan that",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 714.76,
+   "end": 719.4,
+   "text": "is enforced will keep a corporation from doing.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 719.4,
+   "end": 722.2,
+   "text": "We talk about centralization and decentralization.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 722.2,
+   "end": 724.68,
+   "text": "I talked about a big business being a bunch of small businesses.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 725.48,
+   "end": 728.96,
+   "text": "Either organization will work, depending upon interpersonal relationships.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 729.58,
+   "end": 733.94,
+   "text": "If people are well-motivated, if people are competent,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 734.48,
+   "end": 736.92,
+   "text": "either centralization or decentralization will work.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 736.98,
+   "end": 740.32,
+   "text": "And I have a friend who says that what you really ought to do",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 740.32,
+   "end": 743.76,
+   "text": "is you ought to go from centralization to decentralization about every 10 years",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 743.76,
+   "end": 744.84,
+   "text": "because it cleans out the attic.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 745.76,
+   "end": 748.04,
+   "text": "You get rid of the dead timber.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 748.28,
+   "end": 751.48,
+   "text": "You get rid of the nonproductive operations.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 752.2,
+   "end": 762.73,
+   "text": "With decentralization, though, you desperately need two things.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 762.73,
+   "end": 767.33,
+   "text": "You need control, a good control mechanism,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 768.11,
+   "end": 772.35,
+   "text": "and that may seem to militate against what I said earlier,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 772.45,
+   "end": 778.33,
+   "text": "and that was the high degree of flexibility that you get out of autonomous operations and delegation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 778.93,
+   "end": 779.65,
+   "text": "It doesn't.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 779.65,
+   "end": 788.65,
+   "text": "In fact, a good control mechanism serves the individual enterprise, the individual business,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 788.65,
+   "end": 793.65,
+   "text": "and makes that individual business a lot more profitable and a lot more effective.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 793.65,
+   "end": 800.65,
+   "text": "And if you work on that basis, that the fundamental feed-in to the control mechanism comes from the grassroots,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 800.65,
+   "end": 804.65,
+   "text": "comes from the market, comes from the business operations,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 804.65,
+   "end": 809.21,
+   "text": "Then you have an acceptance on the part of the business for that control mechanism,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 809.41,
+   "end": 816.15,
+   "text": "and they find out how to utilize it to enhance their own flexibility and their own decision-making.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 816.57,
+   "end": 819.59,
+   "text": "And the other thing you need if you are decentralized,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 819.97,
+   "end": 825.11,
+   "text": "if you break up your corporation into a group of small businesses, is communication.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 825.93,
+   "end": 832.01,
+   "text": "Now, this is never really brought to its highest point,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 832.01,
+   "end": 835.73,
+   "text": "And it's so important, so important to communicate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 835.73,
+   "end": 840.15,
+   "text": "And this, again, relates to interpersonal relationships.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 840.15,
+   "end": 844.91,
+   "text": "Some years ago, I came to the conclusion",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 844.91,
+   "end": 849.45,
+   "text": "that the pyramid structure that we had in our corporation,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 849.45,
+   "end": 854.25,
+   "text": "which was a multi-business corporation,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 854.25,
+   "end": 856.91,
+   "text": "instead of an agglomerate, we use the euphemism",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 856.91,
+   "end": 858.89,
+   "text": "multi-business, multi-market these days,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 858.89,
+   "end": 863.11,
+   "text": "which is acceptable at the moment.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 863.11,
+   "end": 865.69,
+   "text": "I came to the conclusion that in that multi-business",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 865.69,
+   "end": 868.51,
+   "text": "corporation, with the type of talent we had",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 868.51,
+   "end": 874.17,
+   "text": "and their impatience, that we weren't really",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 874.17,
+   "end": 875.47,
+   "text": "stimulating that talent.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 875.47,
+   "end": 881.71,
+   "text": "We weren't really extracting the greatest response and reward",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 881.71,
+   "end": 883.87,
+   "text": "from that talent.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 883.87,
+   "end": 887.51,
+   "text": "And so we took a look at the pyramid structure,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 887.51,
+   "end": 890.95,
+   "text": "which Peter says you send information up and sometimes it never comes down,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 891.49,
+   "end": 898.73,
+   "text": "or you're bound in certain boxes because of a job description or a responsibility statement.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 899.59,
+   "end": 903.67,
+   "text": "We took a look at it, and we took a page out of Plato,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 904.01,
+   "end": 909.09,
+   "text": "and we looked at the city-state organization that he had,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 909.81,
+   "end": 914.37,
+   "text": "which you may or may not remember was a small central corps.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 915.11,
+   "end": 919.07,
+   "text": "Around the central core were the professional groups,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 919.17,
+   "end": 924.77,
+   "text": "and out on the periphery were the operators or the doers on the rim.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 925.49,
+   "end": 930.57,
+   "text": "Down below, in Greek terms, in Greek times,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 930.57,
+   "end": 937.05,
+   "text": "you had the scribe who was supposed to avoid misdirection and redundancy.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 937.93,
+   "end": 941.03,
+   "text": "Well, what we did was we established the central core.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 941.95,
+   "end": 957.03,
+   "text": "Around the central core, we had the professional groups, the consuls, the marketing people, the research people, the other professional individuals.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 957.77,
+   "end": 966.13,
+   "text": "And then out in the core, we had 17 businesses, which were run by managers who, again, had a high degree of decision-making,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 966.13,
+   "end": 970.45,
+   "text": "a high degree of opportunity for expenditure",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 970.45,
+   "end": 974.73,
+   "text": "and a high degree of opportunity for flexible directions.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 976.17,
+   "end": 978.85,
+   "text": "Now, the scribe became, what I termed earlier,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 978.95,
+   "end": 980.95,
+   "text": "the communication control system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 981.87,
+   "end": 985.71,
+   "text": "And the people on the periphery didn't have to come in the center",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 985.71,
+   "end": 989.55,
+   "text": "because the center had already indicated their strategic plans",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 989.55,
+   "end": 991.11,
+   "text": "and their policies.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 992.15,
+   "end": 994.91,
+   "text": "They could run around that rim and deal with one another",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 994.91,
+   "end": 999.21,
+   "text": "without inhibition. They could draw upon the professional groups",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 999.21,
+   "end": 1002.47,
+   "text": "for what they needed, and also the Central Corps",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1002.47,
+   "end": 1006.99,
+   "text": "could draw upon the professional groups. And then we did one additional thing.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1007.35,
+   "end": 1011.05,
+   "text": "We found out that the professional groups, or the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1011.05,
+   "end": 1015.13,
+   "text": "professional offices in the area between",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1015.13,
+   "end": 1018.61,
+   "text": "the Corps and the Rim, tended to become",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1018.61,
+   "end": 1023.01,
+   "text": "a little bit ivory tower-ish. And so what we did",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1023.01,
+   "end": 1024.89,
+   "text": "was we assigned each of those",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1024.89,
+   "end": 1026.71,
+   "text": "individuals a functional",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1026.71,
+   "end": 1028.87,
+   "text": "responsibility with one of the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1028.87,
+   "end": 1030.65,
+   "text": "operating businesses on a rotating basis.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1030.83,
+   "end": 1031.43,
+   "text": "In other words,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1032.55,
+   "end": 1034.79,
+   "text": "the marketing guy would have",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1034.79,
+   "end": 1036.21,
+   "text": "in addition to",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1036.21,
+   "end": 1039.01,
+   "text": "developing marketing information,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1039.27,
+   "end": 1040.91,
+   "text": "handling the market research",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1040.91,
+   "end": 1042.81,
+   "text": "and that sort of thing, he'd have a",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1042.81,
+   "end": 1044.53,
+   "text": "relationship with, let's say,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1044.53,
+   "end": 1046.39,
+   "text": "the Fingerhut",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1046.39,
+   "end": 1048.59,
+   "text": "mail order business for a period",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1048.59,
+   "end": 1050.47,
+   "text": "of time. And then we'd rotate",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1050.47,
+   "end": 1051.73,
+   "text": "that around so that",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1051.73,
+   "end": 1058.95,
+   "text": "And each of these individuals kept their feet to the fire with respect to what was happening in the marketplace",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1058.95,
+   "end": 1062.27,
+   "text": "and what was happening in the manufacturing operations.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1063.29,
+   "end": 1067.61,
+   "text": "I wouldn't say that was an organizational structure that you ought to go out and emulate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1067.87,
+   "end": 1070.33,
+   "text": "Everybody has to have their own.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1070.41,
+   "end": 1077.23,
+   "text": "They have to have their own based upon the businesses they're in, the opportunities that they see for growth,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1077.23,
+   "end": 1080.35,
+   "text": "and the kind of people they have in the organization.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1080.35,
+   "end": 1084.53,
+   "text": "But one thing it did do, it broke up any personality complexes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1084.87,
+   "end": 1089.35,
+   "text": "A lot of businesses deal in personal teams,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1090.13,
+   "end": 1098.99,
+   "text": "and frequently there's as much internal competition and internal strife as there is external effort.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1099.77,
+   "end": 1108.11,
+   "text": "And it's wasted energy, and it should be weeded out as quickly as possible",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1108.11,
+   "end": 1115.73,
+   "text": "so that people don't feel a loyalty to Joe as opposed to a loyalty to a division or a loyalty to the corporation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1117.65,
+   "end": 1121.41,
+   "text": "Now, Peter talked about multinationals.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1122.21,
+   "end": 1129.05,
+   "text": "And true, the greatest growth in the business area has been associated with the multinationals,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1129.13,
+   "end": 1134.35,
+   "text": "or as I prefer to call them, the transnationals, because, as Peter said, every one of them have a mother country,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1134.35,
+   "end": 1140.27,
+   "text": "so they're really not multinational in organization or in charter,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1140.53,
+   "end": 1142.45,
+   "text": "but they go across lines.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1142.63,
+   "end": 1148.75,
+   "text": "They transmit across geographical and sovereignty lines,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1149.29,
+   "end": 1152.83,
+   "text": "and so they really are transnational in nature.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1154.79,
+   "end": 1161.57,
+   "text": "The organization of a transnational or a multinational generally goes through three stages.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1161.57,
+   "end": 1165.35,
+   "text": "The first stage, you put your own people over there.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1165.45,
+   "end": 1169.17,
+   "text": "At least you put your own people over there as far as the Treasury is concerned.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1169.99,
+   "end": 1182.03,
+   "text": "And then the second stage is where you populate your operation overseas with nationals of the area in which you're operating.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1182.99,
+   "end": 1189.25,
+   "text": "And the third and the ultimate stage is where you pick the best people for the job, regardless of their nationality or their origin.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1189.25,
+   "end": 1200.75,
+   "text": "And I would say that as far as our company is concerned, we're about a little beyond stage two at this point.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1201.69,
+   "end": 1213.57,
+   "text": "We also found out, and this may be an individual experience, that United States citizens made relatively poor multi-year transnationals.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1213.57,
+   "end": 1220.27,
+   "text": "They felt that the quality of life that they had left was not duplicated.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1220.57,
+   "end": 1222.31,
+   "text": "We didn't put everybody in Paris.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1223.31,
+   "end": 1229.35,
+   "text": "And so they felt that the quality of life they had left was not duplicated in the quality of life where they found themselves.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1229.83,
+   "end": 1234.83,
+   "text": "And very frequently the family became dissatisfied, and they asked to come on back home.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1234.83,
+   "end": 1244.37,
+   "text": "So our early experience was that the European, the Asiatic, was a much better transnational or multinational manager than was the United States citizen.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1244.47,
+   "end": 1245.77,
+   "text": "But I think that's changing now.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1245.87,
+   "end": 1262.43,
+   "text": "I think that with more and more people looking towards multinational careers, that the United States citizen is becoming as qualified and as satisfied, let's put it that way, as are the other people.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1263.37,
+   "end": 1270.79,
+   "text": "There's one thing with respect to international operations that concerns me a little bit,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1271.31,
+   "end": 1277.45,
+   "text": "and that is what I perceive at this moment is a trend line towards nationalism, sovereignty,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1278.17,
+   "end": 1288.3,
+   "text": "and restrictive trade practices, whether they're in the form of extant patent restrictions",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1288.3,
+   "end": 1292.58,
+   "text": "in terms of tariffs or whether they're so-called non-tariff barriers,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1293.24,
+   "end": 1301.66,
+   "text": "they do inhibit the transfer of the performance of the free market",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1301.66,
+   "end": 1310.92,
+   "text": "and I think will be inimical to the world's economy if it's allowed to continue.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1311.66,
+   "end": 1317.78,
+   "text": "And the other thing that I've been observing recently is the destruction of the free market.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1317.78,
+   "end": 1319.74,
+   "text": "if there is such a thing as a free market anymore,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1320.32,
+   "end": 1326.7,
+   "text": "by the greater and greater ownership of basic industries by foreign governments,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1327.22,
+   "end": 1332.04,
+   "text": "where their primary interest is in full employment and not return on investment.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1332.58,
+   "end": 1335.12,
+   "text": "And I've seen some great dislocations of the market",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1335.12,
+   "end": 1340.6,
+   "text": "because of these diverging or conflicting interests.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1341.02,
+   "end": 1344.7,
+   "text": "One final point I'd like to make,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1344.7,
+   "end": 1351.5,
+   "text": "and that is that whereas we had a great deal of prominence as managers,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1351.8,
+   "end": 1357.2,
+   "text": "everybody from Brazil to Indonesia to France to England always said,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1357.46,
+   "end": 1363.7,
+   "text": "how do American managers manage their business because they seem to be so effective and so efficient?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1364.2,
+   "end": 1371.18,
+   "text": "I think in recent years that pedestal has been chipped away a great deal,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1371.18,
+   "end": 1379.06,
+   "text": "and I think that there is something to be learned from management practices which exist off our shores.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1379.82,
+   "end": 1384.18,
+   "text": "And probably one of the reasons, this may not be substantiated by research,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1384.88,
+   "end": 1386.5,
+   "text": "someday I want to do some research on it,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1386.96,
+   "end": 1393.18,
+   "text": "one of the reasons is the fact that during the industrial organization of the 1930s,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1393.96,
+   "end": 1399.08,
+   "text": "management fought the industrial organization as opposed to the trade organization,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1399.08,
+   "end": 1404.38,
+   "text": "a craft organization, and they fought very seriously, as you may or may not remember.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1404.76,
+   "end": 1405.82,
+   "text": "There was some bloodshed.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1407.18,
+   "end": 1412.96,
+   "text": "And when the industrial organization, the wall-to-wall organization of corporations prevailed,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1413.74,
+   "end": 1420.4,
+   "text": "many of the business managers of that time and their successors took an attitude of hostility",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1420.4,
+   "end": 1425.08,
+   "text": "and non-cooperation, or at least one of indifference, toward the people who were organized.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1425.08,
+   "end": 1430.34,
+   "text": "They said, okay, you belong to a union, that's your point of communication.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1431.2,
+   "end": 1435.2,
+   "text": "Of course, the union leadership welcomed this because it gave them greater power.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1435.9,
+   "end": 1445.96,
+   "text": "But I think that what we did was we lost a great amount of input from these people who have something to offer.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1445.96,
+   "end": 1462.0,
+   "text": "We lost a point of communication, and probably most seriously, we lost a sense of participation, belonging, and contribution on the part of those people.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1462.0,
+   "end": 1475.68,
+   "text": "And I believe that we would be well advised to start reestablishing those lines of communication to draw from those people their contribution towards opportunities and problem solving.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1475.96,
+   "end": 1487.35,
+   "text": "thank you okay thank you bill let's have a 15 minute coffee break",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1487.35,
+   "end": 1494.95,
+   "text": "and leave your cards with madeleine on your way out",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 24.58,
+ "created_utc": "2026-09-20T22:49:32+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

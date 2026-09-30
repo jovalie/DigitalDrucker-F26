@@ -1,0 +1,168 @@
+{
+ "pointer": "5035",
+ "media": "5035.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1666.8,
+ "segments": [
+  {
+   "start": 2.29,
+   "end": 17.29,
+   "text": "And so every weekend, they went down to Washington, the House of Representatives, the White House, or whatever.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 17.29,
+   "end": 27.29,
+   "text": "And on Monday morning, when he got back to New York, he sent all his practices, aspects of the Old Testament, proving absolutely,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 27.29,
+   "end": 145.47,
+   "text": "And I had those siblings, because I had a sister, my daughter, who only learned one thing at that time.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.92
+  },
+  {
+   "start": 145.47,
+   "end": 173.35,
+   "text": "So, I'm totally unbelievable here. I didn't speak my mother's language at the time, so I don't know anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.928
+  },
+  {
+   "start": 173.35,
+   "end": 184.98,
+   "text": "It's constructed for a variety of reasons.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.871
+  },
+  {
+   "start": 184.98,
+   "end": 200.36,
+   "text": "One is the old saying that everybody sees themselves in things they don't see.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 200.36,
+   "end": 202.36,
+   "text": "Not maybe consciously.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 202.36,
+   "end": 223.1,
+   "text": "They're subconscious, but they can't ever know the model they have.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.855
+  },
+  {
+   "start": 223.1,
+   "end": 228.84,
+   "text": "Dangerous, but where they improve.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 228.84,
+   "end": 232.75,
+   "text": "Everything you...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 232.75,
+   "end": 749.47,
+   "text": "That's their rich position.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.967
+  },
+  {
+   "start": 749.47,
+   "end": 754.22,
+   "text": "Look out for whom.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 754.22,
+   "end": 764.28,
+   "text": "Where do we're going?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 764.28,
+   "end": 943.66,
+   "text": "The more dangerous, the more demanding things.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.9
+  },
+  {
+   "start": 943.66,
+   "end": 1094.39,
+   "text": "Oh, wait, what's under probability?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.957
+  },
+  {
+   "start": 1094.39,
+   "end": 1095.39,
+   "text": "Oh, you mean...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1095.39,
+   "end": 1298.74,
+   "text": "Yes, we can pull it off.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.966
+  },
+  {
+   "start": 1298.74,
+   "end": 1306.07,
+   "text": "Don't ask me the name, I don't know about it, unless I see it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1306.07,
+   "end": 1317.7,
+   "text": "After he came to love Kurukshetra, he decided to...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1317.7,
+   "end": 1338.09,
+   "text": "Because all these were very bad, there was no better.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1338.09,
+   "end": 1437.51,
+   "text": "They all need to be royal and selfish without any cause.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.97
+  },
+  {
+   "start": 1437.51,
+   "end": 1576.78,
+   "text": "Existing the righteous, and on the other hand, the paid tribute.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.971
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 169.79,
+ "created_utc": "2026-09-20T23:07:45+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

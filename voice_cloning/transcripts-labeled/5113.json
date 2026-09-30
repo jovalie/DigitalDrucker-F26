@@ -1,0 +1,2954 @@
+{
+ "pointer": "5113",
+ "media": "5113.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 3593.5,
+ "segments": [
+  {
+   "start": 3.34,
+   "end": 23.81,
+   "text": "and sticks do not, that the essence of behaviouralism, the first man who knew this was that great bohemian educator Comenius in the 16th, 17th century, or the perhaps of modern education.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 23.81,
+   "end": 42.55,
+   "text": "And nobody listened to him. It was so much easier to take a stick and beat the child, or the puppy, or the pigeon, where you deal with routine behavior which is animal behavior.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 42.55,
+   "end": 51.55,
+   "text": "You use only incentive. Small ones, never big ones, because they wear off too fast.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 51.55,
+   "end": 64.93,
+   "text": "that piece of chocolate grandmother's, but mancoscopic, and one M&M, but here you have to hold your hands really very still or it will fall off.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 64.93,
+   "end": 81.24,
+   "text": "That's all. But on the other hand, we also know, though we don't understand, that things were only deterrent, only punished, only mistaken.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 81.24,
+   "end": 93.38,
+   "text": "and I call it is mid-morning here we think we know why but why safety we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 93.38,
+   "end": 102.48,
+   "text": "don't understand and yet it's a fact that any safety training that focuses on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 102.48,
+   "end": 107.4,
+   "text": "giving the crew that has the best safety record in middle and so there's not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 107.4,
+   "end": 114.66,
+   "text": "breathing behavior. The only thing that is coming down like a ton of bricks when",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 114.66,
+   "end": 122.96,
+   "text": "there is an accident. I'm not asking who is to blame. We run with zero accidents.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 122.96,
+   "end": 132.99,
+   "text": "This is a biofeedback. You don't quite know how it works, but it works. Yes?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 132.99,
+   "end": 139.59,
+   "text": "You agree that 70% of the accidents happen to about 30% of the people?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.318
+  },
+  {
+   "start": 139.59,
+   "end": 143.23,
+   "text": "I'd say 70% happened to 6% of the people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 143.23,
+   "end": 147.39,
+   "text": "That's it for that one, far fewer than 10.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 147.39,
+   "end": 150.69,
+   "text": "Well then, might not these results",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.488
+  },
+  {
+   "start": 150.69,
+   "end": 155.67,
+   "text": "be from getting rid of the sources of accidents at 6%",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.335
+  },
+  {
+   "start": 155.67,
+   "end": 156.71,
+   "text": "rather than?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 156.71,
+   "end": 165.54,
+   "text": "Perhaps, but also perhaps we don't know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 165.54,
+   "end": 170.44,
+   "text": "May I please say that one of the characteristics of behavior",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 170.44,
+   "end": 176.52,
+   "text": "is that we do not know the causes and they do not matter.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 176.52,
+   "end": 183.16,
+   "text": "When you talk behaviorally, you do not talk cause and effect.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 183.16,
+   "end": 187.72,
+   "text": "You talk observed events.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 187.72,
+   "end": 191.94,
+   "text": "And we do not know why.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 191.94,
+   "end": 196.74,
+   "text": "And in many cases, we will never know why.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 196.74,
+   "end": 200.58,
+   "text": "Partly because we lack a theory.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 200.58,
+   "end": 204.98,
+   "text": "Without the theory, cause and defense, you know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 204.98,
+   "end": 215.15,
+   "text": "don't really help you. I am partly with the phenomena to come back. Let me give you, here",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 215.15,
+   "end": 224.45,
+   "text": "is Elliot Middleton, who is probably the country's leading asthma man today for children in Buffalo.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 224.45,
+   "end": 232.88,
+   "text": "And severe asthma in small children is a very miserable affair. They are very sick children.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 232.88,
+   "end": 239.19,
+   "text": "And a very significant proportion of them learns to avoid asthmatic attacks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 239.19,
+   "end": 242.69,
+   "text": "You put an electrode here, does it transmit anything?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 242.69,
+   "end": 246.55,
+   "text": "Nobody has .",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 246.55,
+   "end": 251.39,
+   "text": "Anybody knows it's just a piece of silver foil.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 251.39,
+   "end": 256.39,
+   "text": "And the needle there, when that child, the one condition is,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 256.39,
+   "end": 260.39,
+   "text": "it must be one of the about 40% of all asthmatic children",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 260.39,
+   "end": 263.39,
+   "text": "who get a warning of an impending asthmatic attack.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 263.39,
+   "end": 265.39,
+   "text": "Two minutes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 265.39,
+   "end": 274.63,
+   "text": "And then the child goes, plugs himself in, and keeps a needle in the center, and the asthma attacks the body.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 275.15,
+   "end": 280.31,
+   "text": "Now, you can speculate that this works because you detract the attention of the child.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 280.59,
+   "end": 290.66,
+   "text": "Instead of getting panicky, the child focuses on that needle, and the spouse is panicked very heavily.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 290.66,
+   "end": 298.66,
+   "text": "Or you may say that we don't know. We don't even know what it is that gets constricted.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 298.66,
+   "end": 305.66,
+   "text": "We think we know, but it's by no means sure. We know that the bronchi in the end gets constricted.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 305.66,
+   "end": 311.66,
+   "text": "But what gets constricted? Is it the chemicals? Is it the nerves? What is it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 311.66,
+   "end": 317.66,
+   "text": "But it works. Not for what you know, for about two out of every five.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 317.66,
+   "end": 327.39,
+   "text": "Well, nothing else works. And we have no idea what the condition is in any biopsy. It's behavior.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 327.39,
+   "end": 339.6,
+   "text": "And wherever you talk of behavior, one says, here are the results, and here is the stimulus that produces them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 339.6,
+   "end": 349.93,
+   "text": "And maybe one of these days we'll figure out how it works. But in the meantime, here is aspirin synthesized.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 349.93,
+   "end": 364.45,
+   "text": "when? Does anybody know? What's the year? 1899. And till about make it five years ago nobody had",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 364.45,
+   "end": 372.73,
+   "text": "the foggiest notion why it worked. In fact you could prove that it couldn't work. Now we begin",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 372.73,
+   "end": 395.14,
+   "text": "to understand the mechanism. But any physician used it immediately, because it worked. And let me say the physician couldn't care less whether that was belief in the efficacy of the drug or it actually was milk sugar, except that milk sugar did not stop rheumatic pain.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 395.14,
+   "end": 406.72,
+   "text": "and aspirin did or whether what matters was the stimulus aspirin razor for most",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 406.72,
+   "end": 416.28,
+   "text": "people is substantial lessening of pain nothing's nobody knows what pain is real",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 416.28,
+   "end": 424.52,
+   "text": "to know the cause and effect we have no fear in any behavioral phenomenon one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 424.52,
+   "end": 428.52,
+   "text": "One doesn't see what is the cause, one see what is the behavior.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 428.52,
+   "end": 430.52,
+   "text": "It's the nature.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 430.52,
+   "end": 434.52,
+   "text": "And safety we know is a behavior barrier.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 434.52,
+   "end": 439.52,
+   "text": "But OSHA doesn't think so. OSHA looks upon it purely procedurally.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 439.52,
+   "end": 446.57,
+   "text": "The inspectors go through and give you a clean bill of health",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 446.57,
+   "end": 451.57,
+   "text": "and you look at the safety record of the place and it's great.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 451.57,
+   "end": 453.57,
+   "text": "And they never do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 453.57,
+   "end": 481.21,
+   "text": "I think that all the rounded corners or sharp corners, all the cards on which patients are being wheeled to, they have an automatic arrestor so that if it tips, the wheels lock, which, let me say, it's one way to prevent injury to the personnel operating the cards and shifting the injury to the patient.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 481.21,
+   "end": 486.21,
+   "text": "But OSHA does not talk about patients. OSHA is only for employees.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 486.21,
+   "end": 492.21,
+   "text": "You think that's funny? It isn't. Believe me, it is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 492.21,
+   "end": 495.21,
+   "text": "That's procedural thinking.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 495.21,
+   "end": 499.21,
+   "text": "Now, then the patient can bring in my practice unit.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 499.21,
+   "end": 502.21,
+   "text": "But that's not OSHA's jurisdiction.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 502.21,
+   "end": 508.21,
+   "text": "And that court isn't going to run away and hit me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 508.21,
+   "end": 521.35,
+   "text": "You see, most hospitals have learned a long time ago that when you go downstairs, the operator reverses the call.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 521.35,
+   "end": 525.35,
+   "text": "And it can't run away from him, and it can't hurt him either.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 525.35,
+   "end": 533.35,
+   "text": "However, you have built it into your people, and it's not intuitively perceptive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 533.35,
+   "end": 540.35,
+   "text": "Unless people are built to do it, they'll push it down. Then they get hurt, and the damn thing gets away from them both.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 540.35,
+   "end": 547.35,
+   "text": "They have to be trained to, when they come to stairs, turn around and not go backward,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 547.35,
+   "end": 550.35,
+   "text": "but go forward and use their back.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 550.35,
+   "end": 554.35,
+   "text": "And once they have limited turn, no more accidents.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 554.35,
+   "end": 562.35,
+   "text": "Now, of course, you go down 50, a flight of 50 steps here, but two is what you usually have in a hospital, or one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 562.35,
+   "end": 564.35,
+   "text": "And it works.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 564.35,
+   "end": 571.35,
+   "text": "But unless they are trained to do it that way, the equipment is still going to be needed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 571.35,
+   "end": 576.35,
+   "text": "And OSHA looks at the equipment. And that's a procedural view.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 576.35,
+   "end": 584.35,
+   "text": "That's a view of the world, that if you do, that what matters are not the Dutch,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 584.35,
+   "end": 588.35,
+   "text": "what matters is doing them right. Yes, sir?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 588.35,
+   "end": 592.35,
+   "text": "I was going to ask a question about the movement pathologies.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 592.35,
+   "end": 599.23,
+   "text": "the what what is the pathologist's role with regard to the conditions",
+   "speaker": "drucker",
+   "drucker_coverage": 0.782
+  },
+  {
+   "start": 602.19,
+   "end": 608.19,
+   "text": "the pathologist you see yes in the hospital from the point of view of what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 614.27,
+   "end": 620.03,
+   "text": "probably takes a very new of said medical lab i would imagine for good reasons by the way but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 620.03,
+   "end": 627.03,
+   "text": "But OSHA is all that they say. The interesting thing is OSHA is only concerned with employees, not with people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 627.03,
+   "end": 631.03,
+   "text": "The medical hospital is a very unsafe place for people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 631.03,
+   "end": 638.03,
+   "text": "Very. But they want to visit.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 638.03,
+   "end": 644.03,
+   "text": "So when you take a procedural view, and bureaucracies tend to think,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 644.03,
+   "end": 651.27,
+   "text": "then the question of results does not arise.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 651.27,
+   "end": 672.42,
+   "text": "Now you take a procedural view basically because you believe that there is a rational order in the universe. That's a bureaucratic belief. And if you are in conformity with it, maybe that does not guarantee results.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 672.42,
+   "end": 677.76,
+   "text": "But if you're violating it, it makes damage to it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 677.76,
+   "end": 680.92,
+   "text": "That's Confucianism, that's Chinese.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 680.92,
+   "end": 683.22,
+   "text": "But that's anti-bureaucracy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 683.22,
+   "end": 688.04,
+   "text": "That is what essentially an auditor does.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 688.04,
+   "end": 690.52,
+   "text": "Auditors are procedural.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 690.52,
+   "end": 692.96,
+   "text": "And one should be procedural.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 692.96,
+   "end": 696.64,
+   "text": "Auditors say, is there a voucher for every expenditure?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 696.64,
+   "end": 697.74,
+   "text": "Yes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 697.74,
+   "end": 701.18,
+   "text": "How does GM get around as soon as there's",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.366
+  },
+  {
+   "start": 701.18,
+   "end": 707.06,
+   "text": "an accident, the employee is injured on the job and they file a workers' compensation",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.35
+  },
+  {
+   "start": 707.06,
+   "end": 711.42,
+   "text": "claim, and then if you fire the employee, you're...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 711.42,
+   "end": 722.66,
+   "text": "No, the employee, you don't fire. The supervisor gets fired. The supervisor gets fired. The",
+   "speaker": "drucker",
+   "drucker_coverage": 0.822
+  },
+  {
+   "start": 722.66,
+   "end": 729.54,
+   "text": "employee before the union, you probably couldn't fire. But mind you, GM has fought like a white",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 729.54,
+   "end": 740.6,
+   "text": "cap against any attempt on the part of social we workers union relax the system on safety",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 742.28,
+   "end": 749.4,
+   "text": "and and a gm worker who refuses to wear a safety helmet in a safety helmet zone",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 749.4,
+   "end": 758.89,
+   "text": "or doesn't wear it is out because you you would wsp fighting it for years and gm doesn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 758.89,
+   "end": 765.89,
+   "text": "you have to take more than one strike over.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 765.89,
+   "end": 769.89,
+   "text": "It's the only sensible thing to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 769.89,
+   "end": 772.89,
+   "text": "But GM, no, GM's punitive or deterrent",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 772.89,
+   "end": 774.89,
+   "text": "actually directed at the supervisor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 774.89,
+   "end": 780.89,
+   "text": "It is the supervisor's job to run an accident-free shop.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 780.89,
+   "end": 785.89,
+   "text": "IBM has the same reason for it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 785.89,
+   "end": 788.89,
+   "text": "You can't run it with zero accidents.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 788.89,
+   "end": 798.17,
+   "text": "the human race is it an accident if you have weak ankles and you come down where",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 800.49,
+   "end": 805.77,
+   "text": "you come down you know not quite straight and you turn your ankle and you have a bad",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 805.77,
+   "end": 815.37,
+   "text": "brain or break a break is that a preventable accident probably not uh sure you should have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 815.37,
+   "end": 826.71,
+   "text": "probably make sure nobody is that tip but on the other hand if you have an operation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 828.07,
+   "end": 834.47,
+   "text": "in which you attend the machine and before and then you turn around and bring more new material",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 834.47,
+   "end": 843.83,
+   "text": "on the machine then you better believe people not to turn the body but to turn the not to turn",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 843.83,
+   "end": 852.55,
+   "text": "the hip but to turn the whole turn the body very easy to have an accident you slip you are not very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 853.27,
+   "end": 860.31,
+   "text": "steady the center of gravity is out where it shouldn't be and you wrench your back too with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 860.31,
+   "end": 867.75,
+   "text": "the load so just as it is one insists on the people being trained to lift by going down in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 867.75,
+   "end": 877.27,
+   "text": "their knees they're not reaching down and just will and anything behavioral is there only by",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 877.27,
+   "end": 886.17,
+   "text": "will and will and will and will and will and not by being intelligent and sure one looks at operations",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 888.25,
+   "end": 894.81,
+   "text": "and then we'll make sure it's being done the right way because it's human behavior not machine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 894.81,
+   "end": 907.56,
+   "text": "And Osha's tendency would be to build a machine that doesn't release you until you turn around",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 907.56,
+   "end": 912.0,
+   "text": "and in the way in which with your foot you then activate the button so that you have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 912.0,
+   "end": 914.82,
+   "text": "to turn around all the way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 914.82,
+   "end": 921.22,
+   "text": "That way you get another accident.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.766
+  },
+  {
+   "start": 921.22,
+   "end": 922.22,
+   "text": "No.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 922.22,
+   "end": 929.22,
+   "text": "So, but to go back to the hospital, procedural approach is not really that important.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 929.22,
+   "end": 933.22,
+   "text": "It is focused on the propriety.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 933.22,
+   "end": 939.9,
+   "text": "And don't knock it, don't dismiss it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 939.9,
+   "end": 945.9,
+   "text": "In the first place, one always needs a propriety.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 945.9,
+   "end": 949.9,
+   "text": "The kids of yesterday have already changed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 949.9,
+   "end": 957.9,
+   "text": "We are very scornful of anything that smacks of good manners because there were no results, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 957.9,
+   "end": 964.9,
+   "text": "And also we are not candid. Why the kids misunderstand, misunderstood?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 964.9,
+   "end": 972.9,
+   "text": "Good manners are propriety. They are the lubricant of human intercourse.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 972.9,
+   "end": 979.9,
+   "text": "They make it possible for you and me to work together even though we are not terribly fond of each other.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 979.9,
+   "end": 989.22,
+   "text": "They make it possible to maintain a tenable atmosphere and tenable relations, and there are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 989.22,
+   "end": 996.32,
+   "text": "proprieties, and there are no results. You come in and say good morning day before",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 996.32,
+   "end": 1001.7,
+   "text": "yesterday, the sun did not come out, you know. No matter how many times you said good",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1001.7,
+   "end": 1011.78,
+   "text": "morning on Sunday morning. And still one says good morning, no one insists on it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1011.78,
+   "end": 1030.55,
+   "text": "Because the proprieties do matter. They do make intercourse possible. Now they are not the essence of human relations. They do not make a good marriage. But this courtesy has ruined many a marriage.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1030.55,
+   "end": 1055.2,
+   "text": "The absence of the proprieties always means disaster. The presence never means results. Procedures, proprieties, protocols, all are defensive. They cannot produce results, but their absence produces damage.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1055.2,
+   "end": 1070.58,
+   "text": "Now the my practice youth does not claim the absence of results, it claims the absence of propriety.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1070.58,
+   "end": 1078.58,
+   "text": "But from that point of view the hospital doesn't have results.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1078.58,
+   "end": 1104.06,
+   "text": "physicians. And the physician sees the hospital having certain minimum standards practiced by him and that don't might treat his patients too badly. And that is satisfaction. So we said, did Armstrong ask a meaningful question, the first question.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1104.06,
+   "end": 1130.55,
+   "text": "And these physicians probably all go around and say, we can't understand the administrator, we have to ask him a question about results. What the hell does he mean? But you can also look at it and say, well, results, and you have to see who are the customers in a sense.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.962
+  },
+  {
+   "start": 1130.55,
+   "end": 1137.55,
+   "text": "Who are the ones who decide whether there are results or not?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1137.55,
+   "end": 1142.22,
+   "text": "Is there yet one possible third approach?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1142.22,
+   "end": 1158.78,
+   "text": "What's a normative approach?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.487
+  },
+  {
+   "start": 1158.78,
+   "end": 1166.77,
+   "text": "Here is that preacher down at the United Methodist Church",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1166.77,
+   "end": 1176.18,
+   "text": "who, maybe not these days, these times, but for many, many centuries",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1176.18,
+   "end": 1218.03,
+   "text": "preached every Sunday against fornication. Any results? No? A procedural matter? A normative matter, where you basically argue that something is an absolute right, not an innate right, or an innate wrong.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.857
+  },
+  {
+   "start": 1218.03,
+   "end": 1233.22,
+   "text": "The absence of results is usually taken as proof of effectiveness, of need.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.901
+  },
+  {
+   "start": 1233.22,
+   "end": 1239.0,
+   "text": "That preacher, when you point out to him that after, you know, there's no religion that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1239.0,
+   "end": 1251.45,
+   "text": "has not preached against fornication, so it's been going on for a long time, their results,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1251.45,
+   "end": 1256.21,
+   "text": "I am afraid to report I probably zero.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1256.21,
+   "end": 1263.46,
+   "text": "No discernible difference in human behavior.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1263.46,
+   "end": 1265.88,
+   "text": "The noise levels change, but that's all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1265.88,
+   "end": 1266.72,
+   "text": "Yes?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1266.72,
+   "end": 1268.3,
+   "text": "How in the world do you make a statement",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1268.3,
+   "end": 1270.7,
+   "text": "when you have no ground for measurement?",
+   "speaker": "other",
+   "drucker_coverage": 0.292
+  },
+  {
+   "start": 1272.46,
+   "end": 1274.94,
+   "text": "Well, observation is, you know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1274.94,
+   "end": 1276.46,
+   "text": "we've got no ground for measurement.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1276.46,
+   "end": 1281.61,
+   "text": "Observation is legal, I think.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1290.63,
+   "end": 1292.61,
+   "text": "And you come to the preacher and say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1292.61,
+   "end": 1296.46,
+   "text": "why don't you stop?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1296.46,
+   "end": 1299.46,
+   "text": "Don't you see that you make no impact?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1299.46,
+   "end": 1324.26,
+   "text": "What will he say? Here is that pre-communist China, that missionary. How many is he likely to convert in the lifetime of being a missionary in China? Do you know? Not very many.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.94
+  },
+  {
+   "start": 1324.26,
+   "end": 1332.26,
+   "text": "The Chinese have not shown receptivity to Christianity to any great extent.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1332.26,
+   "end": 1345.04,
+   "text": "The Chinese underwent one violent religious intoxication when Buddhism came in,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1345.04,
+   "end": 1357.93,
+   "text": "and ever since then have been exceedingly leery of any religious infection, as they would view it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1357.93,
+   "end": 1367.85,
+   "text": "uh it isn't just christianity it's islam just as well the chinese are not very promising",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1367.85,
+   "end": 1375.37,
+   "text": "market for missionaries uh now you talk to that missionary who after 40 years in china",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1376.01,
+   "end": 1384.44,
+   "text": "retires to pilgrim place in claremont and who knows perfectly well that he hasn't converted anybody",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1384.44,
+   "end": 1409.35,
+   "text": "what will he say he's uh serving god he's not serving your in other words you're complaining",
+   "speaker": "drucker",
+   "drucker_coverage": 0.639
+  },
+  {
+   "start": 1409.35,
+   "end": 1414.45,
+   "text": "or whatever i'm not complaining well whoever it is you put in front of him saying where what are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1414.45,
+   "end": 1420.53,
+   "text": "your results to say my results will come later i'll get mine somewhere else and he's not concerned",
+   "speaker": "drucker",
+   "drucker_coverage": 0.671
+  },
+  {
+   "start": 1420.53,
+   "end": 1425.53,
+   "text": "You know you're probably underrated, good man.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1425.53,
+   "end": 1426.53,
+   "text": "Maybe I do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1426.53,
+   "end": 1433.53,
+   "text": "You will see that this only proves how bad these missionary efforts are needed.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.924
+  },
+  {
+   "start": 1433.53,
+   "end": 1435.53,
+   "text": "Don't you think so?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1435.53,
+   "end": 1437.53,
+   "text": "I definitely agree with that also.",
+   "speaker": "other",
+   "drucker_coverage": 0.265
+  },
+  {
+   "start": 1437.53,
+   "end": 1447.53,
+   "text": "Here, let me say, in any moment in the process, the absence of real guts proves that more effort is needed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1447.53,
+   "end": 1482.41,
+   "text": "That preacher who has now been preaching for 9,000 years against the sins of the flesh, to whom you point out that, sure, measurements are totally lacking, and I hope you heard what our friend here said, because don't trust what the day passes for measurements.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.785
+  },
+  {
+   "start": 1482.41,
+   "end": 1487.41,
+   "text": "For goodness sake, don't trust in such a thing as a public opinion survey.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1487.41,
+   "end": 1495.98,
+   "text": "Don't trust that 17-year-olds tell you, told you 60 years ago that they had no sexual experiences,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1495.98,
+   "end": 1498.98,
+   "text": "and today they tell you they have nothing else.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1498.98,
+   "end": 1502.98,
+   "text": "Both statements are equally totally unreliable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1502.98,
+   "end": 1509.98,
+   "text": "You must pay no attention to what 17-year-olds say about their sexual life.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1509.98,
+   "end": 1517.98,
+   "text": "But there is no evidence that there has been a great deal of change, one way or the other.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1517.98,
+   "end": 1524.8,
+   "text": "For the better or the worse, it depends on the way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1524.8,
+   "end": 1532.8,
+   "text": "Yes, feelings may have changed, but behavior, not so much.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1532.8,
+   "end": 1538.8,
+   "text": "And if you point it out as a good preacher, he will simply say that his only proof",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1538.8,
+   "end": 1546.8,
+   "text": "how strong the forces of evil are and that we have to redouble our efforts. Don't you think so?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1546.8,
+   "end": 1558.8,
+   "text": "Let me say it is typical of any moral crusade that he redoubles his efforts when he knows it's doomed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1558.8,
+   "end": 1585.66,
+   "text": "In the year of our Lord, 1932, when it was clear that prohibition in the United States was going to be repealed by the next president, no matter what his name would be, there were more arrests of prohibition offenses.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1585.66,
+   "end": 1593.66,
+   "text": "and in all the preceding 13 years or 14 years of the Volstead Act together.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1593.66,
+   "end": 1597.66,
+   "text": "That's when the prohibition agents really went to town.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1597.66,
+   "end": 1602.66,
+   "text": "What did they do? They had only one more year to fight the forces of evil.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1605.66,
+   "end": 1609.66,
+   "text": "But they believed in the forces of evil.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1609.66,
+   "end": 1613.66,
+   "text": "Most of you are laughing here. We have a few probably who don't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1613.66,
+   "end": 1620.78,
+   "text": "i know we have uh where our campus proceeds for christ friends i think they probably wouldn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1620.78,
+   "end": 1632.03,
+   "text": "laugh with you but and if you talk to people who believe that liquor is evil they will simply say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1632.03,
+   "end": 1643.49,
+   "text": "there means we choose to fight with the wrong ones or we stop too soon you really think it is",
+   "speaker": "drucker",
+   "drucker_coverage": 0.913
+  },
+  {
+   "start": 1643.49,
+   "end": 1652.57,
+   "text": "their slightest argument against the truly convinced Communists that 70 years after the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1652.57,
+   "end": 1659.17,
+   "text": "Russian Revolution, 60 years, the crime rate and the alcoholism rate and what have you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1659.17,
+   "end": 1666.65,
+   "text": "in the Soviet Union have not gone down. It only shows how deeply rooted the bourgeois",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1666.65,
+   "end": 1676.15,
+   "text": "capitalist infection is, and we have to redouble our efforts. Because, let me say, this is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1676.15,
+   "end": 1685.93,
+   "text": "always the moralist. For the moralist, the absence of results only proves how strong",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1685.93,
+   "end": 1695.57,
+   "text": "the forces of evil are. Because he starts out with an absolute. He does not define results",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1695.57,
+   "end": 1703.21,
+   "text": "as what the physician pays for, but as you did, he defines it as what is pleasing to the Lord.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1706.41,
+   "end": 1713.76,
+   "text": "And, yes sir? I can't hear you, I'm sorry.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1713.76,
+   "end": 1726.79,
+   "text": "On the basis of, in front of Max Hunter, that were all the facts, you matched the belief system up.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.77
+  },
+  {
+   "start": 1726.79,
+   "end": 1751.06,
+   "text": "All right, fine. You might go much further with this conception and so on. Certainly. And let me say the question is not whether this is a perfectly legitimate approach.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.959
+  },
+  {
+   "start": 1751.06,
+   "end": 1769.61,
+   "text": "The question is, would it be the right court. You would all, I think, agree that the fact that after 4,000 or 5,000 years of law courts, we still need law courts. There's no argument against it, would there?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1769.61,
+   "end": 1796.45,
+   "text": "The human race gets into collusion with one another and then it needs to have a system of justice to protect the weak against this oppressing strong and to protect standards of justice.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.963
+  },
+  {
+   "start": 1796.45,
+   "end": 1803.45,
+   "text": "No argument that basically the results are very slow in coming.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1803.45,
+   "end": 1814.45,
+   "text": "Yes, there are periods in which in certain societies for short periods people seem to have been colliding less.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1814.45,
+   "end": 1820.45,
+   "text": "I didn't say behaving better, because it's not the matter of behavior but of collision.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1820.45,
+   "end": 1825.45,
+   "text": "colliding less and others in which they are colliding more.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1825.45,
+   "end": 1831.45,
+   "text": "There have been periods which believe that one should encourage people to go to law",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1831.45,
+   "end": 1835.45,
+   "text": "and others which strongly believe that one should discourage them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1835.45,
+   "end": 1842.45,
+   "text": "But fundamentally there have been no periods in organized human society",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1842.45,
+   "end": 1853.5,
+   "text": "and which results for the law courts were not seen as, the law courts were not seen momentarily.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1853.5,
+   "end": 1860.5,
+   "text": "One argues for the existence of law courts not from their acceptance and their results,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1860.5,
+   "end": 1866.5,
+   "text": "but because they are needed for the cohesion of society,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1866.5,
+   "end": 1874.45,
+   "text": "and it is taken for granted that the cohesion of society is a good,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1874.45,
+   "end": 1881.45,
+   "text": "And even the most convinced theoretical anarchists in the middle of the 19th century,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1881.45,
+   "end": 1887.45,
+   "text": "Bakuni and what have you, will not have argued that we don't need law courts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1887.45,
+   "end": 1892.45,
+   "text": "But he would have said, yes, perfect society won't need law courts, yes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1892.45,
+   "end": 1896.45,
+   "text": "But he would just have said that law courts are an instrument of the oppressor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1896.45,
+   "end": 1902.45,
+   "text": "It isn't that. Law courts are wrong. We are abusing them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1902.45,
+   "end": 1917.23,
+   "text": "And when you as parents say that your children ought to learn the multiplication table,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1917.23,
+   "end": 1923.23,
+   "text": "believe me, you are probably half normative.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1923.23,
+   "end": 1929.23,
+   "text": "Because your argument that what for everybody had an electronic pocket calculator,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1929.23,
+   "end": 1935.23,
+   "text": "why should anybody have to know the multiplication table would annoy you terribly, wouldn't it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1935.23,
+   "end": 1942.63,
+   "text": "Most of us, it was, including myself, you see.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1942.63,
+   "end": 1945.43,
+   "text": "You better know the multiplication table.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1945.43,
+   "end": 1947.89,
+   "text": "Then you come back with such silly arguments.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1947.89,
+   "end": 1950.79,
+   "text": "They might find themselves in the middle of the Sahara",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1950.79,
+   "end": 1952.75,
+   "text": "and no electronic calculator.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1952.75,
+   "end": 1955.09,
+   "text": "And then they better know how to multiply.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1955.09,
+   "end": 1957.85,
+   "text": "The answer is, what would they have to multiply for in that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1957.85,
+   "end": 1958.35,
+   "text": "situation?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1958.35,
+   "end": 1959.85,
+   "text": "You know?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1959.85,
+   "end": 1962.47,
+   "text": "And so, no, you look upon multiplication",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1962.47,
+   "end": 1973.47,
+   "text": "something that belongs to an educated person. In the Greek of Greece or Plato you wouldn't have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1973.47,
+   "end": 1979.47,
+   "text": "it. Nobody could multiply in Greece because in order to multiply you have to have numerals and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1979.47,
+   "end": 1987.47,
+   "text": "the Greeks had no numerals. They couldn't multiply. They depended on Phoenicians to multiply",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1987.47,
+   "end": 1995.15,
+   "text": "to multiply, who were numerals, and who kept the secret, the knowledge very secret. But",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1995.15,
+   "end": 2002.49,
+   "text": "nobody in Greece felt that little Johnny or the equivalent of Johnny ought to learn how",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2002.49,
+   "end": 2016.29,
+   "text": "to multiply, because nobody knew how. But these are numerals, and don't say this ought",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2016.29,
+   "end": 2018.63,
+   "text": "to be the one or the other.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2018.63,
+   "end": 2021.93,
+   "text": "Except the fact that when in our approach to health care,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2021.93,
+   "end": 2026.13,
+   "text": "for instance, we are very normal.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2026.13,
+   "end": 2031.67,
+   "text": "We do something that we see no other country does.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2031.67,
+   "end": 2036.58,
+   "text": "You know what we do?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2036.58,
+   "end": 2043.06,
+   "text": "We have inner city clinics in our hospitals",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2043.06,
+   "end": 2049.86,
+   "text": "to force the poor to avail themselves of health care.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2049.86,
+   "end": 2056.86,
+   "text": "The poor notoriously are not terribly interested in healthcare. It is not a major value.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2056.86,
+   "end": 2068.62,
+   "text": "Healthcare is a value for the affluent, primarily. And incidentally, it's a value for the middle-aged.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2068.62,
+   "end": 2078.47,
+   "text": "For the young, it is not that much of a value. And for the poor, well, there are other priorities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2078.47,
+   "end": 2085.47,
+   "text": "And we spend, anybody know how much we spend per corn in the inner city clinic today?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2085.47,
+   "end": 2089.47,
+   "text": "Per corn, not per person. Anybody know how much it costs?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2089.47,
+   "end": 2094.49,
+   "text": "It costs about $200.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2094.49,
+   "end": 2097.49,
+   "text": "You know, the ingredients.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2097.49,
+   "end": 2103.49,
+   "text": "Beverly Hills, in fact, doesn't charge that much and does a better job",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2103.49,
+   "end": 2112.49,
+   "text": "because the results measured by any improvement of the health of the crew are absent for a variety of reasons.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2112.49,
+   "end": 2120.93,
+   "text": "One is that the recipient is not really appreciative.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2120.93,
+   "end": 2127.88,
+   "text": "The other one is that the recipient is incompetent, that he cannot use.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2127.88,
+   "end": 2135.88,
+   "text": "Modern healthcare requires a fairly high level of competence on the part of the recipient.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2135.88,
+   "end": 2142.58,
+   "text": "such as their willingness and ability to push the pills down little sooth his throat,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2142.58,
+   "end": 2150.58,
+   "text": "which a 16-year-old welfare mother of a 3-year-old brat isn't going to fight with him.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2150.58,
+   "end": 2155.98,
+   "text": "He doesn't have to come. But he knows it doesn't rank very high.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2155.98,
+   "end": 2159.18,
+   "text": "But when you say, why don't we give them their money?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2159.18,
+   "end": 2163.88,
+   "text": "You will get the immediate answer, then they wouldn't spend it on health care.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2163.88,
+   "end": 2172.54,
+   "text": "They're spending on things that are of much higher value, such as erratics terminators.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.885
+  },
+  {
+   "start": 2172.54,
+   "end": 2177.92,
+   "text": "And we couldn't afford, because we believe that health care is an absolute good,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2177.92,
+   "end": 2182.54,
+   "text": "and that they're being made to take it. That's a normative approach.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2182.54,
+   "end": 2188.42,
+   "text": "And the fact that it costs more and more and has fewer and fewer results",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2188.42,
+   "end": 2194.54,
+   "text": "is proof positive to the social worker that we need to do more of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2194.54,
+   "end": 2197.5,
+   "text": "And you think that's funny, and you are wrong.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2197.5,
+   "end": 2201.7,
+   "text": "You do exactly the same with the animal.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2201.7,
+   "end": 2206.86,
+   "text": "And all right, all right.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.419
+  },
+  {
+   "start": 2206.86,
+   "end": 2211.42,
+   "text": "We will have an open forum, and will you please",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2211.42,
+   "end": 2215.98,
+   "text": "think about questions you want to ask relating",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2215.98,
+   "end": 2221.78,
+   "text": "to the management process, legitimately or illegitimately,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2221.78,
+   "end": 2242.8,
+   "text": "we're still related. And so, let's have another look at, we've probably had enough of this case, so let's not belabor it, but you know there's one angle we haven't looked at.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.952
+  },
+  {
+   "start": 2242.8,
+   "end": 2243.8,
+   "text": "We have looked at.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2243.8,
+   "end": 2278.45,
+   "text": "Something that I think never really occurred, doesn't occur to people who talk about management, namely that not all institutions can easily be defined in terms of what you call the great deal of the confusion you find.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2279.05,
+   "end": 2305.79,
+   "text": "It's the result of people thinking that the conventional definition of results necessarily always maintains, you know, you hear people saying here they are out on strike 78 days or 28 weeks and it would take them 110 years, you know, to make up their strike losses, you remember?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2305.79,
+   "end": 2319.81,
+   "text": "But it happens to be a totally irrelevant comment because very few strikes are basically economic in the origin or in their fundamental meaning.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2319.81,
+   "end": 2338.01,
+   "text": "They are either political, their power struggles, or they are aimed at cementing a communion of the members and their common cohesion against the common enemy, where the economic price is very irrelevant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2338.01,
+   "end": 2363.22,
+   "text": "The cost may be economic, but the results are not. Or you may essentially have a situation in which results in the way in which one usually looks at them are irrelevant, because you are dealing with a fundamentally and value, a moral value.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2363.22,
+   "end": 2385.36,
+   "text": "And as we were reminded from the fellow in back, who was, I don't know whether he's back or not, he just came back here, that in a value system, a faith system, facts that do not agree with your value system tend to be rejected.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2385.36,
+   "end": 2395.36,
+   "text": "They are not to be perceived. But also they tend to be considered to be quite irrelevant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2395.36,
+   "end": 2403.36,
+   "text": "Because they are not dealing with that kind of an issue. They are dealing with an issue of absolutes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2403.36,
+   "end": 2411.31,
+   "text": "And the basic question is are the absolutes the right ones?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2411.31,
+   "end": 2423.28,
+   "text": "the basic question is always, are you serving the true God or an idol? But you serve the same way,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2425.44,
+   "end": 2440.09,
+   "text": "and it's very hard. There is no objective measurement for absolute values.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.829
+  },
+  {
+   "start": 2441.69,
+   "end": 2446.89,
+   "text": "Most of you, not all of you, but most of you in this room seem to feel that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2446.89,
+   "end": 2458.29,
+   "text": "stamping out the demon run was a very limited benefit and certainly not the moral force and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2458.29,
+   "end": 2463.57,
+   "text": "maybe a public health sport maybe we don't be better off if we didn't have any liquor around",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2463.57,
+   "end": 2474.78,
+   "text": "the evidence that you know isn't that overwhelming on either side but certainly not the moral",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2474.78,
+   "end": 2483.88,
+   "text": "actually but now who are you to say so I have to be with you but one has to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2483.88,
+   "end": 2488.64,
+   "text": "accept the fact that there is no evidence for moral absolute there is no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2488.64,
+   "end": 2498.34,
+   "text": "evidence and you maintain that the black welfare mothers in the ghetto ought to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2498.34,
+   "end": 2504.02,
+   "text": "put health care very high on their priorities well they don't but who is to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2504.02,
+   "end": 2517.46,
+   "text": "say that they shouldn't or should. And so you get into value problems, and any attempt",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2517.46,
+   "end": 2527.26,
+   "text": "to come up with an objective, value-free approach to value problems is very difficult. It's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2527.26,
+   "end": 2533.66,
+   "text": "not impossible. There's a very important branch of modern work on its logic or philosophy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2533.66,
+   "end": 2543.66,
+   "text": "that deals with the assessment of values and value covenants, but it's not that simple.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2543.66,
+   "end": 2551.66,
+   "text": "That was one thing. And now let's look at something quite different in this case.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2551.66,
+   "end": 2561.26,
+   "text": "I think we can see why our friend Armstrong may be confused,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2561.26,
+   "end": 2575.26,
+   "text": "because when he talks results to his physicians, they kind of look at him round-eyed and don't know what the hell he's talking about.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2575.26,
+   "end": 2585.26,
+   "text": "And when he's talking results to true believers, they find it very hard.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2585.26,
+   "end": 2599.9,
+   "text": "and they will then all right everybody except that on battlefield conditions where you have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2599.9,
+   "end": 2607.28,
+   "text": "so many positions and you're overwhelmed by casualties you have to use triage you have to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2607.28,
+   "end": 2616.4,
+   "text": "be that divide your casualties into three parts that's what they are means French physicians in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2616.4,
+   "end": 2627.4,
+   "text": "World War I realized it. The ones who will not get worse despite the absence of medical",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2627.4,
+   "end": 2637.9,
+   "text": "care, not necessarily recover, but they won't get worse. The ones who will die anyhow and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2637.9,
+   "end": 2643.5,
+   "text": "the ones where medical attention will make a difference and you concentrate your very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2643.5,
+   "end": 2648.66,
+   "text": "limited health care resources on the battlefield on that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2648.66,
+   "end": 2652.5,
+   "text": "field where they will make a difference.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2652.5,
+   "end": 2655.86,
+   "text": "And when it comes to the battlefield, you accept this.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2659.0,
+   "end": 2663.68,
+   "text": "But when it comes to kidney dialysis, we don't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2663.68,
+   "end": 2668.64,
+   "text": "Because there, you have a different situation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2668.64,
+   "end": 2672.4,
+   "text": "The probability, one is as much a probability judgment",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2672.4,
+   "end": 2683.22,
+   "text": "as the other, you know. And yet we feel strongly that there is no economic, no cost-benefit",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2683.22,
+   "end": 2699.68,
+   "text": "calculus in respect to human life. And yet we're dealing with the same scarce resources.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.909
+  },
+  {
+   "start": 2699.68,
+   "end": 2708.3,
+   "text": "And so the whole question of results in respect to health care might strike quite a few people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2708.3,
+   "end": 2716.3,
+   "text": "is simply an immoral question. You have an absolute. Health is an absolute. All right?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2716.3,
+   "end": 2723.71,
+   "text": "We are limited by our ignorance. There are lots of things we can't do anything about.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2723.71,
+   "end": 2731.71,
+   "text": "We don't know what to do with the schizophrenic. And we don't know what to do with somebody",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2731.71,
+   "end": 2737.71,
+   "text": "who has had a coronary, except hope. That's all we can do, you know, and watch. What good",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2737.71,
+   "end": 2743.71,
+   "text": "watching says we don't know. The whole thing is the only thing we could basically be calling.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2743.71,
+   "end": 2749.71,
+   "text": "We don't know under what conditions you get the second one or let's say a stroke is much",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2749.71,
+   "end": 2760.71,
+   "text": "not the thing we can do. And yet that's our ignorance. And if we knew what to do, we would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2760.71,
+   "end": 2768.39,
+   "text": "tried to because health has become a form of absolute and moral absolute in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2768.39,
+   "end": 2775.97,
+   "text": "modern society. That, by the way, is something very new. Two hundred years ago",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2775.97,
+   "end": 2784.95,
+   "text": "there was no such feeling about health and either because we can do much more than",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2784.95,
+   "end": 2789.27,
+   "text": "because two hundred years ago or because we have changed our attitude. We have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2789.27,
+   "end": 2819.68,
+   "text": "But there may be another way of looking at it. Here is a hospital. When you speak of results in a hospital, and you ask a question about who is the customer, and you say the physician, because you apply the way one finds the customer, which is always to say who makes the buying decision.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.967
+  },
+  {
+   "start": 2819.68,
+   "end": 2827.68,
+   "text": "By the way, do you know, does a business, how many customers does a business have?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2827.68,
+   "end": 2836.8,
+   "text": "How many kinds of customers do you know? What's the minimum number?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.89
+  },
+  {
+   "start": 2836.8,
+   "end": 2842.8,
+   "text": "See, every business has two customers, owners. And in fact every business has four.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2842.8,
+   "end": 2848.36,
+   "text": "First it has two customers for its goods or services.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2848.36,
+   "end": 2855.36,
+   "text": "You know here you are making, you are canning potatoes or tomatoes or peas or what have you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2855.36,
+   "end": 2881.57,
+   "text": "And you sell them through Alphabeta. You have two customers. You have the housewife and you have the supermarket. And they have to satisfy both. If you don't satisfy Albertson's or Alphabeta and they don't put it on the shelves, the housewife may want your brand very badly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2881.57,
+   "end": 2911.11,
+   "text": "But do you really think she's going to travel to the other side of the county to find your brand? She's either going to see what other, what good brand is there, or if she, in the very unlikely but not impossible case, that she will not eat any canned beets unless they are, I don't know, canned beets, let's say, Del Monte.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2911.11,
+   "end": 2918.11,
+   "text": "She won't eat any but the amount they can't beat, well then she isn't going to say a beat.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2918.11,
+   "end": 2931.11,
+   "text": "But she isn't going to really think she's going to make another shopping trip just because the supermarket doesn't have her brand.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2931.11,
+   "end": 2940.02,
+   "text": "he may eventually switch a custom to another supermarket because in the things which he",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2940.02,
+   "end": 2953.46,
+   "text": "cares much about coffee meat fresh fruit another supermarket is much a much better source but that's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2955.62,
+   "end": 2957.78,
+   "text": "not the reaction the first time",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2957.78,
+   "end": 2966.78,
+   "text": "And so you have the old axiom of the retail business, if you ain't got it on the shelves, you can't sell it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2966.78,
+   "end": 2983.64,
+   "text": "You know, it's a very sound axiom. And on the other hand, you know, here is the canned goods producer and he starts a razzle-dazzle promotion",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2983.64,
+   "end": 3003.54,
+   "text": "And he gives the supermarket twice the markup and the housewife doesn't like the brand and doesn't buy it and the brand will die. Anybody know which supermarket is dying because it didn't accept that?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3003.54,
+   "end": 3014.54,
+   "text": "The ANP insisted on running its house brands, on which it made twice the margin of profit.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3014.54,
+   "end": 3020.54,
+   "text": "Empty Housewives does not like private labels.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3020.54,
+   "end": 3026.54,
+   "text": "The only private label that does well in this economy is this year's label.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3026.54,
+   "end": 3061.54,
+   "text": "And it is hardly a private league, though it is, technically speaking. Otherwise, the housewife likes nationally advertised brands. Everybody know why? What? Why is that girl as irrational as Mr. Nader thinks she is, and as badly in need of a nanny and of somebody to change her diaper, does she think she is?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.829
+  },
+  {
+   "start": 3061.54,
+   "end": 3068.54,
+   "text": "Or does she have a point? What is it? There's something Mr. Nader doesn't understand that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3068.54,
+   "end": 3076.14,
+   "text": "It's a choice.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.408
+  },
+  {
+   "start": 3076.14,
+   "end": 3089.15,
+   "text": "She wants a choice. Here are 16 different supermarkets carrying the ABC brand. And so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3089.15,
+   "end": 3099.15,
+   "text": "16 professional buyers buy. The housewife has no way of judging the quality of a brand",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3099.15,
+   "end": 3109.15,
+   "text": "of beads, does she? All right, a case of botulism, that's one thing. Although, she's unlikely",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3109.15,
+   "end": 3122.15,
+   "text": "to survive, too. But otherwise, what can she judge? And let me say, between you and me,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3122.15,
+   "end": 3130.78,
+   "text": "Now, the more you put on the label, the more confused you'll be.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3130.78,
+   "end": 3137.78,
+   "text": "If manufacturers really knew how to run their business instead of trying to be philanthropists,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3137.78,
+   "end": 3141.78,
+   "text": "they would welcome all labeling laws.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3141.78,
+   "end": 3144.78,
+   "text": "They confuse the customer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3144.78,
+   "end": 3151.78,
+   "text": "Have you read the latest statement on your Bank of America statement about what they charge you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3151.78,
+   "end": 3156.78,
+   "text": "Can you figure it out?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3156.78,
+   "end": 3169.48,
+   "text": "This is written, I don't know by whom, by a minor poet who's in all of this.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.843
+  },
+  {
+   "start": 3169.48,
+   "end": 3173.48,
+   "text": "And they're the only ones who can write that kind of stuff.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3173.48,
+   "end": 3181.53,
+   "text": "No. What she knows is do the kids eat it or don't eat it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3181.53,
+   "end": 3196.45,
+   "text": "But she also is quite aware of the fact that she is in no position to judge the wholesomeness of this stuff, the quality of it. But here are a dozen professional buyers who don't know canned vegetables.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3196.45,
+   "end": 3222.45,
+   "text": "You know, the person who buys canned goods at Alphabeta, there is nothing else. The housewife may not know this, but she suspects that the Alphabeta buyer knows more than she does, and the Albertson buyer knows more than she does, and the Ralspire buyer knows more than she does, and there are 16 who buy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3222.45,
+   "end": 3243.18,
+   "text": "And this is no guarantee of quality, but it is a guarantee of, guarantee maybe to be the indication that quality can't be totally lacked. She has reassured, she knows better than to believe in a universal conspiracy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3243.18,
+   "end": 3259.0,
+   "text": "The only people who believe in a universal conspiracy are politicians, they're paranoid, and sometimes the two terms are synonymous. Universal conspiracy is a trouble with them, it's there to complicate.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.937
+  },
+  {
+   "start": 3259.0,
+   "end": 3267.24,
+   "text": "You know, one cannot even, a conspiracy of two is already very difficult, as most of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3267.24,
+   "end": 3271.24,
+   "text": "you found out in seventh grade, didn't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3271.24,
+   "end": 3276.24,
+   "text": "How long could you keep a secret in seventh grade, remember?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3276.24,
+   "end": 3277.24,
+   "text": "What?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3277.24,
+   "end": 3285.24,
+   "text": "Conspiracies are very hard, and conspiracies of sixteen produce files are unlikely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3285.24,
+   "end": 3288.24,
+   "text": "Pretty mildly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3288.24,
+   "end": 3311.58,
+   "text": "So, and that private label, the housewife may not know that A&P makes twice the profit margin on it, but nobody else pushes it, and so she is leery. And the resistance to private labels is perfectly rational.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3311.58,
+   "end": 3319.92,
+   "text": "It is what people have to do who have no way of judging.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3319.92,
+   "end": 3322.92,
+   "text": "The housewife does not have a lab in her kitchen.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3322.92,
+   "end": 3326.92,
+   "text": "And here you have a testing lab for cancer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3329.92,
+   "end": 3338.24,
+   "text": "So she has to depend on an informed buyer.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.88
+  },
+  {
+   "start": 3338.24,
+   "end": 3347.94,
+   "text": "And here are 15 who buy Green Giant.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.691
+  },
+  {
+   "start": 3347.94,
+   "end": 3357.94,
+   "text": "And here is the Anne Page brand of the A&P for those of you who are old Easterners.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3357.94,
+   "end": 3368.08,
+   "text": "And the only one buys it, you know, and obviously it's the same fellow who makes it.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.901
+  },
+  {
+   "start": 3368.08,
+   "end": 3377.93,
+   "text": "And so the resistance to the private label is perfectly rational and no retailer understands it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3377.93,
+   "end": 3398.58,
+   "text": "And so, you have to satisfy if you can beets. You have to satisfy the housewife. If your experience is very unsatisfactory, the kids don't like it. Or she gets cans that spoil, badly canned.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3398.58,
+   "end": 3410.53,
+   "text": "Or she doesn't like the taste. Too much vinegar in the beets are not enough. She rejects it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3410.53,
+   "end": 3426.66,
+   "text": "Or the quality is uneven. The single most common cause why buyers do not visit the brand is that the quality,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3426.66,
+   "end": 3443.28,
+   "text": "A brand's basic function is to be an assurance of quality maintenance. You'll get the same stuff every time. That's what a brand stands for.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3443.28,
+   "end": 3462.78,
+   "text": "So that if you have had good experiences with it last week, you expect a good experience with it the next week. Because a brand is an assurance of quality. That's why incidentally, people who make branded goods are so reluctant to think of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3462.78,
+   "end": 3484.9,
+   "text": "He said, whether they turn out the magazine, the person who buys Time or Newsweek expects the same kind of magazine, and it resists even very minor changes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3484.9,
+   "end": 3502.62,
+   "text": "layout, typeface, let alone format, and the same is true of canned peaches.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.859
+  },
+  {
+   "start": 3502.62,
+   "end": 3510.83,
+   "text": "And so you need to sell the housewife and you need to sell the grocer, both.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3510.83,
+   "end": 3513.83,
+   "text": "And their expectations are quite different.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3513.83,
+   "end": 3520.23,
+   "text": "What they consider value is totally different.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3520.23,
+   "end": 3522.23,
+   "text": "You have to satisfy both.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3522.23,
+   "end": 3529.23,
+   "text": "Let me say you have to satisfy, not with your good, but as an institution, a capital market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3529.23,
+   "end": 3533.23,
+   "text": "You have to be able to attract and hold capital into the market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3533.23,
+   "end": 3543.23,
+   "text": "And you have to be able to attract and hold employees, your market, your jobs and your careers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3543.23,
+   "end": 3547.23,
+   "text": "So you operate always at four customers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3547.23,
+   "end": 3552.25,
+   "text": "And if you really fail to satisfy any one of them, you're going to be out of business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3554.67,
+   "end": 3557.33,
+   "text": "And their expectations are quite different.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3557.33,
+   "end": 3569.29,
+   "text": "And yet you may say that if you satisfy the expectations of the customer for goods and services in a business,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.916
+  },
+  {
+   "start": 3569.79,
+   "end": 3574.37,
+   "text": "customers, you are likely to survive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3575.05,
+   "end": 3577.99,
+   "text": "Let me say, you all think this is proven.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3577.99,
+   "end": 3590.8,
+   "text": "It isn't true that if you only satisfy the economy's maintenance.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.922
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 28.93,
+ "created_utc": "2026-09-20T23:01:40+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

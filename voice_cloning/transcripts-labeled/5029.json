@@ -1,0 +1,987 @@
+{
+ "pointer": "5029",
+ "media": "5029.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2045.2,
+ "segments": [
+  {
+   "start": 1.49,
+   "end": 24.55,
+   "text": "The appearance of which will cause it. If your company goes out of business tomorrow, that's sad news for you and for your employees, and maybe for the city of Al-Fadina, which loses its taxpayers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 24.55,
+   "end": 50.81,
+   "text": "But you know, somebody's wife says at the breakfast table, our toaster is on the blinker. And the husband says, well, go buy one. And she says, what good brands are there? The fellow says, oh gee, I think it's all right.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.962
+  },
+  {
+   "start": 50.81,
+   "end": 56.81,
+   "text": "She goes down to the hardware store, the discount store, and they say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 56.81,
+   "end": 60.81,
+   "text": "you know, she went out of business yesterday.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 60.81,
+   "end": 67.81,
+   "text": "She isn't going to go back home and start toasting bread over the fireplace.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 67.81,
+   "end": 71.81,
+   "text": "She's going to say, what other good brand do you have?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 71.81,
+   "end": 80.91,
+   "text": "There's no, and this is what is so hard to think,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.89
+  },
+  {
+   "start": 80.91,
+   "end": 89.27,
+   "text": "except the fact that the public doesn't want it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 89.27,
+   "end": 93.45,
+   "text": "Oh, with curiosity, if you have some spicy gossip,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 93.45,
+   "end": 96.85,
+   "text": "unfortunately, the real trouble with management",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 96.85,
+   "end": 109.43,
+   "text": "is that it's one of the few subjects in which sex is on the greatest problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 109.43,
+   "end": 157.58,
+   "text": "Astronomy is an exception.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.979
+  },
+  {
+   "start": 157.58,
+   "end": 160.5,
+   "text": "I mean, somebody's got to make you an office.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 160.5,
+   "end": 164.93,
+   "text": "They don't make themselves.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 164.93,
+   "end": 182.42,
+   "text": "But thank god I don't have to.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.342
+  },
+  {
+   "start": 182.42,
+   "end": 186.26,
+   "text": "I have no idea how important they're becoming still.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 186.26,
+   "end": 194.61,
+   "text": "For some items where people have a very hard time judging.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 194.61,
+   "end": 198.19,
+   "text": "How many of us in this room can judge for themselves",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 198.19,
+   "end": 203.61,
+   "text": "the performance of a refrigerator?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 203.61,
+   "end": 206.07,
+   "text": "A toaster, that's fairly easy, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 206.07,
+   "end": 207.97,
+   "text": "The darn thing either pops or it doesn't,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 207.97,
+   "end": 209.59,
+   "text": "or it burns or it doesn't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 209.59,
+   "end": 212.01,
+   "text": "But a refrigerator, it's hard.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 212.01,
+   "end": 218.13,
+   "text": "And I think with products where people have a hard time,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 218.13,
+   "end": 223.57,
+   "text": "consumer magazines have a very good influence.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 223.57,
+   "end": 235.84,
+   "text": "In others, I don't think.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.361
+  },
+  {
+   "start": 235.84,
+   "end": 262.7,
+   "text": "everything was there, period. And another one, a waxer that had wax in front. It would take a strong man that swore for 15 minutes.",
+   "speaker": "other",
+   "drucker_coverage": 0.156
+  },
+  {
+   "start": 262.7,
+   "end": 284.46,
+   "text": "Let me say, it is very easy. Doesn't experience it. Do not talk about good experiences because it takes...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 284.46,
+   "end": 303.06,
+   "text": "You do not remember. It's taken for granted. But you do remember that fish washer you bought where you couldn't get service",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 303.06,
+   "end": 308.06,
+   "text": "for two years until finally a serviceman came and looked at it and said,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 308.06,
+   "end": 314.06,
+   "text": "why hasn't anybody cut that string that ties down the impeller bay?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 314.06,
+   "end": 316.06,
+   "text": "It took him two years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 316.06,
+   "end": 320.06,
+   "text": "What do you remember? I remember that one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 320.06,
+   "end": 324.06,
+   "text": "Why didn't I see it is another question.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 324.06,
+   "end": 331.06,
+   "text": "But you remember people take performance for granted.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 331.06,
+   "end": 346.11,
+   "text": "In our city, things work, reasonably, but the bad experience sticks in your memory.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 346.11,
+   "end": 354.66,
+   "text": "And this is something very few businesses understand.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 354.66,
+   "end": 368.86,
+   "text": "On the other hand, if that refrigerator you had had trouble with, and you would have moored up,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.93
+  },
+  {
+   "start": 368.86,
+   "end": 374.86,
+   "text": "and they would have sent a truck over with a new refrigerator and put it in and taken the old one out,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 374.86,
+   "end": 376.86,
+   "text": "you would remember them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 376.86,
+   "end": 385.86,
+   "text": "Very few people realize that to fix a real trouble spot is very important because they stick in the memory.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 385.86,
+   "end": 407.25,
+   "text": "But good experiences, that's essentially a tribute to the performance of the system.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.673
+  },
+  {
+   "start": 407.25,
+   "end": 413.25,
+   "text": "So don't complain about it. Don't complain about the fact that you don't get brownie points for good behavior.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 413.25,
+   "end": 445.57,
+   "text": "This is one of the big questions to which, let me say that the only thing we know about advertising was said a hundred years ago by John Wanamaker, who said, I know that 50 cents of every dollar I spend on advertising are wasted, but I don't know which 50.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.861
+  },
+  {
+   "start": 445.57,
+   "end": 453.68,
+   "text": "and that is still true except that maybe some people suspect occasionally it's 70 cents",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 454.4,
+   "end": 462.0,
+   "text": "sometimes it's it uh advertising is valuable if you know what you are trying to do the great",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 462.0,
+   "end": 487.32,
+   "text": "problem with there are several costs uh one is let me say the one most people very rarely",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 487.32,
+   "end": 528.77,
+   "text": "advertising only justifies results in and it can do that only by so that the the customer doesn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 528.77,
+   "end": 542.93,
+   "text": "have to be sold the customer has to be delivered how do you measure that that's very difficult",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 542.93,
+   "end": 567.04,
+   "text": "but very few you can actually look upon an adequate result we know most of it in fact the",
+   "speaker": "drucker",
+   "drucker_coverage": 0.876
+  },
+  {
+   "start": 567.04,
+   "end": 573.76,
+   "text": "only figures we have are for mail advertising. Even coupon advertising is already very difficult",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 573.76,
+   "end": 640.85,
+   "text": "to measure. But in mail advertising we know that you actually for various projects forgets to tell",
+   "speaker": "drucker",
+   "drucker_coverage": 0.955
+  },
+  {
+   "start": 640.85,
+   "end": 660.8,
+   "text": "you that people write in don't pay their bills. So anything above six percent may happen once in a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 660.8,
+   "end": 676.1,
+   "text": "blue fairly reliable figure. That there you have a direct fee. You know how many you mailed out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 676.1,
+   "end": 683.44,
+   "text": "So these days, you don't know how many reach your advocacy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 683.44,
+   "end": 686.44,
+   "text": "And you know how many come back with money or with an order.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 686.44,
+   "end": 691.75,
+   "text": "In any other form of advertising, you have no search.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 691.75,
+   "end": 697.4,
+   "text": "But you can only sell, other than marketing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 697.4,
+   "end": 707.4,
+   "text": "Sell discrete single products with fairly low value and direct consumer appeal.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 707.4,
+   "end": 768.32,
+   "text": "appeal a magazine market with the target of life and the fact in life was aimed at the omitted",
+   "speaker": "drucker",
+   "drucker_coverage": 0.951
+  },
+  {
+   "start": 768.32,
+   "end": 774.64,
+   "text": "this the massive the retailer knew how expensive life was how many households it reached this good",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 774.64,
+   "end": 786.22,
+   "text": "day and if it was advertised in life he featured it prominently on his shelves that and that was",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 786.22,
+   "end": 791.9,
+   "text": "what you tried to do and if you understood this then life could be a very effective advertising",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 791.9,
+   "end": 806.04,
+   "text": "medium and if you thought you were talking life never worked and what meant but it had tremendous",
+   "speaker": "drucker",
+   "drucker_coverage": 0.929
+  },
+  {
+   "start": 806.04,
+   "end": 833.85,
+   "text": "impact on the critic or the retail the woman's magnet for some obscure reason never had this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 833.85,
+   "end": 846.3,
+   "text": "like the thing for the idea most advertising agencies had to put the same ad into life to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 846.3,
+   "end": 857.92,
+   "text": "put into ladies home companions but they took the one old wannabe the same app incidentally",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 857.92,
+   "end": 871.44,
+   "text": "we also know enough to date to know that one should never run the same. The gal who reads",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 871.44,
+   "end": 879.68,
+   "text": "Woman's Home Companion and then half an hour later reads Playboy is the same physical person",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 879.68,
+   "end": 901.1,
+   "text": "but not the same emotionally. The message has to fit and most advertisers and you save a little",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 901.1,
+   "end": 921.02,
+   "text": "money and so one says what medium is the right one for what kind of an appeal. You like to talk",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 921.02,
+   "end": 943.07,
+   "text": "to the retailer ladies home it has no impact and we know that you may the one thing where we know",
+   "speaker": "drucker",
+   "drucker_coverage": 0.955
+  },
+  {
+   "start": 943.07,
+   "end": 951.95,
+   "text": "the most not enough but the most is product or service marketing promotion uh where you want to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 951.95,
+   "end": 967.6,
+   "text": "create recognition you may want to let me create where you may want to sell actually but that's",
+   "speaker": "drucker",
+   "drucker_coverage": 0.936
+  },
+  {
+   "start": 967.6,
+   "end": 975.16,
+   "text": "limited they're very narrow or create receptivity to where you can think through who is the audience",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 975.16,
+   "end": 999.13,
+   "text": "not for my airport and that in this medium when you go beyond it things become much fuzzier",
+   "speaker": "drucker",
+   "drucker_coverage": 0.833
+  },
+  {
+   "start": 999.13,
+   "end": 1008.3,
+   "text": "the advertiser is talking about things that are of interest to him and have no interest in product",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1008.3,
+   "end": 1016.94,
+   "text": "advertising you can assume what it says help wanted that there you have a complete identity",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1016.94,
+   "end": 1025.08,
+   "text": "somebody is looking for a good secretary and somebody wants a job very effective you need",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1025.08,
+   "end": 1031.0,
+   "text": "to reach only one oh forget that you have how many readers of los angeles times you want to reach one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1031.64,
+   "end": 1042.24,
+   "text": "the one who wants a secretary so you can have a very high impact very specific message direct",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1042.24,
+   "end": 1050.56,
+   "text": "directed at people who are looking for a legal secretary 15 years experience running a law office",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1051.2,
+   "end": 1062.06,
+   "text": "in Western Los Angeles. And you either match or you don't. When your product is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1062.06,
+   "end": 1071.6,
+   "text": "already much bigger distribution but no direct impact but even there you achieve",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1071.6,
+   "end": 1076.34,
+   "text": "an identity of interest. Here is that housewife wondering what shall she give",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1076.34,
+   "end": 1084.48,
+   "text": "Aunt Polly for Christmas. And something hits her or she would be wondering about",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1084.48,
+   "end": 1098.99,
+   "text": "what am I going to cook a Saturday night. When you come to corporate, essentially",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1098.99,
+   "end": 1107.46,
+   "text": "you are up against the fact that the reader couldn't care less. He's not a bit",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1107.46,
+   "end": 1117.97,
+   "text": "interested in whether your company is a good city, whether you're lovable people,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1117.97,
+   "end": 1129.5,
+   "text": "whether you make doorknobs or snuff boxes, if he's an investor. He also isn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1129.5,
+   "end": 1136.38,
+   "text": "interested in how much do you appreciate whether you make it by making snuff boxes doorknobs or caskets",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1136.38,
+   "end": 1141.5,
+   "text": "that's a very more interesting caskets are read in every depression group and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1143.42,
+   "end": 1153.72,
+   "text": "although they have very great prices this is so but he is nothing he then whom are you talking",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1153.72,
+   "end": 1169.83,
+   "text": "let me say corporate advertising is directed if you just as life advertising was ostensibly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1169.83,
+   "end": 1178.44,
+   "text": "address to the housewife and the address he was if you know that and if you think through what is it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1178.44,
+   "end": 1184.52,
+   "text": "the employees want to know they are interested in norris and maybe from the point of view of mr",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1184.52,
+   "end": 1193.56,
+   "text": "norris this is a very easy way of nobody has ever heard of it of making his people his management",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1193.56,
+   "end": 1199.99,
+   "text": "people primarily feel they are working for an important whatever he spends i don't know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1199.99,
+   "end": 1234.49,
+   "text": "If he knows what he's doing. If he wants us in the great Los Angeles area to recognize Norris Industries, he's wasting his money. Or rather, he's here with that money. Remember Norris. So what?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.594
+  },
+  {
+   "start": 1234.49,
+   "end": 1243.49,
+   "text": "Why do I have to? I don't quite see it. I don't see where there is a need to...",
+   "speaker": "drucker",
+   "drucker_coverage": 0.777
+  },
+  {
+   "start": 1243.49,
+   "end": 1269.34,
+   "text": "Why do we, why do you pay the president of GM half a million dollars? Do you know? Why? Ah, let me say you don't pay the president of GM half a million or three quarters of a million. You pay the foreman of GM 12,000. And you have to, or 15, and you have to pay the next level a significant differential.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.865
+  },
+  {
+   "start": 1269.34,
+   "end": 1275.28,
+   "text": "and since they got the darn thing is so grossly over structured that you have 22",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1275.28,
+   "end": 1332.65,
+   "text": "layers half a million a tax deductible did this arithmetic on it gives us real",
+   "speaker": "drucker",
+   "drucker_coverage": 0.974
+  },
+  {
+   "start": 1332.65,
+   "end": 1452.28,
+   "text": "as that ladder at what age it turns out to be hundred and eighty-five executive",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1452.28,
+   "end": 1478.18,
+   "text": "coins just be build them because some of the things that make business sense you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1478.18,
+   "end": 1485.8,
+   "text": "can't be so insane that you can't do it and don't do it but don't do things just",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1485.8,
+   "end": 1504.72,
+   "text": "And secondly, it made sense in a non-inflationary period to become dangerous.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1504.72,
+   "end": 1527.32,
+   "text": "This Chrysler is going to pay for the fact that when there was a wage and price freeze,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.956
+  },
+  {
+   "start": 1527.32,
+   "end": 1532.32,
+   "text": "it paid those incredible bonuses to its top people under an existing contract.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1532.32,
+   "end": 1537.7,
+   "text": "They were perfectly legal. They were just politically asinine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1537.7,
+   "end": 1541.7,
+   "text": "When everybody knew that the first time the wind changed, Chrysler was going to...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1541.7,
+   "end": 1556.1,
+   "text": "because Chrysler is basically not attempting. GM could put Chrysler out of business in about 30 days.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1556.1,
+   "end": 1560.1,
+   "text": "GM is holding a big, huge, fat umbrella over Chrysler.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1560.1,
+   "end": 1566.55,
+   "text": "The American Motors does better.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1566.55,
+   "end": 1580.84,
+   "text": "The plan that was, it's now 100 years old, and was, even when it was first built around 1885, an inefficient plan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1580.84,
+   "end": 1596.19,
+   "text": "Chrysler has at best half the labor efficiency of GM, yes, but the external figures cannot divide the company.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1596.19,
+   "end": 1611.61,
+   "text": "And it has not, it may have survived in the very good years, and it did quite well, high leverage, but it cannot stand.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1611.61,
+   "end": 1621.31,
+   "text": "And everybody knew that the first time they stand, that it had problems.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1621.31,
+   "end": 1624.31,
+   "text": "And there were stock options, which in effect made sense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1624.31,
+   "end": 1631.61,
+   "text": "When you have a marginal income, you want to keep your executive salaries but too low,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1631.61,
+   "end": 1636.56,
+   "text": "which Chrysler didn't do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1636.56,
+   "end": 1644.56,
+   "text": "And you want to harvest still to reward people for the one year out of five where you do well,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1644.56,
+   "end": 1648.54,
+   "text": "so that they can compete.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1648.54,
+   "end": 1660.43,
+   "text": "At the same time, you want to build an incentive into people to do something.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1660.43,
+   "end": 1671.44,
+   "text": "But in an inflation, at Chrysler, anybody at Chrysler operation,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1671.44,
+   "end": 1695.11,
+   "text": "So look at the compensation. Does it make sense in inflation? If it doesn't make sense, then simply say, all right, after the road, we can pay these amounts, but we put them into an escrow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1695.11,
+   "end": 1807.16,
+   "text": "Whether Chrysler can survive this, I don't know. Chrysler will need for it. But it's the only thing we can do under the tax law.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1807.16,
+   "end": 1849.14,
+   "text": "It was a little to be designed with one situation in mind. Now we have a different one. Does it still make sense or does it either distort, become socially or politically irresponsibly, as Chrysler was incredibly, Chrysler was always, where, now they were not incredibly in view of Chrysler.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.976
+  },
+  {
+   "start": 1849.14,
+   "end": 1858.14,
+   "text": "They were just incredibly in view of the fact that there was a wage and salary freeze, and that there was totally unintended legal loophole.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1858.14,
+   "end": 1870.42,
+   "text": "You see, nobody had thought of it. Those option contracts had been written ten years earlier, five years earlier, and when we put in the wage freeze, nobody thought of option contracts or bonus contracts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1870.42,
+   "end": 1882.2,
+   "text": "contract then the company then the company says oh wait all right we we have a legal obligation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1882.2,
+   "end": 1892.68,
+   "text": "to sam wasn't right enough to suspend it but we still aren't going to proceed as if nothing had",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1892.68,
+   "end": 1901.08,
+   "text": "happened what how do we play it now so that on the one hand uh we satisfy an obligation we haven't on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1901.08,
+   "end": 1919.83,
+   "text": "the other hand we do not do too much wrong but the model's hierarchy of satisfaction",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1920.47,
+   "end": 1930.1,
+   "text": "we see one that two things wrong with it the first one you may not find too important though",
+   "speaker": "drucker",
+   "drucker_coverage": 0.896
+  },
+  {
+   "start": 1930.1,
+   "end": 1939.3,
+   "text": "it is namely that maslow uh stipulated a succession of hierarchies or values as being absolute and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1939.3,
+   "end": 1944.18,
+   "text": "human nature because that seems to him to be the way there's absolutely no evidence for that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1944.18,
+   "end": 1953.91,
+   "text": "there's no evidence that's all right first you have to get enough to eat but then this nice",
+   "speaker": "drucker",
+   "drucker_coverage": 0.692
+  },
+  {
+   "start": 1953.91,
+   "end": 1969.94,
+   "text": "progression with the marginal utility",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.349
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 47.32,
+ "created_utc": "2026-09-20T22:59:45+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

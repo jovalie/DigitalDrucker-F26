@@ -1,0 +1,2121 @@
+{
+ "pointer": "5008",
+ "media": "5008.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2677.0,
+ "segments": [
+  {
+   "start": 2.35,
+   "end": 27.39,
+   "text": "What? And therefore what? What? And therefore? Economists. Therefore there are no demand and supply curves for it. An increase in the demand for a by-product has no impact on the supply because the supply is governed by the demand for the main product and by service.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.954
+  },
+  {
+   "start": 27.39,
+   "end": 34.39,
+   "text": "An increase in the supply of a byproduct usually has no effect on the demand.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 34.39,
+   "end": 41.39,
+   "text": "A byproduct has no price elasticity, neither in either direction.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 41.39,
+   "end": 44.39,
+   "text": "That isn't always quite true.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 44.39,
+   "end": 51.39,
+   "text": "If the supply is increased, the price sure goes down, but the demand might be stimulated.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 51.39,
+   "end": 53.39,
+   "text": "It might, but usually it isn't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 53.39,
+   "end": 55.39,
+   "text": "But the opposite is crystal clear.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 55.39,
+   "end": 60.39,
+   "text": "An increase in the demand will not increase the supply because it's a byproduct.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 60.39,
+   "end": 70.39,
+   "text": "And if you make, in the first place, you assume shoes, what do you say you would integrate into leather?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 70.39,
+   "end": 84.68,
+   "text": "Anybody know whether leather is still around?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.428
+  },
+  {
+   "start": 84.68,
+   "end": 86.68,
+   "text": "No, most of the uppers are plastic.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.34
+  },
+  {
+   "start": 86.68,
+   "end": 106.14,
+   "text": "Some more. But what you and I wear, is that fairly 60% of all pairs sold in the United States are not shoes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 106.14,
+   "end": 119.2,
+   "text": "They have all kinds of, plus one of those boots, you know, but uh, uh, uh, anybody know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 119.2,
+   "end": 128.11,
+   "text": "who came in Cromwell because, you know what underlay DuPont's going into co-affair?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 128.11,
+   "end": 137.79,
+   "text": "DuPont is a very intelligent company. Occasionally one can be too intelligent. In the 50s, DuPont",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 137.79,
+   "end": 164.77,
+   "text": "clearly saw the act of raising meat, essentially an impossible use of solar energy for food.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.778
+  },
+  {
+   "start": 164.77,
+   "end": 175.71,
+   "text": "Because anybody here has learned this, I'm sure, even the most efficient animal,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 175.71,
+   "end": 178.71,
+   "text": "which is probably the pig and the mochilo fish,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 178.71,
+   "end": 201.21,
+   "text": "I do not convert more than what is 12% of the energy in the vegetable into animal, pro-animal. So that you lose about, you lose 87% or maybe it's only 80% of the energy, the food energy and vegetable matter.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 201.21,
+   "end": 231.07,
+   "text": "And quite clearly this is an exceedingly inefficient way of conversion, and we have a world in which population is growing very rapidly, and therefore could not grow proportionately linear, let alone disproportionately, to population very long.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.933
+  },
+  {
+   "start": 231.07,
+   "end": 245.99,
+   "text": "At the same time the habit of wearing something on your bare feet, footwear, was increasing this propensity of all common goods.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 245.99,
+   "end": 290.75,
+   "text": "The demand for footwear rises fast to the government office, but till then you save them, and I remember that from my childhood.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.955
+  },
+  {
+   "start": 290.75,
+   "end": 300.48,
+   "text": "and so Dupont argued",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 300.48,
+   "end": 303.06,
+   "text": "that the supply of leather",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 303.06,
+   "end": 304.22,
+   "text": "which is a by-product",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 304.22,
+   "end": 307.08,
+   "text": "nobody grows a crypto for leather",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 307.08,
+   "end": 309.98,
+   "text": "because it's 10%",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 309.98,
+   "end": 314.14,
+   "text": "5 or 14, anybody know? I don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 314.14,
+   "end": 326.01,
+   "text": "but it isn't more than 10%",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 326.01,
+   "end": 328.21,
+   "text": "as meat, the supply grows",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 328.21,
+   "end": 331.01,
+   "text": "and that was unlikely to grow fast",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 331.01,
+   "end": 332.07,
+   "text": "you know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 332.07,
+   "end": 334.75,
+   "text": "whereas the demand for footwear",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 334.75,
+   "end": 336.05,
+   "text": "is going up exponentially",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 336.05,
+   "end": 338.45,
+   "text": "and so Dupont",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 338.45,
+   "end": 344.48,
+   "text": "or the market for other materials.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 344.48,
+   "end": 350.0,
+   "text": "There were two things wrong with DuPont, very strong.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 350.0,
+   "end": 353.16,
+   "text": "It did not occur to DuPont",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 353.16,
+   "end": 355.52,
+   "text": "that people were not buying leather.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 357.0,
+   "end": 363.0,
+   "text": "Neither you nor I buy leather, we buy footwear.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 363.0,
+   "end": 368.67,
+   "text": "And careless weather comes, and that's very interesting,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 368.67,
+   "end": 371.21,
+   "text": "and leather has an old prestige connotation,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 371.21,
+   "end": 373.17,
+   "text": "but no, you don't, you and I don't go in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 373.17,
+   "end": 375.67,
+   "text": "and check the height, have you ever?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 382.12,
+   "end": 383.22,
+   "text": "We buy footwear.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 383.22,
+   "end": 389.2,
+   "text": "And therefore, there's no guarantee that it has to be made out of leather, out of something that looks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 396.48,
+   "end": 401.06,
+   "text": "So there is a substitution possibility, because we don't buy leather.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 401.76,
+   "end": 405.88,
+   "text": "And secondly, it didn't occur to them, secondly, DuPont's timing was off.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 406.46,
+   "end": 409.9,
+   "text": "DuPont saw an inevitable development, and they were right.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 412.87,
+   "end": 419.78,
+   "text": "But instead of it taking ten years, we say DuPont sold Corfam just at the moment,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 420.42,
+   "end": 424.68,
+   "text": "when the basic assumptions were coming through.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 424.68,
+   "end": 439.48,
+   "text": "the basic assumption is regard to leather but by that time the growth to what you and i don't know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 439.48,
+   "end": 448.12,
+   "text": "is for sandals sneakers all kinds of near shoes which however for the people who wear them are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 448.12,
+   "end": 460.58,
+   "text": "perfectly added so that leather actually uh while the leather has the leather supply of the world",
+   "speaker": "drucker",
+   "drucker_coverage": 0.92
+  },
+  {
+   "start": 460.58,
+   "end": 471.18,
+   "text": "has gone up at about one-third the rate at which footwear buying has worked there is if we try to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 471.18,
+   "end": 478.7,
+   "text": "supply the world with what in 1950 uh well-heeled literally well-heeled gentlemen in william",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 478.7,
+   "end": 490.01,
+   "text": "delaware considered as but nobody has told those indians in the anti-plano peru that shoes are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 490.01,
+   "end": 499.67,
+   "text": "made from leather they wear sneakers very happily in all colors of the rainbow by the way and some",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 499.67,
+   "end": 528.25,
+   "text": "the rainbow never heard of and so dupont was absolutely right in saying what the non-leather",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 528.25,
+   "end": 534.49,
+   "text": "the non-leather-like materials not the substitute for leather but something that nobody ever",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 534.49,
+   "end": 561.26,
+   "text": "And secondly, the development of output, they can't produce it anymore.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 561.66,
+   "end": 567.92,
+   "text": "Now we are coming to where vegetable proteins, extended soybeans, what have you,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 568.16,
+   "end": 571.94,
+   "text": "are increasingly going to take the place of animal proteins.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 572.36,
+   "end": 579.18,
+   "text": "We are not switching to a vegetarian diet in the sense in which the Indian peasant eats rice.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 579.18,
+   "end": 588.18,
+   "text": "But there we are coming to a diet in which animal proteins are being simulated by vegetable",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 588.18,
+   "end": 593.18,
+   "text": "proteins, made to taste very much like them, to look like them, and to behave like them,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 593.18,
+   "end": 596.18,
+   "text": "and to be nutritionally like them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 596.18,
+   "end": 625.25,
+   "text": "But it took them much longer to come back, so one has to take that chance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 625.25,
+   "end": 637.17,
+   "text": "The farm was the right decision, the only decision to take, and maybe the product was",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 637.17,
+   "end": 645.24,
+   "text": "wasn't technically good enough. That's another matter. But back to, you could have made another",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 645.24,
+   "end": 654.85,
+   "text": "decision tonight. In retrospect, it's easy to see why it went wrong and very instructive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 655.03,
+   "end": 660.59,
+   "text": "One learns to ask, and you see, I once had a boss who said, I've learned in 77 years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 660.59,
+   "end": 666.79,
+   "text": "of life, very evil man, only one thing. If an argument is absolutely foolproof regarding",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 666.79,
+   "end": 674.2,
+   "text": "the future, it's wrong. Remember, that's what the quote of the story is. They dupe on people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 674.2,
+   "end": 677.52,
+   "text": "that that is the intellectual arrogance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 677.52,
+   "end": 680.4,
+   "text": "They were too damn cock-shoe, it was too good an argument.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 680.4,
+   "end": 684.0,
+   "text": "They didn't say, what could happen?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 685.74,
+   "end": 688.2,
+   "text": "And what about the time?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 688.2,
+   "end": 691.94,
+   "text": "And one says, all right, this is an absolutely",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 691.94,
+   "end": 694.66,
+   "text": "an argument nobody can argue with.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 694.66,
+   "end": 702.96,
+   "text": "Therefore it's only, logic exists only in hindsight.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 705.44,
+   "end": 708.08,
+   "text": "This is a very old insight.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 708.08,
+   "end": 710.6,
+   "text": "There is no logic projected out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 712.6,
+   "end": 714.02,
+   "text": "By hindsight, everything,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 714.4,
+   "end": 716.42,
+   "text": "but you know, every historian,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 716.58,
+   "end": 718.1,
+   "text": "whatever has happened is inevitable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 721.76,
+   "end": 721.96,
+   "text": "Yeah.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 722.68,
+   "end": 724.18,
+   "text": "And also, you could not do,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 724.8,
+   "end": 726.18,
+   "text": "I don't know, there was a period",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 726.18,
+   "end": 729.42,
+   "text": "when it was fashionable to write as if history.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 729.9,
+   "end": 732.68,
+   "text": "If the Arabs had won in 800,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 733.06,
+   "end": 735.62,
+   "text": "in 700, 670 states,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 735.62,
+   "end": 736.42,
+   "text": "or whenever it was,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 736.5,
+   "end": 738.64,
+   "text": "when there were 700-some defeaters",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 738.64,
+   "end": 740.56,
+   "text": "by Charles Martell out of Toulouse,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 740.86,
+   "end": 741.9,
+   "text": "and if they had overrun,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 741.9,
+   "end": 789.33,
+   "text": "Europe, if there were. And if this, or if Columbus had sail east instead of west, it's very pleasant, it could not have knock-in looks.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.895
+  },
+  {
+   "start": 789.33,
+   "end": 797.99,
+   "text": "Logic always operates in order, because all you can do with logic is organize notes,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 797.99,
+   "end": 813.2,
+   "text": "the logical argument for me to say what what where are the points if this would not happen",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 813.2,
+   "end": 822.77,
+   "text": "what and if that were to deviate ever so slightly would it really upset the whole apropos",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 824.13,
+   "end": 830.21,
+   "text": "one learns to test an argument for the future with skepticism in the power of reason",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 830.21,
+   "end": 832.75,
+   "text": "because one is always",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 832.75,
+   "end": 843.44,
+   "text": "the relationship of phenomena",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 843.44,
+   "end": 844.6,
+   "text": "will remain the same",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 844.6,
+   "end": 847.16,
+   "text": "the configuration begins to start",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 847.16,
+   "end": 851.44,
+   "text": "well let's go back here to our strategy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 851.44,
+   "end": 861.92,
+   "text": "what alternative courses of action",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.475
+  },
+  {
+   "start": 861.92,
+   "end": 862.74,
+   "text": "here we are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 862.74,
+   "end": 864.96,
+   "text": "we all agree",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 864.96,
+   "end": 868.94,
+   "text": "at the period in the American market",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 868.94,
+   "end": 871.86,
+   "text": "where our strategy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 871.86,
+   "end": 875.07,
+   "text": "is preferential to one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 877.33,
+   "end": 877.89,
+   "text": "Anybody",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 877.89,
+   "end": 879.77,
+   "text": "incidentally know why the strategy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 879.77,
+   "end": 884.45,
+   "text": "of these people? Very few.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 888.09,
+   "end": 891.88,
+   "text": "The customer was. It's a basic strategy.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.76
+  },
+  {
+   "start": 893.69,
+   "end": 894.91,
+   "text": "Where the customer was.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 895.17,
+   "end": 897.15,
+   "text": "The age group the customer was.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 900.02,
+   "end": 902.12,
+   "text": "The age group, you said, what is that?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 902.74,
+   "end": 904.16,
+   "text": "Well, as I recall,",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.535
+  },
+  {
+   "start": 904.22,
+   "end": 906.18,
+   "text": "they determined the fact",
+   "speaker": "drucker",
+   "drucker_coverage": 0.602
+  },
+  {
+   "start": 906.18,
+   "end": 906.66,
+   "text": "of the young.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 907.6,
+   "end": 909.1,
+   "text": "The population, the younger.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 909.86,
+   "end": 912.26,
+   "text": "You see, the basic strategy are demographic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 912.26,
+   "end": 924.67,
+   "text": "will you please accept the fact that simply because everybody who's going to be in the",
+   "speaker": "drucker",
+   "drucker_coverage": 0.919
+  },
+  {
+   "start": 924.67,
+   "end": 940.89,
+   "text": "american labor force by 1890s by 1990 uh all right you may have some substantial immigration",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 940.89,
+   "end": 947.27,
+   "text": "it's possible not very likely really substantial one on the model of the late 19th century it's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 947.27,
+   "end": 953.97,
+   "text": "unlikely that we're going to have a million people a year again uh but one can't rule it out it's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 953.97,
+   "end": 961.21,
+   "text": "is highly probable. We may have a tremendous epidemic and the labor force may be much smaller.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 961.21,
+   "end": 969.93,
+   "text": "But within such outside improbabilities, the size of the labor force, the upper limit is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 969.93,
+   "end": 979.78,
+   "text": "known. And you know that old joke of the man who thought that if he sleeps with nine women,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 979.78,
+   "end": 986.02,
+   "text": "have one baby in one month. No, it doesn't work that way. You may have nine in nine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 986.02,
+   "end": 991.12,
+   "text": "months, but it'll still take nine months. So it still takes 15 years to become 15",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 991.12,
+   "end": 1004.98,
+   "text": "years old. And so, you know, demographics are not absolutely certain, but the uncertainties are very limited, and they're outside probabilities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1004.98,
+   "end": 1007.4,
+   "text": "the nine out of ten",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1007.4,
+   "end": 1011.0,
+   "text": "that's a fairly high probability",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1011.0,
+   "end": 1013.28,
+   "text": "that's damn close to certainty",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1013.28,
+   "end": 1014.32,
+   "text": "well you know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1014.32,
+   "end": 1016.88,
+   "text": "and therefore the safest",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1016.88,
+   "end": 1019.02,
+   "text": "the soundest, the strongest",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1019.02,
+   "end": 1020.58,
+   "text": "foundation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1020.58,
+   "end": 1023.0,
+   "text": "for any attempt to anticipate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1023.0,
+   "end": 1025.42,
+   "text": "the future is population",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1025.42,
+   "end": 1027.08,
+   "text": "what makes this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1027.08,
+   "end": 1030.92,
+   "text": "so important is that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1030.92,
+   "end": 1034.89,
+   "text": "up till mid-1990s",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1034.89,
+   "end": 1036.27,
+   "text": "while everybody knew",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1036.27,
+   "end": 1038.13,
+   "text": "this was one of those",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1038.13,
+   "end": 1073.18,
+   "text": "perfectly did not change except in a black bit or a catastrophic such very rare events as huge",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1073.18,
+   "end": 1101.22,
+   "text": "westward very rare apart from such very old enormous from such population close at home",
+   "speaker": "drucker",
+   "drucker_coverage": 0.929
+  },
+  {
+   "start": 1101.22,
+   "end": 1112.47,
+   "text": "if a country doubled its population in 100 years it was growing terribly fast and it would really",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1112.47,
+   "end": 1121.75,
+   "text": "never happened, except after one of those great catastrophes. Change as an age structure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1122.39,
+   "end": 1132.58,
+   "text": "Yes. Probably the low point in life expectancy in the West, in Western Europe, was probably",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1132.58,
+   "end": 1152.3,
+   "text": "reached in the late 17th, early 18th century. Anybody know the great play of the 18th century?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1152.3,
+   "end": 1158.7,
+   "text": "The Invention of the Midwife. Because the Invention of the Midwife was made, this is one of those nice",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1158.7,
+   "end": 1164.7,
+   "text": "stories in the impacts of technology, the need for technology assessment.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1164.7,
+   "end": 1169.7,
+   "text": "The midwife was invented, you know, by the greatest of English traditions,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1169.7,
+   "end": 1188.46,
+   "text": "without the concomitant invention of that antisepsis or asepsis didn't go with it.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.893
+  },
+  {
+   "start": 1188.46,
+   "end": 1193.46,
+   "text": "So the midwife was a tremendous invention in the sense that for the first time",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1193.46,
+   "end": 1200.02,
+   "text": "time a trained person was available to help mongolian cyclists and their backpack down the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1200.02,
+   "end": 1383.76,
+   "text": "very height of them it might begin to spread great self-inflicted plagues so this also changes in",
+   "speaker": "drucker",
+   "drucker_coverage": 0.995
+  },
+  {
+   "start": 1383.76,
+   "end": 1420.0,
+   "text": "but for manufacturers of automobiles the cycle is at least 17 and for home builders the cycle is 25",
+   "speaker": "drucker",
+   "drucker_coverage": 0.972
+  },
+  {
+   "start": 1420.0,
+   "end": 1423.96,
+   "text": "so that you can",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1423.96,
+   "end": 1425.42,
+   "text": "really anticipate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1425.42,
+   "end": 1427.76,
+   "text": "if you're in so far",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1427.76,
+   "end": 1429.68,
+   "text": "you can base any strategy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1429.68,
+   "end": 1430.94,
+   "text": "on demographics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1430.94,
+   "end": 1432.56,
+   "text": "you are on bedrock",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1432.56,
+   "end": 1436.76,
+   "text": "that's the first thing always to look for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1436.76,
+   "end": 1441.22,
+   "text": "it doesn't always help you, not in the least",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1441.22,
+   "end": 1443.7,
+   "text": "or it's sometimes a very minor factor",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1443.7,
+   "end": 1445.04,
+   "text": "for our hospital",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1445.04,
+   "end": 1446.48,
+   "text": "in this facility we have two",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1446.48,
+   "end": 1448.08,
+   "text": "it's a very minor factor",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1448.08,
+   "end": 1449.9,
+   "text": "except for the maternity",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1449.9,
+   "end": 1453.28,
+   "text": "because basic changes in health care",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1453.28,
+   "end": 1454.56,
+   "text": "delivery and health care",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1454.56,
+   "end": 1456.6,
+   "text": "payment and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1456.6,
+   "end": 1458.82,
+   "text": "healthcare fashions are more",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1458.82,
+   "end": 1460.8,
+   "text": "important to them. It's not an",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1460.8,
+   "end": 1462.68,
+   "text": "unimportant factor. It's not a major one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1463.44,
+   "end": 1464.84,
+   "text": "So they can't build",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1464.84,
+   "end": 1466.82,
+   "text": "on it except in their maternity wards.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1468.48,
+   "end": 1468.8,
+   "text": "And",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1468.8,
+   "end": 1483.41,
+   "text": "in their number of",
+   "speaker": "drucker",
+   "drucker_coverage": 0.932
+  },
+  {
+   "start": 1483.41,
+   "end": 1489.07,
+   "text": "without any changes which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1489.07,
+   "end": 1496.79,
+   "text": "here these people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1496.79,
+   "end": 1498.89,
+   "text": "built a strategy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1498.89,
+   "end": 1500.59,
+   "text": "very heavily on demographics.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1502.52,
+   "end": 1504.8,
+   "text": "On age structure of the population",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1504.8,
+   "end": 1506.24,
+   "text": "and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1506.24,
+   "end": 1510.48,
+   "text": "It's not a particularly new fact that teenagers are teenagers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1513.04,
+   "end": 1518.02,
+   "text": "The only difference from the last decade over an earlier decade is that we had so many more of them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1518.16,
+   "end": 1521.08,
+   "text": "That's a well-dominant age cohort, age group.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1522.92,
+   "end": 1532.0,
+   "text": "It was much less dangerous.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1534.36,
+   "end": 1535.74,
+   "text": "One got spanked.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1535.84,
+   "end": 1539.1,
+   "text": "One was considered either a dropout or a juvenile delinquent.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1542.67,
+   "end": 1546.01,
+   "text": "In my time, at least, cops could be bribed much more easily.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1546.65,
+   "end": 1547.47,
+   "text": "Yes, sir?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1547.93,
+   "end": 1556.59,
+   "text": "You're talking of yesterday's.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.48
+  },
+  {
+   "start": 1558.41,
+   "end": 1562.9,
+   "text": "And I mean literally, because that's all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1562.9,
+   "end": 1566.78,
+   "text": "I suggest that you do look at page eight",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1566.78,
+   "end": 1569.74,
+   "text": "of the statistical abstract of the United States",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1569.74,
+   "end": 1572.04,
+   "text": "where the population figures out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1572.04,
+   "end": 1573.34,
+   "text": "You will get a shot.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1575.64,
+   "end": 1579.28,
+   "text": "Just as those of us who are in the habit of looking at",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1579.28,
+   "end": 1580.6,
+   "text": "that page, it's always page eight,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1580.6,
+   "end": 1582.32,
+   "text": "so the occasion is page nine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1584.02,
+   "end": 1589.47,
+   "text": "In 1960, we knew that we were facing a decade of youth rubble.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1589.47,
+   "end": 1591.59,
+   "text": "We didn't know what form it was.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1591.59,
+   "end": 1597.59,
+   "text": "There are some very well-known in population, very well-known phenomena.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1597.59,
+   "end": 1608.05,
+   "text": "First, axiom number one is the largest thing is the center of gravity of America",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1608.05,
+   "end": 1620.62,
+   "text": "and determines the basic flavor of the party of the Eisenhower administration.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1620.62,
+   "end": 1626.62,
+   "text": "The center of gravity of the American population was in the age group 37 to 40.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1626.62,
+   "end": 1633.26,
+   "text": "The oldest it has been in our history, as a result of the very low birth years of the 30s,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1633.26,
+   "end": 1651.73,
+   "text": "the congravity, the largest single population begins at age 14, 15.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1651.73,
+   "end": 1656.23,
+   "text": "Up to then, they're objects, they're not subjects.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1656.23,
+   "end": 1659.83,
+   "text": "That's the age, the youngest it's been since colonial days,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1659.83,
+   "end": 1664.63,
+   "text": "particularly if you realize that one determines age, not absolutely, but relatively,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1664.63,
+   "end": 1667.33,
+   "text": "in terms of the total age structure of the population.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1667.33,
+   "end": 1673.85,
+   "text": "In other words, in colonial days where life expectancy was 26 to 29, a 17-year-old was",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1673.85,
+   "end": 1679.85,
+   "text": "a hell of a lot older than a 17-year-old in a population which life expectancy is 70 or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1679.85,
+   "end": 1680.41,
+   "text": "72.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1682.21,
+   "end": 1691.62,
+   "text": "The social age of a person is not determined by the years he has lived, but by the years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1691.62,
+   "end": 1692.46,
+   "text": "he can expect.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1692.46,
+   "end": 1701.81,
+   "text": "The social age is, from the end, minus.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1701.81,
+   "end": 1716.62,
+   "text": "And in that sense, that 18-year-old, in 1870, who set out from New England over the Cumberland",
+   "speaker": "drucker",
+   "drucker_coverage": 0.932
+  },
+  {
+   "start": 1716.62,
+   "end": 1726.51,
+   "text": "Trail, had the only thing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1726.51,
+   "end": 1731.64,
+   "text": "And he was well past middle age.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1731.64,
+   "end": 1735.06,
+   "text": "And today, he has got 60 more years to live.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1735.88,
+   "end": 1737.02,
+   "text": "He has barely begun.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1737.96,
+   "end": 1738.72,
+   "text": "He's got less.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1739.78,
+   "end": 1743.5,
+   "text": "He's got a little over one-fifth of his lifespan behind him.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1743.5,
+   "end": 1780.15,
+   "text": "And by 1970, when everybody knew we were in a use pavilion, and the world had changed and Mr. Charles Weiss talked about the meaning of America,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.945
+  },
+  {
+   "start": 1780.15,
+   "end": 1793.45,
+   "text": "those old fogies like myself who looked at page 8 said, oh no, the meaning of America is a brilliant explanation of what happened.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1793.45,
+   "end": 1840.91,
+   "text": "The template hold, leveled off from 54 on, it crept up by, in fact, it didn't after 54, well within the statistic level.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.979
+  },
+  {
+   "start": 1841.53,
+   "end": 1853.72,
+   "text": "The census is not that sensitive, as you probably know, plus or minus 7% partly in this country, partly because this is not a homogeneous population.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1854.42,
+   "end": 1857.88,
+   "text": "The more homogeneous the population, the more accurate census figures are.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1857.88,
+   "end": 1870.88,
+   "text": "In other words, the Japanese census is plus or minus one quarter of a percent, but our census with blacks and Chicanos and Indians, an enormous number of immigrants, cannot be very accurate.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1870.88,
+   "end": 1891.86,
+   "text": "Plus or minus 7% is quite good, considering the lack of homogenous census in India, for instance.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.929
+  },
+  {
+   "start": 1891.86,
+   "end": 1900.19,
+   "text": "They are probably the margin of error as close to the 20th century, and nothing very new.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1900.19,
+   "end": 1902.19,
+   "text": "We've known them for 200 years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1902.19,
+   "end": 1914.54,
+   "text": "And in 1954 on, there was no increase in the number.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.838
+  },
+  {
+   "start": 1914.54,
+   "end": 1919.1,
+   "text": "3.8 million, so it's 3%.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1919.1,
+   "end": 1933.12,
+   "text": "And in the 1960s period, which is without precedent in the history of the world,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1933.12,
+   "end": 1935.12,
+   "text": "except in the war by catastrophe.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1935.12,
+   "end": 1941.04,
+   "text": "Russia during the Civil War, or Russia and the German invasion.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1941.04,
+   "end": 1946.99,
+   "text": "And we all said, oh my God, the kingdoms.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1946.99,
+   "end": 1977.2,
+   "text": "Well, we had one without any catastrophe, in good times, in optimistic, and then everybody knew that by the late 60s, it must go up again, because of the number of marriageable women born in the baby boom, but everybody has known it, but it hasn't happened, and if one learns one thing as a forecaster, if a forecast is wrong for five years, one doesn't say this is a tenacious infection and doubles the penicillin dose.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1977.2,
+   "end": 2002.57,
+   "text": "one says I was wrong and so but one could say in the late mid 70s the center of gravity would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2002.57,
+   "end": 2009.81,
+   "text": "shift into what by tradition and necessity is the most conservative group in any population",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2009.81,
+   "end": 2020.61,
+   "text": "which are young adults the young adult has to be ultra conservative has no break the change in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2020.61,
+   "end": 2028.95,
+   "text": "attitudes and between that sophomore in college who has got whatever she has in her blue jeans",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2028.95,
+   "end": 2037.16,
+   "text": "pocket is discretionary income, which is the economist's term, for it doesn't make",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2037.16,
+   "end": 2043.82,
+   "text": "too much of a difference how she blows it, because you and I still pay for the dentist",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2043.82,
+   "end": 2046.02,
+   "text": "three meals a day",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2046.02,
+   "end": 2047.06,
+   "text": "and the school bills",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2047.06,
+   "end": 2048.36,
+   "text": "and shoes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2048.36,
+   "end": 2050.88,
+   "text": "and three years later",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2050.88,
+   "end": 2052.9,
+   "text": "four years later",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2052.9,
+   "end": 2058.39,
+   "text": "no matter how radical she is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2058.39,
+   "end": 2064.18,
+   "text": "believe me, if they get married or not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2064.18,
+   "end": 2075.64,
+   "text": "they're together",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2075.64,
+   "end": 2077.88,
+   "text": "thinking they defy the world",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2077.88,
+   "end": 2087.32,
+   "text": "that's an old wedding anniversary",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2087.32,
+   "end": 2089.48,
+   "text": "and a pickering",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2089.48,
+   "end": 2094.04,
+   "text": "and a random",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2094.04,
+   "end": 2096.46,
+   "text": "but then",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2096.46,
+   "end": 2100.73,
+   "text": "you consider the shoes for the baby",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2100.73,
+   "end": 2107.73,
+   "text": "in schools, and the pediatrician, and the mortgage on the house, and suddenly you come",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2107.73,
+   "end": 2114.63,
+   "text": "up against the reality taxes, of which at age 19, one knows that if one has a job in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2114.63,
+   "end": 2121.63,
+   "text": "the summer camp, one screams because $6.85 are being deducted. Then one comes up against",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2121.63,
+   "end": 2135.46,
+   "text": "the southern state of California, and quite a shock, and the man and his job and his career",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2135.46,
+   "end": 2144.92,
+   "text": "and inviting his boss and the neighbors, whereas the sophomore U-Horizon was as big as the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2144.92,
+   "end": 2166.7,
+   "text": "universe, certainly U-Horizon, proper on your block, and most concerned, a gross imbalance",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2166.7,
+   "end": 2176.48,
+   "text": "between the most you can earn, even, in the most affluent society, and you outgo it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2176.48,
+   "end": 2188.18,
+   "text": "No one could predict a drastic change of gravity, doesn't have to move my looks at population.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2188.18,
+   "end": 2194.18,
+   "text": "These people have been basing their strategy on demographics.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2194.18,
+   "end": 2196.18,
+   "text": "They did such a strong strategy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2196.18,
+   "end": 2199.18,
+   "text": "And now they look at the demographics and say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2199.18,
+   "end": 2211.42,
+   "text": "For the next 15 years, 20 years at least, there will not be in our field of our strategy, incidentally, let me say, knocks out the do-nothings.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2211.42,
+   "end": 2218.2,
+   "text": "If the basic assumptions on which your strategy has been based are becoming",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2218.2,
+   "end": 2228.84,
+   "text": "invalid, you have to do something, because otherwise you're just breaking your back",
+   "speaker": "drucker",
+   "drucker_coverage": 0.859
+  },
+  {
+   "start": 2228.84,
+   "end": 2234.5,
+   "text": "without being able to get results. Working terribly hard not to lose",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2234.5,
+   "end": 2240.08,
+   "text": "ground too much. One does not. On occasion you've got to swim against the tide, but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2240.08,
+   "end": 2247.84,
+   "text": "except the fact that one cannot swim against a mountain current. Just don't try. Then one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2247.84,
+   "end": 2253.68,
+   "text": "either says, well, either I go downstream, my business is downstream, or I find myself",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2253.68,
+   "end": 2261.8,
+   "text": "another place. So, and this is one, if you have based your strategy on a fundamental",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2261.8,
+   "end": 2266.06,
+   "text": "assumption. And it turns out that the assumption",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2266.06,
+   "end": 2276.7,
+   "text": "changes. This fundamental assumption has changed,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2277.1,
+   "end": 2285.16,
+   "text": "which is that of wrong barefoot in quality areas.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2289.76,
+   "end": 2293.0,
+   "text": "Therefore, anybody know, incidentally, which shoe company",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2293.0,
+   "end": 2299.53,
+   "text": "still has the greatest success just cashing in on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2299.53,
+   "end": 2542.97,
+   "text": "being barefoot in what they were cleaning in the 70s?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.996
+  },
+  {
+   "start": 2542.97,
+   "end": 2634.16,
+   "text": "Establish a realistic, serious alternative for this",
+   "speaker": "drucker",
+   "drucker_coverage": 0.989
+  },
+  {
+   "start": 2634.16,
+   "end": 2654.76,
+   "text": "But what other alternatives are there? The universe is not exhausted by saying, let's go into Europe with our present business, or let's stay in the United States and become fashion merchants in the shopping center.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2654.76,
+   "end": 2658.76,
+   "text": "Those are, maybe they are serious alternatives, we don't know yet.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2658.76,
+   "end": 2660.76,
+   "text": "But they surely aren't the only ones.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2660.76,
+   "end": 2663.76,
+   "text": "Anybody else? Any you can see right away are missing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2663.76,
+   "end": 2665.76,
+   "text": "Yes, you are.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2665.76,
+   "end": 2676.09,
+   "text": "Don't quarrel with one another.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 38.74,
+ "created_utc": "2026-09-20T23:11:09+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

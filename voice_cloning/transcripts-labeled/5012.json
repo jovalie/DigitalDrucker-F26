@@ -1,0 +1,553 @@
+{
+ "pointer": "5012",
+ "media": "5012.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2694.4,
+ "segments": [
+  {
+   "start": 1.2,
+   "end": 19.94,
+   "text": "No. You see a way of tackling a case, you tackle it. And never mind that in class we want about it differently. In our kind of work, there are no right answers. There are lots of wrong ones, but there are no one right answer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 19.94,
+   "end": 24.94,
+   "text": "If you can tame the beast and can ride him, that's what counts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 24.94,
+   "end": 31.94,
+   "text": "And let me say this is very much the Brahma we're riding in the rodeo.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 31.94,
+   "end": 39.94,
+   "text": "Nobody can stay up very long, but the one who stays up longest and breaks the fewest bones gets the prize.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 39.94,
+   "end": 45.94,
+   "text": "Because every case you solve it, no sooner do you solve it than a new one comes along.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 45.94,
+   "end": 57.61,
+   "text": "challenges. All right, we'll do, let me just make a note that this is, is that mic right?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 57.61,
+   "end": 66.27,
+   "text": "Was it too loud? Too soft? Okay, can you all hear me? If you get any feedback, like we know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 66.37,
+   "end": 77.14,
+   "text": "I've got it. So we decided to pick one. Now, which one do you want to start with next week?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 81.76,
+   "end": 91.47,
+   "text": "We picked one and seven. In a way, one is almost logically the case that follows our discussion",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 91.47,
+   "end": 104.61,
+   "text": "now but if you want to to vary the pace i don't care one is also a non-business service organization",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 105.81,
+   "end": 109.89,
+   "text": "let's do one all right will you be good enough for next week to read one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 110.93,
+   "end": 118.93,
+   "text": "and one we might be able to do as much as we can do with it because there are certain things we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 118.93,
+   "end": 125.97,
+   "text": "again we don't know we might be able to do in one session although if we need more we'll take more",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 126.85,
+   "end": 138.03,
+   "text": "so let's now go back to our western states electric supply company",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 138.91,
+   "end": 159.66,
+   "text": "and remember last week several of you proposed now to ask the question what is in the environment",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 159.66,
+   "end": 167.1,
+   "text": "which way it is going and we very carefully did not go into details because let me see",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 167.1,
+   "end": 321.87,
+   "text": "we are not here we don't know nobody's paying us but Lenox Hill was it is in an area where",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 323.07,
+   "end": 340.26,
+   "text": "that's dirty off but the patients aren't and the fictions are and so Lenox Hill is dying",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 340.26,
+   "end": 357.04,
+   "text": "and Mount Sinai is having a hard time despite it but for the same reason the demographics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 357.04,
+   "end": 365.98,
+   "text": "are not overall demographics are usually of very limited interest we see for the obstetrician",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 367.42,
+   "end": 384.62,
+   "text": "the national address rate is a very an inherent claim how many young women because that this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 384.62,
+   "end": 435.14,
+   "text": "business is not national and but you'll be probably see yes sir yes but you have to reduce",
+   "speaker": "drucker",
+   "drucker_coverage": 0.96
+  },
+  {
+   "start": 435.14,
+   "end": 443.87,
+   "text": "it to local terms you don't start with local them serious business decide let me say that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 444.19,
+   "end": 517.68,
+   "text": "if you see national let me ask you what every decision the short range is the time the time",
+   "speaker": "drucker",
+   "drucker_coverage": 0.986
+  },
+  {
+   "start": 517.68,
+   "end": 537.7,
+   "text": "during which in the economy if you and i decide to build that's not a decision until we have",
+   "speaker": "drucker",
+   "drucker_coverage": 0.9
+  },
+  {
+   "start": 538.26,
+   "end": 547.36,
+   "text": "leaked our first commitment and taken out an option how long from that till you can see",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 547.36,
+   "end": 560.77,
+   "text": "seriously because i'm tired they're better than you and i still don't try to look you have to",
+   "speaker": "drucker",
+   "drucker_coverage": 0.851
+  },
+  {
+   "start": 560.77,
+   "end": 627.62,
+   "text": "get his own income. The time to get offset, to get your money back with compound interest,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.985
+  },
+  {
+   "start": 628.34,
+   "end": 639.04,
+   "text": "figure out the cost. You start out and don't let's talk today's cost of capital at which let",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 639.04,
+   "end": 653.54,
+   "text": "me say no investment can possibly be justified. Two years ago your minimum of eight, nine percent",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 655.81,
+   "end": 661.89,
+   "text": "and you start out first with those five years in the hole. Now you may not need all the money you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 661.89,
+   "end": 666.69,
+   "text": "can go into very nice refinements on this but that's not what we're trying to do but just",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 666.69,
+   "end": 697.71,
+   "text": "understand how one looks at it this is only one option that's the way to approving a capital",
+   "speaker": "drucker",
+   "drucker_coverage": 0.694
+  },
+  {
+   "start": 697.71,
+   "end": 706.64,
+   "text": "investment maybe that's it that's the point of it do it the way an economy and you would say that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 706.64,
+   "end": 723.95,
+   "text": "you don't start out you said how many years does it have how does one find that there's a very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 723.95,
+   "end": 730.43,
+   "text": "simple law which all of you should have learned in fourth grade and probably didn't which is how one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 730.43,
+   "end": 745.9,
+   "text": "finds out how many years it takes that they give an interest rate for it given some two what do",
+   "speaker": "drucker",
+   "drucker_coverage": 0.806
+  },
+  {
+   "start": 745.9,
+   "end": 768.26,
+   "text": "you do with 72 you take 72 and divide it but it's one of those it exists it's a very simple rule so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 768.26,
+   "end": 773.78,
+   "text": "at eight percent that's why i picked it you know because i can divide 72 by eight if you said six",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 773.78,
+   "end": 1213.41,
+   "text": "and three nine years in nine years a freeway that's planned being stopped by the environmentalists",
+   "speaker": "drucker",
+   "drucker_coverage": 0.974
+  },
+  {
+   "start": 1213.41,
+   "end": 1219.49,
+   "text": "and you're in trouble or a shopping center too many going up or a neighborhood changing its",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1219.49,
+   "end": 1226.78,
+   "text": "characters 20 years is a long time for modern neighbors to reach i don't know whether you know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1226.78,
+   "end": 1344.13,
+   "text": "that harlem in new york in the late 1920s was still full of germany so but these demographics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1344.13,
+   "end": 1744.56,
+   "text": "have to be reduced and legend had if you had a three hour you could own and so you make all you",
+   "speaker": "drucker",
+   "drucker_coverage": 0.994
+  },
+  {
+   "start": 1744.56,
+   "end": 1774.14,
+   "text": "did was to change the tune you didn't have let's go back to our talked about what and you said let's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1774.14,
+   "end": 1816.38,
+   "text": "find out ask you how does one go up there's one wrong answer because that only shifts their look",
+   "speaker": "drucker",
+   "drucker_coverage": 0.976
+  },
+  {
+   "start": 1817.1,
+   "end": 1831.5,
+   "text": "to somebody else but you know about here you've been asking some very intelligent questions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1832.06,
+   "end": 1840.77,
+   "text": "and now they come back to you and say brilliant brother but how do i do are you then going to say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1840.77,
+   "end": 1868.53,
+   "text": "don't how do you dare insult me i'm only a policy maker of the cockroach and they were almost and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1869.25,
+   "end": 2047.17,
+   "text": "and uh we asked this question we did it in this case not uh and it was a question really market",
+   "speaker": "drucker",
+   "drucker_coverage": 0.919
+  },
+  {
+   "start": 2047.17,
+   "end": 2174.16,
+   "text": "with strengths and weaknesses that does the customer pay them for that's the only way to",
+   "speaker": "drucker",
+   "drucker_coverage": 0.85
+  },
+  {
+   "start": 2174.16,
+   "end": 2187.47,
+   "text": "answer the question what do we really do is what this is how do you but that was don't add any more",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2187.47,
+   "end": 2200.08,
+   "text": "because you've asked like one important one you have that but you're not thinking but a very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2200.08,
+   "end": 2224.0,
+   "text": "important one you just haven't you have asked a lot i mean appoint the summit conference a study",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2224.0,
+   "end": 2272.53,
+   "text": "group more probably you're not simply saying get the concert how do they go about it yeah well that",
+   "speaker": "drucker",
+   "drucker_coverage": 0.712
+  },
+  {
+   "start": 2272.53,
+   "end": 2337.01,
+   "text": "comes much later yes sir yesterday would you each do it in your business would you imagine",
+   "speaker": "drucker",
+   "drucker_coverage": 0.729
+  },
+  {
+   "start": 2337.01,
+   "end": 2358.28,
+   "text": "And the hardware job goes through the exercises.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.882
+  },
+  {
+   "start": 2358.28,
+   "end": 2365.78,
+   "text": "You have the immunity answer.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.8
+  },
+  {
+   "start": 2365.78,
+   "end": 2366.78,
+   "text": "It's very easy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2366.78,
+   "end": 2391.78,
+   "text": "You know, not one of you would have the slightest problem doing it right in Europe,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.7
+  },
+  {
+   "start": 2391.78,
+   "end": 2401.79,
+   "text": "because you would not think so.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2401.79,
+   "end": 2411.48,
+   "text": "You would say, we have got five courses of action on the table.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2411.48,
+   "end": 2415.48,
+   "text": "Let's look at each of them, what assumptions and the like,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2415.48,
+   "end": 2419.48,
+   "text": "in terms of what our business is, in terms of what our business should be,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2419.48,
+   "end": 2477.53,
+   "text": "in terms of what the world outside looks like, in which way it's going, in terms of what us, you would, and that way, if you would not be analytical, you would immediately start having, and that way, here are four people knowledgeable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2477.53,
+   "end": 2506.98,
+   "text": "Now this simply means that each sees different, each sees the opposite, and each sees the same.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2506.98,
+   "end": 2527.26,
+   "text": "One uses this by saying, what does each of us assume?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.852
+  },
+  {
+   "start": 2529.18,
+   "end": 2532.02,
+   "text": "And don't argue whether he is right or wrong.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2532.12,
+   "end": 2533.06,
+   "text": "That's the one thing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2535.73,
+   "end": 2542.39,
+   "text": "The moment they look at Joe's proposed line of action, they begin to argue fiercely",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2542.39,
+   "end": 2546.21,
+   "text": "that there ain't no money in the electrical supply business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2546.21,
+   "end": 2556.23,
+   "text": "it's all cutthroat, or you can't get decent, you can't get electrical products that are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2556.23,
+   "end": 2567.76,
+   "text": "reliable because the main producers distribute directly. We don't want to go into, we don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2567.76,
+   "end": 2572.9,
+   "text": "want to go into the big cities because, you know, we tried it once in San Francisco, and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2572.9,
+   "end": 2577.36,
+   "text": "we bought that business, and it turned out it was a crook, and we don't want to have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2577.36,
+   "end": 2581.34,
+   "text": "any business that has anything to do with crooks, and I know everybody in the big cities",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2581.34,
+   "end": 2593.49,
+   "text": "a crook so you have to discipline yourself not to argue but to see here we know with with that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 89.96,
+ "created_utc": "2026-09-20T23:00:15+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

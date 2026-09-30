@@ -1,0 +1,42 @@
+{
+ "pointer": "5034",
+ "media": "5034.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2754.5,
+ "segments": [
+  {
+   "start": 3.09,
+   "end": 6.09,
+   "text": "I don't know if you can see it. I don't know whether you can see it or not.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 6.09,
+   "end": 9.09,
+   "text": "Now, where you are falling, there is no box.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 9.09,
+   "end": 25.89,
+   "text": "You know, sir, it's a little bit higher than the English.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 25.89,
+   "end": 149.14,
+   "text": "The well of the United States, which is on the right, is very high.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 255.91,
+ "created_utc": "2026-09-20T23:02:54+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

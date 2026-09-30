@@ -1,0 +1,1533 @@
+{
+ "pointer": "4899",
+ "media": "4899.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1862.7,
+ "segments": [
+  {
+   "start": 1.26,
+   "end": 7.46,
+   "text": "What you're about to hear is a copy of a tape-recorded interview with Peter Drucker.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 8.82,
+   "end": 14.82,
+   "text": "This interview was made in my office at the University of Southern California, March 16, 1966.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 17.96,
+   "end": 23.14,
+   "text": "At that time, I was a professor of management at the University of Southern California.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 23.6,
+   "end": 38.18,
+   "text": "I've noticed people call you...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 38.74,
+   "end": 41.72,
+   "text": "What? I'm a professor of management.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 42.14,
+   "end": 46.64,
+   "text": "That familiar?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 47.16,
+   "end": 48.22,
+   "text": "That familiar, yes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 48.22,
+   "end": 49.92,
+   "text": "Do you have a consoling assignment, do they call you?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 50.02,
+   "end": 51.44,
+   "text": "Yes, well, you know, yes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 51.84,
+   "end": 56.22,
+   "text": "A few parrots, you know.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 56.4,
+   "end": 56.76,
+   "text": "Why?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 56.92,
+   "end": 58.48,
+   "text": "For goodness sake, don't make me that old.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 58.58,
+   "end": 59.42,
+   "text": "I'm not that old.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 59.44,
+   "end": 60.24,
+   "text": "I'm going to show you the respect.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 60.3,
+   "end": 61.28,
+   "text": "I'm not that old.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 61.52,
+   "end": 62.04,
+   "text": "All right, well.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 63.26,
+   "end": 64.24,
+   "text": "Not yet that old.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 65.96,
+   "end": 69.98,
+   "text": "What I'd like to talk to you about is your own intellectual heritage",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 69.98,
+   "end": 74.08,
+   "text": "and how you've risen to a position where you are the most quoted author",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 74.08,
+   "end": 75.96,
+   "text": "in the field of management by my studies.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 75.96,
+   "end": 78.9,
+   "text": "I've had students sample all the works that you've written.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 78.9,
+   "end": 85.9,
+   "text": "That was the first book in the management field, 46, 20 years ago.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 85.9,
+   "end": 87.9,
+   "text": "20 years ago, yes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 87.9,
+   "end": 91.9,
+   "text": "And I was wondering, what is your own educational background?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 91.9,
+   "end": 99.9,
+   "text": "Well, insofar as I have one, I went to work when I was 18 and went to a night law school.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 99.9,
+   "end": 101.9,
+   "text": "This was in Frankfurt?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 101.9,
+   "end": 103.9,
+   "text": "In Germany, Hamburg, Frankfurt.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 103.9,
+   "end": 105.9,
+   "text": "I grew up bilingual.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 105.9,
+   "end": 107.9,
+   "text": "We spoke English at home.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 107.9,
+   "end": 110.56,
+   "text": "Excuse me, I want to shut that window, but it's too much background.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 111.26,
+   "end": 115.84,
+   "text": "No, I went to work very much against my father's wishes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 116.58,
+   "end": 118.34,
+   "text": "I didn't want to stay.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 118.54,
+   "end": 121.28,
+   "text": "The one thing my high school faculty and I were agreed upon",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 121.28,
+   "end": 123.24,
+   "text": "was that I stayed long enough in school.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 124.12,
+   "end": 128.34,
+   "text": "And I went to night study law on the side",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 128.34,
+   "end": 132.54,
+   "text": "and I was clearly an expert in pothouse",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 132.54,
+   "end": 139.0,
+   "text": "and then I was in a branch of an American brokerage firm.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 139.12,
+   "end": 140.34,
+   "text": "I was bilingual in those days.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 140.62,
+   "end": 143.62,
+   "text": "My job is pretty much gone by now.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 143.62,
+   "end": 148.62,
+   "text": "And then I was a newspaper man and I studied under the sign.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 148.62,
+   "end": 154.34,
+   "text": "And because I needed a job, my dear sir,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 154.34,
+   "end": 157.34,
+   "text": "and this was October 29th, November 29th,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 157.34,
+   "end": 160.34,
+   "text": "and one did not argue with the job. One took it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 160.34,
+   "end": 162.34,
+   "text": "And also, I've almost...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 162.34,
+   "end": 163.34,
+   "text": "What did you do in the newspaper?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 163.34,
+   "end": 164.34,
+   "text": "I've almost been able to write.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 164.34,
+   "end": 168.34,
+   "text": "I'm a professional. The only thing I know professionally is how to write.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 168.34,
+   "end": 171.34,
+   "text": "And all the rest I'm an amateur in, frankly.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 171.34,
+   "end": 186.34,
+   "text": "And while I was hired as a financial writer, I ended up being foreign editor, foreign financial and a few other things.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 186.34,
+   "end": 218.72,
+   "text": "The newspapers were on the side and I had to study for it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 218.72,
+   "end": 226.37,
+   "text": "One could really study what in this country, which is what I was interested in.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 226.37,
+   "end": 250.16,
+   "text": "But the books that have an impact on me have almost never been noted philosophers.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 250.16,
+   "end": 268.98,
+   "text": "philosophers, assorted poets, assorted history. Kierkegaard had not been translated, and Kierkegaard",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 268.98,
+   "end": 274.22,
+   "text": "probably had a greater impact on me than almost anybody else. And Burke had a tremendous impact.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 276.66,
+   "end": 306.62,
+   "text": "Buona Ventura, ill-assorted, bad social history, economic historian. And my interest was really,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 308.71,
+   "end": 346.56,
+   "text": "I was interested in the medieval versions of law. I don't know what age young people read,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 346.66,
+   "end": 369.63,
+   "text": "just mental gut, just as like so much cellulose, and some of it hits. 1833, a banker in London",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 369.63,
+   "end": 376.13,
+   "text": "not because I was particularly interested in it, but because I needed it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 376.13,
+   "end": 414.95,
+   "text": "And again, I was concerned that I had kind of came together in management.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 414.95,
+   "end": 429.38,
+   "text": "The management then told me, you're very much out of it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 429.38,
+   "end": 436.14,
+   "text": "I took care of Barnard until much later.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 436.14,
+   "end": 459.78,
+   "text": "I read him, but I don't think he made much of an impact until I had much more experience.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 459.78,
+   "end": 469.25,
+   "text": "I tell you very frankly, then I can read such a person.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 469.25,
+   "end": 474.83,
+   "text": "I read it first, and then I can learn it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 474.83,
+   "end": 481.61,
+   "text": "Now, Barnard made a tremendous impact on me, but much later.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 481.61,
+   "end": 493.38,
+   "text": "I had been in a huge organization, the War Department.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 498.61,
+   "end": 515.49,
+   "text": "My wife and I, I came here as a group of British and continental institutional investors, mostly insurance companies.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 517.63,
+   "end": 519.13,
+   "text": "I've always taught on the side.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 521.46,
+   "end": 531.91,
+   "text": "I began to teach international law, and I'm always taught.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 532.09,
+   "end": 559.96,
+   "text": "And that's not the British Institute of Banking, but it's the British Banking Association,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 560.22,
+   "end": 585.94,
+   "text": "who have a kind of, I taught the international economics mostly, and management.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 585.94,
+   "end": 612.45,
+   "text": "This is not a great impact because it's a job of mine.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 617.89,
+   "end": 618.45,
+   "text": "It's irrelevant.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 618.67,
+   "end": 621.35,
+   "text": "I've always considered irrelevant whether one agrees or not.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 621.45,
+   "end": 626.48,
+   "text": "The question is, what he told me a great deal about people.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 638.5,
+   "end": 643.88,
+   "text": "Great strength is that he takes an enormous universe of phenomena and he says,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 643.98,
+   "end": 645.88,
+   "text": "there are two or three things that organize it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 648.17,
+   "end": 649.07,
+   "text": "I learned this from him.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 649.15,
+   "end": 660.55,
+   "text": "And secondly, he calls the right of management to understand that this has more than one dimension.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 662.62,
+   "end": 669.88,
+   "text": "And he says, I don't.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 669.88,
+   "end": 696.06,
+   "text": "but he has something that that has it's a very much lesson as a writer but when i met him he",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 696.06,
+   "end": 709.77,
+   "text": "was an old man and not a woman i understand that when he was younger he was a sick man",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 709.77,
+   "end": 765.04,
+   "text": "and also i had not really one doctor about the same time and again about nails and about bonnet",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 765.04,
+   "end": 789.1,
+   "text": "that seemed to me that was injecting and this was a perfectly legitimate for somebody from here",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 789.1,
+   "end": 830.43,
+   "text": "close to me i'm like that's why may i have to say the obvious with the greatest executive i have",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 830.43,
+   "end": 856.48,
+   "text": "seen and i was not biggest telescope in the world close to say oh this was during world war ii when",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 856.48,
+   "end": 870.99,
+   "text": "i was a when i was uh in and out of the pentagon as a essentially i need assignment a special",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 870.99,
+   "end": 928.76,
+   "text": "assignment and screwy once well they're very due but i saw i saw a good uh but a very simple",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 928.76,
+   "end": 940.19,
+   "text": "principle. Marshal have the wrong man in their command, you relieve him whether you have a",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 940.19,
+   "end": 946.19,
+   "text": "successor or not, that's a separate decision. And he relieved the man. And this, let me say,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 946.83,
+   "end": 950.03,
+   "text": "was one of the great sources of our strength against the British,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 950.83,
+   "end": 956.67,
+   "text": "who never relieved the man until they had the replacement. But Marshal said any competent man",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 956.67,
+   "end": 964.35,
+   "text": "in their command and dangers others. And it's my job to move him out. And he had no replacement",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 964.35,
+   "end": 998.08,
+   "text": "and he relieved them. And Marshall's decision about was his standard question. Unaccountable",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 998.08,
+   "end": 1009.18,
+   "text": "of the junior until the Secretary of War was concerned, this was Marshall's decision and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1009.18,
+   "end": 1028.83,
+   "text": "Marshall's mistake. Plus the fact that I have never seen a man with that insight into people",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1028.83,
+   "end": 1050.43,
+   "text": "is the wrong word, with that compliance that when Marshall took over and disrupted the United",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1050.43,
+   "end": 1076.92,
+   "text": "States, seasoned and finest crop of general officers in the history of any army, and colonel",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1076.92,
+   "end": 1103.93,
+   "text": "deputy commandant of the incident captains and majors and he took that the lyrics and then",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1103.93,
+   "end": 1125.74,
+   "text": "in simply in the sweetness of them or titans really that made it fantastic and proud as if i",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1125.74,
+   "end": 1131.98,
+   "text": "am an admirer of marshall yes i am yeah i am a great one he's the greatest he wasn't flamboyant",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1131.98,
+   "end": 1185.64,
+   "text": "though he was he was completely and there was no that one could act tremendous everybody was",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1185.64,
+   "end": 1186.9,
+   "text": "relax is the wrong word.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1193.84,
+   "end": 1195.12,
+   "text": "Well, yes, I learned from Marshall",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1195.12,
+   "end": 1196.08,
+   "text": "that this is really",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1196.08,
+   "end": 1198.0,
+   "text": "the most important leadership quality.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1210.02,
+   "end": 1211.72,
+   "text": "Well, he sure didn't preach to us",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1211.72,
+   "end": 1212.6,
+   "text": "kids are management.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1212.76,
+   "end": 1213.14,
+   "text": "As a matter of fact,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1213.16,
+   "end": 1214.28,
+   "text": "he didn't preach to us at all.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1214.7,
+   "end": 1215.1,
+   "text": "Uh,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1215.24,
+   "end": 1222.59,
+   "text": "mind that,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1225.04,
+   "end": 1227.84,
+   "text": "for granted and after all,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1227.86,
+   "end": 1229.32,
+   "text": "no intention of being anything else.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1231.84,
+   "end": 1232.16,
+   "text": "Now,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1232.26,
+   "end": 1236.19,
+   "text": "this here would mend performance out.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1237.67,
+   "end": 1238.73,
+   "text": "Absolute dedication",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1238.73,
+   "end": 1241.13,
+   "text": "since in,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1241.31,
+   "end": 1241.51,
+   "text": "yes,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1247.65,
+   "end": 1250.98,
+   "text": "Goss's headquarters,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1250.98,
+   "end": 1252.52,
+   "text": "headquarters in Ceylon",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1252.52,
+   "end": 1255.27,
+   "text": "or in Ceylon,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1255.27,
+   "end": 1256.57,
+   "text": "and factions and teams.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1257.13,
+   "end": 1257.79,
+   "text": "They weren't known.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1259.94,
+   "end": 1260.04,
+   "text": "No,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1260.08,
+   "end": 1260.6,
+   "text": "but there was a,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1260.7,
+   "end": 1261.82,
+   "text": "how does he do it?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1261.92,
+   "end": 1262.58,
+   "text": "And the answer was,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1262.62,
+   "end": 1263.22,
+   "text": "he didn't.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1263.22,
+   "end": 1264.72,
+   "text": "He didn't do anything.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1265.08,
+   "end": 1267.08,
+   "text": "He was something.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1267.08,
+   "end": 1280.78,
+   "text": "People just, a Marshal in a shoddy or cheap trick.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1280.78,
+   "end": 1281.78,
+   "text": "He would never say anything.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1281.78,
+   "end": 1298.41,
+   "text": "But people, I've seen people who were not first quality in any respect, small or cheap in Marshal's eyes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1298.41,
+   "end": 1313.64,
+   "text": "Simply because he placed trust in people and unspeakable demands on people.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1313.64,
+   "end": 1317.58,
+   "text": "He was fiendish.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1317.58,
+   "end": 1343.23,
+   "text": "He was never in a line of quick jobs.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1343.23,
+   "end": 1373.77,
+   "text": "He informed me what.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1373.77,
+   "end": 1374.77,
+   "text": "He was my damn sheep.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1374.77,
+   "end": 1376.77,
+   "text": "Let me say, he knew too that I was great.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1376.77,
+   "end": 1379.14,
+   "text": "Better than I did.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1379.14,
+   "end": 1382.14,
+   "text": "Which of these commandants ought to have been there or not.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1382.14,
+   "end": 1394.3,
+   "text": "are not and if i had fallen probably quietly intelligent i was supposed to be well trained",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1394.3,
+   "end": 1404.14,
+   "text": "none of which i was special missions and well here's the first one go out kids and show what",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1404.14,
+   "end": 1420.54,
+   "text": "you can do sort of economic warfare and uh this was an atmosphere i found very distasteful",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1420.54,
+   "end": 1448.21,
+   "text": "bickering there's no admiring thing and this is what i'm asking you a question which i've never",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1448.21,
+   "end": 1456.99,
+   "text": "been able to answer it was the end of the economic man it had nothing to do with the future of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1456.99,
+   "end": 1462.03,
+   "text": "industrial management had very little to do with management and i got out of the blue an invitation",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1462.03,
+   "end": 1472.27,
+   "text": "from gm in the winter of 43-4 make a study management organization and management structure",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1473.15,
+   "end": 1483.97,
+   "text": "and this is a story i've never told anybody don't know nor could i ever find out and i've still",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1483.97,
+   "end": 1490.35,
+   "text": "i've always suspected that they mixed me up with a fellow by the name of bill shakes because i could",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1490.35,
+   "end": 1508.95,
+   "text": "I could never figure out the rationale, the management work, the practice and so on, but I hadn't studied management or anything formally.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1508.95,
+   "end": 1512.95,
+   "text": "And this was meant to be an internal study.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1512.95,
+   "end": 1526.52,
+   "text": "Mr. Sloan and Mr. Brown, who were chairman and vice chairman respectively, who already were well past 65, or Mr. Sloan was, would retire as soon as the war was over.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1526.52,
+   "end": 1533.88,
+   "text": "And they wanted a real record for their successors.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1533.88,
+   "end": 1548.63,
+   "text": "in the circuit and came back and reported that Donaldson Brown was vice chairman that this could",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1548.63,
+   "end": 1557.67,
+   "text": "not be done uh because his management people were not really willing to have a stranger come in and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1557.67,
+   "end": 1564.63,
+   "text": "do this and I said there's only one way in which this can be done I have to pretend I'm writing a",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1564.63,
+   "end": 1569.51,
+   "text": "book because in this country the moment you see a writer book you know everything goes",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1569.51,
+   "end": 1578.51,
+   "text": "And Mr. Brown, who was a Quaker, and absolutely the soul of honesty, refused to have anything to do with a transparent lie.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1578.51,
+   "end": 1586.51,
+   "text": "And so, he wanted a stand-off for about three weeks, and then finally, most reluctantly, he gave in and gave me...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1586.51,
+   "end": 1594.51,
+   "text": "He never allowed me officially, but this was the understanding that I could say, and Malia's old man could say, that I'm contemplating writing a book.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1594.51,
+   "end": 1601.41,
+   "text": "But the idea was that this was to be an internal report, and Mr. Brown was so bothered by this",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1601.41,
+   "end": 1607.71,
+   "text": "white lie that after I'd handed it in, he had bulldozed the resolution through the Executive",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1607.71,
+   "end": 1612.41,
+   "text": "Committee to release a manuscript to me to have it published.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1612.41,
+   "end": 1613.41,
+   "text": "This was never...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1613.41,
+   "end": 1621.21,
+   "text": "I changed it somewhat, it had to be, but not because of any criticism that I took out,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1621.21,
+   "end": 1626.93,
+   "text": "But because there were things in there that were much too specific, I took out them, but",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1626.93,
+   "end": 1629.93,
+   "text": "it essentially unchanged.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1629.93,
+   "end": 1635.15,
+   "text": "And this was not intended for publication, originally, except if Mr. Brown, who is dead",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1635.15,
+   "end": 1639.71,
+   "text": "now, had not suffered from so delicate a conscience, it would never have been published.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1639.71,
+   "end": 1642.27,
+   "text": "But how they came to invite me, I don't know.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1642.27,
+   "end": 1644.45,
+   "text": "And I never could find out.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1644.45,
+   "end": 1651.89,
+   "text": "And I still think that this was one of those funny things where four people, the four qualified",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1651.89,
+   "end": 1657.35,
+   "text": "people had turned them down and the fellow in public relations, however, had an order",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1657.35,
+   "end": 1659.35,
+   "text": "from the boss to get somebody.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1659.35,
+   "end": 1661.35,
+   "text": "I have a hunch that was it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1661.35,
+   "end": 1662.35,
+   "text": "But I never could find out.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1662.35,
+   "end": 1672.47,
+   "text": "Although I read, about 47, you wrote an article, Why Men Strike in Harvard.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1672.47,
+   "end": 1673.47,
+   "text": "Oh yeah.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1673.47,
+   "end": 1674.47,
+   "text": "That was after the...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1674.47,
+   "end": 1675.47,
+   "text": "Went after the GM.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1675.47,
+   "end": 1676.47,
+   "text": "GM was 44, 45.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1676.47,
+   "end": 1677.47,
+   "text": "Yeah.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1677.47,
+   "end": 1689.01,
+   "text": "Yeah. Well, I would say I went into management in a minor way in the early 40s with coming up with the war, but only with the GM book in a major way.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1689.29,
+   "end": 1691.62,
+   "text": "That's my interest.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1691.84,
+   "end": 1693.82,
+   "text": "And then how did the practice of management come about?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1694.28,
+   "end": 1697.42,
+   "text": "So we had about 10 to 12 years of consulting work.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1697.76,
+   "end": 1702.2,
+   "text": "For 10 or 12 years into management?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1702.28,
+   "end": 1702.5,
+   "text": "Yeah.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1702.76,
+   "end": 1706.56,
+   "text": "Primarily not in various types of organizations, but in business, of course.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1707.46,
+   "end": 1708.46,
+   "text": "Primarily in business.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1708.54,
+   "end": 1708.82,
+   "text": "Primarily?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1708.94,
+   "end": 1709.1,
+   "text": "Yeah.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1709.1,
+   "end": 1711.1,
+   "text": "And, uh...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1711.1,
+   "end": 1714.1,
+   "text": "Fr. Fr. is the most satisfactory client.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1714.1,
+   "end": 1718.1,
+   "text": "Well, in your writing, I catch a lot of the old Buddhist sutras,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1718.1,
+   "end": 1725.01,
+   "text": "and I was wondering if this is just by chance.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1725.01,
+   "end": 1728.01,
+   "text": "You read them. They're not there. You read them.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1728.01,
+   "end": 1731.01,
+   "text": "You know them, and I don't, so you hear them.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1731.01,
+   "end": 1732.01,
+   "text": "I see. This...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1732.01,
+   "end": 1734.01,
+   "text": "But I'm an old theologian, yes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1734.01,
+   "end": 1735.01,
+   "text": "This...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1735.01,
+   "end": 1737.01,
+   "text": "I did teach a course out in Bennington.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1737.01,
+   "end": 1739.01,
+   "text": "It was my best course I ever taught.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1739.01,
+   "end": 1742.01,
+   "text": "It was on the philosophy of religious experience.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1742.01,
+   "end": 1745.01,
+   "text": "Do you remember the text you used at that time?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1745.01,
+   "end": 1747.01,
+   "text": "Oh yes, I can tell you. I used, I began with...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1747.01,
+   "end": 1757.83,
+   "text": "No, no, I only read original texts. I began with the Psalms of St. Paul, Plato's Fido and Thedras,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1757.83,
+   "end": 1776.77,
+   "text": "St. Augustine and St. Bonaventura's Reduction of All Arts and Theology, which is an old favorite of mine,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1776.77,
+   "end": 1780.77,
+   "text": "some Luther, some St. John of the Cross,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1780.77,
+   "end": 1808.43,
+   "text": "I've been interested in the furries since the June day in 1934, and then walked up",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1808.43,
+   "end": 1813.35,
+   "text": "down Piccadilly Circus by the Saturday, without a raincoat, which shows you how young and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1813.35,
+   "end": 1823.55,
+   "text": "stupid I was when a sudden summer shower came, and I fled under the mirror, as it was with",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1823.55,
+   "end": 1837.95,
+   "text": "the Royal Academies, and they had an exhibition of Japanese paintings, guardian angels and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1837.95,
+   "end": 1845.79,
+   "text": "Japanese paintings, and then I became interested in Japanese history, and thinking about Japanese",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1845.79,
+   "end": 1846.73,
+   "text": "history, I don't really.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 40.76,
+ "created_utc": "2026-09-20T22:55:38+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

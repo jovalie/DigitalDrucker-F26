@@ -1,0 +1,3871 @@
+{
+ "pointer": "5115",
+ "media": "5115.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 3591.2,
+ "segments": [
+  {
+   "start": 2.48,
+   "end": 11.48,
+   "text": "How do you deal with cronyism in the corporate management structure?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.5
+  },
+  {
+   "start": 11.48,
+   "end": 18.48,
+   "text": "How do you deal with cronyism in any institution, corporate or what, in the management structure?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 18.48,
+   "end": 23.48,
+   "text": "Anybody got any suggestions other than rat poison?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 23.48,
+   "end": 25.48,
+   "text": "It's probably the only really effective one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 25.48,
+   "end": 27.48,
+   "text": "Put that down as an alternative.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 27.48,
+   "end": 40.62,
+   "text": "for that particular affliction what do you think and needless to say none of us is guilty of it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 40.62,
+   "end": 54.0,
+   "text": "it's always the boss is there a way what do you mean by cronyism maybe you describe it well I",
+   "speaker": "drucker",
+   "drucker_coverage": 0.963
+  },
+  {
+   "start": 54.0,
+   "end": 82.37,
+   "text": "Well, I think situations where it's a failure or perhaps a perceived failure on the part of an individual to recognize that he is making decisions based upon others and facts and is being influenced by personal relationships unduly.",
+   "speaker": "other",
+   "drucker_coverage": 0.264
+  },
+  {
+   "start": 82.37,
+   "end": 98.22,
+   "text": "and an attempt to defend actions, decisions of these people regardless of the facts of the particular case.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 98.22,
+   "end": 106.18,
+   "text": "The personal relationship overruled the situation.",
+   "speaker": "other",
+   "drucker_coverage": 0.148
+  },
+  {
+   "start": 106.18,
+   "end": 114.18,
+   "text": "Well, that's... would you all agree with that definition or is the disease a somewhat more serious one?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 114.18,
+   "end": 119.97,
+   "text": "then this definition would indicate.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.487
+  },
+  {
+   "start": 119.97,
+   "end": 121.97,
+   "text": "It may be that I have the wrong label.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.735
+  },
+  {
+   "start": 121.97,
+   "end": 127.47,
+   "text": "Well, no, I think that most of us probably mean something",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 127.47,
+   "end": 138.5,
+   "text": "with the top man or woman, because it's not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 138.5,
+   "end": 143.18,
+   "text": "the secondary sex characteristic,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 143.18,
+   "end": 153.18,
+   "text": "probably isn't, who surrounds himself, both by flat or by people who stay up to him and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 153.18,
+   "end": 165.77,
+   "text": "who then first are right and whether they perform or not, and who then determine and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 165.77,
+   "end": 172.77,
+   "text": "influence the decision process and frees out the ones who really are and should be concerned",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 172.77,
+   "end": 176.81,
+   "text": "Concerned with it. Why do you have the disease?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 178.05,
+   "end": 185.11,
+   "text": "In a disease and the disease will ask for the authority. What's what causes it? Why do you have it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 192.07,
+   "end": 195.81,
+   "text": "Why do you have it? Why is it so? Why is it the problem?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 201.68,
+   "end": 203.68,
+   "text": "I can't hear you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 203.68,
+   "end": 208.44,
+   "text": "except that type of attitude and personnel.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.58
+  },
+  {
+   "start": 208.44,
+   "end": 214.98,
+   "text": "I don't know about most, except that I don't think you'd have much of a problem",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 214.98,
+   "end": 222.86,
+   "text": "if you'd have an organization that's organized that way and functions that way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 222.86,
+   "end": 227.79,
+   "text": "That's a problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.696
+  },
+  {
+   "start": 227.79,
+   "end": 231.95,
+   "text": "Why do you accuse Harry Truman of cronyism",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 231.95,
+   "end": 247.42,
+   "text": "and clearly a John Kennedy of extreme cronyism.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.871
+  },
+  {
+   "start": 247.42,
+   "end": 252.42,
+   "text": "It was quite John Kennedy-ly into his sorrow that one can't trust cronyism.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 252.42,
+   "end": 258.42,
+   "text": "Why? Why is that? Why? What makes them do it? Yes?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 258.42,
+   "end": 263.42,
+   "text": "All the people tend to be the same, and there's no variety or difference in...",
+   "speaker": "other",
+   "drucker_coverage": 0.3
+  },
+  {
+   "start": 263.42,
+   "end": 268.42,
+   "text": "Yeah, but why is it a disease to...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 268.42,
+   "end": 273.42,
+   "text": "Especially top men in institutions are prone, yes sir.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 273.42,
+   "end": 283.42,
+   "text": "Often the fact that one can trust somebody is more important than the small difference in competence.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.8
+  },
+  {
+   "start": 283.42,
+   "end": 286.42,
+   "text": "That one can trust somebody, what does that mean?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 286.42,
+   "end": 288.42,
+   "text": "Mutual loyalty.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 288.42,
+   "end": 291.42,
+   "text": "Mutual loyalty, that wouldn't be too bad.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 291.42,
+   "end": 296.42,
+   "text": "Something to be said for mutual loyalty.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 296.42,
+   "end": 303.22,
+   "text": "no yes they tell you what you want to hear they tell you what you want to hear uh yes sir it's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 303.22,
+   "end": 309.38,
+   "text": "much more pleasant to deal with people that are close to the internet well are they usually the",
+   "speaker": "drucker",
+   "drucker_coverage": 0.675
+  },
+  {
+   "start": 309.38,
+   "end": 316.58,
+   "text": "crony usually in the official decision-making positions and the official decision-making process",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 316.58,
+   "end": 327.06,
+   "text": "of what part of it the need for top man to feel he has a few loyal people at the lower levels",
+   "speaker": "other",
+   "drucker_coverage": 0.183
+  },
+  {
+   "start": 327.06,
+   "end": 332.98,
+   "text": "feedback and people he feels he can count on especially if he's moved into a situation",
+   "speaker": "other",
+   "drucker_coverage": 0.25
+  },
+  {
+   "start": 332.98,
+   "end": 337.54,
+   "text": "i'm going to shock you every one of you so far when they get to the top",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 337.54,
+   "end": 343.22,
+   "text": "it's going to go in for a problem every one of you because you own",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 343.22,
+   "end": 354.7,
+   "text": "Not one of you has any defensiveness.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.608
+  },
+  {
+   "start": 354.7,
+   "end": 358.7,
+   "text": "Every one of you has defensiveness so far.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 358.7,
+   "end": 362.7,
+   "text": "Isn't it that the individual is afraid of failure of his own performance",
+   "speaker": "other",
+   "drucker_coverage": 0.075
+  },
+  {
+   "start": 362.7,
+   "end": 366.7,
+   "text": "and seeks to garner loyalty on false basis?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 366.7,
+   "end": 373.7,
+   "text": "You know, you bother, because here is a serious disease",
+   "speaker": "drucker",
+   "drucker_coverage": 0.671
+  },
+  {
+   "start": 373.7,
+   "end": 377.7,
+   "text": "Then you kind of give trivial causes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 377.7,
+   "end": 386.7,
+   "text": "You deal with the very fundamental problem at the top.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 386.7,
+   "end": 388.7,
+   "text": "The problem is that...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 388.7,
+   "end": 393.7,
+   "text": "Any of you have read the Sloan case?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 393.7,
+   "end": 396.7,
+   "text": "That's about it, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 396.7,
+   "end": 401.7,
+   "text": "The problem is that at the top you are...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 401.7,
+   "end": 411.7,
+   "text": "If you want to do your job well, you are lonely, you are forced to have no friends within the organization",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 411.7,
+   "end": 425.7,
+   "text": "because our friends expect mutual loyalty and you know or you think you know that you can trust them",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 425.7,
+   "end": 437.7,
+   "text": "and you think that they will not politicize for their own benefit, but have your interests at heart,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 437.7,
+   "end": 442.7,
+   "text": "they right you wrongly, and in no time you have your own thing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 442.7,
+   "end": 455.5,
+   "text": "And so, there is its own solution, which is to be totally the only.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.922
+  },
+  {
+   "start": 455.5,
+   "end": 463.5,
+   "text": "And in the first place, that's a harsh life, and very few of us are really equipped for it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 463.5,
+   "end": 473.5,
+   "text": "But also the price is very high, because the great weakness of this loan system is that you are cut off from information.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 473.5,
+   "end": 480.5,
+   "text": "You're cut off from any form of information.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 480.5,
+   "end": 484.5,
+   "text": "And not everybody, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 484.5,
+   "end": 489.5,
+   "text": "The greatest practitioner of this loan management style, if you want to call it that,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 489.5,
+   "end": 495.5,
+   "text": "was Franklin D. Roosevelt, who had cronies whom he never allowed,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 495.5,
+   "end": 501.5,
+   "text": "or he thought he never allowed to get into the decision-making process.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 501.5,
+   "end": 514.83,
+   "text": "Tommy Corcoran and Ben Cohen, maybe the Englishman next to Harry Hopkins.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 520.83,
+   "end": 527.83,
+   "text": "And Rex Tugwell, who were really courteous, who had minor positions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 527.83,
+   "end": 532.83,
+   "text": "with whom he relaxed over a case of bourbon, not the bottle.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 537.47,
+   "end": 540.45,
+   "text": "And they had social graces, Tommy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 540.45,
+   "end": 544.51,
+   "text": "They called the accordion and you more bawdy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 544.51,
+   "end": 548.01,
+   "text": "appellation ballads than anybody has ever heard of.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 549.11,
+   "end": 552.43,
+   "text": "And when calling you more funny Jewish stories",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 552.43,
+   "end": 555.79,
+   "text": "than anybody ever heard of, very funny ones, by the way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 555.79,
+   "end": 569.26,
+   "text": "And he relaxed, but when, and he used them very cleverly as kind of,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 569.26,
+   "end": 571.2,
+   "text": "but it could easily be disavowed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 571.2,
+   "end": 577.2,
+   "text": "He used them to plant an idea, and if the idea landed with a big third,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 577.2,
+   "end": 580.02,
+   "text": "well, the boss had never heard of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 580.02,
+   "end": 582.76,
+   "text": "They were expendable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 582.76,
+   "end": 588.9,
+   "text": "But the moment any of them tried to have any influence on policy,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 588.9,
+   "end": 589.82,
+   "text": "he was exiled.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 589.82,
+   "end": 595.08,
+   "text": "Rex Tugwell thought that there was such a thing as a brain",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 595.08,
+   "end": 598.16,
+   "text": "trust, which is a deliberate invention of FDR's.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 598.16,
+   "end": 599.8,
+   "text": "There was no such thing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 599.8,
+   "end": 606.1,
+   "text": "Pure misandry, which saved his public relations admirably.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 606.1,
+   "end": 609.88,
+   "text": "And Rex Tugwell thought that he was a brain trust,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 609.88,
+   "end": 612.16,
+   "text": "that he was in it, and was making policies.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 612.16,
+   "end": 615.7,
+   "text": "You know, the day after the defeat in the Washington Post,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 615.7,
+   "end": 619.5,
+   "text": "Rex Tuggle was appointed governor of the Virgin Islands",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 619.5,
+   "end": 621.8,
+   "text": "before the jet plane.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 621.8,
+   "end": 625.2,
+   "text": "Well before the jet plane.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 625.2,
+   "end": 629.62,
+   "text": "It was never heard of again, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 629.62,
+   "end": 635.64,
+   "text": "And then was out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 635.64,
+   "end": 642.04,
+   "text": "But FDR was very fortunate in that he had Elena,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 642.04,
+   "end": 653.04,
+   "text": "who was his eyes and ears, and he kept in touch with all kinds of strange people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 653.04,
+   "end": 660.04,
+   "text": "Delinquent youths, which Elena had in an inexhaustible supply,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 660.04,
+   "end": 672.98,
+   "text": "and women's groups, and labor, and the churches, and she was in the family.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 672.98,
+   "end": 675.68,
+   "text": "And Terry wrote the word to him.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 675.68,
+   "end": 679.14,
+   "text": "He also took great care to Sharp.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 679.14,
+   "end": 681.54,
+   "text": "He did what Lincoln had done before him.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 681.54,
+   "end": 686.22,
+   "text": "There was a great",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 686.22,
+   "end": 689.48,
+   "text": "your West Secretary of State, the proper Boston",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 689.48,
+   "end": 694.44,
+   "text": "Brown and Stewart, never got over the shock",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 694.44,
+   "end": 697.68,
+   "text": "that the president kept him waiting for three hours",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 697.68,
+   "end": 700.68,
+   "text": "while he interviewed a Baptist itinerant preacher",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 700.68,
+   "end": 703.96,
+   "text": "from the Confederacy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 703.96,
+   "end": 708.7,
+   "text": "But as a result, Lincoln knew pretty well what was going on in Tennessee.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 708.7,
+   "end": 712.62,
+   "text": "The itinerant Baptist preachers get their round.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 712.62,
+   "end": 717.66,
+   "text": "And secretaries of state get from Boston to Washington and back.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 717.66,
+   "end": 721.12,
+   "text": "That's the norm.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 721.12,
+   "end": 727.3,
+   "text": "And FDR kept cordial, held his equally stuffy secretary of state from Tennessee.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 727.3,
+   "end": 730.46,
+   "text": "One can be just as different kind of stuffy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 730.46,
+   "end": 736.06,
+   "text": "It was the difference between Sawamash and Harry, but still stuff it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 736.06,
+   "end": 743.46,
+   "text": "He kept him waiting three hours while he sat down with the Presbyterian missionaries.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 743.46,
+   "end": 749.46,
+   "text": "He had just come back from darkest Africa. In 1940, darkest Africa was very dark.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 749.46,
+   "end": 754.96,
+   "text": "And so he pumped that good missionary who had been there ten years,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 754.96,
+   "end": 757.96,
+   "text": "was a friend of a friend of a friend of Elinor's.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 757.96,
+   "end": 765.96,
+   "text": "And then I listened to the man, Sally Winters, and so she brought him into her house to spend three hours and kept the Secretary of State waiting.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 765.96,
+   "end": 773.52,
+   "text": "Oh, FDR was also very good at putting Secretaries of State in their place.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 773.52,
+   "end": 779.52,
+   "text": "And that's the problem, this lone approach I see through it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 782.52,
+   "end": 789.52,
+   "text": "Not only are you terribly lonely, but the danger of being cut off, depending on channels,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 789.52,
+   "end": 812.46,
+   "text": "I'm depending on you good people here and what you send upstairs and you know if I'm your boss I know one thing I never hear anything from you that you don't want me to hear. You accuse me that I'm guilty of cronies because I like people who tell me what I want to hear. But you know you never tell me anything you don't want me to hear.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 812.46,
+   "end": 814.46,
+   "text": "You don't do it twice in a day.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 814.46,
+   "end": 824.86,
+   "text": "No, every time you come to me, if I'm your boss, you want something from me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 824.86,
+   "end": 828.86,
+   "text": "Everybody always wants something from the boss.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 828.86,
+   "end": 838.86,
+   "text": "And the things that make you look good, and the things that make me decide to give you the budget allocation you want,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 838.86,
+   "end": 852.86,
+   "text": "When you are there, you become sure I hear. The rest is on page 68, and if you know that I am allergic to figures, it's in a quadratic equation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 852.86,
+   "end": 862.86,
+   "text": "I can never be accused of withholding information from you, and if all I can receive are figures, it's in a narrative token.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 862.86,
+   "end": 871.3,
+   "text": "And nobody ever gets close to the boss unless he wants something from you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 871.3,
+   "end": 876.3,
+   "text": "So that's a problem you have to talk about.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 876.3,
+   "end": 884.3,
+   "text": "On the one hand, the moment I have a friend in the official family, I'm guilty of crime.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 884.3,
+   "end": 888.3,
+   "text": "Because friends expect friendship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 888.3,
+   "end": 906.95,
+   "text": "And maybe you understand a decision in which I have to say no to one of your pals, but you know your right one.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.92
+  },
+  {
+   "start": 906.95,
+   "end": 920.2,
+   "text": "And you and Jim have been friends for 28 years, and the first time you ask for a favor, he turns you down.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 920.2,
+   "end": 926.2,
+   "text": "What kind of a friendship is that? So he has pressure. If you have personal relationships.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 926.2,
+   "end": 933.2,
+   "text": "But if you don't, you're terribly lonely. And then you look for people to break that loneliness.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 933.2,
+   "end": 956.13,
+   "text": "But also if you don't have friendship within your official family, you'll run the risk of being cut off from reality. Not just because everybody tells you something to a purpose, but also because nobody understands.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 956.13,
+   "end": 970.13,
+   "text": "You know, it's in the Air Force, they tell me, high brass servicemen, without anybody's being aware of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 970.13,
+   "end": 975.13,
+   "text": "Sudden surprise visit, you know, six weeks ahead of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 975.13,
+   "end": 979.13,
+   "text": "If anybody organized the Air Force, you know there's going to be a surprise visit.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 979.13,
+   "end": 982.13,
+   "text": "And the buttons are being polished.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 982.13,
+   "end": 996.64,
+   "text": "and should be. Here is our friend and colleague, Colonel of the ranking",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 996.64,
+   "end": 1002.64,
+   "text": "in probably west of the Mississippi in the airport, and she inspects and audits,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1002.64,
+   "end": 1008.64,
+   "text": "and believe me, she can't arrive unannounced. She thinks she arrives unannounced.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1008.64,
+   "end": 1014.64,
+   "text": "But her yeoman or whatever who let her arrive unannounced isn't going to last very long.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1014.64,
+   "end": 1019.36,
+   "text": "not because she pushed that yeoman out but because the airport they don't have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1019.36,
+   "end": 1023.52,
+   "text": "your money there but they're already the airport can make damn sure that he or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1023.52,
+   "end": 1029.52,
+   "text": "she isn't going to be around for long it's too dangerous",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1029.52,
+   "end": 1031.84,
+   "text": "and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1033.2,
+   "end": 1038.32,
+   "text": "sure she has been around long enough so they she sees",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1038.32,
+   "end": 1042.72,
+   "text": "when they have things literally brushed under the bed just the day before",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1042.72,
+   "end": 1051.72,
+   "text": "But just to do it. She sees it, she has a good nose, and she's been around long enough to leave one thing for her to criticize.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1051.72,
+   "end": 1059.72,
+   "text": "Your dog. But Anna Nance is a big boss, and she is.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.875
+  },
+  {
+   "start": 1059.72,
+   "end": 1066.72,
+   "text": "And it's fun. She doesn't prowl through the woods alone.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1066.72,
+   "end": 1077.06,
+   "text": "There are four people hemming her in all around, and it's a formal presentation, and she thinks",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1077.06,
+   "end": 1083.06,
+   "text": "the military is taking it to the conference room and giving a presentation with a pointer,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1083.06,
+   "end": 1086.06,
+   "text": "and you get away from it and doubt it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1086.06,
+   "end": 1089.06,
+   "text": "But what else can you do?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1089.06,
+   "end": 1112.46,
+   "text": "The idea that great people can have incognito, well it exists in French Romantic novels, but in no other place, because there you know that this fellow who passed what this Baron of Monte Cristo is really the King of France in disguise, don't you think you knew it?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.957
+  },
+  {
+   "start": 1112.46,
+   "end": 1126.46,
+   "text": "And so, yeah, it's that problem. How do you make it possible for you to have access to reality?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1126.46,
+   "end": 1133.46,
+   "text": "And it's a very old problem. Any of you know the Arabian Nights days?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1133.46,
+   "end": 1144.29,
+   "text": "And that Sultan of all the faithful, al-Rashid, who at night then put on ordinary citizen's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1144.29,
+   "end": 1149.29,
+   "text": "garb and traveled and prowled the streets of Damascus, remember?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1149.29,
+   "end": 1152.29,
+   "text": "Let me in on a secret.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1152.29,
+   "end": 1156.29,
+   "text": "Every policeman in Damascus knew this at the time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1156.29,
+   "end": 1157.29,
+   "text": "And when you...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1157.29,
+   "end": 1159.29,
+   "text": "There were policemen out there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1159.29,
+   "end": 1169.29,
+   "text": "And when he went past one police box in that door of a mendicant, Muslim friar or whatever it was,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1169.29,
+   "end": 1173.29,
+   "text": "the smoke signal or whatever it was, here he comes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1173.29,
+   "end": 1177.29,
+   "text": "And three blocks down there they were watching, coming out of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1177.29,
+   "end": 1183.29,
+   "text": "And very rapidly telling Sir Indesirable, get out, that quick.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1183.29,
+   "end": 1198.29,
+   "text": "He drops in on the French family for lunch, you know, unannounced, an automobile mechanic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1198.29,
+   "end": 1204.29,
+   "text": "And look, he also suddenly has a six-course dinner.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.535
+  },
+  {
+   "start": 1204.29,
+   "end": 1208.29,
+   "text": "How come?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.322
+  },
+  {
+   "start": 1208.29,
+   "end": 1211.29,
+   "text": "And they're also at home, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1211.29,
+   "end": 1215.29,
+   "text": "On a day like this, where every other French family is on the road,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1215.29,
+   "end": 1218.29,
+   "text": "their family is at home.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1218.29,
+   "end": 1223.29,
+   "text": "And the food, I have a strong suspicion that all the ladies at the house",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1223.29,
+   "end": 1229.29,
+   "text": "that they ladle it out, otherwise it comes from the caterer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1229.29,
+   "end": 1233.29,
+   "text": "What does he expect?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.75
+  },
+  {
+   "start": 1233.29,
+   "end": 1237.29,
+   "text": "And I don't think the situation is a very easy one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1237.29,
+   "end": 1241.11,
+   "text": "easy one. Do you really think here's the French mechanic and the president of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1241.11,
+   "end": 1246.89,
+   "text": "Republic of Europe saying for Sunday dinner and you have easy chit chat? And the kids",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1246.89,
+   "end": 1253.28,
+   "text": "have all had a haircut and somebody looked at their school grades and said",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1253.28,
+   "end": 1260.54,
+   "text": "what if you asked about them don't tell them that little Bertie got a C in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1260.54,
+   "end": 1272.92,
+   "text": "geography just roll out the day in French history so how does to keep in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1272.92,
+   "end": 1284.57,
+   "text": "decision-making places balance the need for any personal relationship within the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1284.57,
+   "end": 1290.17,
+   "text": "structure because friends or you have commitment you're neither to talk of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1290.17,
+   "end": 1295.45,
+   "text": "colonies and the fact that they get over it's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1295.45,
+   "end": 1302.73,
+   "text": "awfully easy to be coming silly uh not only by wealth but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1302.73,
+   "end": 1307.69,
+   "text": "proposition and then not only do you see what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1307.69,
+   "end": 1313.13,
+   "text": "you know what there was probably no shrewd among 18th century europeans in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1313.13,
+   "end": 1322.17,
+   "text": "castle in the Greek. Just imagine a little German minor princess from a totally unimportant and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1322.17,
+   "end": 1331.29,
+   "text": "poverty-stricken, minor wrong side of the tracks princely family, married into that turbulent Russia",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1331.29,
+   "end": 1338.09,
+   "text": "where no Tsar in a hundred years had died in his bed, and no Tsarina had died in her own bed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1338.09,
+   "end": 1351.09,
+   "text": "And there she was at age 14, not speaking a word of Russian, married to that barbarian,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1351.09,
+   "end": 1355.09,
+   "text": "2,000 miles away, who bought her.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1355.09,
+   "end": 1358.09,
+   "text": "Paid 2,500 guilders for her.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1358.09,
+   "end": 1362.09,
+   "text": "It was the only German princess he could get at any price.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1362.09,
+   "end": 1375.95,
+   "text": "The other people, daughters were, everybody had too many daughters, and daughters were not of great account. But still, they are your flesh and blood and you don't sell them to Russia.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1375.95,
+   "end": 1387.95,
+   "text": "You know the princes of Anahata, nobody's ever heard of them before or since. Needed money very bad. And there was an ugly daughter anyhow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1387.95,
+   "end": 1397.95,
+   "text": "It was so deliberate. It was a cash transaction. The only thing that is nice about the story is that the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1397.95,
+   "end": 1405.95,
+   "text": "child of all the Russians didn't pay. He promised and said, didn't. At least somebody behaved like a human being.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1405.95,
+   "end": 1420.4,
+   "text": "Otherwise, I speak of the story. And so she came to Russia 14 years old with a total brutal",
+   "speaker": "drucker",
+   "drucker_coverage": 0.896
+  },
+  {
+   "start": 1420.4,
+   "end": 1425.4,
+   "text": "Brute was done to start her father-in-law who raped her when she was 15.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1425.4,
+   "end": 1429.4,
+   "text": "A lovely story. About as nice a story as you can find.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1429.4,
+   "end": 1433.4,
+   "text": "You don't have to go to Los Angeles Family Court.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1433.4,
+   "end": 1436.4,
+   "text": "And she survived.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1436.4,
+   "end": 1440.4,
+   "text": "She got rid of that Brute, the husband she had in Myrtle.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1440.4,
+   "end": 1443.4,
+   "text": "And he was a people's female knight.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1443.4,
+   "end": 1446.4,
+   "text": "Who went to Brute to beat her every night.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1446.4,
+   "end": 1462.86,
+   "text": "And she survived three of the most dangerous rebellions, a woman in Russia alone, a foreigner",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1462.86,
+   "end": 1471.36,
+   "text": "rejected by the aristocracy and established her rule in a very shrewd way, in a very tough",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1471.36,
+   "end": 1472.36,
+   "text": "way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1472.36,
+   "end": 1477.86,
+   "text": "But when she went down to the Ukraine, Potemkin, the King Marshall, and one of the lovers,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1477.86,
+   "end": 1482.86,
+   "text": "could, the country, the Cossack rebellion had to be burned to death.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1482.86,
+   "end": 1486.86,
+   "text": "The country looked like Berlin after the World War II.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1486.86,
+   "end": 1490.86,
+   "text": "A little worse, probably.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1490.86,
+   "end": 1493.86,
+   "text": "And he built those Potemkin villages.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1493.86,
+   "end": 1494.86,
+   "text": "Few were called what?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1494.86,
+   "end": 1496.86,
+   "text": "Well, they were private.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1496.86,
+   "end": 1498.86,
+   "text": "A facade front.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1498.86,
+   "end": 1518.56,
+   "text": "And every night when she went to her tent camp, she had this mental taken down to her that she was going to inspect the next day, and rearranged a little bit, and he phoned her, and don't ever, don't believe that any of you is pranker than she was, or has more experience than she has.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.949
+  },
+  {
+   "start": 1518.56,
+   "end": 1524.56,
+   "text": "It is easy to be serious if you depend on the official channels.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1524.56,
+   "end": 1532.56,
+   "text": "So how do you get access to reality and maintain good personality?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1532.56,
+   "end": 1534.56,
+   "text": "I'm thinking about that one time.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.97
+  },
+  {
+   "start": 1534.56,
+   "end": 1540.68,
+   "text": "It doesn't have to be the general belief of organizations,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.683
+  },
+  {
+   "start": 1540.68,
+   "end": 1543.68,
+   "text": "which is not all the qualities we give ourselves,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1543.68,
+   "end": 1545.68,
+   "text": "because they are human beings.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1545.68,
+   "end": 1557.68,
+   "text": "No, there will be a serious problem, a serious functional problem, that there's incompatibility between two equally great needs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1557.68,
+   "end": 1570.68,
+   "text": "You have to keep yourself free from atheism and entanglement, and if you're dumb, look at our recent presidents, everything you want, I don't think you'll regret that in France.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1570.68,
+   "end": 1594.68,
+   "text": "Friends are courteous, and they'll be paying you every time, whether it's Bobby Baker be paying Andy Johnson, or the Byzantine intrigue of the Nixon presidency, or what you see today.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.875
+  },
+  {
+   "start": 1594.68,
+   "end": 1600.68,
+   "text": "Our present president is going to be let down in the bank by the Georgian mafia.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1600.68,
+   "end": 1603.68,
+   "text": "It has already begun, hasn't it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1603.68,
+   "end": 1614.79,
+   "text": "Then you have to do what FDR did, who had no friends, no colleagues, only subordinates.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.91
+  },
+  {
+   "start": 1614.79,
+   "end": 1620.79,
+   "text": "What Lincoln did, who tried at first to be friends with the cabinet, and then very soon",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1620.79,
+   "end": 1625.79,
+   "text": "that you couldn't afford it, the lonely subordinates.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1628.47,
+   "end": 1631.77,
+   "text": "For George Washington, it was only subordinates,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1631.77,
+   "end": 1634.61,
+   "text": "and the most social, blank, gregarious man",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1634.61,
+   "end": 1637.23,
+   "text": "that he never met was Thomas Jefferson.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1637.23,
+   "end": 1642.25,
+   "text": "He was the only subordinate in his official family.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1642.25,
+   "end": 1649.9,
+   "text": "And then you realize, and then you realize",
+   "speaker": "drucker",
+   "drucker_coverage": 0.869
+  },
+  {
+   "start": 1649.9,
+   "end": 1653.86,
+   "text": "that you make mistakes because you lose the fear",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1653.86,
+   "end": 1667.86,
+   "text": "You sit in the \u00c9lys\u00e9e Palace in Paris, you know how it's awfully easy to forget how a typical Frenchman lives and thinks in the \u00c9lys\u00e9e Palace.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1667.86,
+   "end": 1672.86,
+   "text": "The one thing you know is that the typical Frenchman does not live in the \u00c9lys\u00e9e Palace.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1672.86,
+   "end": 1680.94,
+   "text": "It's awfully easy to be a queen of France and ask for a princess.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1680.94,
+   "end": 1682.94,
+   "text": "She didn't say, let me say, let me say.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1682.94,
+   "end": 1686.94,
+   "text": "He could have said it. And on top of that, not terribly right.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1686.94,
+   "end": 1692.94,
+   "text": "But when they tell you that there's a bread riot in Paris, they say, why don't you eat cake?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1692.94,
+   "end": 1696.94,
+   "text": "That's awfully easy. You get far away from it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1696.94,
+   "end": 1704.94,
+   "text": "Do you really think you have, for instance, when the Queen of France ever had the problem of having enough bread on the table?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1704.94,
+   "end": 1707.94,
+   "text": "Or knows anybody who ever had that problem?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1707.94,
+   "end": 1710.94,
+   "text": "That's something you read about in books.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1710.94,
+   "end": 1717.94,
+   "text": "On Sunday, you'll get money for it in church, but that's as close as you can.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1717.94,
+   "end": 1732.3,
+   "text": "So, she didn't say, let me say, only because Brother Princess at the time would not open their mouth.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.896
+  },
+  {
+   "start": 1732.3,
+   "end": 1742.77,
+   "text": "She never did. But she might have sworn. But don't blame the government.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1742.77,
+   "end": 1754.84,
+   "text": "It's very hard. In the huge, big royal court, with all this luxury, in which you pay 30,000",
+   "speaker": "drucker",
+   "drucker_coverage": 0.917
+  },
+  {
+   "start": 1754.84,
+   "end": 1764.54,
+   "text": "louis d'or, so that you can afford to claim that you are a simple shepherdess, that costs",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1764.54,
+   "end": 1770.54,
+   "text": "30,000 louis d'or. That's an inconceivable sum. Something like 5 million bucks. So that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1770.54,
+   "end": 1778.54,
+   "text": "you can be really simple. How do you maintain, you're not president, you don't have to be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1778.54,
+   "end": 1790.27,
+   "text": "president, you're free. You're president of a medium-sized company. This, let me say,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.659
+  },
+  {
+   "start": 1790.27,
+   "end": 1797.27,
+   "text": "is the, you know where this is at? This is the greatest argument against government.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1797.27,
+   "end": 1802.27,
+   "text": "We established the pattern of the government system in Washington, it's the truth. Because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1802.27,
+   "end": 1806.77,
+   "text": "because everybody in Washington knows only other government people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1806.77,
+   "end": 1815.17,
+   "text": "You're going to London and Paris and Vienna or Madrid or Rome, civilized places,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1815.17,
+   "end": 1825.13,
+   "text": "where the government, the cabinet minister doesn't have dinner with other cabinet ministers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1825.13,
+   "end": 1831.38,
+   "text": "or is not a celebrity because the world is a mixed society.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1831.38,
+   "end": 1836.9,
+   "text": "businessmen and professors and military people and artists and you can pick your own society",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1838.18,
+   "end": 1844.74,
+   "text": "and whereas in washington you never meet anybody you isn't government and inevitably your own rank",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1845.46,
+   "end": 1852.74,
+   "text": "because otherwise you can't see things and governments it is isolated it's aggravated",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1853.38,
+   "end": 1859.46,
+   "text": "but you don't have to watch it for brazilian or kandara i have been with english friends who just",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1859.46,
+   "end": 1863.7,
+   "text": "came back from government, English government, on Sunday, from Canberra,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1863.7,
+   "end": 1875.6,
+   "text": "for two weeks, he saw nothing but assistant secretaries, nothing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1875.6,
+   "end": 1879.28,
+   "text": "He was the less proud of himself his whole life, but he is one, I don't know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1879.28,
+   "end": 1884.8,
+   "text": "the British government. He was head of export promotion, which is ranked sub-capital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1884.8,
+   "end": 1892.6,
+   "text": "So it's for nobody else, because nobody else is in Canberra.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1892.6,
+   "end": 1894.6,
+   "text": "Canberra is a government city.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1894.6,
+   "end": 1897.6,
+   "text": "There are kangaroos in government cities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1897.6,
+   "end": 1901.6,
+   "text": "Occasionally, one prefers the kangaroos, but one can't advise the kangaroos.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1901.6,
+   "end": 1903.6,
+   "text": "And that's not so easy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1903.6,
+   "end": 1905.6,
+   "text": "At least they can hop.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1905.6,
+   "end": 1907.6,
+   "text": "The government cities can't even do that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1907.6,
+   "end": 1921.04,
+   "text": "But the total answer is, when you don't understand, then you don't understand that this country,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1921.04,
+   "end": 1926.04,
+   "text": "the people in this country have no reason to believe there is an energy crisis.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1926.04,
+   "end": 1935.42,
+   "text": "How can anybody with the experience, daily life, understand that the energy industry believes in the energy crisis?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1935.42,
+   "end": 1940.42,
+   "text": "It's a will, one of you would notice it, wouldn't you? Anybody notice it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1940.42,
+   "end": 1943.4,
+   "text": "Yeah.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.664
+  },
+  {
+   "start": 1943.4,
+   "end": 1947.4,
+   "text": "All you're hearing is this, and so on and so forth.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1947.4,
+   "end": 1951.4,
+   "text": "And if you don't do it, but you have reports and facts and figures.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1951.4,
+   "end": 1954.4,
+   "text": "Now that is the problem of chronic illness.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1954.4,
+   "end": 1957.4,
+   "text": "The degenerative disease is very dangerous,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1957.4,
+   "end": 1961.4,
+   "text": "but it's enough because people are frivolous,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1961.4,
+   "end": 1966.4,
+   "text": "or like Flack incidentally accepted everybody like Flack.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1966.4,
+   "end": 1972.4,
+   "text": "There's nothing wrong with factories, there's a little more factories, it can't cure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1979.28,
+   "end": 1985.28,
+   "text": "The only problem is one day we put our factory on with anything but a cow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1985.28,
+   "end": 1989.28,
+   "text": "Unless it's sick, it doesn't work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1993.28,
+   "end": 1997.28,
+   "text": "Nobody is that secure, that exists only in psychology.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1997.28,
+   "end": 2001.28,
+   "text": "There's only psychology books, no mature individuals.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2001.28,
+   "end": 2005.28,
+   "text": "And then I said, don't exist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2005.28,
+   "end": 2009.28,
+   "text": "No one needs that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2009.28,
+   "end": 2013.28,
+   "text": "And all the books tell you that subordinates need praise.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2013.28,
+   "end": 2019.36,
+   "text": "And they disappear.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.836
+  },
+  {
+   "start": 2019.36,
+   "end": 2023.36,
+   "text": "And members of the human race,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2023.36,
+   "end": 2027.36,
+   "text": "and that's a nervous feeling.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2027.36,
+   "end": 2042.25,
+   "text": "And it's not so easy, we saw it. And an SDR had animals, Ant and Harry Hopkins. But Harry Hopkins could only serve his role because he was really a dead man, literally.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2042.25,
+   "end": 2049.25,
+   "text": "There was no physician who could figure out how come he could stand for three hours a day, be on his seat.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2049.25,
+   "end": 2056.58,
+   "text": "to meeting with a brilliant designer, seeing anybody who was.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2056.58,
+   "end": 2059.78,
+   "text": "So to this, all his organs were gone.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2059.78,
+   "end": 2067.2,
+   "text": "He had no liver left, he had no intestine left, he had no lung left, he had no spleen left.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2067.2,
+   "end": 2072.1,
+   "text": "Very typically, the pre-material to extreme physical senility.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2072.1,
+   "end": 2076.5,
+   "text": "No, at age 50, he was 90, 95.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2076.5,
+   "end": 2081.4,
+   "text": "And before, he said, the sheer willpower to function was reality.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2081.4,
+   "end": 2086.4,
+   "text": "As a cadavre, literally, of the people who have met in the walking course.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2086.4,
+   "end": 2089.4,
+   "text": "And every step of the 10th street came.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2089.4,
+   "end": 2092.4,
+   "text": "He didn't think he'd make the next step.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2092.4,
+   "end": 2096.4,
+   "text": "As he had no more ambitions, he had transcended life.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2096.4,
+   "end": 2099.4,
+   "text": "No one can have that relationship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2099.4,
+   "end": 2102.4,
+   "text": "But other than that, how do you do?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2102.4,
+   "end": 2107.4,
+   "text": "That is why it's so important that we serve our people in important positions,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2107.4,
+   "end": 2110.4,
+   "text": "not to become prisoners of the organization,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2110.4,
+   "end": 2118.4,
+   "text": "not to work 18 hours a day, not to take their vacation with their fellow vice president,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2118.4,
+   "end": 2129.0,
+   "text": "but to get their way and to take vacations and to have friends who have,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2129.0,
+   "end": 2136.0,
+   "text": "to whom the problems of an organization are totally unimaginable, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2136.0,
+   "end": 2142.0,
+   "text": "You sit down with a good physician, entitled doctor, and try to tell him what's going on in the organization.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2142.0,
+   "end": 2146.0,
+   "text": "You can't understand a word. Thank God.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2146.0,
+   "end": 2148.0,
+   "text": "You may restore your silence.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2148.0,
+   "end": 2155.66,
+   "text": "Because you suddenly realize that enormous problems are going on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2155.66,
+   "end": 2159.66,
+   "text": "That's a very serious problem of organizations.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2159.66,
+   "end": 2176.13,
+   "text": "How to find the squaring society problem between the loneliness of command without which you become the victim of your organization",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2176.13,
+   "end": 2194.24,
+   "text": "and the isolation of command that informs your vision and your judgment.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.669
+  },
+  {
+   "start": 2194.24,
+   "end": 2205.24,
+   "text": "One was at the dinner party, just to end things on a funny note, in Cambridge, Harvard dinner party, at which were very quiet men from the University of Harvard.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2205.24,
+   "end": 2217.8,
+   "text": "They gave stunning awards. Anybody know who the Duke de Broglie is? Nobel Prize physicist, highest aristocracy of France.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2217.8,
+   "end": 2225.8,
+   "text": "Very quiet man. Beautiful English. Came to Oxford, I think. And the other was, yes, the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2225.8,
+   "end": 2231.8,
+   "text": "saidina was all but mean, I think that. So cold for Tony. She treated him very, very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2231.8,
+   "end": 2238.8,
+   "text": "absolutely good. And every two seconds, she got the crossing that he obviously was not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2238.8,
+   "end": 2246.12,
+   "text": "an old Boston family and was there by tolerance. And he was vaguely amusement, so was I. He",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2246.12,
+   "end": 2248.12,
+   "text": "He didn't hear a word.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2248.12,
+   "end": 2252.12,
+   "text": "But you know, it didn't appear that that's stupid.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2252.12,
+   "end": 2254.12,
+   "text": "No, it's very stupid.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2254.12,
+   "end": 2256.12,
+   "text": "With a cupboard on her mother's side,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2256.12,
+   "end": 2259.12,
+   "text": "a lower on her father's side, and so on and so forth.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2259.12,
+   "end": 2263.12,
+   "text": "That there could be a good family",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2263.12,
+   "end": 2265.12,
+   "text": "beyond three miles of Harvard Square,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2265.12,
+   "end": 2268.12,
+   "text": "and maybe not even three miles.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2268.12,
+   "end": 2270.12,
+   "text": "It couldn't occur to me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2270.12,
+   "end": 2274.12,
+   "text": "Total lack of any protection is the human race.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2274.12,
+   "end": 2284.12,
+   "text": "She was stupid, all right. Her husband was much better, and was a painful man.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2284.12,
+   "end": 2291.12,
+   "text": "But you're all right. You take our little work for granted.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2291.12,
+   "end": 2298.12,
+   "text": "And the other ones, you may know enough not to be out, but you still don't know enough.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2298.12,
+   "end": 2302.4,
+   "text": "And so if you become the prism of the organization,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2302.4,
+   "end": 2308.6,
+   "text": "you believe that, what is one of the problems?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2308.6,
+   "end": 2313.1,
+   "text": "Managers, executives have to communicate with the human race.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2313.1,
+   "end": 2318.02,
+   "text": "The human race doesn't work that way, and they don't know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2318.02,
+   "end": 2324.16,
+   "text": "OK, do we have another question?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.674
+  },
+  {
+   "start": 2324.16,
+   "end": 2326.18,
+   "text": "But what output?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2326.18,
+   "end": 2328.56,
+   "text": "If you ever get to the position, some of you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2328.56,
+   "end": 2331.1,
+   "text": "are either there or close to me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2331.1,
+   "end": 2338.1,
+   "text": "On the one hand, friends are a danger, and no friends are a danger, both.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2338.1,
+   "end": 2341.1,
+   "text": "And how does one do it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2341.1,
+   "end": 2347.1,
+   "text": "How does one build a circle of people where one isn't a boss,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2347.1,
+   "end": 2356.11,
+   "text": "but a human being who sees the world differently, and a different world,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2356.11,
+   "end": 2360.11,
+   "text": "so that one doesn't lose touch, so to speak.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2360.11,
+   "end": 2364.11,
+   "text": "And yet within the organization, how does one teach in person?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2364.11,
+   "end": 2366.11,
+   "text": "Very difficult.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2366.11,
+   "end": 2371.42,
+   "text": "And yet not totally isolated, totally lonely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2371.42,
+   "end": 2388.81,
+   "text": "But believe me, effective executives force themselves to have no friends within the organization.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.712
+  },
+  {
+   "start": 2388.81,
+   "end": 2391.81,
+   "text": "They pay the price of numbers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2391.81,
+   "end": 2400.61,
+   "text": "then they think through how long then again builds windows and central outside",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2404.72,
+   "end": 2412.08,
+   "text": "the man whom i knew when i say knew whom i could see you was the wrong way",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2412.08,
+   "end": 2416.4,
+   "text": "because it implies that you could see me because i was brought to marshal you know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2416.4,
+   "end": 2423.4,
+   "text": "who forced himself to have no friends, that the chief of staff of the U.S. Army in wartime",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2423.4,
+   "end": 2427.4,
+   "text": "cannot afford to have any friends in the military service.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2427.4,
+   "end": 2432.4,
+   "text": "He didn't have a name, though. He had good war men, close friends in the service.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2432.4,
+   "end": 2437.4,
+   "text": "All these people were his contemporaries, but he wasn't West Point.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2437.4,
+   "end": 2444.4,
+   "text": "But from early days, 1917 in France, he had no friends.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2444.4,
+   "end": 2454.19,
+   "text": "He never had a meal with any of them, not even an official meal.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2454.19,
+   "end": 2461.07,
+   "text": "He ate alone.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2461.07,
+   "end": 2467.07,
+   "text": "And he was once brought up, I heard this story,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2467.07,
+   "end": 2473.07,
+   "text": "by the Assistant Secretary of War, the very, very brilliant Jack McCloy,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2473.07,
+   "end": 2483.44,
+   "text": "around civil rights. And Marshall said, well, I can't afford to offend them.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.807
+  },
+  {
+   "start": 2483.44,
+   "end": 2489.44,
+   "text": "McVoy said, well, isn't there a danger that you become cut off from the world?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2489.44,
+   "end": 2495.44,
+   "text": "He said, the great strength of the American political system is that I have the likes of you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2495.44,
+   "end": 2502.44,
+   "text": "who are not military, who know nothing about the army, who don't understand it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2502.44,
+   "end": 2508.82,
+   "text": "who were political appointees and with whom I had to approach the issue.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2508.82,
+   "end": 2517.51,
+   "text": "Without them, it would take three months before I would lose all sense of reality and perspective.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2517.51,
+   "end": 2525.51,
+   "text": "Or, the opposite, three months before I would appoint my friends and punish my enemies.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2525.51,
+   "end": 2530.51,
+   "text": "And that's the strength of the system of civilian control.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2530.51,
+   "end": 2534.51,
+   "text": "The control, Marshall said, yes, but that's the lesser part.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2534.51,
+   "end": 2542.51,
+   "text": "The civilian has an input of information, of math, of vision, of understanding.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2542.51,
+   "end": 2548.51,
+   "text": "If you don't understand what I am saying, well then obviously nobody is talking to you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2548.51,
+   "end": 2554.51,
+   "text": "So I have to explain. On the other hand, you have to explain to me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2554.51,
+   "end": 2559.51,
+   "text": "I have to explain. Without it, my judgment would be totally deformed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2559.51,
+   "end": 2562.51,
+   "text": "No time at all. Three months.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2562.51,
+   "end": 2568.18,
+   "text": "Political judgment, people judgment, anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2568.18,
+   "end": 2570.18,
+   "text": "Or I would have to have...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2570.18,
+   "end": 2576.18,
+   "text": "Nobody can survive as a whole person in their total isolation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2576.18,
+   "end": 2579.18,
+   "text": "Permits begin to have vision.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2579.18,
+   "end": 2583.18,
+   "text": "Voices talk to them in no time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2583.18,
+   "end": 2585.18,
+   "text": "Well, I can't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2585.18,
+   "end": 2591.18,
+   "text": "Solitary confinement is a severe test of sanity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2591.18,
+   "end": 2596.18,
+   "text": "Some people, but the people who are surviving, organize, you know, they all invent the dream world,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2596.18,
+   "end": 2602.18,
+   "text": "don't write novels in their head, otherwise they can't survive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2602.18,
+   "end": 2606.18,
+   "text": "And the top management organization is in solitary confinement.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2606.18,
+   "end": 2615.19,
+   "text": "What's the next question? Nobody?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.479
+  },
+  {
+   "start": 2615.19,
+   "end": 2618.7,
+   "text": "Yes.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.912
+  },
+  {
+   "start": 2618.7,
+   "end": 2629.7,
+   "text": "I've recently been confronted with a question. The president of the company I'm in, he said this. It's just very simple. He's getting older, and I need management.",
+   "speaker": "other",
+   "drucker_coverage": 0.118
+  },
+  {
+   "start": 2629.7,
+   "end": 2631.7,
+   "text": "You or he?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2631.7,
+   "end": 2634.7,
+   "text": "He said that. He said, I need management.",
+   "speaker": "other",
+   "drucker_coverage": 0.233
+  },
+  {
+   "start": 2634.7,
+   "end": 2636.7,
+   "text": "Small company, big company?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2636.7,
+   "end": 2647.7,
+   "text": "No, small company. 300, 400 people. This is the second time I've personally heard this in three years. Entrepreneurial type companies, you can imagine.",
+   "speaker": "other",
+   "drucker_coverage": 0.118
+  },
+  {
+   "start": 2647.7,
+   "end": 2651.7,
+   "text": "Now then... Can you all hear?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.875
+  },
+  {
+   "start": 2651.7,
+   "end": 2655.7,
+   "text": "I'll try to speak up. So there's a buzz word now, it's called",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2655.7,
+   "end": 2659.7,
+   "text": "management development. And it's a wide",
+   "speaker": "drucker",
+   "drucker_coverage": 0.675
+  },
+  {
+   "start": 2659.7,
+   "end": 2663.7,
+   "text": "open field. And so what do I tell this gentleman?",
+   "speaker": "other",
+   "drucker_coverage": 0.2
+  },
+  {
+   "start": 2663.7,
+   "end": 2667.7,
+   "text": "Do you send your men to Claremont to listen to Mr. Drucker?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2667.7,
+   "end": 2671.7,
+   "text": "How do I answer him? Well, you're not telling me any event",
+   "speaker": "drucker",
+   "drucker_coverage": 0.8
+  },
+  {
+   "start": 2671.7,
+   "end": 2675.7,
+   "text": "provided you do provide the check.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2675.7,
+   "end": 2686.32,
+   "text": "that's our problem. Anybody know that situation of the small and growing",
+   "speaker": "drucker",
+   "drucker_coverage": 0.765
+  },
+  {
+   "start": 2686.32,
+   "end": 2696.54,
+   "text": "founder-managed company where the fellow at the top then says I need management",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2696.54,
+   "end": 2702.08,
+   "text": "he says I can tell you what else he says is it every one of my people in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2702.08,
+   "end": 2709.88,
+   "text": "word Peter but everyone is still too young to be put into a job at all but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2709.88,
+   "end": 2718.88,
+   "text": "into the top job no into a responsible even let me see the small and growing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2718.88,
+   "end": 2730.68,
+   "text": "company anybody interested in this how many of you are at a special if I hang",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2730.68,
+   "end": 2737.16,
+   "text": "out my shingle. That would be almost my specialty. It's not the branch of pediatrics and not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2737.16,
+   "end": 2743.16,
+   "text": "the branch of geriatrics. It's the children who pass directly from infancy into senility.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2743.16,
+   "end": 2760.26,
+   "text": "No, it is possible to avoid the identity crisis towards which your company is moving",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2760.26,
+   "end": 2768.22,
+   "text": "very fast but it is possible to prevent it it is very difficult to cure one of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2768.22,
+   "end": 2775.32,
+   "text": "those diseases where we know the prevention we don't execute and here is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2775.32,
+   "end": 2784.62,
+   "text": "Jim Smith who started that company and built it into two three hundred employees",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2784.62,
+   "end": 2794.34,
+   "text": "and nine million of sales or whatever it is isn't it 30 it even worse and it is the leader in its",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2794.34,
+   "end": 2802.92,
+   "text": "field and all projections show that it really should reach a hundred million dollars in another",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2802.92,
+   "end": 2809.04,
+   "text": "five years and somehow it always bumps against an invisible ceiling and doesn't grow anymore that's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2809.04,
+   "end": 2839.02,
+   "text": "always a symptom. And the other symptom is that he says what we just heard. That's a very, it's still preventable, but it's late. Here is Tim Smith who has started a company and let's say, like the first one I met, about this kind, in nationally advertised consumer, branded consumer goods. And the fellow",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2839.02,
+   "end": 2844.66,
+   "text": "who built it is a quality the gene is not the way they use often brilliant and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2844.66,
+   "end": 2853.48,
+   "text": "product ideas and imagination and product development and promotion and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2853.48,
+   "end": 2868.2,
+   "text": "you know and then he does one of two things inevitably invariably one is that",
+   "speaker": "drucker",
+   "drucker_coverage": 0.932
+  },
+  {
+   "start": 2868.2,
+   "end": 2876.96,
+   "text": "These people have that kind of character. These are moody people, typically, who need a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2876.96,
+   "end": 2886.91,
+   "text": "lot of solitude, who stew and grow, who are not at ease with the human race.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2886.91,
+   "end": 2895.52,
+   "text": "Typically, financially totally unable to perceive. You give them a balance sheet,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2895.52,
+   "end": 2901.56,
+   "text": "they don't really know which side is up. Their ideas are perceptive people, not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2901.56,
+   "end": 2915.86,
+   "text": "analytical, not human, not people. And here is our Jim Smith, that kind of type, and he can do one of two things normally he will do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2915.86,
+   "end": 2929.8,
+   "text": "He will, oh he knows that people matter, and he knows that money matters, and he knows that marketing matters, but he knows, but he doesn't really see it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2929.8,
+   "end": 2952.5,
+   "text": "He is not tuned in on it. On the other hand, he doesn't let anybody do anything. And so he concentrates on product ideas and product imagination and product development and promotion and five years later you have a real mess on your hands.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2952.5,
+   "end": 2969.24,
+   "text": "The company grows, and the doubt grows. It's financially based, and you have people problems, and you have distribution problems because you move from being distributed in a few specialty stores into the supermarkets, and you have no idea how to handle them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2969.24,
+   "end": 2978.24,
+   "text": "That company can be saved, let me say. Though the founder usually cannot, he becomes a casual.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2978.24,
+   "end": 2984.24,
+   "text": "But the company can be saved because at least he did part of the important things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2984.24,
+   "end": 2992.07,
+   "text": "The product ideas and product development and promotion have been done very well.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2992.07,
+   "end": 2995.07,
+   "text": "The support for his work is lacking.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2995.07,
+   "end": 3003.99,
+   "text": "That is a company, let me say, that typically then sells out to IT&T.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3003.99,
+   "end": 3013.34,
+   "text": "Oh, God help you, Jim Smith is conscientious.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.84
+  },
+  {
+   "start": 3013.34,
+   "end": 3021.34,
+   "text": "You know Drucker's Law, that if you do the wrong thing, you better don't do it well.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3021.34,
+   "end": 3023.34,
+   "text": "He's conscientious.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3023.34,
+   "end": 3028.34,
+   "text": "And so he knows people matter, and money matters, and marketing matters,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3028.34,
+   "end": 3035.7,
+   "text": "and so he does it himself oh he's got all those bright kids of 58 you know they're all too young",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3035.7,
+   "end": 3045.68,
+   "text": "to be entrusted with real jobs typically he always says tom cairns over there is a first grade man",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3045.68,
+   "end": 3059.08,
+   "text": "but he isn't quite ready typically i always hear that and so he takes on people decisions and money",
+   "speaker": "drucker",
+   "drucker_coverage": 0.925
+  },
+  {
+   "start": 3059.08,
+   "end": 3069.48,
+   "text": "and marketing, and he is no damn good at it. Butchers. But also because he does it so poorly,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3069.48,
+   "end": 3078.92,
+   "text": "he thinks forever. And so he has no time for what he is good at, for his product work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3078.92,
+   "end": 3085.92,
+   "text": "And five years later, you have nothing. That company cannot be saved. The ship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3085.92,
+   "end": 3105.59,
+   "text": "And by the time you reach that disease stage, it's very hard to choose. Prevention is easy. What he has to do is not manage the development of his people. One can't develop in a vacuum.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3105.59,
+   "end": 3121.59,
+   "text": "Everybody is to sit down, personally, alone, and every one of his key associates, let me say, alone at first, thinking one's self alone, one doesn't start thinking in a group,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3121.59,
+   "end": 3132.57,
+   "text": "and put down on the back of an envelope, by far the most effective management tool yet,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3132.57,
+   "end": 3140.57,
+   "text": "It beats a computer every time one goes to the computer once one knows what to put on, not before.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3140.57,
+   "end": 3147.57,
+   "text": "And a bag of an envelope one uses before one knows what to put on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3147.57,
+   "end": 3153.57,
+   "text": "And one puts down the key activities of this institution.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3153.57,
+   "end": 3156.57,
+   "text": "This, not an institution.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3156.57,
+   "end": 3162.47,
+   "text": "One doesn't go to the textbook and look at the typical activities of the manufacturing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3162.47,
+   "end": 3175.2,
+   "text": "business because that's what the key activities we have here in the ABC, Morton Milk Company.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3175.2,
+   "end": 3181.2,
+   "text": "And then once it's down in the computer, then you will find that most people have the same",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3181.2,
+   "end": 3185.2,
+   "text": "items on the agenda, or not quite.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3185.2,
+   "end": 3192.2,
+   "text": "But you will also find that you have too many, and you end up with 28 key activities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3192.2,
+   "end": 3199.2,
+   "text": "A circus act, you know, you can keep six-fold in the air for two minutes, five maybe.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3199.2,
+   "end": 3205.2,
+   "text": "No, organizations are not capable of doing many things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3205.2,
+   "end": 3209.2,
+   "text": "They need concentration rather than inspiration.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3209.2,
+   "end": 3215.2,
+   "text": "So what are the four or five or six, if you go about five, you'll make me uncomfortable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3215.2,
+   "end": 3221.2,
+   "text": "That's really all the difference in this conference, in this conference.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3221.2,
+   "end": 3229.2,
+   "text": "In that nationally advertised branded consumer goods for a specialty market, certainly products,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3229.2,
+   "end": 3235.2,
+   "text": "the ideas and product development and promotion are key activities in advertising.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3235.2,
+   "end": 3239.51,
+   "text": "People and money are always key activities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3239.51,
+   "end": 3247.01,
+   "text": "But here you may take quality control as, you know, and then the next outfit is maybe",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3247.01,
+   "end": 3258.24,
+   "text": "something you delegate to way down the line, it's just, there's no problem, nothing wrong.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.911
+  },
+  {
+   "start": 3258.24,
+   "end": 3263.24,
+   "text": "And here you may have customer service activity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3263.24,
+   "end": 3270.24,
+   "text": "What if you make an original equipment supplier, you know, customer service?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3270.24,
+   "end": 3276.24,
+   "text": "with working with the engineers of the manufacturer whose product you'll give me goes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3276.24,
+   "end": 3283.24,
+   "text": "That's very important. That's a key activity. Specification. So what is it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3283.24,
+   "end": 3292.24,
+   "text": "And then one says, if one is your boss, which of these things fit my hand?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3292.24,
+   "end": 3311.24,
+   "text": "Top management tasks are in-person. Top management team is like any team person. Which fit my hand? Which do I do well? The small thing, let me say, is that one asks other people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3311.24,
+   "end": 3316.24,
+   "text": "One can fool one's self very easily.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3316.24,
+   "end": 3327.44,
+   "text": "Very easy to believe that you are doing something well when you are mediocre.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.821
+  },
+  {
+   "start": 3327.44,
+   "end": 3334.44,
+   "text": "Alright. It's very easy to believe the opposite, that you are doing something badly because you don't like to do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3334.44,
+   "end": 3337.44,
+   "text": "And you may do it superbly well.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3337.44,
+   "end": 3343.44,
+   "text": "It isn't true that we like to do what we do well. Not at all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3343.44,
+   "end": 3347.44,
+   "text": "There is a correlation, but it's not one-to-one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3347.44,
+   "end": 3352.44,
+   "text": "More likely than not that what we do will be like to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3352.44,
+   "end": 3356.44,
+   "text": "But that's all. Probability. That's it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3356.44,
+   "end": 3360.44,
+   "text": "And you will find people who...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3360.44,
+   "end": 3369.09,
+   "text": "Albert Einstein hated anything to do with mathematics.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3369.09,
+   "end": 3372.47,
+   "text": "He hated.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3372.47,
+   "end": 3375.47,
+   "text": "He almost flunked in the German secondary school",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3375.47,
+   "end": 3381.23,
+   "text": "because he never did his man's homework he just hated it but he did it beautifully",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3382.43,
+   "end": 3386.75,
+   "text": "his mathematical equations are me great in elegance nobody's ever written",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3388.6,
+   "end": 3396.6,
+   "text": "occasion is greater mathematical penetrating power but he hated it uh he just didn't like to do it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3397.24,
+   "end": 3403.48,
+   "text": "he loved to play the film and you only had to hear him once not to want to hear him",
+   "speaker": "drucker",
+   "drucker_coverage": 0.763
+  },
+  {
+   "start": 3403.48,
+   "end": 3411.48,
+   "text": "He never got beyond the kind of third grade five-finger exercises.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.935
+  },
+  {
+   "start": 3411.48,
+   "end": 3417.48,
+   "text": "He butchered music. He had no ear, no coordination. He loved it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3417.48,
+   "end": 3425.33,
+   "text": "He poured out his soul on it. Who was Schubert whom he loved so much?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.873
+  },
+  {
+   "start": 3425.33,
+   "end": 3431.33,
+   "text": "Fortunately, Schubert was dead, but he just couldn't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3431.33,
+   "end": 3438.33,
+   "text": "It was ten cents, but he loved it. And he's not the hater, you see.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3438.33,
+   "end": 3443.33,
+   "text": "So one doesn't go by what one likes to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3443.33,
+   "end": 3446.33,
+   "text": "He knew that he couldn't pay for it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3446.33,
+   "end": 3449.33,
+   "text": "One asks, but one thinks it's welfare.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3449.33,
+   "end": 3455.33,
+   "text": "One looks at one's own work and says, what have I done that has a real impact?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3455.33,
+   "end": 3460.33,
+   "text": "Here I've developed this product in a field in which I never own any product",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3460.33,
+   "end": 3464.17,
+   "text": "product is one thing, in which people won't gunk,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3464.17,
+   "end": 3469.17,
+   "text": "and now by a product differentiated we have,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3469.67,
+   "end": 3473.45,
+   "text": "suddenly we have established a new customer in there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3473.45,
+   "end": 3475.21,
+   "text": "That's very, very cheap.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3475.21,
+   "end": 3478.81,
+   "text": "In a field in which nobody has ever been able",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3478.81,
+   "end": 3483.71,
+   "text": "to have results, we have results, I have results.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3483.71,
+   "end": 3486.65,
+   "text": "That's the looks for performance, but one asks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3486.65,
+   "end": 3491.23,
+   "text": "And that part of the key activities is mind.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3491.23,
+   "end": 3495.11,
+   "text": "One does not abdicate the responsibility",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3495.11,
+   "end": 3499.53,
+   "text": "of accomplishment and competence and authority.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3499.53,
+   "end": 3505.6,
+   "text": "People have their right to expect that you do your best.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3505.6,
+   "end": 3508.52,
+   "text": "But I know that there will be people who, in our shop,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3508.52,
+   "end": 3509.52,
+   "text": "will do their best.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3509.52,
+   "end": 3512.56,
+   "text": "And here's Bernie over there, who runs the plant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3512.56,
+   "end": 3514.9,
+   "text": "And the plant is incredibly important to us.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3514.9,
+   "end": 3517.0,
+   "text": "It's an assembly shop.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3517.0,
+   "end": 3521.44,
+   "text": "the cost center, but really it's good misdemeanor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3521.44,
+   "end": 3526.02,
+   "text": "And I can't figure out what he does with it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3526.02,
+   "end": 3528.76,
+   "text": "You see, the people who really know how to manage people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3528.76,
+   "end": 3532.66,
+   "text": "can never figure out what they do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3532.66,
+   "end": 3536.3,
+   "text": "They're secretive, they never open their mouth.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3536.3,
+   "end": 3539.38,
+   "text": "They grunt, have you noticed that?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3539.38,
+   "end": 3542.18,
+   "text": "The moment you open your mouth, you're committing sin.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3542.18,
+   "end": 3544.98,
+   "text": "They don't, they grunt.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3544.98,
+   "end": 3549.41,
+   "text": "They have a presence, they look attentive,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3549.41,
+   "end": 3552.81,
+   "text": "God only knows what they're thinking about.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3552.81,
+   "end": 3555.61,
+   "text": "But they know one secret.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3555.61,
+   "end": 3562.24,
+   "text": "You know the story of the old rabbi on the holy day?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3562.24,
+   "end": 3565.54,
+   "text": "In New York, there is now retired and very sick,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3565.54,
+   "end": 3572.79,
+   "text": "a very wonderful psychologist,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.862
+  },
+  {
+   "start": 3572.79,
+   "end": 3575.69,
+   "text": "Aaron Levenstein, called it, sitting in his room.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3575.69,
+   "end": 3581.29,
+   "text": "And this is Aaron Levenstein's story",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3581.29,
+   "end": 3584.53,
+   "text": "of the old rabbi, and his father was a rabbi.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3584.53,
+   "end": 3586.75,
+   "text": "Aaron started out with him, and lost his faith,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3586.75,
+   "end": 3589.05,
+   "text": "became a psychologist, which is another.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 26.43,
+ "created_utc": "2026-09-20T23:04:51+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

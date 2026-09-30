@@ -1,0 +1,1946 @@
+{
+ "pointer": "3560",
+ "media": "3560.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1779.9,
+ "segments": [
+  {
+   "start": 3.44,
+   "end": 6.24,
+   "text": "Good morning, ladies and gentlemen.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 7.74,
+   "end": 10.24,
+   "text": "Let's begin approximately on time.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 10.48,
+   "end": 12.02,
+   "text": "My name is Bob Hawkins.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 12.44,
+   "end": 18.0,
+   "text": "I'm chairman of the International Business Area at NYU Business School.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 19.42,
+   "end": 26.36,
+   "text": "As you know, the morning's discussions will deal with various dimensions of the international environment",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 26.36,
+   "end": 31.04,
+   "text": "to which American business is increasingly exposed and dependent.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 31.04,
+   "end": 39.6,
+   "text": "The dimensions which will be discussed will include the turbulent present as well as the uncertain future",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 39.6,
+   "end": 44.7,
+   "text": "It's obviously a pleasure for me to serve as the moderator for the morning",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 44.7,
+   "end": 51.68,
+   "text": "and to introduce to you Peter Drucker, who you all know on my immediate right, and Irving Friedman",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 51.68,
+   "end": 61.9,
+   "text": "I am an international economist and have frequently found over the years that Peter Drucker's insights",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 61.9,
+   "end": 69.64,
+   "text": "on the international economy often push economists like me away from our narrow technical economic",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 69.64,
+   "end": 76.96,
+   "text": "models to look at a big, discontinuous, and sometimes obvious, in hindsight anyway,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 77.52,
+   "end": 83.0,
+   "text": "change in the economy that we were missing in our narrow models. I expect that he will",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 83.0,
+   "end": 90.94,
+   "text": "do that again this morning, and Irving Friedman will also add to that pushing away from our",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 90.94,
+   "end": 93.32,
+   "text": "narrow economic model as to what's going on in the real world.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 94.56,
+   "end": 99.46,
+   "text": "I'd like to say one thing about the schedule so that you know where we're going.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 100.7,
+   "end": 109.12,
+   "text": "As you know from the program, the first component of the morning's discussion will deal with",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 109.12,
+   "end": 112.76,
+   "text": "the world economy, its structural changes, threats, and opportunities.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 113.52,
+   "end": 122.18,
+   "text": "The format will be that Peter Drucker will talk rather informally for 20 minutes or so,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 122.18,
+   "end": 127.74,
+   "text": "followed then by a also relatively informal comment by Irving Friedman.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 128.92,
+   "end": 132.56,
+   "text": "And then the floor will be open for questions and answers.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 132.56,
+   "end": 143.46,
+   "text": "and I already see that I have a rather substantial stack of questions to address to the panelists.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 144.2,
+   "end": 149.74,
+   "text": "At approximately 11 o'clock we will break for a bit of coffee",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 149.74,
+   "end": 155.56,
+   "text": "and then from about 11.15 or 11.20 to 12.15 or so",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 155.56,
+   "end": 161.68,
+   "text": "we will have a more formal presentation on what can we learn from other managements by Peter Drucker.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 162.56,
+   "end": 171.44,
+   "text": "So, without further ado, and since he needs no introduction, I turn the first session over to Professor Peter Drucker.",
+   "speaker": "other",
+   "drucker_coverage": 0.05
+  },
+  {
+   "start": 171.9,
+   "end": 174.0,
+   "text": "Thank you very much, Bob Hawkins.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 174.58,
+   "end": 183.52,
+   "text": "Ladies and gentlemen, let me say again how very happy I am to be once more back home at GBA.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 184.48,
+   "end": 192.2,
+   "text": "And, by the way, in an act of rash optimism, I promise that I'll be back next year.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 192.56,
+   "end": 203.84,
+   "text": "But let me say, above all, how delighted and honored I am to have Dr. Friedman join us today.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 203.84,
+   "end": 213.3,
+   "text": "I have been an admirer of his for, I think, oh, make it 30 years since he really, more than anybody else,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 213.3,
+   "end": 221.78,
+   "text": "got the International Monetary Fund off the ground",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 221.78,
+   "end": 227.38,
+   "text": "and operating as the senior department head there for many years,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 227.98,
+   "end": 231.76,
+   "text": "and my admiration for him has been greatly increased",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 231.76,
+   "end": 236.56,
+   "text": "by his having written, with due respect to all other economists,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 236.92,
+   "end": 240.12,
+   "text": "the only book on inflation that's worth reading",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 240.12,
+   "end": 242.06,
+   "text": "and worth reading more every day.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 244.24,
+   "end": 248.86,
+   "text": "And so I'm very grateful, Irving, that you agreed to join us here today.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 248.86,
+   "end": 265.72,
+   "text": "And because of Dr. Friedman's presence on the panel, I shall restrain myself from making any comments on international monetary and financial matters, which would be sheer folly in his presence.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 265.72,
+   "end": 277.86,
+   "text": "And I leave that to you, and I will talk about other elements that are not more within my ken, but less within yours.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 279.54,
+   "end": 290.26,
+   "text": "And let me say it is very clear that we are in the midst of structural changes in the world economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 290.26,
+   "end": 298.94,
+   "text": "In many ways, the disappearance of anything that could be called a key currency, which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 298.94,
+   "end": 313.44,
+   "text": "was quite clear, and the rapid shift away from the traditional industries as the main",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 313.44,
+   "end": 316.56,
+   "text": "carriers of international trade and so on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 316.56,
+   "end": 335.1,
+   "text": "And I want to focus today really on three and only three of these changes, all of them structural, all of them hard to quantify and therefore unlikely to appear yet in the economic models Bob Hawkins talked about.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 335.1,
+   "end": 352.1,
+   "text": "And all of them kind of contrary not just to conventional wisdom, but above all to conventional rhetoric, conventional modes of political and managerial behavior.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 352.88,
+   "end": 355.9,
+   "text": "And the first is the demographic shifts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 356.54,
+   "end": 364.5,
+   "text": "And those of you who attended earlier seminars here in the last few years, we have been discussing them again and again.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 364.5,
+   "end": 391.7,
+   "text": "And so I will only say that fundamentally we must accept the fact that in the developed countries, including the developed countries of the Soviet bloc, we face long decades of very great shortages of young people available for traditional work at any price.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 391.7,
+   "end": 398.46,
+   "text": "as a result both of the baby bust of the sharp decline in birth rates",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 398.46,
+   "end": 402.22,
+   "text": "and of the sharp shift in education.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 403.36,
+   "end": 406.06,
+   "text": "And if you add the two together,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 407.6,
+   "end": 412.9,
+   "text": "we would have in the next 10 or 12 years in this country",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 412.9,
+   "end": 421.16,
+   "text": "have no more than one-third of the people available for entrance jobs",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 421.16,
+   "end": 426.54,
+   "text": "in traditional employment, about one-third of what we had the last 20 years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 426.92,
+   "end": 432.78,
+   "text": "This is also, of course, in part the result of the fact that the participation of women",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 432.78,
+   "end": 440.9,
+   "text": "in the labor force cannot increase much more, because under 50, the labor force participation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 440.9,
+   "end": 448.84,
+   "text": "of women is already equal to that of men in any developed economy except Japan, so that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 448.84,
+   "end": 453.94,
+   "text": "from now on what you will see as increased labor force participation will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 453.94,
+   "end": 459.56,
+   "text": "be a statistical illusion as the older ones die off who never were in the labor",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 459.56,
+   "end": 466.36,
+   "text": "force it will look as if the total labor force participation rate went up but it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 466.36,
+   "end": 472.08,
+   "text": "doesn't is that for those who are in the labor force it is at its peak or at the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 472.08,
+   "end": 490.78,
+   "text": "peak can you this is on it isn't on okay can you hear me now this is on i'm sorry this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 490.78,
+   "end": 497.7,
+   "text": "thanks very much for telling how is this now okay and will you please not suffer in silence",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 497.7,
+   "end": 503.82,
+   "text": "you suffer 10 minutes in silence which is i think forbidden after each six months",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 503.82,
+   "end": 506.36,
+   "text": "so will you please scream",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 506.36,
+   "end": 507.96,
+   "text": "and say louder",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 507.96,
+   "end": 509.68,
+   "text": "thanks",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 509.68,
+   "end": 512.64,
+   "text": "and so in all developed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 512.64,
+   "end": 514.5,
+   "text": "countries we must expect the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 514.5,
+   "end": 516.74,
+   "text": "sharp drop in the number of young",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 516.74,
+   "end": 518.74,
+   "text": "of entrance people whether they are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 518.74,
+   "end": 520.64,
+   "text": "young or older women is the material",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 520.64,
+   "end": 522.72,
+   "text": "available for traditional",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 522.72,
+   "end": 524.9,
+   "text": "work which will incidentally",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 524.9,
+   "end": 526.78,
+   "text": "cause very great turbulence",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 526.78,
+   "end": 528.92,
+   "text": "because it will be accompanied",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 528.92,
+   "end": 530.78,
+   "text": "by small",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 530.78,
+   "end": 532.08,
+   "text": "but highly visible",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 532.08,
+   "end": 537.5,
+   "text": "areas of high redundancy of older",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 537.5,
+   "end": 541.48,
+   "text": "people in decaying industries, whether that's Youngstown",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 541.48,
+   "end": 544.06,
+   "text": "or Nagoya or what have you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 546.22,
+   "end": 549.04,
+   "text": "And at the same time, in the developing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 549.04,
+   "end": 553.62,
+   "text": "world, the very large number of babies who did not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 553.62,
+   "end": 556.34,
+   "text": "die in the 50s and 60s are now reaching",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 556.34,
+   "end": 561.42,
+   "text": "maturity and need work. So you will see",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 561.42,
+   "end": 569.8,
+   "text": "increasingly that the pattern of traditional manufacturing will change.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 570.16,
+   "end": 574.66,
+   "text": "That part of it that can be automated, truly automated,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 575.1,
+   "end": 578.7,
+   "text": "will be automated simply because for the first time",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 578.7,
+   "end": 581.5,
+   "text": "the hardware for automation is available.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 582.04,
+   "end": 584.42,
+   "text": "We have been talking automation 25 years,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 585.26,
+   "end": 589.08,
+   "text": "but we haven't seen much of it because it could be done on paper.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 589.08,
+   "end": 612.38,
+   "text": "Now it can be done in process as the mini-processor is being integrated with the tool, with the machine, with the instrument, and this, incidentally, is likely to be as important an industrial revolution as the coming of the fractional horsepower motor was about 100 years ago,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 612.38,
+   "end": 615.6,
+   "text": "which really created the modern plant",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 615.6,
+   "end": 622.08,
+   "text": "because it made it possible to have modern power on the machine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 622.08,
+   "end": 627.12,
+   "text": "so that you did not have to build your plant next to a generating station",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 627.12,
+   "end": 630.38,
+   "text": "or did not have to have a generating station to have a plant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 632.0,
+   "end": 634.7,
+   "text": "As long as you transmitted power with a pulley,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 634.7,
+   "end": 640.34,
+   "text": "you had to be within 100 yards of the source of power, or 200 yards.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 640.34,
+   "end": 656.82,
+   "text": "And so you will see real automation, and by the way, in this respect, this country is way behind compared to both the Germans and the Japanese who are really pushing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 656.82,
+   "end": 661.38,
+   "text": "and on the other hand where you cannot automate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 661.38,
+   "end": 666.14,
+   "text": "you will see that labor intensive stages of production",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 666.14,
+   "end": 669.72,
+   "text": "will be done increasingly where the labor is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 669.72,
+   "end": 672.56,
+   "text": "and that's not in the developed countries",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 672.56,
+   "end": 675.0,
+   "text": "and you will see production sharing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 675.0,
+   "end": 681.52,
+   "text": "in which the design, the management, the marketing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 681.52,
+   "end": 685.22,
+   "text": "are done in and by the developed country",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 685.22,
+   "end": 690.02,
+   "text": "and the actual labor-intensive stages are being planned.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 690.18,
+   "end": 693.48,
+   "text": "Every other place is growing rapidly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 693.7,
+   "end": 695.62,
+   "text": "It is already growing very fast.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 697.0,
+   "end": 703.62,
+   "text": "And this violates very much the way governments and labor unions and politicians,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 704.18,
+   "end": 709.28,
+   "text": "but also bankers and businessmen, look at the international economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 709.28,
+   "end": 714.98,
+   "text": "We all still see in our mind's eye Adam Smith's complementary trade,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 715.22,
+   "end": 721.72,
+   "text": "English Bullens against Portuguese wine as the model and that even though it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 721.72,
+   "end": 726.28,
+   "text": "ceased to be the model about a hundred and fifty years ago and that will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 726.28,
+   "end": 731.98,
+   "text": "increasingly be the wrong model the right model are the shoes you and I are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 731.98,
+   "end": 738.82,
+   "text": "wearing where the height came from an American cow and was tanned in southern",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 738.82,
+   "end": 744.38,
+   "text": "Brazil and the uppers were usually the uppers are now being done in Haiti by",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 744.38,
+   "end": 751.04,
+   "text": "Japanese trading company just to make things easy and the soles are done in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 751.04,
+   "end": 756.64,
+   "text": "the British Virgin Islands and the shoes are then assembled in Puerto Rico for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 756.64,
+   "end": 761.6,
+   "text": "the American market and let's say in Barbados for the European and British",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 761.6,
+   "end": 770.18,
+   "text": "markets and market designed in New York or in Zurich marketed in the developed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 770.18,
+   "end": 779.3,
+   "text": "countries which is where people wear shoes and labor content except for the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 779.3,
+   "end": 787.28,
+   "text": "cattle raising is sixty percent seventy percent developing countries wear wear",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 787.28,
+   "end": 792.02,
+   "text": "those shoes made if you had to put on a label made in what would you write on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 792.02,
+   "end": 796.88,
+   "text": "write on it and that is a pattern increasingly and we are not yet",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 796.88,
+   "end": 804.98,
+   "text": "organized and least organized for it are the large old multinationals who",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 804.98,
+   "end": 811.46,
+   "text": "basically still see a 19th century pattern in which you have national",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 811.46,
+   "end": 819.32,
+   "text": "subsidiaries each of which is a parent company in miniature and that's the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 819.32,
+   "end": 825.92,
+   "text": "whole range and everything for a limited market where tomorrow you will see plant",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 825.92,
+   "end": 833.52,
+   "text": "facilities that do one or two operations for the world market and we are not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 833.52,
+   "end": 840.92,
+   "text": "organized. Let me say that this implies a shift in the center of gravity of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 840.92,
+   "end": 848.06,
+   "text": "international business from capital to marketing. Tomorrow's international will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 848.06,
+   "end": 853.76,
+   "text": "not be controlled by capital and incidentally those of you who still feel",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 853.76,
+   "end": 859.74,
+   "text": "that the demand of the Mexicans or the Brazilians that you have foreign",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 859.74,
+   "end": 865.88,
+   "text": "partners is an imposition. Will you please accept the fact that for reasons",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 865.88,
+   "end": 871.2,
+   "text": "which only they can understand these poor countries are willing to subsidize",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 871.2,
+   "end": 877.82,
+   "text": "you and that they insist that you accept being subsidized for them. Insist,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 877.82,
+   "end": 883.16,
+   "text": "however, that from the beginning you build something that has an export",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 883.16,
+   "end": 887.82,
+   "text": "market. In the first place, it won't grow any other way. Secondly, you won't have control",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 887.82,
+   "end": 893.66,
+   "text": "any other way. And third, you won't really make a contribution any other way. The people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 893.66,
+   "end": 901.6,
+   "text": "in the developing countries who now reach working age cannot possibly find jobs supplying",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 901.6,
+   "end": 908.2,
+   "text": "their own domestic market. Even in Brazil, it isn't big enough and not capable of growing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 908.2,
+   "end": 914.16,
+   "text": "fast enough. The only market is where the customers are and the purchasing power, which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 914.16,
+   "end": 921.04,
+   "text": "is in the developed world. So that's the only way to make a contribution today to the developing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 921.04,
+   "end": 928.72,
+   "text": "market countries is by creating jobs for export in labor-intensive stages of production.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 928.72,
+   "end": 949.92,
+   "text": "And tomorrow's Multinational, as a result, is likely to be a confederation that's held together by control of marketing, where today's Multinational sees itself very much in the image of an army division.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 949.92,
+   "end": 957.8,
+   "text": "I have suggested, if you want a metaphor for tomorrow's, it'll be the symphony orchestra.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 957.8,
+   "end": 961.86,
+   "text": "The conductor does not play the oboe.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 961.86,
+   "end": 968.5,
+   "text": "And the oboist does not do what the conductor does, but the conductor keeps the score.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 968.5,
+   "end": 973.54,
+   "text": "And the conductor decides whether we play Beethoven or Bartok.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 973.54,
+   "end": 976.8,
+   "text": "And that is tomorrow's multinational.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 976.8,
+   "end": 982.68,
+   "text": "the oboe is better play the oboe and not the conductor. I have at least never met",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 982.68,
+   "end": 988.62,
+   "text": "a conductor whom I would entrust an oboe with. And so that is tomorrow's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 988.62,
+   "end": 996.3,
+   "text": "multinational. And the second thing to say is that, you know, all of us have been",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 996.3,
+   "end": 1003.3,
+   "text": "talking about the last ten years being years of stagnation, but that is not true.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1003.3,
+   "end": 1010.82,
+   "text": "there have been years of stagnation in the developing developed countries and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1010.82,
+   "end": 1016.16,
+   "text": "by the way very unevenly in this country we had fairly substantial growth",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1016.16,
+   "end": 1021.4,
+   "text": "basically if I sound critical I think we had growth where we shouldn't have had",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1021.4,
+   "end": 1028.24,
+   "text": "it ours was not the healthy development we had growth in old industries not in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1028.24,
+   "end": 1036.34,
+   "text": "new ones, basically, but fairly substantial growth, when Japan and Germany, with their",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1036.34,
+   "end": 1044.12,
+   "text": "very successful exploitation of the world market, had a lot better growth than we in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1044.12,
+   "end": 1044.88,
+   "text": "some areas.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1045.66,
+   "end": 1048.12,
+   "text": "But that is not the point.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1048.24,
+   "end": 1054.66,
+   "text": "The point is that a whole group of countries in this very difficult period had extraordinary",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1054.66,
+   "end": 1063.66,
+   "text": "fast growth in the industries that are right for them. We have a whole new group in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1063.66,
+   "end": 1069.66,
+   "text": "world economy, whether you call them the rapidly industrializing countries or the almost developed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1069.66,
+   "end": 1077.66,
+   "text": "ones, Brazil and Mexico and perhaps Colombia close to it. And of course the non-communist",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1077.66,
+   "end": 1084.66,
+   "text": "Chinese communities of Taiwan, Hong Kong and Singapore. By the way, I'm one of those who",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1084.66,
+   "end": 1092.5,
+   "text": "do not believe in the economic growth of red china ahead of us i think where china faces nothing but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1092.5,
+   "end": 1106.83,
+   "text": "serious trouble the next 20 years uh but that's a footnote and uh be the mediterranean these are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1106.83,
+   "end": 1112.19,
+   "text": "almost developed countries and the definition of an oh my definition of an almost developed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1112.19,
+   "end": 1120.47,
+   "text": "country is a country that can do any one thing well but not many things and these",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1120.47,
+   "end": 1126.11,
+   "text": "are the countries in which in some of them you have a combination in Brazil of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1126.11,
+   "end": 1132.67,
+   "text": "very large labor surpluses with substantial managerial competence and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1132.67,
+   "end": 1139.01,
+   "text": "Brazil is alone a substantial domestic market in others like Mexico you have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1139.01,
+   "end": 1144.77,
+   "text": "the same without the substantial domestic market in the Chinese areas you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1144.77,
+   "end": 1150.41,
+   "text": "have no labor surplus basically they will increasingly have to move from",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1150.41,
+   "end": 1156.41,
+   "text": "labor-intensive industries even South Korea and to more knowledge intensive",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1156.41,
+   "end": 1161.51,
+   "text": "ones but they all have in common that they are now becoming factors on the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1161.51,
+   "end": 1170.03,
+   "text": "world market that they are moving from a stage in which their development was",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1170.03,
+   "end": 1176.75,
+   "text": "capital-paced to one where it's export-paced. They are all now moving into an",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1176.75,
+   "end": 1183.35,
+   "text": "export-led stage of development and so they are all going to become major",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1183.35,
+   "end": 1189.21,
+   "text": "exporters though probably not of finished goods but of stages of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1189.21,
+   "end": 1194.97,
+   "text": "production in many cases and at least the Brazilians who in some ways are the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1194.97,
+   "end": 1201.09,
+   "text": "most intelligent of the lot see this quite clearly. This is a different",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1201.09,
+   "end": 1206.77,
+   "text": "pattern from the Japanese which was not export based largely, particularly Japan",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1206.77,
+   "end": 1212.65,
+   "text": "was fully developed it was based on the building of a domestic market and it was",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1212.65,
+   "end": 1219.85,
+   "text": "based on bringing in technology and making the whole product. Brazil does not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1219.85,
+   "end": 1226.09,
+   "text": "behave that way. They bring in technology, yes, but primarily they bring in stages",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1226.09,
+   "end": 1232.07,
+   "text": "of production and they have been looking for export markets and I think this is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1232.07,
+   "end": 1237.61,
+   "text": "in view of their demographics, their right policy for them, but it's creating",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1237.61,
+   "end": 1240.33,
+   "text": "quite new opportunities",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1240.33,
+   "end": 1242.01,
+   "text": "on the world market and quite",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1242.01,
+   "end": 1244.07,
+   "text": "new stresses and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1244.07,
+   "end": 1245.67,
+   "text": "I think that the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1245.67,
+   "end": 1247.63,
+   "text": "almost developing countries",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1247.63,
+   "end": 1249.93,
+   "text": "are the most interesting part",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1249.93,
+   "end": 1251.09,
+   "text": "of the world economy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1251.09,
+   "end": 1254.33,
+   "text": "they have been showing tremendous",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1254.33,
+   "end": 1255.71,
+   "text": "growth potential",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1255.71,
+   "end": 1257.39,
+   "text": "at a very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1257.39,
+   "end": 1259.93,
+   "text": "difficult time because they were",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1259.93,
+   "end": 1261.95,
+   "text": "most severely hit",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1261.95,
+   "end": 1263.19,
+   "text": "by OPEC",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1263.19,
+   "end": 1266.03,
+   "text": "and yet they have done",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1266.03,
+   "end": 1296.12,
+   "text": "And the third thing which I shall talk about, and here I'm going out on a limb which I promptly will then saw off behind me, is I think one can say with something like 75% probability that the terms of trade will not improve in favor of the raw material producing countries,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1296.12,
+   "end": 1302.3,
+   "text": "except for the major food producers, but will continue to deteriorate.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1303.1,
+   "end": 1306.38,
+   "text": "You know, if you look as a non-economist, which I am,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1306.44,
+   "end": 1309.22,
+   "text": "I'm a consumer of economics, not a producer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1309.78,
+   "end": 1314.94,
+   "text": "If you look at economics, one of the things that underlies",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1314.94,
+   "end": 1317.64,
+   "text": "the 20th century crisis of economics,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1317.64,
+   "end": 1322.76,
+   "text": "and some of you know that I was a member of the original Keynes Seminar,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1322.94,
+   "end": 1325.2,
+   "text": "so I've been in crisis a long time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1326.12,
+   "end": 1330.86,
+   "text": "is the fact that the basic assumption",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1330.86,
+   "end": 1334.34,
+   "text": "the 19th century economists made axiomatically",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1334.34,
+   "end": 1338.2,
+   "text": "that as you industrialize,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1338.38,
+   "end": 1342.42,
+   "text": "you lose the capacity for effective, efficient,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1342.58,
+   "end": 1344.32,
+   "text": "and competitive food production,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1344.92,
+   "end": 1349.68,
+   "text": "which was a generalization of the British and Belgian models.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1349.68,
+   "end": 1351.98,
+   "text": "That that was no longer true,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1352.4,
+   "end": 1353.82,
+   "text": "that on the contrary,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1353.82,
+   "end": 1361.42,
+   "text": "the more highly advanced industrially a country, the more productive its agriculture.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1361.6,
+   "end": 1367.54,
+   "text": "Even the British one has recovered from the low point of late Victorian agriculture",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1367.54,
+   "end": 1370.74,
+   "text": "in terms both of total production and productivity,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1371.6,
+   "end": 1380.22,
+   "text": "even though it was then for so long sacrificed to the political expediency and considerations of the empire.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1381.06,
+   "end": 1383.5,
+   "text": "But this is no longer true.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1383.82,
+   "end": 1407.62,
+   "text": "The most, precisely because agriculture has become both the most capital intensive and the most knowledge intensive of all our major economic sectors, it is most productive in highly developed countries such as the United States and Canada, which to a large extent underlies the Northwest tension.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1408.24,
+   "end": 1422.5,
+   "text": "And beginning with 1900 or so, interrupted by two world wars, the terms of trade have steadily drifted against countries that are primarily raw material producers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1422.5,
+   "end": 1437.26,
+   "text": "In fact, I think one can say that the only way for a country to have advantageous terms of trade is to have the knowledge base which only a modern industrial establishment can give you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1437.62,
+   "end": 1446.8,
+   "text": "This, I think, even goes for the OPEC countries, whose future I do not view with great optimism,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1446.8,
+   "end": 1453.1,
+   "text": "not for any length of time, politically, socially, or economically.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1453.1,
+   "end": 1463.72,
+   "text": "But except for situations where you can have a temporary monopoly, the rest of the pure",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1463.72,
+   "end": 1470.44,
+   "text": "raw materials I think are likely to have a continuing downward drift in their",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1470.44,
+   "end": 1481.96,
+   "text": "terms of trade whether that's metals or minerals or forest products for reasons",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1481.96,
+   "end": 1492.1,
+   "text": "which I do not quite understand but I think that the interruptions of this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1492.1,
+   "end": 1501.3,
+   "text": "trend are temporary they are mostly wars or period of high uh confusion such as the uh when panic",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1502.42,
+   "end": 1509.94,
+   "text": "and then you get this sudden inflationary boom and followed by collapse such as we have seen in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1509.94,
+   "end": 1516.42,
+   "text": "almost any major commodity the last five years the small thing is to stay out of the boom then",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1516.42,
+   "end": 1524.82,
+   "text": "And I think that if you plot it on a secular basis, you will see a continuing downward",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1524.82,
+   "end": 1533.42,
+   "text": "drift of the terms of trade, largely because the marketing, the purchasing power of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1533.42,
+   "end": 1536.1,
+   "text": "developed world is so great.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1536.1,
+   "end": 1540.12,
+   "text": "And this will be accelerated by automation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1540.12,
+   "end": 1549.0,
+   "text": "And so the last thing I would say is that I foresee a widening of the north-south gap",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1549.0,
+   "end": 1555.08,
+   "text": "rather than a narrowing, no matter what aid policies there are, what transfer policies",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1555.08,
+   "end": 1561.46,
+   "text": "there are, except for the almost developed countries as they develop their knowledge",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1561.46,
+   "end": 1571.6,
+   "text": "base and the ability to market not so much products as the results of their labor, their",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1571.6,
+   "end": 1578.04,
+   "text": "abundant labor stages of production in the developed countries and then build their own",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1578.04,
+   "end": 1579.76,
+   "text": "domestic markets.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1580.16,
+   "end": 1583.44,
+   "text": "These, I think, are some of the things to say.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1583.94,
+   "end": 1590.46,
+   "text": "Let me say to me the most important single factor from the point of view of the structure",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1590.46,
+   "end": 1599.28,
+   "text": "of the world economy, is the diminishing role of capital, even though capital will be increasingly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1599.28,
+   "end": 1605.78,
+   "text": "in short supply. Capital formation today is totally inadequate, as it always is in an",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1605.78,
+   "end": 1611.34,
+   "text": "inflationary period. After all, inflation is the destruction of capital by government.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1611.34,
+   "end": 1621.12,
+   "text": "and that and one of the few things government is good at and very good at",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1621.12,
+   "end": 1627.34,
+   "text": "and so we have inadequate capital formation aggravated let me see by the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1627.34,
+   "end": 1636.06,
+   "text": "fact that totally unlike the Keynesian assumption we have built into the modern",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1636.06,
+   "end": 1644.1,
+   "text": "economy and under savings tendency, based on our age structure, based on the fact",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1644.1,
+   "end": 1652.46,
+   "text": "that everybody in this room saves some 25 to 30 percent of his income and not a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1652.46,
+   "end": 1659.7,
+   "text": "penny of it becomes capital formation. Social Security, 12 percent of your",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1659.7,
+   "end": 1668.28,
+   "text": "salary up to 18,000 or 25,000 now goes out immediately as consumption and what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1668.28,
+   "end": 1675.14,
+   "text": "you put into the pension plan of your company about 70% of it already goes out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1675.14,
+   "end": 1681.78,
+   "text": "when then the rest of the saving of most of us is the mortgage on the house and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1681.78,
+   "end": 1689.46,
+   "text": "that the house is not capital the house is durable consumer goods with a good",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1689.46,
+   "end": 1695.06,
+   "text": "resale value, but it is not the productive asset in the economist's sense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1695.06,
+   "end": 1703.12,
+   "text": "So here is something like 40% of the typical wage and salary recipient income in developed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1703.12,
+   "end": 1711.08,
+   "text": "countries that he looks upon as savings, and therefore he does not see any need to save",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1711.08,
+   "end": 1720.92,
+   "text": "more if you plot capital accumulation rates in relation to social security, then there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1720.92,
+   "end": 1727.26,
+   "text": "is no great difference between Japan and this country. The high rate of capital formation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1727.26,
+   "end": 1734.44,
+   "text": "in Japan is an illusion. The Japanese have no social security payment and very practically",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1734.44,
+   "end": 1739.98,
+   "text": "nothing per way of a pension plan and almost even less per way of a mortgage than Arnold",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1739.98,
+   "end": 1746.8,
+   "text": "homo us. And if you adjust for that, then the Japanese form more capital than we do,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1746.88,
+   "end": 1753.1,
+   "text": "but not much more. Nor do the Germans. The Germans are the highest probably. So basically",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1753.1,
+   "end": 1761.34,
+   "text": "we are trading what may have been genuine capital formation. I've never been convinced",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1761.34,
+   "end": 1767.82,
+   "text": "that the economist really knows how to measure it. Again, things that are clearly savings",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1767.82,
+   "end": 1774.36,
+   "text": "but not capital formation. So there is a built-in tendency towards under-saving in any",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 27.61,
+ "created_utc": "2026-09-20T22:56:53+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

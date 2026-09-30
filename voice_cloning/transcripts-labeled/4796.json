@@ -1,0 +1,3227 @@
+{
+ "pointer": "4796",
+ "media": "4796.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2689.7,
+ "segments": [
+  {
+   "start": 1.74,
+   "end": 4.48,
+   "text": "Let's turn to a few questions about the future.",
+   "speaker": "other",
+   "drucker_coverage": 0.277
+  },
+  {
+   "start": 5.52,
+   "end": 11.46,
+   "text": "Both speakers have noted that governmental regulation has forced major changes in the structure of organizations.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 12.24,
+   "end": 16.66,
+   "text": "Have we reached the zenith of the depth and breadth of federal regulation,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 17.12,
+   "end": 19.74,
+   "text": "or can we expect more coming down the pike?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 24.64,
+   "end": 25.58,
+   "text": "What is the future?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 25.7,
+   "end": 27.74,
+   "text": "Is government going to go away?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 28.06,
+   "end": 39.21,
+   "text": "The answer is it may become a little more competent than God knows we need it.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.865
+  },
+  {
+   "start": 39.71,
+   "end": 43.51,
+   "text": "It may continue as a long slide towards incompetence,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 44.29,
+   "end": 47.17,
+   "text": "but unfortunately it ain't going to go away.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 48.55,
+   "end": 52.45,
+   "text": "So accept the fact that there is a government in your future.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 54.85,
+   "end": 59.15,
+   "text": "Let's try another futuristic question here.",
+   "speaker": "other",
+   "drucker_coverage": 0.035
+  },
+  {
+   "start": 59.83,
+   "end": 63.59,
+   "text": "How will the manager of the future be different from the manager of today?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 63.87,
+   "end": 68.59,
+   "text": "What are the most essential skills of the effective manager in the late 1980s?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 68.59,
+   "end": 76.41,
+   "text": "I wish I knew the answer to that, because the people that we're teaching, we're training",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 76.41,
+   "end": 85.83,
+   "text": "here, will be in a decision-making mode or position in, let's say, the year 2000, 2005.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 85.83,
+   "end": 93.95,
+   "text": "And I really wish I knew what the climate was going to be at that time and what the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 93.95,
+   "end": 97.21,
+   "text": "demands were going to be, because we teach them.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 97.21,
+   "end": 103.35,
+   "text": "The only thing we can probably do is to make certain that they're well grounded in the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 103.35,
+   "end": 111.19,
+   "text": "technicalities and the basics of business administration, business management, and then",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 111.19,
+   "end": 120.77,
+   "text": "tell them to develop a certain degree of challenge in their minds, a certain degree of disbelief,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 120.77,
+   "end": 127.41,
+   "text": "a certain degree of innovation, and to have the courage, based upon their training,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 127.41,
+   "end": 135.85,
+   "text": "to express and exercise these concepts and these challenges that they have.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 136.43,
+   "end": 141.99,
+   "text": "Also, I think it's important, in addition to developing technical competency,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 142.99,
+   "end": 150.09,
+   "text": "for them to develop interpersonal competency, because just as I don't know,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 150.77,
+   "end": 158.33,
+   "text": "what the economic climate or the political climate is going to be in the 21st century,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 159.01,
+   "end": 161.91,
+   "text": "I am quite certain that human nature will be the same.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 165.7,
+   "end": 170.74,
+   "text": "Well, I usually divide questions in such a conference as ours,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 170.74,
+   "end": 172.66,
+   "text": "such as the symposium, into three groups.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 173.46,
+   "end": 178.06,
+   "text": "There are the questions where the question never changes and the answers do,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 178.9,
+   "end": 182.4,
+   "text": "and the ones where the answers never change but the questions do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 182.92,
+   "end": 185.98,
+   "text": "And in between there are those where the questions never change",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 185.98,
+   "end": 187.28,
+   "text": "and the answers don't either.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 187.98,
+   "end": 190.94,
+   "text": "And I would have 10 years ago, even 5 years ago,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 191.04,
+   "end": 193.44,
+   "text": "put this question into this last group.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 194.1,
+   "end": 197.14,
+   "text": "It's an old question and the answers seem never to have changed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 197.68,
+   "end": 201.06,
+   "text": "And fundamentally the answer was, and in a way Bill has given it,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 201.44,
+   "end": 205.48,
+   "text": "is that managers don't do anything too different today",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 205.48,
+   "end": 207.86,
+   "text": "from what they did 70 years ago.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 207.86,
+   "end": 211.18,
+   "text": "We only have so many more of them that they have to learn it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 211.18,
+   "end": 222.36,
+   "text": "And I am beginning to wonder whether this question is not moving to where the question doesn't change and the answers do. But, of course, there are some new things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 223.36,
+   "end": 239.24,
+   "text": "Number one, your last question about government regulation. I'm going to tell you a secret. The manager, 10 years hence, will not ask it. Because he will have learned that there are multiple constituencies.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 240.24,
+   "end": 244.94,
+   "text": "Today, particularly the business manager, still believes, and it was true,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 245.76,
+   "end": 251.6,
+   "text": "that as long as he produces a decent product and service, sells it at a profit,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 251.6,
+   "end": 259.7,
+   "text": "the other constituencies are restraints, whether they are employees or the managers afterwards,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 259.84,
+   "end": 266.46,
+   "text": "but to look at stockholders as foreigners, or whether they are the government, and so on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 266.46,
+   "end": 272.46,
+   "text": "And they are beginning to be what any public institution service manager has always known,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 272.8,
+   "end": 277.18,
+   "text": "they are constituencies, which means any one of them can veto you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 278.68,
+   "end": 282.32,
+   "text": "And yet not one of them is concerned with your success.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 284.22,
+   "end": 292.82,
+   "text": "And so constituency management, the management of the other institutions in the environment,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 292.82,
+   "end": 296.82,
+   "text": "The ecology, if you want to call it that, of this jungle.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 296.82,
+   "end": 299.82,
+   "text": "Yes, they will have to learn it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 299.82,
+   "end": 304.82,
+   "text": "And another thing, one can predict with confidence,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 304.82,
+   "end": 317.22,
+   "text": "that the present business school's weakest point is going to become a tremendous defect.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 317.22,
+   "end": 322.22,
+   "text": "That is the absence of any real understanding of production management.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 322.22,
+   "end": 331.22,
+   "text": "We once taught it 50 years ago. It was a miserable discipline, a hodgepodge of how many toilets per hundred employees.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 331.22,
+   "end": 342.22,
+   "text": "You know, look, the first American textbook of management, written by a professor at NYU, his name was Cornell in 1916, was still being taught in 1940.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 342.22,
+   "end": 359.22,
+   "text": "is an assembly of trivial miscellaneous, from alphabetically organized, from, because it has no, there is no discipline of production management, there still isn't one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 359.22,
+   "end": 364.22,
+   "text": "And so for good intellectual reasons we have stopped teaching it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 364.22,
+   "end": 369.46,
+   "text": "If only because the younger ones we cut higher refuse to teach that nonsense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 370.32,
+   "end": 376.9,
+   "text": "We will not be able to do it because the great challenge,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 378.36,
+   "end": 385.32,
+   "text": "the microprocessor is a genuine revolution in the way we produce things,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 386.08,
+   "end": 390.94,
+   "text": "where we organize the process of making around information,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 390.94,
+   "end": 394.78,
+   "text": "where the last one organized it around materials transport.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 396.1,
+   "end": 398.52,
+   "text": "And we need production management.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 398.92,
+   "end": 402.44,
+   "text": "And believe me, the MBAs don't know what it is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 402.44,
+   "end": 406.64,
+   "text": "and are hopeless, and the engineers don't know what it is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 407.64,
+   "end": 409.88,
+   "text": "And so you can say 10 years hence,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 411.1,
+   "end": 414.62,
+   "text": "we will have to have people who know what it is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 414.62,
+   "end": 421.98,
+   "text": "and who just don't know about it the way we do today,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 421.98,
+   "end": 428.1,
+   "text": "where it's a no-man's land between engineers and accountants with a personal man in between.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 429.62,
+   "end": 436.8,
+   "text": "And the third thing one can probably predict is that the manager of tomorrow",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 436.8,
+   "end": 450.43,
+   "text": "is going to take responsibility for his effectiveness, his communications, his relationship, his career, and his placement.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 450.43,
+   "end": 453.89,
+   "text": "and today the manager expects",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 453.89,
+   "end": 455.59,
+   "text": "the great white father",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 455.59,
+   "end": 457.35,
+   "text": "on the 14th floor",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 457.35,
+   "end": 458.25,
+   "text": "to do that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 458.25,
+   "end": 459.63,
+   "text": "and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 459.63,
+   "end": 462.97,
+   "text": "it's much too complex",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 462.97,
+   "end": 464.49,
+   "text": "it's much, above all",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 464.49,
+   "end": 466.47,
+   "text": "the diversity is so great",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 466.47,
+   "end": 469.13,
+   "text": "of career paths",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 469.13,
+   "end": 469.99,
+   "text": "and changing them",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 469.99,
+   "end": 472.53,
+   "text": "as Bill said, you have to be yourself",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 472.53,
+   "end": 475.39,
+   "text": "you can't, the idea that you can",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 475.39,
+   "end": 477.51,
+   "text": "adopt a style",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 477.51,
+   "end": 479.33,
+   "text": "that doesn't fit your personality",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 479.33,
+   "end": 488.98,
+   "text": "I once had a very good friend who was, by way of being a Shakespeare scholar,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 489.22,
+   "end": 493.06,
+   "text": "he said the one play he couldn't accept was The Merchant of Venice,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 493.6,
+   "end": 497.18,
+   "text": "because it is absolutely unthinkable that even a judge,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 497.22,
+   "end": 499.76,
+   "text": "he was one and had a low opinion of the profession,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 499.76,
+   "end": 505.24,
+   "text": "that even a judge could for one minute be fooled by Portia Ford's beard.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 505.78,
+   "end": 506.98,
+   "text": "It was a woman, obviously.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 507.28,
+   "end": 509.36,
+   "text": "It's the most female character in Shakespeare.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 509.36,
+   "end": 515.66,
+   "text": "one can't fool even a judge by a false beard for more than a minute except in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 515.66,
+   "end": 524.1,
+   "text": "a play the one has to be oneself as no style foreign style you can adapt and so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 524.1,
+   "end": 527.76,
+   "text": "you will have to manage of tomorrow we'll have to take again a degree of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 527.76,
+   "end": 537.59,
+   "text": "responsibility for where do I belong where do I go which basically the last",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 537.59,
+   "end": 555.25,
+   "text": "In the past 30 years, or even 50 years, we have not stressed, because there are new things, but when we need, I think production management, if any young man came to me, a woman, and said, I want to go into business, what do I learn?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 555.25,
+   "end": 558.81,
+   "text": "I said, this is the time for you to go into the plant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 559.75,
+   "end": 562.73,
+   "text": "Stay out of the accounting office if you're a young man.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 562.99,
+   "end": 564.63,
+   "text": "You can't compete with the women.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 564.79,
+   "end": 565.65,
+   "text": "You aren't bright enough.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 567.13,
+   "end": 568.51,
+   "text": "And they're all in there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 569.49,
+   "end": 572.81,
+   "text": "But the plant, the women haven't discovered it yet.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 572.81,
+   "end": 577.29,
+   "text": "And learn plant management, production management,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 577.69,
+   "end": 579.25,
+   "text": "because nobody knows it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 580.35,
+   "end": 582.65,
+   "text": "And it's going to be badly needed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 582.65,
+   "end": 593.65,
+   "text": "And I would say learn how one finds out that politicians behave like politicians and what does that mean.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 593.65,
+   "end": 606.56,
+   "text": "And how other groups see the world, think through what does the expector mean, how can we build that into performance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 606.56,
+   "end": 612.56,
+   "text": "And finally learn to ask the question who am I, what do I do well,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 612.56,
+   "end": 620.88,
+   "text": "well? How do I build back feedback from my performance so that I improve myself and learn",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 620.88,
+   "end": 627.74,
+   "text": "what I can do and what I can't do? And how do I decide where I really belong? Those are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 627.74,
+   "end": 633.79,
+   "text": "the three things I would say are the new answers to an old question.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 634.97,
+   "end": 639.67,
+   "text": "Thank you very much, Peter and Bill. I think we'll close out our questions and answers",
+   "speaker": "other",
+   "drucker_coverage": 0.006
+  },
+  {
+   "start": 639.67,
+   "end": 643.69,
+   "text": "and move from the future of management over to the future of economics.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 643.87,
+   "end": 647.63,
+   "text": "Peter has noted that there's a present crisis in economics",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 647.63,
+   "end": 649.51,
+   "text": "and that the field is in the throes",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 649.51,
+   "end": 652.33,
+   "text": "of its fifth scientific revolution.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 652.33,
+   "end": 655.81,
+   "text": "Here is Peter to close out with the theme",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 655.81,
+   "end": 660.31,
+   "text": "Toward the Next Economics.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.513
+  },
+  {
+   "start": 660.31,
+   "end": 663.07,
+   "text": "Dean Taggart, can you hear me?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 663.07,
+   "end": 667.45,
+   "text": "May we please say that our dearly beloved dean is here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 667.45,
+   "end": 678.64,
+   "text": "Will you stand up, Joe, that we can applaud you?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.553
+  },
+  {
+   "start": 678.64,
+   "end": 685.12,
+   "text": "this building and this school is very largely a living monument to him and i'm deeply grateful",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 685.12,
+   "end": 692.88,
+   "text": "that you came here joe today thanks uh you know i'm being asked i have been one i always wonder",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 692.88,
+   "end": 699.68,
+   "text": "about the question people don't ask uh and the question about the president administration that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 699.68,
+   "end": 706.8,
+   "text": "people don't ask is why does everybody think it is so makes so much of a difference you know when",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 706.8,
+   "end": 716.28,
+   "text": "When you look at the election, Mr. Reagan won decisively, but hardly, an enormous landslide.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 716.28,
+   "end": 721.82,
+   "text": "And let's put it that way, Mr. Carter lost more than Mr. Reagan won.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 721.82,
+   "end": 729.1,
+   "text": "When you look at the last few years of the Carter administration, all the things Mr.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 729.1,
+   "end": 737.42,
+   "text": "Reagan proposed that Mr. Carter was at least talking about, shift towards defense, realization",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 737.42,
+   "end": 744.7,
+   "text": "that maybe the world isn't quite as harmless as the taunt assumed it to be and maybe the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 747.12,
+   "end": 754.08,
+   "text": "realization that the fair you the more money you move from the producers to the non-producers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 754.08,
+   "end": 762.48,
+   "text": "the less will be left over for productive purposes what else is new why is it such a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 762.48,
+   "end": 769.12,
+   "text": "makes it such a difference and one clue by the way maybe the most important thing that has happened",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 769.12,
+   "end": 780.08,
+   "text": "since the 20th of january is the new secretary of defense's public statement in the att antitrust",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 780.08,
+   "end": 791.12,
+   "text": "suit which said that breaking up the bell system would be an exceedingly detrimental thing to do",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 791.12,
+   "end": 797.36,
+   "text": "from the point of view of national defense, which breaks a very old American taboo,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 797.48,
+   "end": 805.14,
+   "text": "which is a taboo against thinking about anything but a peacetime society until the day war breaks out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 806.16,
+   "end": 810.52,
+   "text": "It's an old taboo. It goes back to, if you want, Jefferson.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 811.38,
+   "end": 814.22,
+   "text": "And he broke it, and nobody thought it extraordinary.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 814.56,
+   "end": 820.08,
+   "text": "Mind you, those of us who know a little bit about the country's defense needs,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 821.12,
+   "end": 843.24,
+   "text": "I asked that question all along, but nobody dared say it, and whether the antitrust department and the court hear it, I don't know yet. And by the way, don't be surprised if in a few weeks from now, somebody there in Washington will say, what will it do to American exports if we break up IBM?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 843.24,
+   "end": 847.46,
+   "text": "it's our largest",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 847.46,
+   "end": 848.6,
+   "text": "next to GE",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 848.6,
+   "end": 850.5,
+   "text": "our largest single exporter",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 850.5,
+   "end": 851.8,
+   "text": "other than agriculture",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 851.8,
+   "end": 854.5,
+   "text": "and maybe one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 854.5,
+   "end": 856.1,
+   "text": "doesn't take chances",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 856.1,
+   "end": 861.02,
+   "text": "and that would also be unspeakable",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 861.02,
+   "end": 862.56,
+   "text": "because the idea that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 862.56,
+   "end": 864.56,
+   "text": "what happens offshore has any",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 864.56,
+   "end": 866.88,
+   "text": "impact on our domestic",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 866.88,
+   "end": 867.7,
+   "text": "morality",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 867.7,
+   "end": 871.04,
+   "text": "and verities is also unspeakable",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 871.04,
+   "end": 872.88,
+   "text": "so something has happened",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 872.88,
+   "end": 892.0,
+   "text": "And perhaps the thing that is most significant is that despite the supply-side economists, we all realize that we have lost the make-it-almost-50 years in which we had a working economic theory.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 892.0,
+   "end": 895.68,
+   "text": "and the Keynesians say no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 895.68,
+   "end": 897.86,
+   "text": "and the Friedmanites say no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 897.86,
+   "end": 900.94,
+   "text": "and the supply-siders say we have one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 900.94,
+   "end": 903.46,
+   "text": "but I don't think anybody believes them anymore",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 903.46,
+   "end": 906.6,
+   "text": "by the way I don't think the supply-siders believe themselves",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 906.6,
+   "end": 910.62,
+   "text": "for the simple reason that we know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 910.62,
+   "end": 913.22,
+   "text": "that the assumptions have become dubious",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 913.22,
+   "end": 915.76,
+   "text": "and we are in the throes of a genuine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 915.76,
+   "end": 919.16,
+   "text": "scientific revolution in which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 919.16,
+   "end": 922.04,
+   "text": "the paradigms no longer hold.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 922.68,
+   "end": 925.24,
+   "text": "And it's the sixth, as Tom mentioned,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 926.18,
+   "end": 928.9,
+   "text": "since economics became a discipline,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 929.46,
+   "end": 931.32,
+   "text": "with the assertion,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 931.74,
+   "end": 935.42,
+   "text": "which was a brand new heresy at the end of the 16th century,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 935.94,
+   "end": 938.56,
+   "text": "that there is an autonomous economic realm.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 939.14,
+   "end": 943.02,
+   "text": "Governments have always worried about money and taxes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 943.02,
+   "end": 946.76,
+   "text": "and trade and individuals have always worried about incomes,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 946.76,
+   "end": 953.76,
+   "text": "But economics as a separate discipline is their modern heresy and was very heretical when it first came up.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 954.62,
+   "end": 966.76,
+   "text": "And when you look at it, the last one, the Keynesian one, and I'm old enough to have been the youngest invited member of the Keynes Seminar in Cambridge in the early 30s,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 966.76,
+   "end": 982.94,
+   "text": "The three things of which two were brand new and one was a return to an old and once discredited",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 982.94,
+   "end": 983.94,
+   "text": "basic assumption.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 983.94,
+   "end": 989.16,
+   "text": "The discredited one was the macroeconomic one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 989.16,
+   "end": 997.26,
+   "text": "We went off, economics started as macroeconomics and it was such a fiasco, the mercantilists,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 997.26,
+   "end": 1004.14,
+   "text": "the same areas in which our present macroeconomics are a fiasco, productivity and capital formation,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1004.86,
+   "end": 1014.54,
+   "text": "that it ruined the richest country of Europe in 50 years, France. And the more of a surplus they had,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1015.26,
+   "end": 1023.26,
+   "text": "the poorer they were. And the less productive and the more did capital formation fall. And so the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1023.26,
+   "end": 1028.84,
+   "text": "first scientific revolution that of the physiocrats went microeconomic by",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1028.84,
+   "end": 1032.56,
+   "text": "looking at the English who had no economic theory and therefore did",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1032.56,
+   "end": 1038.96,
+   "text": "exceedingly well. And let me say before 1780s there were no economists in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1038.96,
+   "end": 1048.68,
+   "text": "England. It's one of the secrets of England's rise. And people did what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1048.68,
+   "end": 1062.0,
+   "text": "worked and didn't ask why and we went microeconomic in the 1930 we went back",
+   "speaker": "drucker",
+   "drucker_coverage": 0.887
+  },
+  {
+   "start": 1062.0,
+   "end": 1070.38,
+   "text": "to macroeconomics and the results are the same I think one can now see you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1070.38,
+   "end": 1075.6,
+   "text": "know there are two experiments prove that kind or disprove a theorem there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1075.6,
+   "end": 1080.82,
+   "text": "are the purely macroeconomic system there's not cannot assume a state both",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1080.82,
+   "end": 1087.86,
+   "text": "mercantilists, and the Keynesians, I never really became one, but I was close enough,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1088.98,
+   "end": 1095.46,
+   "text": "that if only the macroeconomy is in good shape, the microeconomy will take care of itself.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1095.46,
+   "end": 1102.5,
+   "text": "The basic Keynesian assumption, which the supply-siders share, and the Friedmanites share,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1102.5,
+   "end": 1108.5,
+   "text": "that the microeconomy is determined, is like an ideal gas,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1108.5,
+   "end": 1112.42,
+   "text": "while individual molecules may have Brownian motions,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1112.84,
+   "end": 1114.5,
+   "text": "the whole thing moves statistically.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1115.16,
+   "end": 1115.98,
+   "text": "It isn't true.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1116.6,
+   "end": 1119.54,
+   "text": "The individual molecules have their own dynamics.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1119.98,
+   "end": 1121.16,
+   "text": "They are not determined.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1122.1,
+   "end": 1124.5,
+   "text": "And that, once and for all,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1125.4,
+   "end": 1129.5,
+   "text": "basically makes obsolete any economic theory we have today,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1129.96,
+   "end": 1131.38,
+   "text": "because we have none other.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1132.5,
+   "end": 1138.5,
+   "text": "But the two other Keynesian assertions, which were equally, were more novel.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1138.5,
+   "end": 1147.5,
+   "text": "Believe me, Keynes was quite right when he said of himself that in terms of economic theory he was a much greater innovator than Marx,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1147.5,
+   "end": 1156.5,
+   "text": "who just kept that part of traditional classical economics that suited him and disregarded the rest.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1156.5,
+   "end": 1167.5,
+   "text": "And Keynes actually did two other things. He first switched economics to where it had never been, namely to demand.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1167.5,
+   "end": 1181.5,
+   "text": "Before Keynes, every economics we had was a supply-side economics. Demand was, by definition, unlimited. Supply was the problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1181.5,
+   "end": 1201.6,
+   "text": "And Keynes stood it on its head for good reasons at the time, by the way. And it's now clear that it is just as untrue to say that as Say never said, Keynes might say that Say's law was Keynes' invention, as you probably know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1201.6,
+   "end": 1208.96,
+   "text": "with in all the books there is no mention of it uh but kane's investment being",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1210.24,
+   "end": 1219.28,
+   "text": "a totally dependent function of demand which their multiplier translating consumption into",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1219.28,
+   "end": 1225.04,
+   "text": "investment and therefore in jobs has been totally disproven in fact it never worked",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1225.04,
+   "end": 1230.0,
+   "text": "it didn't work in the 30s and it hasn't worked since in any country",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1231.6,
+   "end": 1240.0,
+   "text": "there is and so the opposite one that investment as a function of savings and therefore of supply",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1240.0,
+   "end": 1249.31,
+   "text": "which says law never quite said also didn't work we have no truly dependent function",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1249.31,
+   "end": 1258.99,
+   "text": "except the one that jobs are a function of investment but we have no function no invest",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1258.99,
+   "end": 1267.71,
+   "text": "no function for investment the savings function is more new works let me say says law works more",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1267.71,
+   "end": 1273.15,
+   "text": "much better than kane's law does but it doesn't work well enough and kane's law doesn't work at",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1273.15,
+   "end": 1282.67,
+   "text": "all and we have no predictor in there except that investment creates jobs anybody interested in it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1282.67,
+   "end": 1287.55,
+   "text": "i have an editorial in today's wall street journal called the full investment budget",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1287.55,
+   "end": 1293.63,
+   "text": "in which I talk about the fact that the full employment budget which made Keynesian economics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1293.63,
+   "end": 1300.91,
+   "text": "politically operational, Walter Heller's invention of it in 1957 that then led to the Kennedy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1300.91,
+   "end": 1308.11,
+   "text": "economics, that has been disproven. But we now need a full investment budget to have full",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1308.11,
+   "end": 1314.11,
+   "text": "employment that looks at the number of jobs we have to create and the capital investment needed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1314.11,
+   "end": 1320.99,
+   "text": "for them and then looks at is there enough capital formation for it and we can't depend on any indirect",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1320.99,
+   "end": 1328.51,
+   "text": "dependent function for the investment function anymore. So but that was central to Keynes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1328.51,
+   "end": 1335.31,
+   "text": "as it is central to Friedman and amazingly enough central to the supply side people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1335.31,
+   "end": 1343.23,
+   "text": "and it has been disproven and the third Keynesian one was that Keynes solved",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1344.11,
+   "end": 1367.27,
+   "text": "The oldest problem of economics, that between the real economy and the symbol economy, the real economy of goods and services, the symbol economy of money and credit, the predecessors up till 1870 had looked upon money as being the veil of reality, not reality itself.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1367.27,
+   "end": 1376.27,
+   "text": "And the events that matter happen in the real economy, that was doubted very early by people like McCullough.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1376.27,
+   "end": 1385.84,
+   "text": "And in 1870 the Austrians said this doesn't work at all, we don't play that game.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1385.84,
+   "end": 1392.84,
+   "text": "And it didn't, one of the main reasons why the traditional Austrian economics became intellectually untenable",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1392.84,
+   "end": 1398.84,
+   "text": "was this refusal of the Austrians to tackle the crucial problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1398.84,
+   "end": 1401.84,
+   "text": "This is very much like a physician saying,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1401.84,
+   "end": 1409.79,
+   "text": "I will learn anatomy but I will not include the heart in it, it's too complicated.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1409.79,
+   "end": 1414.79,
+   "text": "That is a basic weakness, intellectual flaw of Austrian economics,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1414.79,
+   "end": 1421.79,
+   "text": "which is why we will not return to them, no matter how attractive they may be politically.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1421.79,
+   "end": 1430.65,
+   "text": "They get their rigor by excluding the central problem, that's no way of doing it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1430.65,
+   "end": 1435.47,
+   "text": "The central problem is the relationship between those two.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1435.47,
+   "end": 1441.05,
+   "text": "And Keynes solved it by saying there ain't no goods and services, there's only money",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1441.05,
+   "end": 1443.21,
+   "text": "and only simple economics.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1443.21,
+   "end": 1450.47,
+   "text": "Look at Goldberg's book on the Great Depression, he blames it on a stock market crash, on some",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1450.47,
+   "end": 1457.01,
+   "text": "things that had nothing to do with goods and services and only affected purely",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1457.01,
+   "end": 1464.75,
+   "text": "abstract fictions. But when you look at the traditional Austrian as Hayek's book",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1464.75,
+   "end": 1470.51,
+   "text": "on it, the stock market crash is not mentioned in it. Neither works by the way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1470.51,
+   "end": 1478.19,
+   "text": "And Keynes solved it and we were going to have economic policy by manipulating",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1478.19,
+   "end": 1482.39,
+   "text": "money and credit and the difference between Keynes and Friedman is one of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1482.39,
+   "end": 1487.31,
+   "text": "minor emphasis Keynes stresses interest rates and Friedman stresses money supply",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1487.31,
+   "end": 1492.19,
+   "text": "both have both in the equation they're just the weights are slightly different",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1492.19,
+   "end": 1499.97,
+   "text": "believe me Friedman is the most orthodox Keynesian around today so has politics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1499.97,
+   "end": 1506.03,
+   "text": "Keynes was an ultimate absolute free trader bitterly opposed the government",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1506.03,
+   "end": 1511.01,
+   "text": "intervention. Not the American Keynesian, but Keynes himself. That's why he broke with people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1511.01,
+   "end": 1522.13,
+   "text": "like Abba Lerner or John Wilkinson and John Robertson and so on. And it doesn't work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1524.81,
+   "end": 1533.13,
+   "text": "And so we have a genuine intellectual crisis. Very exciting time. Except this is not the time",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1533.13,
+   "end": 1540.41,
+   "text": "to study economics for the simple reason that one can't learn something that ain't, and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1540.41,
+   "end": 1541.43,
+   "text": "it isn't here yet.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1542.63,
+   "end": 1545.09,
+   "text": "You know, I'm paraphrasing a great physicist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1546.13,
+   "end": 1554.91,
+   "text": "In 1900, the greatest physicist of Europe of the time, Poincar\u00e9, was asked by a young",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1554.91,
+   "end": 1557.63,
+   "text": "man whether he should go into physics.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1557.63,
+   "end": 1562.21,
+   "text": "and Poincare said young man this is the wrong time",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1562.21,
+   "end": 1564.85,
+   "text": "the physics you need to learn",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1564.85,
+   "end": 1566.23,
+   "text": "I can't teach you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1566.23,
+   "end": 1567.93,
+   "text": "there is a joker to it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1567.93,
+   "end": 1569.57,
+   "text": "you know the name of that young man",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1569.57,
+   "end": 1570.67,
+   "text": "it was Max Planck",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1570.67,
+   "end": 1575.89,
+   "text": "and so 1898 or so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1575.89,
+   "end": 1578.33,
+   "text": "so maybe the Max Plancks should learn",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1578.33,
+   "end": 1580.01,
+   "text": "economics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1580.01,
+   "end": 1582.17,
+   "text": "but others can only learn yesterday",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1582.17,
+   "end": 1584.73,
+   "text": "and none of the bright",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1584.73,
+   "end": 1587.37,
+   "text": "of the physicists of that generation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1587.37,
+   "end": 1594.89,
+   "text": "we remember except if you like the ones who made the new physics and this is a time when this is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1594.89,
+   "end": 1602.17,
+   "text": "likely to happen because one can learn tools one cannot learn basic concepts one can learn",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1602.17,
+   "end": 1608.25,
+   "text": "problems we are not even there yet where anybody is willing to admit what Poincare did so we are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1608.25,
+   "end": 1616.65,
+   "text": "getting there we can however describe what we need we need what we have never been able to get",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1617.37,
+   "end": 1623.37,
+   "text": "we need an economics that integrates the real economy and the money economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1624.57,
+   "end": 1634.09,
+   "text": "Now let's add one fourth point. From the beginning, economics assumed the national state",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1634.09,
+   "end": 1643.37,
+   "text": "to be the locus of economics. It arose out of that new political critter, the national state,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1643.37,
+   "end": 1651.99,
+   "text": "uh which shows the national sovereignty meant something very specific in the middle ages but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1651.99,
+   "end": 1657.69,
+   "text": "it did not mean what you now me the first one to use the term sovereignty in its modern meaning",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1657.69,
+   "end": 1663.33,
+   "text": "was that frenchman the most disreputable lawyer of his time the lawyer of the mafia of his time",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1663.33,
+   "end": 1672.45,
+   "text": "uh who wrote the basic book of modern political science john wood uh who coined the term national",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1672.45,
+   "end": 1680.63,
+   "text": "state, the national sovereignty. And by that he meant the congruence of political territory",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1680.63,
+   "end": 1686.37,
+   "text": "and economic territory, which was a brand new idea. And so economics always focused",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1686.37,
+   "end": 1693.77,
+   "text": "on the national territory. It's a wealth of nations. And the last 40 years, a genuine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1693.77,
+   "end": 1699.67,
+   "text": "world economy has come into being. Bill Mays said he doesn't call his company multinational",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1699.67,
+   "end": 1707.67,
+   "text": "but transnational well that's simply saying it is not a confederation of national companies but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1707.67,
+   "end": 1713.91,
+   "text": "it is something that in which you have instruments in a symphony orchestra rather than a group of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1713.91,
+   "end": 1721.19,
+   "text": "soloists and those of you know the history of music is that when that happened music changed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1721.19,
+   "end": 1730.85,
+   "text": "profoundly and it's never been the same again when you wrote quite differently",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1730.85,
+   "end": 1735.95,
+   "text": "and just you heard music differently and just look you only have to do with look",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1735.95,
+   "end": 1741.71,
+   "text": "with a structural eye on a pre Vivaldi and the post Vivaldi score that's a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1741.71,
+   "end": 1753.99,
+   "text": "breaking point and you see it and so that's where we are and then we have no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1753.99,
+   "end": 1763.72,
+   "text": "thing the world economy but we know the three possible ways here is perhaps the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1763.72,
+   "end": 1772.74,
+   "text": "one of tomorrow's economists with a Canadian who is up at Columbia and he",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1772.74,
+   "end": 1781.11,
+   "text": "He sees world economy and individual businessmen or individuals with national governments basically",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1781.11,
+   "end": 1782.11,
+   "text": "restrained.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1782.11,
+   "end": 1788.17,
+   "text": "They can only do harm, as the Rational Expectations School also says.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1788.17,
+   "end": 1796.89,
+   "text": "And you see today's liberal, who will become tomorrow's bottleneck, who will fight for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1796.89,
+   "end": 1809.24,
+   "text": "the national state as a center with both the world economy and the microeconomy's outer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1809.24,
+   "end": 1817.78,
+   "text": "perimeters, whereas Mandela in Colombia sees the world economy as a galaxy, not a solar",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1817.78,
+   "end": 1818.98,
+   "text": "system with planets.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1819.68,
+   "end": 1826.78,
+   "text": "And you will probably have extreme microeconomists who will fundamentally see both the national",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1826.78,
+   "end": 1833.1,
+   "text": "state and the world economy as restraints. You see some in Hayek's followers or in Sir",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1833.1,
+   "end": 1838.66,
+   "text": "John Hicks' followers, if you're interested. Those are political choices, not theoretical",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1838.66,
+   "end": 1846.52,
+   "text": "choices. But we do not know yet how to integrate them. All we do know is that the two economies",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1846.52,
+   "end": 1852.14,
+   "text": "which have followed the Mandel prescription, namely to start with the world economy and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1852.14,
+   "end": 1855.94,
+   "text": "look upon their own governmental system as a restraint.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1856.1,
+   "end": 1860.22,
+   "text": "The Japanese and the Germans have done best in the last 40 years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1860.84,
+   "end": 1865.62,
+   "text": "And the two that have been most traditional to Keynesian economies,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1866.48,
+   "end": 1868.8,
+   "text": "which saw the national state as the center,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1869.22,
+   "end": 1871.6,
+   "text": "the U.S. and Great Britain, have done worst.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1871.98,
+   "end": 1879.4,
+   "text": "And that the companies that have disregarded both have done best.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1879.4,
+   "end": 1889.13,
+   "text": "You see, IBM is clearly a company, or Unilever, which thinks in terms of, we are the center",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1889.13,
+   "end": 1893.67,
+   "text": "of the universe and the rest of planets.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1893.67,
+   "end": 1898.49,
+   "text": "And as companies have done exceedingly well, though they have piled up a host of political",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1898.49,
+   "end": 1904.57,
+   "text": "problems for themselves and headaches, though the middle strategy, in other words, the traditional",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1904.57,
+   "end": 1907.73,
+   "text": "is the least likely to succeed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1907.73,
+   "end": 1912.79,
+   "text": "But we don't know yet, and we don't know, but it's one speck that we solved it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1912.79,
+   "end": 1919.41,
+   "text": "And another speck is that we know that tomorrow's economics will have to integrate today and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1919.41,
+   "end": 1921.73,
+   "text": "tomorrow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1921.73,
+   "end": 1927.97,
+   "text": "Traditional economists have been able to operate in terms of a closed economy in which there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1927.97,
+   "end": 1934.25,
+   "text": "is no tomorrow, a recycling economy, for good reasons.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1934.25,
+   "end": 1942.01,
+   "text": "They could not handle technology, they could not handle population changes, they assumed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1942.01,
+   "end": 1944.43,
+   "text": "basically a closed system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1944.43,
+   "end": 1950.39,
+   "text": "And then you know you can't explain profit, because there is no uncertainty in it, there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1950.39,
+   "end": 1953.39,
+   "text": "are only mistakes in it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1953.39,
+   "end": 1959.05,
+   "text": "And so you came up, Adam Smith, we owe it to Adam Smith, that invention of profit as",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1959.05,
+   "end": 1961.97,
+   "text": "being outside the system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1961.97,
+   "end": 1966.91,
+   "text": "Give me the moment you see today and tomorrow as a dynamic system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1966.91,
+   "end": 1967.91,
+   "text": "Profit disappears.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1967.91,
+   "end": 1968.91,
+   "text": "There is no profit.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1968.91,
+   "end": 1973.31,
+   "text": "There are only costs of yesterday and costs of tomorrow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1973.31,
+   "end": 1979.55,
+   "text": "And you have to earn today the costs of tomorrow, or you won't have any jobs tomorrow, you can't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1979.55,
+   "end": 1981.41,
+   "text": "have any change tomorrow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1981.41,
+   "end": 1986.61,
+   "text": "And so we will learn, that is incidentally where we have done the theoretical work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1986.61,
+   "end": 1992.51,
+   "text": "I can look at any of your companies and can say, you don't break even, even though you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1992.51,
+   "end": 1996.91,
+   "text": "report record profits, you don't earn the costs of tomorrow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1997.65,
+   "end": 2005.35,
+   "text": "And because the cost of capital is the minimum cost of tomorrow, it's the minimum, not the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2005.35,
+   "end": 2012.07,
+   "text": "optimum, it is not enough in a period of rapid change and uncertainty, but it's a minimum.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2012.07,
+   "end": 2017.75,
+   "text": "So there we can integrate on the micro level and the sooner you good people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2017.75,
+   "end": 2023.89,
+   "text": "stop talking profit and stop talking cost of tomorrow, the sooner will you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2023.89,
+   "end": 2031.33,
+   "text": "have understanding of this and we know that spec and we know that we will have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2031.33,
+   "end": 2039.39,
+   "text": "to integrate and I already said simple and real economy and we know that we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2039.39,
+   "end": 2047.39,
+   "text": "will have to integrate supply and demand in a meaningful relationship in which neither is a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2047.39,
+   "end": 2053.63,
+   "text": "independent totally dependent function but in which both are dependent variables in which you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2053.63,
+   "end": 2061.07,
+   "text": "essentially use modern mathematics those of you who know threshold mathematics or topology know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2061.07,
+   "end": 2068.43,
+   "text": "what i'm talking about one of the problems of economics is its foundation in 18th century",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2068.43,
+   "end": 2076.03,
+   "text": "mathematics which are not adequate to phenomena in which you have thresholds in which up to a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2076.03,
+   "end": 2082.51,
+   "text": "point you have no effect and when you reach the point it spills over some engineers here who have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2082.51,
+   "end": 2088.83,
+   "text": "worked on let's say them mathematics of fluid flows know what i'm talking about the economists",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2088.83,
+   "end": 2093.55,
+   "text": "have never heard of them believe me there's nothing worse than the mathematics of economists",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2093.55,
+   "end": 2100.11,
+   "text": "to a mathematician because they are the best old-fashioned mathematics on the block and they're",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2100.11,
+   "end": 2106.91,
+   "text": "totally inadequate to the phenomena he tries to work with which are largely threshold phenomena",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2106.91,
+   "end": 2114.43,
+   "text": "and largely the partially dependent variables variables where at a certain point",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2114.43,
+   "end": 2120.75,
+   "text": "you have a total switch and we have some mathematics not very good but we have them",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2120.75,
+   "end": 2125.31,
+   "text": "and the economists don't use them and don't know how to use them they are the only ones believe me",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2125.31,
+   "end": 2131.39,
+   "text": "that will work on the supply and demand relationship and your switches investment",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2131.39,
+   "end": 2137.31,
+   "text": "that much we know we don't know how to do it and finally we know that the next economics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2137.87,
+   "end": 2145.71,
+   "text": "is almost forced to tackle a problem which the austrians a hundred years ago solved by",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2145.71,
+   "end": 2154.59,
+   "text": "saying it doesn't exist and which is a problem of value if you go to an economics class any place",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2154.59,
+   "end": 2161.15,
+   "text": "in the world today unless you have the good luck of having a marxist for a teacher he teaches very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2161.15,
+   "end": 2167.31,
+   "text": "poor economics and good economic theory uh because he does not give up on value",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2167.31,
+   "end": 2171.67,
+   "text": "A hundred years ago, economics came to a crossroads.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2173.07,
+   "end": 2177.83,
+   "text": "The labor theory of value, the physiocrats had land,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2177.93,
+   "end": 2184.47,
+   "text": "and land didn't work in a commercial economy like that of the British Isles in 1780, 1770.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2184.77,
+   "end": 2191.08,
+   "text": "So Adam Smith put in labor, and it didn't work either.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2192.58,
+   "end": 2195.74,
+   "text": "And a hundred years later, it was quite clear that it didn't work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2195.8,
+   "end": 2197.02,
+   "text": "You can't explain anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2197.02,
+   "end": 2209.74,
+   "text": "You can't explain why wages, which are, if you relate them to any kind of labor, they make no sense.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.843
+  },
+  {
+   "start": 2210.96,
+   "end": 2212.5,
+   "text": "You cannot relate prices.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2213.46,
+   "end": 2216.14,
+   "text": "If you relate them to any kind of labor, they make no sense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2216.82,
+   "end": 2219.68,
+   "text": "No matter how you define labor, it doesn't work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2221.34,
+   "end": 2230.2,
+   "text": "And so in order to have a rational explanation of prices, supply and demand, for instance, or wages,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2230.2,
+   "end": 2233.06,
+   "text": "the Austrians gave up",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2233.06,
+   "end": 2234.56,
+   "text": "value",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2234.56,
+   "end": 2237.32,
+   "text": "and declared it a non-problem",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2237.32,
+   "end": 2238.78,
+   "text": "and went into utility",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2238.78,
+   "end": 2241.36,
+   "text": "and believe me it works",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2241.36,
+   "end": 2243.34,
+   "text": "for analysis but it doesn't work for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2243.34,
+   "end": 2243.84,
+   "text": "policy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2243.84,
+   "end": 2246.52,
+   "text": "you have to have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2246.52,
+   "end": 2248.74,
+   "text": "and it is intellectually totally",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2248.74,
+   "end": 2250.0,
+   "text": "unsatisfactory",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2250.0,
+   "end": 2253.54,
+   "text": "and it deprives",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2253.54,
+   "end": 2255.7,
+   "text": "economics of its relationship",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2255.7,
+   "end": 2257.02,
+   "text": "to morals",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2257.02,
+   "end": 2258.12,
+   "text": "and policy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2258.12,
+   "end": 2266.96,
+   "text": "And so we know we need value again. In 1933 or so when us youngsters went up to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2266.96,
+   "end": 2272.46,
+   "text": "Mr. Keynes and said, why isn't there a theory of value in your system? He would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2272.46,
+   "end": 2277.94,
+   "text": "say because the only available one is the labor theory of value and it is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2277.94,
+   "end": 2289.69,
+   "text": "totally discredited. Today we know, we know that if you need a value base for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2289.69,
+   "end": 2296.17,
+   "text": "economics, that does what the theory of labor value tried to do,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2296.17,
+   "end": 2302.23,
+   "text": "which is relate economics to the human universe, because modern economics deals",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2302.23,
+   "end": 2306.83,
+   "text": "with the behavior of commodities. That's the only thing you can do with marginal",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2306.83,
+   "end": 2314.01,
+   "text": "utility. You need a theory of value. Then it is going to be productivity, the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2314.01,
+   "end": 2321.93,
+   "text": "application of knowledge to work. That is what really Adam Smith had in mind",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2321.93,
+   "end": 2326.31,
+   "text": "probably, only he didn't understand it yet, don't blame him. The man was a hundred",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2326.31,
+   "end": 2330.99,
+   "text": "years ahead of his time, which is all one can ask of anybody, but he wasn't 200",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2330.99,
+   "end": 2337.59,
+   "text": "years ahead of his time. So we know the specs. We also know, I think, that we are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2337.59,
+   "end": 2343.83,
+   "text": "not going to have a great towering economist. The next building is not this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2343.83,
+   "end": 2350.99,
+   "text": "skyscraper that Keynes built, or that Ricardo built, it will look far more like the Austrians,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2350.99,
+   "end": 2360.62,
+   "text": "who built a kind of Viennese castile, everybody having a quarter of an acre, and a minimum",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2360.62,
+   "end": 2366.54,
+   "text": "of fences in between. That's what they built, you know. There is no towering Austrians.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2366.54,
+   "end": 2377.66,
+   "text": "There are competent men, 50, including a lot of Englishmen by nationality, or Americans",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2377.66,
+   "end": 2380.64,
+   "text": "like Frank Taussig or what have you, at the school.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2381.1,
+   "end": 2382.66,
+   "text": "Nobody built a skyscraper.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2383.26,
+   "end": 2387.46,
+   "text": "And the skyscraper, the ones who tried to build one in the Austrian school",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2387.46,
+   "end": 2391.6,
+   "text": "ended up with the Tower of Babel, Wimbledon.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2392.1,
+   "end": 2395.56,
+   "text": "But Keynes built a genuine skyscraper,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2395.96,
+   "end": 2398.18,
+   "text": "in which, by the way, there are only express elevators.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2398.3,
+   "end": 2399.86,
+   "text": "There's no local elevator in there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2400.24,
+   "end": 2404.86,
+   "text": "And as anybody has ever tried to go from the second floor to the third floor",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2404.86,
+   "end": 2407.02,
+   "text": "in the Keynesian edifice, you can't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2407.02,
+   "end": 2409.42,
+   "text": "You have to go up to the 97s and come down again.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2410.02,
+   "end": 2416.4,
+   "text": "And it's going to be, there are no great economists in the offing, I'm afraid.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2416.72,
+   "end": 2417.86,
+   "text": "It's too complex.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2419.82,
+   "end": 2422.18,
+   "text": "But we are seeing a lot of people at work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2422.26,
+   "end": 2425.5,
+   "text": "In the meantime, accept the fact, however, that it's very dangerous.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2426.68,
+   "end": 2428.72,
+   "text": "It is much easier in Japan,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2429.88,
+   "end": 2434.3,
+   "text": "where nobody believes that we have an economic theory that works,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2434.3,
+   "end": 2440.7,
+   "text": "where the economists are people with a lot of pragmatic experience",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2440.7,
+   "end": 2444.5,
+   "text": "who have some good tools whom you put to work on a concrete problem",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2444.5,
+   "end": 2450.66,
+   "text": "such as what do we do with our pension funds when the population gets older.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2453.28,
+   "end": 2456.64,
+   "text": "You don't want a theoretical answer, but a policy answer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2458.3,
+   "end": 2469.21,
+   "text": "Or is it more likely to work if we use cheap labor,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.817
+  },
+  {
+   "start": 2469.21,
+   "end": 2472.93,
+   "text": "which means moving things to Nigeria,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2473.29,
+   "end": 2476.61,
+   "text": "or if we automate, what is going to be more productive?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2478.35,
+   "end": 2483.61,
+   "text": "You can come theoretically out with the answer that is counterintuitive,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2483.77,
+   "end": 2488.25,
+   "text": "namely that total automation will be more productive than the cheapest labor,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2488.73,
+   "end": 2493.61,
+   "text": "and the Japanese acted on it, and it came out right in microchips,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2493.61,
+   "end": 2505.61,
+   "text": "whereas we in Silicon Valley acted on what is intuitively perceptive and shipped the assembly of chips to low labor cost countries,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2506.37,
+   "end": 2513.75,
+   "text": "as a result of which the Japanese now have a cost and quality edge with a very capital-intensive process.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2515.59,
+   "end": 2521.35,
+   "text": "That economists can do in Japan, but nobody asked them what should the economic policy be,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2521.35,
+   "end": 2526.47,
+   "text": "because nobody believes they have a theoretical foundation. The same is very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2526.47,
+   "end": 2534.65,
+   "text": "largely true in Germany. And we are now dedicated to economists as policy makers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2534.65,
+   "end": 2538.95,
+   "text": "One of our poor invention was, I said so at the time, was the Council of Economic",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2538.95,
+   "end": 2545.55,
+   "text": "Advisers because it came a hundred years too soon. That would be like putting in a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2545.55,
+   "end": 2564.49,
+   "text": "A peer group in practice of medicine in 1830. Butchery would become standard practice. And, much too early. But we are used to it. But it's going to be a dangerous period because you will not rely on it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2564.49,
+   "end": 2567.85,
+   "text": "except the fact that we are in the throes of a revolution.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2568.27,
+   "end": 2571.79,
+   "text": "Maybe this is the time for a genius to become an economist,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2572.37,
+   "end": 2576.45,
+   "text": "but it's the time for us ordinary people to be very critical,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2577.35,
+   "end": 2581.49,
+   "text": "to see what piece of work can you do that is workmanlike",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2581.49,
+   "end": 2587.77,
+   "text": "and focused on a pricing problem, on a marketing problem, on a tax problem,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2588.99,
+   "end": 2591.71,
+   "text": "where you have very good tools for a specific.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2591.71,
+   "end": 2600.71,
+   "text": "And basic economic policy we can only make by looking at what happens when we do something,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2600.71,
+   "end": 2605.71,
+   "text": "and if it doesn't work, do something else instead of doing more of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2605.71,
+   "end": 2607.71,
+   "text": "That's a dangerous period.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2607.71,
+   "end": 2612.71,
+   "text": "And one of the basic uncertainties is not only shift to new technologies",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2612.71,
+   "end": 2617.71,
+   "text": "and to a world structure that is very difficult and dangerous,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2617.71,
+   "end": 2634.51,
+   "text": "But also operating without a foundation in theory. It's not the first time, but whenever it happened, you had a very high casualty rate. Not a depression, but a rate of rapid turnover.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2634.51,
+   "end": 2640.87,
+   "text": "because especially large companies are likely to operate like to operate on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2640.87,
+   "end": 2645.31,
+   "text": "fixed assumptions and that's very dangerous and so we are moving towards",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2645.31,
+   "end": 2653.69,
+   "text": "the next economics but whether we'll get there whether like Moses the Lord will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2653.69,
+   "end": 2659.83,
+   "text": "call us to our reward before we reach a promised land I don't know it's a safe",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2659.83,
+   "end": 2666.49,
+   "text": "assumption to take the one Moses did, who said someplace in Exodus, I have to lead the children",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2666.49,
+   "end": 2673.37,
+   "text": "of Israel towards the promised land, but I don't know where it is. Believe me, that's a sound rule",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2673.37,
+   "end": 2678.97,
+   "text": "for today's economics. Thank you very much, and we move over. Thank you very much, Peter,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.916
+  },
+  {
+   "start": 2678.97,
+   "end": 2680.21,
+   "text": "on behalf of all of us.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 25.37,
+ "created_utc": "2026-09-20T22:48:14+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

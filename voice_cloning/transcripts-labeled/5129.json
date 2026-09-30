@@ -1,0 +1,2534 @@
+{
+ "pointer": "5129",
+ "media": "5129.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2686.5,
+ "segments": [
+  {
+   "start": 6.48,
+   "end": 13.04,
+   "text": "Good morning, ladies and gentlemen, and welcome to the annual Peter Drucker Symposia.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 13.78,
+   "end": 21.58,
+   "text": "I'm Bill May, Dean of Faculty of the Venice School, and I'm delighted to see so many of you here this morning.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 21.74,
+   "end": 30.46,
+   "text": "It's an outstanding tribute to our dear friend Peter Drucker, Emeritus Professor and Distinguished Visiting Lecturer,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 30.46,
+   "end": 35.84,
+   "text": "and shows the respect and the interest that the business community has",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 35.84,
+   "end": 41.86,
+   "text": "in Peter's remarks and opinions, which are always crisp and fresh,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 42.34,
+   "end": 45.2,
+   "text": "sometimes surprising, sometimes controversial.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 45.86,
+   "end": 51.46,
+   "text": "This morning they're taking up a subject which is perhaps one of the most important issues,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 52.18,
+   "end": 54.94,
+   "text": "outstanding issues, the country faces today.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 54.94,
+   "end": 77.65,
+   "text": "It has a broad spectrum of considerations involving the government deficit, unemployment, exchange payments, and a vast array of other aspects.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 77.65,
+   "end": 102.55,
+   "text": "I think that we'll hear this morning that perhaps the curing of productivity or the decline of productivity, which this country has suffered, but which has been suffered almost equally by Japan and Europe, Sweden even, we'll find that that is perhaps not the panacea for all of our problems.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 103.35,
+   "end": 105.67,
+   "text": "But it's going to be an exciting session.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 106.47,
+   "end": 115.47,
+   "text": "At this moment, I'll get out of the way and let Bob Hawkins, Vice Dean of the school, Dale Zand, and Peter Drucker take over.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 116.09,
+   "end": 120.9,
+   "text": "Thank you, Dean May.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 121.1,
+   "end": 125.83,
+   "text": "I'm Dale Zand, and I will be the moderator this morning.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 125.83,
+   "end": 132.78,
+   "text": "The format that will follow is we'll hear from our principal speaker, Professor Drucker,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 132.78,
+   "end": 148.38,
+   "text": "And then we will hear from Professor Robert Hawkins, who is internationally known in the area of economics and finance and has done some leading studies in that area.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 148.78,
+   "end": 162.27,
+   "text": "During the coffee break, we would appreciate if you would write the questions that you have in mind on the index cards or slips of paper that have been provided to you.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 162.27,
+   "end": 174.17,
+   "text": "We'll collect those during the coffee break, and we will select from among them and use those as the basis for starting our discussion after the coffee break.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 175.53,
+   "end": 184.13,
+   "text": "As Dean May said, the topic of productivity has risen in prominence in recent years.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 184.13,
+   "end": 195.24,
+   "text": "There is increasing concern about how international trade and monetary systems are affecting productivity.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 196.14,
+   "end": 214.44,
+   "text": "The era of the United States investing abroad to offset declining opportunity and productivity in the United States may have passed its peak.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 214.44,
+   "end": 230.68,
+   "text": "and underdeveloped but natural resource-rich nations are increasingly major forces in the world political and economic community.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 231.16,
+   "end": 244.44,
+   "text": "These factors, among many others, pose a great many questions, and the answers are clearly not immediate or obvious.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 244.44,
+   "end": 250.72,
+   "text": "What is productivity? What enhances it? What inhibits it?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 252.42,
+   "end": 265.24,
+   "text": "And what does productivity mean in the context of a particular nation's political, economic, social, and cultural system?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 265.24,
+   "end": 272.34,
+   "text": "And this morning, we're privileged to hear from Peter Drucker.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 272.98,
+   "end": 278.24,
+   "text": "His writings are undoubtedly familiar to all of us here today.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 279.64,
+   "end": 285.06,
+   "text": "They stimulate, they provoke, and always they illuminate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 286.79,
+   "end": 291.25,
+   "text": "Dr. Drucker was professor of management here at New York University",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 291.25,
+   "end": 298.2,
+   "text": "for two decades before he left for a warmer climate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 298.2,
+   "end": 314.92,
+   "text": "In the preface to his latest book, Professor Drucker says that whoever reads his books, although they may agree or disagree with him, is a friend.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 315.36,
+   "end": 319.75,
+   "text": "He pays.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.626
+  },
+  {
+   "start": 319.91,
+   "end": 320.95,
+   "text": "Provided he pays.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 321.49,
+   "end": 322.43,
+   "text": "This is a business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 323.05,
+   "end": 337.06,
+   "text": "The other part of that, however, is that friendship requires initiation and extension on the part of one in that pair.",
+   "speaker": "other",
+   "drucker_coverage": 0.068
+  },
+  {
+   "start": 337.06,
+   "end": 356.78,
+   "text": "And once again, I think it's our privilege to hear today Peter Drucker as he, in a sense, extends himself and reaches out and shares with us his thoughts on what do we know now about productivity.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 357.24,
+   "end": 359.18,
+   "text": "Ladies and gentlemen, Peter Drucker.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 359.18,
+   "end": 394.84,
+   "text": "Thank you, Dale. Ladies and gentlemen, let me first say that I am exceedingly happy to be back here again. We moved out a little over 10 years ago, as Dale said, to a warmer climate. We actually moved to relax, to take it a little easier, as a result of which both my wife and I worked three times as hard as we ever did before, which I don't think I have to explain to you, do I?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.795
+  },
+  {
+   "start": 394.84,
+   "end": 404.84,
+   "text": "But this is still home, and particularly this building and the people here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 404.84,
+   "end": 411.84,
+   "text": "And after more than 20 years on the faculty, it really is the only home a vagrant like myself has.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 411.84,
+   "end": 417.84,
+   "text": "And so I'm very grateful to be allowed back and very happy to be here,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 417.84,
+   "end": 424.96,
+   "text": "and very happy to see so many veterans around here, but also so many newcomers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 426.78,
+   "end": 431.54,
+   "text": "Before we started, Madeleine Stanley, who, as some of you know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 432.0,
+   "end": 436.36,
+   "text": "is responsible for all the things that go right in these meetings,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 436.7,
+   "end": 439.34,
+   "text": "and I'm responsible for all the things that go wrong.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 440.56,
+   "end": 444.96,
+   "text": "Madeleine told me that this is our 10th meeting in this format,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 444.96,
+   "end": 453.4,
+   "text": "format, although we began them in 1950 as a fact series of faculty lectures, and so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 453.4,
+   "end": 461.52,
+   "text": "I feel that this is a particularly happy occasion, both the 10th and the 30th anniversary, I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 461.52,
+   "end": 466.7,
+   "text": "think, of these series.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 466.7,
+   "end": 476.6,
+   "text": "You know, when we first talked about productivity in the symposia, but it's, my memory says",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 476.6,
+   "end": 484.44,
+   "text": "about eight years ago and at that time that was a new topic and nobody else paid much attention",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 485.16,
+   "end": 494.04,
+   "text": "and some of you kind of said why should we pay attention it's always been taking care of itself",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 494.92,
+   "end": 503.7,
+   "text": "which by the way was the answer that made me not become an economist 50 years ago",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 503.7,
+   "end": 534.72,
+   "text": "I was the youngest member of the Keynes Seminar in Cambridge, invited members only, and I was very dubious about where I was going to go, and economics was a possibility and a strong attraction until one of the million people, and I'm quite sure it was Abba Lerner, asked the master, what about productivity, why isn't it in your system?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 534.72,
+   "end": 563.11,
+   "text": "And the Master said, we don't have to care of itself provided only that there is fullness. That was the answer that I think made me decide that any discipline that so cavalierly can dismiss things one doesn't understand is not for me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 563.11,
+   "end": 568.07,
+   "text": "I've always been more interested in the things one can't understand than in the ones one can.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 569.43,
+   "end": 578.23,
+   "text": "Eight years ago, this was still a prevalent view. It takes somehow care of itself. Now we know it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 578.23,
+   "end": 584.31,
+   "text": "doesn't. Or if it does, like all things, they take care of themselves. It goes down and up.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 584.31,
+   "end": 591.34,
+   "text": "And we have learned a great deal in the last eight years. And the first thing we have learned,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 591.34,
+   "end": 596.62,
+   "text": "And the most important one is the one Dean Mays mentioned in his introduction.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 597.06,
+   "end": 601.3,
+   "text": "The decline in productivity is not an American phenomenon.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 602.16,
+   "end": 611.88,
+   "text": "It is a worldwide phenomenon of all developed and incidentally equally of the rapidly industrializing developing countries.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 612.74,
+   "end": 617.0,
+   "text": "It is greatest behind the Iron Curtain.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 617.0,
+   "end": 638.58,
+   "text": "Poland is where the Iron Curtain was lifted for a little bit so we get a glimpse in, is only an example, but the Soviet Union is probably much more pronounced, where it is quite clear that in the one sector, which in the developed world still has fairly rapid increases in productivity, namely agriculture,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 638.58,
+   "end": 644.58,
+   "text": "The Soviet Union has the extraordinary achievement of negative productivities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 646.04,
+   "end": 652.68,
+   "text": "The last 20 years since the Khrushchev began to divert capital to agriculture",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 652.68,
+   "end": 658.58,
+   "text": "and to raise wages on the farms for fishing to hold people,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 659.18,
+   "end": 664.7,
+   "text": "the more capital was poured in, the lower the harvests are,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 664.7,
+   "end": 670.0,
+   "text": "not just proportionate, but absolutely, and the more labor there is on the Russian farm.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 670.2,
+   "end": 674.26,
+   "text": "That's negative productivity, and that is a great achievement.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 674.26,
+   "end": 678.0,
+   "text": "I wouldn't say unprecedented, but there are not many precedents.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 678.96,
+   "end": 685.72,
+   "text": "And the rest of the developed world, their rate of productivity decrease is about the same,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 686.66,
+   "end": 688.38,
+   "text": "though that isn't quite true.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 689.18,
+   "end": 694.26,
+   "text": "And I shock you by saying that the fastest rate of productivity decrease is Japan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 694.7,
+   "end": 700.2,
+   "text": "because you look at labor productivity only and there's a rate of productivity",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 700.2,
+   "end": 706.54,
+   "text": "decrease is the same as in this country or in Germany not as great as in Sweden",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 706.54,
+   "end": 712.8,
+   "text": "the Japanese just started from a very high base basis so that's the they still",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 712.8,
+   "end": 718.0,
+   "text": "increase labor productivity but a decreasing rate if you plop it on log",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 718.0,
+   "end": 722.68,
+   "text": "log peter paper the curve is almost strictly parallel towers but the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 722.68,
+   "end": 729.36,
+   "text": "productivity of capital in Japan has been going down about twice as fast as ours.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 729.36,
+   "end": 737.86,
+   "text": "And these are very dubious measurements, but the magnitudes are reliable, to the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 737.86,
+   "end": 746.33,
+   "text": "point where... Is it better now? Yeah. Well, will you please not suffer in silence,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 746.33,
+   "end": 752.03,
+   "text": "and if you have any trouble, will you please say louder? Because I put it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 752.03,
+   "end": 758.79,
+   "text": "aside because I got an echo. Do you get an echo? What? That's what we did, that's why",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 758.79,
+   "end": 767.87,
+   "text": "I put it aside. And maybe it's the Searing Gate batteries of man. No, it isn't. So, okay.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 767.87,
+   "end": 774.21,
+   "text": "And in Japan, if you look at the automobile industry, let me say the automobile industry",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 774.21,
+   "end": 778.87,
+   "text": "of the world that's in greatest trouble is the Japanese.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 778.87,
+   "end": 783.53,
+   "text": "It is a 5% drop in automobile sales,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 783.53,
+   "end": 787.05,
+   "text": "and Toyota and Nissan are both bankrupt.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 787.05,
+   "end": 790.63,
+   "text": "They have those incredibly fixed capital costs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 790.63,
+   "end": 792.45,
+   "text": "And if you look at their balance sheet,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 792.45,
+   "end": 794.43,
+   "text": "and an old financial man like myself",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 794.43,
+   "end": 798.11,
+   "text": "looks at balance sheets before he looks at P&Ls,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 798.11,
+   "end": 801.81,
+   "text": "because I know how to fake a P&L, a balance sheet is harder.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 804.21,
+   "end": 812.21,
+   "text": "In this country, the lawyers would already have drawn up the petition for Chapter 11",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 812.21,
+   "end": 815.27,
+   "text": "for them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 815.27,
+   "end": 821.21,
+   "text": "The fixed capital costs are incredible, and if you look at the last ten years and relate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 821.21,
+   "end": 833.76,
+   "text": "the capital invested in those two companies to their output, they went from, if 1970 is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 833.76,
+   "end": 839.98,
+   "text": "to one, it's now about 2.2 to one. They need more than twice the amount of capital for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 839.98,
+   "end": 845.74,
+   "text": "each additional unit of output. And that, as any old financial man can tell you, is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 845.74,
+   "end": 852.68,
+   "text": "the road to receivership, the fastest road to receivership. And so one of the reasons",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 852.68,
+   "end": 858.54,
+   "text": "why they are pushing cars so hard is clearly not to maintain employment, but to maintain",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 858.54,
+   "end": 866.54,
+   "text": "solvency and one reason why they want us and the europeans to lower the boom is so that they then",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 866.54,
+   "end": 874.94,
+   "text": "can blame us uh but the capital the rate of capital productivity has been going down faster",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 874.94,
+   "end": 881.66,
+   "text": "in japan than in this country though it's not doing too well here either and then let me say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 881.66,
+   "end": 889.58,
+   "text": "the first thing we know is that none of the explanations for this decrease can be accepted.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 890.46,
+   "end": 899.66,
+   "text": "Because all of them look at national factors. Bob and I, Bob Hawkenstein, talked yesterday about it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 899.66,
+   "end": 906.78,
+   "text": "and he mentioned the shift to service employment, which is a very plausible explanation for what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 906.78,
+   "end": 912.14,
+   "text": "happened in this country. But you know, there's been no such shift in the United Kingdom,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 913.9,
+   "end": 919.58,
+   "text": "no such shift in the Soviet Union, and not much of such a shift in Japan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 920.62,
+   "end": 927.58,
+   "text": "And yet, productivity behaves the same way. And almost anything you can see",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 927.58,
+   "end": 939.46,
+   "text": "is a local phenomenon and one cannot explain generic events by local phenomena and so let's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 939.46,
+   "end": 949.62,
+   "text": "be very skeptical because if you go by these explanations you are then likely to do the wrong",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 949.62,
+   "end": 957.12,
+   "text": "things let me say in retrospect we also realize that the explanations we always said for the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 957.12,
+   "end": 967.36,
+   "text": "100 years in the rise of productivity are very debatable, though they have more evidence,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 967.36,
+   "end": 976.35,
+   "text": "more backing, than the phenomenon apparently which we do not understand, and you may see",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 976.35,
+   "end": 1010.52,
+   "text": "one reason for this is that economists, in order to have a system, and so such things",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1010.52,
+   "end": 1017.56,
+   "text": "as productivity, which are clearly related to both technology and demographics, are very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1017.56,
+   "end": 1020.9,
+   "text": "hard to explain in terms of an economic model.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1022.18,
+   "end": 1025.5,
+   "text": "But we know that we have to be very careful.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1026.4,
+   "end": 1027.28,
+   "text": "That's number one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1027.82,
+   "end": 1037.66,
+   "text": "And for a while, I thought all the declining productivities have in common that the government",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1037.66,
+   "end": 1044.62,
+   "text": "overload, the amount of the national product, the proportion that is distributed through",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1044.62,
+   "end": 1058.01,
+   "text": "governmental channel is rising in productivity, negative correlation, except that it doesn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1058.01,
+   "end": 1065.75,
+   "text": "quite fit Japan, where the proportion of national product that is distributed by government",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1065.75,
+   "end": 1073.13,
+   "text": "has not been rising significantly, and in fact may have been going down up till about three years ago.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1073.77,
+   "end": 1080.67,
+   "text": "So there is no one explanation that fits the observed facts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1081.41,
+   "end": 1086.01,
+   "text": "And then one is very leery about the hypothesis, and one says,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1086.47,
+   "end": 1093.29,
+   "text": "maybe this is a factor, maybe that is a factor, but one doesn't say this is the explanation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1093.91,
+   "end": 1107.69,
+   "text": "The second thing we do know is that there has been a change in the constellation up till make it 1870.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1108.21,
+   "end": 1110.73,
+   "text": "And most of you still operate on that basis.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1111.43,
+   "end": 1121.61,
+   "text": "One could argue that productivities of the factors of production are largest substitutes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1121.61,
+   "end": 1133.59,
+   "text": "In other words, that you can trade more capital investment against higher labor productivity and less labor and so on, and vice versa.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1135.03,
+   "end": 1138.89,
+   "text": "Although, let me say, the evidence for this was always shaky.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1140.41,
+   "end": 1148.97,
+   "text": "Somebody who looks at businesses and industries the way I do, rather than at economic models, always saw exceptions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1148.97,
+   "end": 1155.41,
+   "text": "And now I think it is safer to assume that it doesn't work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1155.67,
+   "end": 1175.82,
+   "text": "Penny's automobile industry is a good example where the productivity of labor is, despite all the robotization you hear about, has not really been doing very well compared to historical reasons.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1175.82,
+   "end": 1183.22,
+   "text": "Though, let's not go into this because that's, there's a whole pack full of marked cards,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1184.06,
+   "end": 1190.06,
+   "text": "such as the age of the labor force and the relation in Japan between wage and age and so on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1190.78,
+   "end": 1202.74,
+   "text": "But clearly that tremendous increase in capital investment has so far not produced a rapid increase in labor productivity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1202.74,
+   "end": 1210.74,
+   "text": "in Japanese have become no less labor-intensive, but tremendously more capital-intensive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1210.74,
+   "end": 1217.47,
+   "text": "And that's true of our steel industry to a large extent, too.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1217.47,
+   "end": 1224.47,
+   "text": "And you may say so much of our capital investment in the steel industry has not been in productive equipment,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1224.47,
+   "end": 1229.47,
+   "text": "but in pollution control, but the fact remains that the traditional,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1229.47,
+   "end": 1235.63,
+   "text": "I call it the Kuznets relationship, because Simon Kuznets got the Nobel Prize for showing this,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1235.91,
+   "end": 1242.13,
+   "text": "where it means capital investment and increased labor productivity can no longer be taken for granted.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1244.75,
+   "end": 1250.72,
+   "text": "Except that there is also a very peculiar phenomenon,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.832
+  },
+  {
+   "start": 1251.86,
+   "end": 1256.82,
+   "text": "that perhaps what has happened is that instead of a linear curve, which Kuznets showed,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1256.82,
+   "end": 1262.78,
+   "text": "showed, you have an exponential one, which means that up to a very substantial point,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1263.18,
+   "end": 1265.82,
+   "text": "more capital does not mean more labor productivity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1266.56,
+   "end": 1270.76,
+   "text": "And then when you reach total automation, it breaks through.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1271.64,
+   "end": 1274.32,
+   "text": "Again, you have a nice example.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1274.32,
+   "end": 1282.02,
+   "text": "Five years ago, the microchip manufacturers had to make a decision",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1282.02,
+   "end": 1290.16,
+   "text": "how to handle the very labor-intensive stages of the work in developed countries.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1290.74,
+   "end": 1298.54,
+   "text": "Ours, let's say an Intel, made the decision to farm it out to where you have cheap labor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1298.8,
+   "end": 1304.04,
+   "text": "The Intel chips are assembled in Nigeria with very cheap labor",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1304.04,
+   "end": 1307.76,
+   "text": "and incidentally very, very good labor in terms of productivity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1307.76,
+   "end": 1316.64,
+   "text": "The Japanese are temperamentally averse to entrusting anything to a foreigner who is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1316.64,
+   "end": 1323.8,
+   "text": "not part of their culture, and so they made the, at that time it seemed almost asinine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1323.8,
+   "end": 1328.52,
+   "text": "decision, to try to automate something which everybody knew couldn't be automated.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1328.52,
+   "end": 1331.6,
+   "text": "Well, they succeeded.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1331.6,
+   "end": 1339.72,
+   "text": "And even though the capital investment is very high, the productivity is much greater",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1339.72,
+   "end": 1341.82,
+   "text": "and the quality is much better.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1341.82,
+   "end": 1347.22,
+   "text": "That's why our microchip people are so afraid now of the Japanese competition.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1347.22,
+   "end": 1353.68,
+   "text": "So if you can go into total automation, this is near total automation, then you'll probably",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1353.68,
+   "end": 1356.18,
+   "text": "get the old trade-off again.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1356.18,
+   "end": 1364.12,
+   "text": "And incidentally, there are now enough examples to prove, and I didn't see it, but now that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1364.12,
+   "end": 1371.52,
+   "text": "if you can get total automation, you are infinitely more productive and more competitive than",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1371.52,
+   "end": 1376.62,
+   "text": "anything based on even the cheapest labor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1376.62,
+   "end": 1385.26,
+   "text": "And if you have the knowledge base in your society, if you have the people who are trained",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1385.26,
+   "end": 1390.82,
+   "text": "and schooled, as the Japanese have, as we have, as the Germans have, the British do",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1390.82,
+   "end": 1399.18,
+   "text": "not have. By the way, the British have probably, of all developed countries today, the poorest",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1399.18,
+   "end": 1404.62,
+   "text": "knowledge base since for 30 years they have not developed middle management people. And",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1404.62,
+   "end": 1412.48,
+   "text": "it's beginning to show very badly. They are very good at the top, and in the middle they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1412.48,
+   "end": 1422.52,
+   "text": "have not, then the absence of society is not of the Harvard Business School, but of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1422.52,
+   "end": 1429.84,
+   "text": "North Dakota State Business School shows. And in the long run, believe me, the North",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1429.84,
+   "end": 1435.24,
+   "text": "Dakota State Business School may be more important than the Harvard Business School because it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1435.24,
+   "end": 1441.04,
+   "text": "gives you the support people. And without the support people, you know, a leader is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1441.04,
+   "end": 1448.28,
+   "text": "somebody who's got followers. And if you ain't got the followers, then having the Harvard",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1448.28,
+   "end": 1453.86,
+   "text": "Business School people doesn't help you. And that's the British situation. And that's why",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1453.86,
+   "end": 1462.04,
+   "text": "I think Britain is in much greater danger, in much worse straits than the figures indicate.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1462.04,
+   "end": 1469.54,
+   "text": "And the old generation of middle management who are basically trained as NCOs or sub-alterns",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1469.54,
+   "end": 1476.36,
+   "text": "in World War II are getting old. The replacements aren't there and aren't really well trained",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1476.36,
+   "end": 1485.86,
+   "text": "by modern standards. So if you can automate, really automate, which puts tremendous demands",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1485.86,
+   "end": 1494.78,
+   "text": "on that educated, competent, responsible and responsive middle management structure, professional",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1494.78,
+   "end": 1499.78,
+   "text": "structure, then you are more productive than the cheapest labor. So at the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1499.78,
+   "end": 1504.66,
+   "text": "extreme, the old trade-off may still hold, but only at the extreme, and only in that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1504.66,
+   "end": 1509.62,
+   "text": "direction, not on the other side. And we know that. And we know, therefore, that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1509.62,
+   "end": 1520.46,
+   "text": "productivity first is not the productivity of one factor, but of all",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1520.46,
+   "end": 1532.62,
+   "text": "factors. And there are basically, well, either three or four. There's money and there are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1532.62,
+   "end": 1540.12,
+   "text": "key physical resources. And now you expect me to say people, and I'm disappointed there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1540.12,
+   "end": 1549.13,
+   "text": "is time. Because for the people who are critical, which are your management people, your technical",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1549.13,
+   "end": 1558.37,
+   "text": "people, the teacher in the classroom. Time is really the resource, and it basically when",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1558.37,
+   "end": 1565.77,
+   "text": "you look at the barriers to their productivity, they are largely that they aren't given the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1565.77,
+   "end": 1573.47,
+   "text": "time to do the things they know how to do. The best example of this, if you want to see",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1573.47,
+   "end": 1580.41,
+   "text": "is, you know, you all talk of a nurse's shortage. There is no such thing. They are underpaid,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1580.41,
+   "end": 1587.25,
+   "text": "but there is no nurse's shortage. If we use the nurses we have for nursing instead of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1587.25,
+   "end": 1595.15,
+   "text": "for paperwork, we'd have a nurse's glut. But 70% of their time today in the typical community",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1595.15,
+   "end": 1605.87,
+   "text": "hospital, those poor women fill out forms. And the time is being paid for nursing. Their",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1605.87,
+   "end": 1616.07,
+   "text": "wage scale reflects the fact that they are paid on the basis of low-grade clerks, which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1616.07,
+   "end": 1621.79,
+   "text": "is what they actually use their time, and not on the basis of what they are being trained",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1621.79,
+   "end": 1626.05,
+   "text": "for, which is patient care, which would probably be at least twice what they are making on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1626.05,
+   "end": 1633.13,
+   "text": "average and be cheap at that and so when you put in a clear co-handlers a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1633.13,
+   "end": 1639.85,
+   "text": "paperwork you suddenly have in this is surplus and then you can pay and that is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1639.85,
+   "end": 1647.17,
+   "text": "productivity of time and those are really the three factors which together",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1647.17,
+   "end": 1653.49,
+   "text": "give you overall it's how is the sound now all right use them back can you hear",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1653.49,
+   "end": 1658.21,
+   "text": "Thanks. And thanks, Frank, for getting the feedback out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1660.13,
+   "end": 1668.63,
+   "text": "And so we know that productivity is a combination of the three or the configuration of the three.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1669.63,
+   "end": 1673.67,
+   "text": "And we are now beginning to talk about total productivity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1674.85,
+   "end": 1678.59,
+   "text": "But we are not yet really able to measure it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1678.59,
+   "end": 1686.59,
+   "text": "It's a concept so far, there's a lot of good work going on, but it is very hard to measure it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1686.59,
+   "end": 1695.59,
+   "text": "But we also know that one can't work at it. One has to work at each resource separately.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1695.59,
+   "end": 1706.59,
+   "text": "And the trade-off decisions have to be made as expedient, ad hoc decisions, because we have no theory, really.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1706.59,
+   "end": 1709.59,
+   "text": "And yet, it has to be done.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1709.59,
+   "end": 1715.59,
+   "text": "And so the first thing we know is that one has to work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1715.59,
+   "end": 1720.57,
+   "text": "That's an interesting thing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1720.57,
+   "end": 1726.57,
+   "text": "Because this is almost the opposite of what Keynes and his generation believed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1726.57,
+   "end": 1735.91,
+   "text": "They believed that productivities are a reaction to outward economic stimuli.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1735.91,
+   "end": 1741.79,
+   "text": "And this doesn't work anymore, if it ever did.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1741.79,
+   "end": 1760.18,
+   "text": "And maybe it did. Look at the history of George Siemens of the Deutsche Bank in Europe.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1760.18,
+   "end": 1776.4,
+   "text": "It's not even economically both moralists who said it is the duty of a manager to make resources productive",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1776.4,
+   "end": 1781.4,
+   "text": "because they are in his keeping, not because of cost.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1781.4,
+   "end": 1788.4,
+   "text": "In all of Taylor, there is no mention of cost. The word does not exist in his vocabulary.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1788.4,
+   "end": 1793.71,
+   "text": "The word is duty, and he saw it as a moral obligation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1793.89,
+   "end": 1795.61,
+   "text": "So did George Siemens, the banker.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1797.17,
+   "end": 1800.81,
+   "text": "And so these were not reactions to economic stimuli.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1802.13,
+   "end": 1805.71,
+   "text": "They were economic rewards, but not economic motivations.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1806.81,
+   "end": 1812.05,
+   "text": "And I think this is what the generation of 1930 did not understand.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1813.31,
+   "end": 1818.43,
+   "text": "And because we lost that moral imperative.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1818.43,
+   "end": 1825.91,
+   "text": "The odds are economic, but the motivations must not be.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1826.67,
+   "end": 1830.01,
+   "text": "The penalties are economic, but not entire.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1830.23,
+   "end": 1831.67,
+   "text": "They are also probably moral.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1833.29,
+   "end": 1836.87,
+   "text": "And so we know that one has to work on productivity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1847.66,
+   "end": 1848.88,
+   "text": "Productivity crisis.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1849.98,
+   "end": 1852.3,
+   "text": "You know, when I came in in the 20s,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1852.3,
+   "end": 1862.86,
+   "text": "my first teacher of economics was the only survivor of Kondratyev's disciples.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1862.92,
+   "end": 1865.72,
+   "text": "all the others were shot by Stalin, he got over the border.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1867.48,
+   "end": 1874.44,
+   "text": "And so I started out with the Kondratyev Cycle in 1927, which was a very good time for it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1874.44,
+   "end": 1880.04,
+   "text": "And believe me, the evidence, and it's again very popular, but the evidence is not convincing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1881.24,
+   "end": 1887.16,
+   "text": "Because if there were a Kondratyev Cycle, you should have a productivity crisis every 50 years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1887.16,
+   "end": 1894.72,
+   "text": "And there was only one big one in the 18th century, the French.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1895.38,
+   "end": 1904.84,
+   "text": "French mercantilism ended in a major crisis of productivity and of capital formation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1906.18,
+   "end": 1912.1,
+   "text": "And that's when the first scientific revolution in economics occurred to physiocrats",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1912.1,
+   "end": 1920.0,
+   "text": "who looked across the channel and that those unsystematic English who had no theory in 1730",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1920.0,
+   "end": 1925.26,
+   "text": "and who meddled through and who did everything wrong,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1926.6,
+   "end": 1931.68,
+   "text": "but who had steady increase in productivity and a rapid rate of capital formation,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1932.48,
+   "end": 1937.0,
+   "text": "whereas the one country in which economists and the government, namely France,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1937.0,
+   "end": 1942.0,
+   "text": "was the richest country of Europe, was rapidly going down the spout.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1942.1,
+   "end": 1947.18,
+   "text": "If that sounds contemporary, it's not intentional.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1947.18,
+   "end": 1951.62,
+   "text": "All the characters are fictitious.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1951.62,
+   "end": 1958.68,
+   "text": "But France invented the Council of Economic Advisers in 1708, and the decline began in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1958.68,
+   "end": 1959.68,
+   "text": "1720.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1959.68,
+   "end": 1971.93,
+   "text": "And the lead times haven't changed much, largely for the same reason.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1971.93,
+   "end": 1983.54,
+   "text": "But instead of trying to understand, they thought they understood and began to manipulate.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1983.54,
+   "end": 1990.84,
+   "text": "Instead of saying, something is going on here, instead of being clinical and diagnosticians,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1990.84,
+   "end": 1997.14,
+   "text": "they thought they had to be scientists, and at the end, in any social area, then you get",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1997.14,
+   "end": 2007.25,
+   "text": "dogmatists, and when things don't work, the only reaction is, let's redouble the efforts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2007.25,
+   "end": 2014.57,
+   "text": "And the French experience was the one, the first before modern times, in which economics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2014.57,
+   "end": 2017.05,
+   "text": "were macroeconomics.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2017.05,
+   "end": 2029.01,
+   "text": "And the last, the reaction to the French fiasco, which destroyed old France, was the shift",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2029.01,
+   "end": 2036.07,
+   "text": "towards microeconomics, which began with the physiocrats, 1740, 1750.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2036.07,
+   "end": 2045.07,
+   "text": "lasted until 1930. And during that time, there was no productivity crisis. So one can, I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2045.07,
+   "end": 2057.92,
+   "text": "think, say very bluntly, experience indicates that while government cannot promote productivity,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2057.92,
+   "end": 2068.8,
+   "text": "macroeconomics will destroy it. Productivity is a microeconomic event that cannot be.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2068.8,
+   "end": 2075.44,
+   "text": "produced by macroeconomic governmental policies,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2075.66,
+   "end": 2078.52,
+   "text": "but can apparently be severely damaged by them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2081.16,
+   "end": 2088.6,
+   "text": "Which, by the way, is one reason why I do not share the prevailing euphoria",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2088.6,
+   "end": 2092.18,
+   "text": "about the economic policy of the present administration.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2092.76,
+   "end": 2095.92,
+   "text": "To me, this is just another Keynesian binge.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2096.48,
+   "end": 2100.98,
+   "text": "And very much so, with a slightly different sign in front of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2101.38,
+   "end": 2107.22,
+   "text": "But with the same basic assumptions that the great white father can control and manipulate.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2109.4,
+   "end": 2113.7,
+   "text": "And it may help a little bit if we cut the tax load and cut expenditures,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2113.7,
+   "end": 2120.78,
+   "text": "but the root cause is the belief in, I think, a pure macroeconomic system,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2121.24,
+   "end": 2123.4,
+   "text": "or primarily macroeconomic system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2123.4,
+   "end": 2132.26,
+   "text": "And that is just as built into the present administration as it was in its predecessors",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2132.26,
+   "end": 2135.64,
+   "text": "for the last 30 years, 25 years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2135.64,
+   "end": 2142.22,
+   "text": "And so we know that productivity is a local and microeconomic phenomenon.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2142.22,
+   "end": 2146.84,
+   "text": "It is not, it can be hampered by governmental policies.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2146.84,
+   "end": 2152.98,
+   "text": "I think it is very doubtful that it can be promoted by them or even supported.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2153.5,
+   "end": 2155.42,
+   "text": "There's no evidence at all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2156.86,
+   "end": 2160.0,
+   "text": "There's lots of evidence that it can be impeded.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2162.14,
+   "end": 2169.12,
+   "text": "But it can be made only in the local shop, in the business, in the factory,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2170.06,
+   "end": 2177.32,
+   "text": "in, God forbid, the university, which may not like that term, the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2178.18,
+   "end": 2186.18,
+   "text": "the police force. And it is something in which you have to work on all resources.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2186.18,
+   "end": 2194.18,
+   "text": "And we know it isn't working harder. But we know that the resources require different treatment.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2194.18,
+   "end": 2204.18,
+   "text": "Let me say, money is a very peculiar resource. Money requires both, working harder and working smarter.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2204.18,
+   "end": 2220.64,
+   "text": "Key physical resources always require working harder, and people always require working smarter. For that reason, one begins with money, because one has two approaches.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2220.64,
+   "end": 2229.98,
+   "text": "And when you look at your receivables, that's largely a matter of working smarter.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2229.98,
+   "end": 2235.98,
+   "text": "Do we really finance those customers whom we should finance?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2235.98,
+   "end": 2238.98,
+   "text": "Or are we subsidizing?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2238.98,
+   "end": 2242.98,
+   "text": "You know, if you are a manufacturer, you can't compete with the banks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2242.98,
+   "end": 2249.98,
+   "text": "Their acquisition costs of capital are much too high, but they're still lower than yours.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2249.98,
+   "end": 2256.96,
+   "text": "And so you're giving credit and saying, we have no credit losses, it's a stupid thing to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2258.08,
+   "end": 2259.46,
+   "text": "That's a bank's approach.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2260.92,
+   "end": 2266.04,
+   "text": "Sure, credit losses are your restraint, but the question is what you're trying to accomplish.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2267.06,
+   "end": 2275.38,
+   "text": "You're trying to get profitable sales, and one looks at receivers from the point of view of a marketing strategy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2275.38,
+   "end": 2281.02,
+   "text": "and you'll be surprised how different it looks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2281.4,
+   "end": 2284.22,
+   "text": "But at the same time, one tries to make money, work harder,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2284.54,
+   "end": 2286.64,
+   "text": "which, by the way, we have learned a good deal about.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2287.54,
+   "end": 2290.78,
+   "text": "Now, key physical resources, one always tries to work harder.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2291.52,
+   "end": 2295.54,
+   "text": "One tries to get more turnover per shelf space, unit of shelf space.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2295.54,
+   "end": 2299.26,
+   "text": "One tries to get a little more yield out of a rod of copper.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2299.26,
+   "end": 2307.66,
+   "text": "One tries to get a good deal more heating out of a BTU.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2308.12,
+   "end": 2309.38,
+   "text": "That's working harder.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2311.26,
+   "end": 2316.36,
+   "text": "When it comes to people, especially to people whom you pay for their knowledge,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2316.58,
+   "end": 2323.31,
+   "text": "personal people, salespeople, managers, teachers,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2324.85,
+   "end": 2327.09,
+   "text": "there one tries to make them work smarter.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2327.73,
+   "end": 2329.15,
+   "text": "And that's a management duty.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2329.15,
+   "end": 2332.87,
+   "text": "And so each resource requires its own approach,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2332.87,
+   "end": 2335.49,
+   "text": "but each resource requires being worked at.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2336.45,
+   "end": 2339.47,
+   "text": "And at the same time, you require a systems view.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2340.09,
+   "end": 2344.13,
+   "text": "Let me give you one example of where we are grossly unproductive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2344.91,
+   "end": 2346.23,
+   "text": "For good reasons.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2348.29,
+   "end": 2365.26,
+   "text": "We just built a new and various bursting, it seems.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2366.28,
+   "end": 2369.12,
+   "text": "And we built one of the nicest buildings I have seen.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2372.76,
+   "end": 2377.7,
+   "text": "For the management technology of 1870, for the teaching technology,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2377.7,
+   "end": 2400.06,
+   "text": "I don't think, well, our auditorium is equipped poorly, but the rest is just, we are going to find within five years that we have a lovely building that's not functional. Largely because there is no facilities management. The architect and the interior and so on don't work together.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2400.06,
+   "end": 2405.06,
+   "text": "We are not looking at a building as something that has to be productive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2405.06,
+   "end": 2410.06,
+   "text": "It's very flexible compared to this year, you know, 20 years later.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2410.06,
+   "end": 2413.06,
+   "text": "We learned a lot, this building built 20 years ago.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2413.06,
+   "end": 2416.06,
+   "text": "We built, even next door is already much better.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2416.06,
+   "end": 2419.06,
+   "text": "We built a very inflexible building here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2419.06,
+   "end": 2426.06,
+   "text": "And facilities management, simply because up till recently,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2426.06,
+   "end": 2429.88,
+   "text": "the amount of money you had invested in your offices was minimal.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2431.1,
+   "end": 2436.12,
+   "text": "And today, except that most of you will be very soon where the physician is,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2436.12,
+   "end": 2442.56,
+   "text": "who has today about between $250,000 and $600,000 in his office in capital investment.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2443.24,
+   "end": 2450.5,
+   "text": "And then one doesn't just build first and look at the instrumentation secondly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2450.74,
+   "end": 2451.96,
+   "text": "Then one builds a system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2452.68,
+   "end": 2457.92,
+   "text": "And so facilities management is a way of integrating people and money",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2457.92,
+   "end": 2465.02,
+   "text": "and key physical resources in the space that is a working space.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2465.42,
+   "end": 2469.28,
+   "text": "Factories, we have Albert Kahn started it in 1920.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2469.94,
+   "end": 2472.84,
+   "text": "So we know a great deal, but we are not using it yet.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2473.48,
+   "end": 2477.96,
+   "text": "But except this, one has to look at all resources and then at their relationship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2478.8,
+   "end": 2489.34,
+   "text": "And the last thing we know about productivity is that the only things that work are unspectacular.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2489.34,
+   "end": 2499.65,
+   "text": "The only thing that works is the drop by drop that eventually hollows even the toughest stone.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2500.45,
+   "end": 2502.67,
+   "text": "It is a continuing effort.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2503.85,
+   "end": 2509.34,
+   "text": "And therefore, contrary to the spirit of modern management,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2509.34,
+   "end": 2516.2,
+   "text": "When you look at our management books, and let's not become personal and mention any author,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2517.16,
+   "end": 2524.64,
+   "text": "they all essentially talk about planning and setting objectives.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2525.06,
+   "end": 2533.48,
+   "text": "They all talk about things that are major efforts that then energize a long follow-up.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2533.48,
+   "end": 2538.24,
+   "text": "That is not the way you work on productivity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2538.24,
+   "end": 2545.54,
+   "text": "On productivity, you work basically far more the way the drill sergeant of old,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2548.87,
+   "end": 2556.27,
+   "text": "which is you do the same thing every day, but you do it, and you do it, and you do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2556.37,
+   "end": 2558.97,
+   "text": "You don't have to be as profane as he is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2559.87,
+   "end": 2564.87,
+   "text": "You don't have to scream, though sometimes screaming, as all of you know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2564.87,
+   "end": 2572.03,
+   "text": "is both necessary and wholesome, but you have to do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2572.03,
+   "end": 2594.99,
+   "text": "You have to set a goal. That real sergeant is effective, because he knows what the finished recruit should be able to do in six weeks. And eight out of ten will do it. And he is effective because he is doing very unspectacular things steadily and faithfully.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2594.99,
+   "end": 2601.99,
+   "text": "And so we know about productivity that we can't wait for Uncle Sam.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2601.99,
+   "end": 2603.99,
+   "text": "That's waiting for Godot.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2603.99,
+   "end": 2607.99,
+   "text": "And as all of you who remember that Beckett play know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2607.99,
+   "end": 2611.99,
+   "text": "the joke about Godot is he don't exist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2611.99,
+   "end": 2616.99,
+   "text": "And if you wait for Uncle Sam in productivity, you'll find out he don't exist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2616.99,
+   "end": 2623.99,
+   "text": "It's your job, my job, our job, day by day, with a goal.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2623.99,
+   "end": 2634.45,
+   "text": "with the goal of making sure that their nurses will be able to spend all their time on patient care.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2634.63,
+   "end": 2639.67,
+   "text": "Now, that goal you will probably never attain, if only because even nurses need a coffee break.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2641.15,
+   "end": 2643.23,
+   "text": "But all, but not.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2646.0,
+   "end": 2651.96,
+   "text": "Then you can also work on their skill, because then the nurses are eager to perfect their skill.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2651.96,
+   "end": 2663.76,
+   "text": "Today you have tremendous resistance because the nurses say, so I am learning something new and you so-and-so again won't let me do it. They are discouraged.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2663.76,
+   "end": 2677.1,
+   "text": "On your shelf space in retail, which is both the capital and the critical area, what is the goal?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2677.1,
+   "end": 2684.1,
+   "text": "Is it twice the profitable?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 27.86,
+ "created_utc": "2026-09-20T22:48:04+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

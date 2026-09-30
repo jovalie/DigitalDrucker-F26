@@ -1,0 +1,742 @@
+{
+ "pointer": "5027",
+ "media": "5027.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1812.5,
+ "segments": [
+  {
+   "start": 1.52,
+   "end": 11.52,
+   "text": "The objectives are no longer meaningful, or do they require different means?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 11.52,
+   "end": 15.52,
+   "text": "The penny story, the story of the objectives were perfectly meaningful.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 15.52,
+   "end": 19.52,
+   "text": "The penny means had become inappropriate.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 19.52,
+   "end": 31.73,
+   "text": "They no longer satisfied the objectives because the environment, the market, the customer had changed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 31.73,
+   "end": 47.23,
+   "text": "And essentially very little was needed, but without it any would by now probably no longer exist or look pretty sad.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 47.23,
+   "end": 62.95,
+   "text": "Now we might have, and we have spent a good deal of time on how one converts a strategy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 62.95,
+   "end": 65.95,
+   "text": "Let me say a few things about that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 65.95,
+   "end": 86.42,
+   "text": "In every one of our cases we might come up with a strategy, but that by itself is an intellectual exercise.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.951
+  },
+  {
+   "start": 86.42,
+   "end": 91.42,
+   "text": "How does one convert it into a plan, and how does one then convert the plan into action?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 91.42,
+   "end": 97.34,
+   "text": "Because you know, until there is action, there is nothing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 97.34,
+   "end": 103.42,
+   "text": "In a action, and management deals with action.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 103.42,
+   "end": 114.34,
+   "text": "And in fact, until there are results outside of the business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 114.34,
+   "end": 123.52,
+   "text": "And so the first thing to say is that,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.782
+  },
+  {
+   "start": 123.52,
+   "end": 143.93,
+   "text": "One exception is even a very large company that can probably pursue only one major strategy at any one time, so that one has to make a decision.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 143.93,
+   "end": 148.93,
+   "text": "Some of you wrote on that pharmaceutical company case, remember? Have you all read it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 148.93,
+   "end": 162.91,
+   "text": "Incidentally, those of you who wrote and guessed through the company were guessed so because you just don't know enough about the industry and why should you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 162.91,
+   "end": 177.53,
+   "text": "But partly because you didn't really think through what these people were doing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 177.53,
+   "end": 195.11,
+   "text": "And here you have, in one and the same industry, three completely different strategies, each very successfully pursued, to the exclusion of every other.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 195.11,
+   "end": 210.14,
+   "text": "Now this is rare. Businesses tend, like the rest of us, to sprinkle themselves. They do a good many things before.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 210.14,
+   "end": 234.5,
+   "text": "Let's try this. They are afraid of missing something, and nobody, and they have no time at all. They are confused.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.754
+  },
+  {
+   "start": 234.5,
+   "end": 245.77,
+   "text": "And then you accomplish nothing. Those three pharmaceutical companies each have a very clear concept. Totally different.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 245.77,
+   "end": 256.77,
+   "text": "incidentally, one thinks in terms of the dynamics of pharmaceutical, biochemical technology, the first one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 256.77,
+   "end": 259.77,
+   "text": "The other one thinks in terms of the practice of medicine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 259.77,
+   "end": 271.14,
+   "text": "The third one thinks in terms essentially of market structure, of industries.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.912
+  },
+  {
+   "start": 271.14,
+   "end": 283.79,
+   "text": "Look for those places where successful companies, you are going to get competition.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 283.79,
+   "end": 291.79,
+   "text": "simply because there isn't, you get there first, everybody else will look at it as the big one, especially the big ones,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 291.79,
+   "end": 299.79,
+   "text": "will look at it and say, alright we may have to break our back and then what do we get, 20 million dollars in sales,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 299.79,
+   "end": 314.35,
+   "text": "let's leave those, let those people have it. This is the strategy of pre-empting small but strategic toll gate positions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 314.35,
+   "end": 323.89,
+   "text": "It's not an easy strategy to do, but it's very successful when you can do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 323.89,
+   "end": 353.03,
+   "text": "So the first one, the one I call able, and let me say between you, they pick one and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 353.03,
+   "end": 362.14,
+   "text": "only one every 10 or 15 years and get in very early, at a time when nobody else is really",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 362.14,
+   "end": 367.46,
+   "text": "willing to go.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 367.46,
+   "end": 370.16,
+   "text": "I forget the years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 370.16,
+   "end": 378.3,
+   "text": "If something else comes along the next five years, they don't even know. They say, we are busy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 378.3,
+   "end": 388.04,
+   "text": "Now this, let me say, is based on a concept that I certainly would not apply.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 388.04,
+   "end": 408.6,
+   "text": "But in their field, they essentially see a rhythm in which you get a major and then you get a fairly long period of mutation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 408.6,
+   "end": 416.48,
+   "text": "ahead and establish yourself and also build a very strong technical",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 416.48,
+   "end": 425.81,
+   "text": "organization the very best people you're ahead period but you only go for those",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 425.81,
+   "end": 431.96,
+   "text": "potentially very big ones you only look at opportunizing opportunity",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 431.96,
+   "end": 441.97,
+   "text": "strategy which does not think about the risk you run is not it's a risk of not",
+   "speaker": "drucker",
+   "drucker_coverage": 0.8
+  },
+  {
+   "start": 441.97,
+   "end": 454.13,
+   "text": "picking the wrong one that's not much that what you think is going to change",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 454.13,
+   "end": 481.32,
+   "text": "At the beginning, at the front end, you pay for research, and good research does not say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 481.32,
+   "end": 484.12,
+   "text": "one doesn't throw money.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 484.12,
+   "end": 485.12,
+   "text": "At development, you throw money.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 485.12,
+   "end": 488.12,
+   "text": "But at research, you pick very good tea.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 488.12,
+   "end": 512.43,
+   "text": "Development, that's a good chemical engine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 512.43,
+   "end": 513.43,
+   "text": "How to start something?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 513.43,
+   "end": 519.01,
+   "text": "No, nobody knows how to tea.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 519.01,
+   "end": 525.63,
+   "text": "So, that's one strategy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 525.63,
+   "end": 627.86,
+   "text": "And it's based on a view of the technology chairman of the board that never spends enough",
+   "speaker": "drucker",
+   "drucker_coverage": 0.976
+  },
+  {
+   "start": 627.86,
+   "end": 635.87,
+   "text": "time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 635.87,
+   "end": 731.29,
+   "text": "The other one is Merck. And again, so they had nothing. And it was a nice little compound,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 731.29,
+   "end": 772.99,
+   "text": "and the old man was brought in Bush. There's a market already. No, they have a Merck Institute",
+   "speaker": "drucker",
+   "drucker_coverage": 0.976
+  },
+  {
+   "start": 772.99,
+   "end": 782.81,
+   "text": "of Financial Pre-Party Public Relations, a very good research institute, but they don't expect",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 782.81,
+   "end": 790.8,
+   "text": "anything to come out of there for their practice, for their business. So research was distinguished",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 790.8,
+   "end": 806.48,
+   "text": "recently. The idea was to create. So in other words, you get there when you have stopped working.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 806.48,
+   "end": 921.36,
+   "text": "and it's to your custom slap off the things that do not fit into either",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 921.36,
+   "end": 930.63,
+   "text": "because little medicine and you're not invested or because they're not in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 930.63,
+   "end": 939.46,
+   "text": "mainstream nice improve essentially not there may be scientifically very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 939.46,
+   "end": 943.84,
+   "text": "important but from the point of view of that position his need is not new",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 943.84,
+   "end": 954.77,
+   "text": "science. His need is to get an insulin that diabetics can take for a longer time",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 954.77,
+   "end": 964.25,
+   "text": "without developing resistance. That's formulation. And that is the significant",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 964.25,
+   "end": 969.39,
+   "text": "difference. His problem was the management of diabetics. No sooner has he",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 969.39,
+   "end": 978.62,
+   "text": "stabilized one than the fellow becomes resistant to this brand or develops",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 978.62,
+   "end": 989.67,
+   "text": "side effects. That is significant. And the third one, you guessed right, somebody like",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 989.67,
+   "end": 1016.74,
+   "text": "Alconde, but we're small ones, has a poor tool. All he has is an upholstered",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1016.74,
+   "end": 1024.5,
+   "text": "stack hammer, and his job is to drive in spikes. You know, one can do it with an upholstered stack hammer,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1024.5,
+   "end": 1031.42,
+   "text": "only takes forever. And to design the hammer that can drive in spikes is very,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1031.42,
+   "end": 1040.69,
+   "text": "what's needed a little more you need an of course those hammering with the ability to get into small",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1040.69,
+   "end": 1049.41,
+   "text": "and confined and awkward spaces you don't need that you do in the open or the opposite or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1049.41,
+   "end": 1111.47,
+   "text": "somebody's trying to put in a false trust actually the slave they are doing can't imagine they didn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1113.26,
+   "end": 1161.81,
+   "text": "see what traditional math or in design so so these are so one should come someone has to see what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1161.81,
+   "end": 1169.52,
+   "text": "really what's the hinge on which we can, the area of concern.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1189.36,
+   "end": 1197.74,
+   "text": "I might say the 12th strategy in World War II was not Eisenhower",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1197.74,
+   "end": 1203.63,
+   "text": "and not Marford, but MacArthur. Very limited, within a very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1203.63,
+   "end": 1207.63,
+   "text": "much narrower frame than that of MacArthur. And MacArthur always had two questions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1207.63,
+   "end": 1213.07,
+   "text": "The first question was, is there a beach",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1213.07,
+   "end": 1217.07,
+   "text": "we can land on? You know, because if there's no beach, how do you get there?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1217.07,
+   "end": 1224.14,
+   "text": "We say a beachhead can land on it. The second one, does",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1224.14,
+   "end": 1230.14,
+   "text": "a beach and also have a beach in other words you have to have a narrow place where you can get to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1230.14,
+   "end": 1239.94,
+   "text": "where you can really deploy your strengths but then if you establish yourself yeah these are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1239.94,
+   "end": 1270.45,
+   "text": "the two for that penny store where are we going to test it here we have a new concept of the old",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1270.45,
+   "end": 1295.7,
+   "text": "penny concept it's a very different now we have to test it wait how and then one has to see if",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1295.7,
+   "end": 1301.27,
+   "text": "If we are successful with it, does it lead us any place?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1301.27,
+   "end": 1332.52,
+   "text": "Or have we just had a little, so many years ago when I saw my very, very good compilations?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1332.52,
+   "end": 1334.87,
+   "text": "It doesn't lead.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1335.17,
+   "end": 1336.35,
+   "text": "You can repeat it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1346.53,
+   "end": 1374.41,
+   "text": "And then one can play them, reorchestrate them, and play them over again, no matter how you orchestrate.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1374.41,
+   "end": 1379.1,
+   "text": "Or have we just invented the idea of playing?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1379.3,
+   "end": 1408.67,
+   "text": "As long as it's in Rosemont, Pennsylvania, that's the only place to do what we have.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.966
+  },
+  {
+   "start": 1408.67,
+   "end": 1451.58,
+   "text": "So whenever you see a plan, be nasty and then ask and it's good enough. But then you have to get the new penny store designed and built and run.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.977
+  },
+  {
+   "start": 1451.58,
+   "end": 1480.72,
+   "text": "And everybody agrees that Joe Blow is the only man to do it. But we can't pull Joe off the job he's doing. We say, please, or find anybody with a finger in the back. One whittles a piece of wood and puts it in there and gets him off the property.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1480.72,
+   "end": 1490.28,
+   "text": "that one can't have a finger without having the whole man in the engagement that can't improve",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1490.28,
+   "end": 1507.97,
+   "text": "seeing a finger in the bag sooner or later it'll go down and you still have hope for nature to be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1507.97,
+   "end": 1518.37,
+   "text": "as it like something else so for five minutes you can have a finger in the bag after 10 minutes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1518.37,
+   "end": 1533.3,
+   "text": "and so you will find bring about the new to finishing up something that we now know we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1533.3,
+   "end": 1605.25,
+   "text": "shouldn't they think and it always gets into it but joe is doing something else",
+   "speaker": "drucker",
+   "drucker_coverage": 0.937
+  },
+  {
+   "start": 1605.25,
+   "end": 1611.61,
+   "text": "and so we say and if Joe is a good man he's already doing too many things I've",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1611.61,
+   "end": 1620.32,
+   "text": "never seen a good man underemployed that doesn't so he's already doing six things",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1620.32,
+   "end": 1631.52,
+   "text": "then you say because he is so good and so he can also take care but the only",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1631.52,
+   "end": 1638.27,
+   "text": "result is that you simply deprive yourself of the benefit number seven",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1638.27,
+   "end": 1645.29,
+   "text": "doesn't get done if it's worth doing we say if you do not believe that anything",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1645.29,
+   "end": 1724.16,
+   "text": "is worth their foot that can be done but if it was in a lot of state it needs so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1724.16,
+   "end": 1742.82,
+   "text": "until you have believed by assigning it to somebody",
+   "speaker": "drucker",
+   "drucker_coverage": 0.92
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 56.6,
+ "created_utc": "2026-09-20T23:09:44+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

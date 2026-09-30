@@ -1,0 +1,1015 @@
+{
+ "pointer": "4792",
+ "media": "4792.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 795.1,
+ "segments": [
+  {
+   "start": 1.49,
+   "end": 5.57,
+   "text": "I think for the moment this is one of the last gasps of the 1960s.",
+   "speaker": "other",
+   "drucker_coverage": 0.248
+  },
+  {
+   "start": 6.23,
+   "end": 12.67,
+   "text": "It may change later in the 1980s, but at the moment the economic problem is the big problem.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 12.67,
+   "end": 16.61,
+   "text": "Those are the issues of, quote, an age of affluence, unquote.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 17.13,
+   "end": 21.87,
+   "text": "But that age of affluence seems to have vanished somehow before we all got a chance to enjoy it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 22.71,
+   "end": 26.95,
+   "text": "And in an age of scarcity or an age of difficulty,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 27.25,
+   "end": 31.17,
+   "text": "those are not the issues that are going to concern Congress or the public.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 31.49,
+   "end": 37.21,
+   "text": "And it's interesting, the New York Times wrote up Ralph Bader's day in Washington in the business section.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 38.73,
+   "end": 39.93,
+   "text": "This was extraordinary.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 40.75,
+   "end": 45.99,
+   "text": "I think this is probably the time to make a public issue of Ralph Bader's stock.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 45.99,
+   "end": 52.35,
+   "text": "But which one always does, you know, when a company has reached the peak earnings.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 52.35,
+   "end": 62.03,
+   "text": "And, no, seriously, I think we can anticipate that in economics our concern will be productivity and supply,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 62.63,
+   "end": 71.41,
+   "text": "and in politics our concern will be with national survival in a singularly dangerous and nasty international world.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 71.41,
+   "end": 84.35,
+   "text": "And then those concerns may get a great deal of publicity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 85.13,
+   "end": 88.71,
+   "text": "But I don't think that they're going to get much more than that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 89.01,
+   "end": 140.18,
+   "text": "It is...",
+   "speaker": "other",
+   "drucker_coverage": 0.052
+  },
+  {
+   "start": 140.18,
+   "end": 141.44,
+   "text": "You better repeat the question.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 141.58,
+   "end": 141.8,
+   "text": "Yeah.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 142.42,
+   "end": 146.5,
+   "text": "Well, if I understand the question of the last...",
+   "speaker": "other",
+   "drucker_coverage": 0.02
+  },
+  {
+   "start": 146.5,
+   "end": 149.14,
+   "text": "The last part of the question, anyhow, was the fact that...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 149.14,
+   "end": 153.4,
+   "text": "It does seem to be a fact that the governmental bureaucracy of this country",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 153.4,
+   "end": 156.46,
+   "text": "is much more adversarial in its attitude toward business",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 156.46,
+   "end": 158.68,
+   "text": "than, say, not only in Japan, but in Western Europe.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 159.7,
+   "end": 162.78,
+   "text": "And is this fact...",
+   "speaker": "drucker",
+   "drucker_coverage": 0.74
+  },
+  {
+   "start": 162.78,
+   "end": 164.14,
+   "text": "What is the question about it?",
+   "speaker": "other",
+   "drucker_coverage": 0.162
+  },
+  {
+   "start": 164.52,
+   "end": 184.42,
+   "text": "You take that.",
+   "speaker": "other",
+   "drucker_coverage": 0.071
+  },
+  {
+   "start": 184.54,
+   "end": 212.84,
+   "text": "Yes. The question is, why is our bureaucracy strictly adversary in its view of business and the rest of the world? It isn't. Now, this has long historical taproids, but believe me, fundamentally, being a continental economy, the only one, we for 200 years managed our affairs on the assumption that there is no life on this planet outside the United States.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 212.84,
+   "end": 219.16,
+   "text": "which other countries were never fortunate to indulge in.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 219.7,
+   "end": 223.5,
+   "text": "And we very rapidly get to the point where we realize",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 223.5,
+   "end": 229.18,
+   "text": "that we are not immune, not isolated.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 230.0,
+   "end": 233.8,
+   "text": "Though, believe me, in this country nobody yet quite sees this.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 233.8,
+   "end": 237.26,
+   "text": "When you listen to people discussing health care,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 237.82,
+   "end": 240.62,
+   "text": "you are given purely American explanations.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 240.62,
+   "end": 248.28,
+   "text": "Nobody seems to know that countries in which the payments mechanism is exactly different from ours",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 248.28,
+   "end": 252.2,
+   "text": "and exactly what is being advocated, let's say, by Senator Kennedy,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 252.58,
+   "end": 258.54,
+   "text": "have the same explosion of health care costs, though the American explanations can't be true.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 259.04,
+   "end": 265.56,
+   "text": "Nobody seems to realize that the countries that had no Vietnam War and no racial problems",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 265.56,
+   "end": 271.7,
+   "text": "had earlier student unrest and more student unrest than we had started in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 271.7,
+   "end": 280.12,
+   "text": "France and in Japan so we are still thinking in terms of an isolated US but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 280.12,
+   "end": 288.12,
+   "text": "it's changing very rapidly and you will very rapidly see perhaps an excessive",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 288.12,
+   "end": 294.54,
+   "text": "reaction to the realization that we are very much in a world that is very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 294.54,
+   "end": 304.2,
+   "text": "dangerous and that therefore the fundamental basic aptitudes which are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 304.2,
+   "end": 309.04,
+   "text": "already changing. Ten years ago our response to Chrysler would have been a very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 309.04,
+   "end": 314.6,
+   "text": "different one, for better or worse. So I think if you want to know what the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 314.6,
+   "end": 321.1,
+   "text": "American politics will look like ten years hence, to a large extent we will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 321.1,
+   "end": 327.9,
+   "text": "have become far more like a European country and far less of an exception",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 327.9,
+   "end": 335.26,
+   "text": "simply because our politics since Jefferson were based on the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 335.26,
+   "end": 346.02,
+   "text": "assumption that somehow the outside world is a non-event as far as American",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 346.02,
+   "end": 354.72,
+   "text": "politics is concerned. And that's no longer tenable. The age of both internationalism",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 354.72,
+   "end": 361.92,
+   "text": "and isolationism, both of which assume that we are alone in this world, that age is over.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 362.92,
+   "end": 369.76,
+   "text": "We have a couple of questions which read like entries on the final examination. I'm not",
+   "speaker": "other",
+   "drucker_coverage": 0.085
+  },
+  {
+   "start": 369.76,
+   "end": 375.92,
+   "text": "sure whether I should put these to the speakers or to the audience. What are the five most",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 375.92,
+   "end": 382.6,
+   "text": "significant factors affecting the corporations today and please identify and describe the most",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 382.6,
+   "end": 386.78,
+   "text": "important pressures for quantum change in our system of democratic capitalism",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 386.78,
+   "end": 392.22,
+   "text": "those are both very broad questions we're nearing the end of our time and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 392.22,
+   "end": 399.64,
+   "text": "maybe in some form those would lead each of you to offer whatever summary remarks you'd like to",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 399.64,
+   "end": 404.52,
+   "text": "make for the morning i don't know the five factors i could never remember the five causes of the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 404.52,
+   "end": 410.66,
+   "text": "Civil War. I'd always go blank when that question appeared. What was the second part?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 415.8,
+   "end": 422.46,
+   "text": "Well, these are both general questions. One, to recapitulate, what are the most important",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 422.46,
+   "end": 427.9,
+   "text": "factors affecting the corporation and affecting the whole system of democratic capitalism?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 427.9,
+   "end": 443.19,
+   "text": "what are they none of the above no I think that in the first place perhaps",
+   "speaker": "drucker",
+   "drucker_coverage": 0.85
+  },
+  {
+   "start": 443.19,
+   "end": 451.2,
+   "text": "it's a good idea to look at your company and not at the company to answer these",
+   "speaker": "drucker",
+   "drucker_coverage": 0.836
+  },
+  {
+   "start": 451.2,
+   "end": 456.9,
+   "text": "questions what are the most important thing for your company because I don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 456.9,
+   "end": 467.99,
+   "text": "think the general answers will get you to act and secondly perhaps yes basic",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 467.99,
+   "end": 473.63,
+   "text": "assumptions we have all been making about the economy both domestic and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 473.63,
+   "end": 480.87,
+   "text": "international about the society about the political system are open to serious",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 480.87,
+   "end": 502.21,
+   "text": "re-examination. We'll do some of it tomorrow on the economy. But I think this could be very glib, and if you were to live by them, you'd come a cropper very fast.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 502.21,
+   "end": 503.21,
+   "text": "I agree.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 503.21,
+   "end": 513.55,
+   "text": "This is a situation in transition when there's not try to come out with that kind of conclusion.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 514.07,
+   "end": 518.27,
+   "text": "That leaves it to the historian when there's it after the event.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 518.59,
+   "end": 524.61,
+   "text": "I guess another dimension of this, to push it more to the personal level,",
+   "speaker": "other",
+   "drucker_coverage": 0.234
+  },
+  {
+   "start": 524.77,
+   "end": 531.05,
+   "text": "you've each made a couple of recommendations of things that businessmen ought to read",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 531.05,
+   "end": 534.37,
+   "text": "beyond the things they normally pay attention to,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 534.37,
+   "end": 536.77,
+   "text": "but if you push it to the personal level",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 536.77,
+   "end": 540.55,
+   "text": "as to what each of us really ought to be doing with our time",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 540.55,
+   "end": 544.65,
+   "text": "to be more aware of what's going on outside the company",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 544.65,
+   "end": 547.45,
+   "text": "outside the normal environment we deal with",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 547.45,
+   "end": 550.35,
+   "text": "do you have any final advice on that?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 552.13,
+   "end": 554.85,
+   "text": "18th, 19th century books, magazines?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 555.25,
+   "end": 557.95,
+   "text": "You're getting down to reading again",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 557.95,
+   "end": 562.43,
+   "text": "and of course that's my favorite way of being in touch with the outside world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 562.43,
+   "end": 564.47,
+   "text": "I think it's even better than television",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 564.47,
+   "end": 566.61,
+   "text": "but it doesn't",
+   "speaker": "drucker",
+   "drucker_coverage": 0.752
+  },
+  {
+   "start": 566.61,
+   "end": 567.25,
+   "text": "be teaching",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 567.25,
+   "end": 569.61,
+   "text": "it doesn't be teaching",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 569.61,
+   "end": 572.81,
+   "text": "well we can't",
+   "speaker": "drucker",
+   "drucker_coverage": 0.903
+  },
+  {
+   "start": 572.81,
+   "end": 574.03,
+   "text": "all see some of us have to learn",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 574.03,
+   "end": 575.81,
+   "text": "without teaching",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 575.81,
+   "end": 578.23,
+   "text": "no",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 578.23,
+   "end": 580.61,
+   "text": "really we're talking",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 580.61,
+   "end": 582.47,
+   "text": "about a certain",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 582.47,
+   "end": 584.13,
+   "text": "degree of bookishness",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 584.13,
+   "end": 586.59,
+   "text": "which of course our business",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 586.59,
+   "end": 588.47,
+   "text": "community or any business community",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 588.47,
+   "end": 590.45,
+   "text": "has never had to this day I would",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 590.45,
+   "end": 591.73,
+   "text": "assume that if you're interviewing",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 591.73,
+   "end": 597.59,
+   "text": "a young executive for a job and he comes walking in carrying the woman's room, which he's in the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 597.59,
+   "end": 602.37,
+   "text": "process of reading, you might think he's not quite the right man for the job. I mean, you don't want",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 602.37,
+   "end": 607.61,
+   "text": "young executives to read novels. If he comes in reading a latest tome on the American economy,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 607.69,
+   "end": 612.61,
+   "text": "you might take him more seriously. This goes back, it's not American, it goes back 200 years.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 613.25,
+   "end": 618.63,
+   "text": "Novel reading was always a woman's job, or it still is, as a matter of fact. Most novels in",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 618.63,
+   "end": 621.67,
+   "text": "this country are still bought by women. Most books in this country are still bought by women.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 621.73,
+   "end": 624.83,
+   "text": "If you're in the publishing business, as I was for many years, you'd discover that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 626.89,
+   "end": 628.61,
+   "text": "Businessmen read business magazines.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 628.81,
+   "end": 629.59,
+   "text": "They read memoranda.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 630.09,
+   "end": 631.77,
+   "text": "They don't even read many business magazines.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 632.21,
+   "end": 637.33,
+   "text": "Half of the businessmen who read the Wall Street Journal don't even read the editorial page,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 637.37,
+   "end": 638.99,
+   "text": "which I take personal offense at.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 642.41,
+   "end": 648.93,
+   "text": "But as I say, the habit of reading reflectively atrophies if it's not used.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 648.93,
+   "end": 651.61,
+   "text": "and since business does sweep you up",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 651.61,
+   "end": 654.19,
+   "text": "into decision making all the time",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 654.19,
+   "end": 655.25,
+   "text": "under great stress",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 655.25,
+   "end": 658.77,
+   "text": "the intellectual muscles for reflective reading",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 658.77,
+   "end": 661.79,
+   "text": "tend to atrophy",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 661.79,
+   "end": 664.81,
+   "text": "and I don't know what quite to do about it",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 664.81,
+   "end": 666.05,
+   "text": "but I do think it's a problem",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 666.05,
+   "end": 669.25,
+   "text": "and if anyone can figure out how to cope with that problem",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 669.25,
+   "end": 670.69,
+   "text": "I personally would be very grateful",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 670.69,
+   "end": 680.41,
+   "text": "I don't think that you necessarily need to keep up",
+   "speaker": "drucker",
+   "drucker_coverage": 0.608
+  },
+  {
+   "start": 680.41,
+   "end": 681.73,
+   "text": "with the outside world",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 681.73,
+   "end": 707.17,
+   "text": "I think you need to keep up with your own inside world much more. And my urgent advice to anybody is not to have a reading list and not to learn economics and not even to teach, but to have one real, genuine, major, non-job related interest.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 707.17,
+   "end": 710.59,
+   "text": "And that may be playing the cello in a string quartet.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 711.67,
+   "end": 712.75,
+   "text": "That is important.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 712.81,
+   "end": 713.75,
+   "text": "Not golf, surely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 714.01,
+   "end": 714.29,
+   "text": "What?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 714.43,
+   "end": 715.11,
+   "text": "Not golf.",
+   "speaker": "other",
+   "drucker_coverage": 0.162
+  },
+  {
+   "start": 716.29,
+   "end": 718.47,
+   "text": "If you are good enough, why not?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 720.31,
+   "end": 723.77,
+   "text": "Something in which you are more than just a dilettante,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 723.77,
+   "end": 726.83,
+   "text": "in which you take it seriously enough to work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 727.55,
+   "end": 729.89,
+   "text": "Because the important thing, believe me,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 730.57,
+   "end": 734.75,
+   "text": "the human race starts with you and not with your subordinates.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 734.75,
+   "end": 737.95,
+   "text": "and it starts with you and not with Mr. Carter.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 738.99,
+   "end": 741.31,
+   "text": "And so the most important thing is to make sure",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 741.31,
+   "end": 743.73,
+   "text": "that you don't atrophy and grow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 744.47,
+   "end": 748.93,
+   "text": "But that means you and not I and not he and not she.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 749.85,
+   "end": 753.93,
+   "text": "What is it that you need so that you stay alive",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 753.93,
+   "end": 755.13,
+   "text": "and keep on growing?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 756.27,
+   "end": 763.36,
+   "text": "And that the aging process remains confined to the legs",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 763.36,
+   "end": 765.36,
+   "text": "and stops short at the neck.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 766.64,
+   "end": 772.02,
+   "text": "Well, I think it's better to stop with a question than with an answer.",
+   "speaker": "other",
+   "drucker_coverage": 0.067
+  },
+  {
+   "start": 772.02,
+   "end": 776.76,
+   "text": "I want to thank Irving and Peter for a very stimulating morning.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 776.76,
+   "end": 781.68,
+   "text": "We are headed for the second tower of the World Trade Center, which is over in that",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 781.68,
+   "end": 782.68,
+   "text": "direction.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 782.68,
+   "end": 784.88,
+   "text": "We'll meet you on the top floor.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 27.26,
+ "created_utc": "2026-09-20T22:51:09+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

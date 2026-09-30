@@ -1,0 +1,1652 @@
+{
+ "pointer": "5016",
+ "media": "5016.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2657.4,
+ "segments": [
+  {
+   "start": 0.53,
+   "end": 17.07,
+   "text": "Last week we said we'd start on the case of the Worldwide Youth Exchange Federation, a public service student exchange, remember? And so who wants to lead off?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 17.07,
+   "end": 51.18,
+   "text": "You know at the end it asks a question whether you think there is any point in raising fundamentals or whether one should just do what our fellow, the president of that institution, the new one, Hugh Williamson is doing and go around and look for what are the things we are very successful, what are the things we need to do to continue to be successful.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.956
+  },
+  {
+   "start": 51.2,
+   "end": 73.49,
+   "text": "You wanted to come into the lady and back there. Why? Why go to all the trouble and be disagreeable when you can have it easy?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.551
+  },
+  {
+   "start": 73.49,
+   "end": 116.6,
+   "text": "You are being very disagreeable. Let me say, you are committing cardinal sin number one.",
+   "speaker": "other",
+   "drucker_coverage": 0.235
+  },
+  {
+   "start": 116.6,
+   "end": 125.41,
+   "text": "one argue with success. That is the most important thing one can do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 125.41,
+   "end": 133.27,
+   "text": "Can we develop from what the lady, I'm afraid I don't know your name,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 133.27,
+   "end": 139.27,
+   "text": "I feel terribly, kind of badly about not knowing names, I'm not very good at names,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 139.27,
+   "end": 146.68,
+   "text": "there's still so many, so will you please keep on telling me, telling us your names?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 146.68,
+   "end": 166.84,
+   "text": "what copen so on how will you will you try to develop from what mrs missus mrs copen someone",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 166.84,
+   "end": 176.68,
+   "text": "said general rules when does one become disagreeable and ask what is our business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 176.68,
+   "end": 185.0,
+   "text": "what should it be are there any rules when this is in order here is a business or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 185.0,
+   "end": 190.6,
+   "text": "couldn't call it a business it isn't an organization that's been eminently successful",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 190.6,
+   "end": 203.22,
+   "text": "fabulous wouldn't you say so uh here's somebody is nasty and then president says that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 206.44,
+   "end": 217.75,
+   "text": "stop racing around think a little bit that is never present and incidentally never welcome",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 217.75,
+   "end": 224.95,
+   "text": "the human animal they're not not given to unless to into necessary thinking but doesn't like it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 225.27,
+   "end": 237.27,
+   "text": "When is this in order? Can one say general rules when one should always do it, whether one likes it or not?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 237.27,
+   "end": 252.61,
+   "text": "Yes sir, you. But what they set out to do. What they set out to do, isn't it?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.739
+  },
+  {
+   "start": 252.61,
+   "end": 272.57,
+   "text": "Ah, what they set out to do. They did it for a reason beyond this, but they set out to organize student exchange and finance it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 272.57,
+   "end": 279.29,
+   "text": "and i don't think that back 20 years 25 years ago if anybody had told them the volume they'd hand",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 279.29,
+   "end": 290.09,
+   "text": "and if anybody had told them that 93 or whatever percentage you have in there of their clients are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 290.09,
+   "end": 314.56,
+   "text": "very satisfied they wouldn't have told them that the problem does it strike you that there's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 314.56,
+   "end": 330.56,
+   "text": "something very unusual in this story have you ever heard of a public services very rare most of them",
+   "speaker": "drucker",
+   "drucker_coverage": 0.875
+  },
+  {
+   "start": 330.56,
+   "end": 341.2,
+   "text": "believe that good intentions are all that's needed but you ask most of let's say an adoption agency",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 341.2,
+   "end": 349.29,
+   "text": "how do you measure how successful you they can tell you how many men hours or women hours they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 349.29,
+   "end": 358.7,
+   "text": "put in but measurements in public service institutions are very uncommon it's one of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 358.7,
+   "end": 365.1,
+   "text": "their problems and let me say they always tell you we are not a business our results are not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 365.1,
+   "end": 374.52,
+   "text": "quantifiable and that is bluntly what if you define your objectives you can",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 374.52,
+   "end": 384.66,
+   "text": "measure let me see it is very hard to measure how many souls the Minister of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 384.66,
+   "end": 392.66,
+   "text": "St. Ambrose Episcopal Church saves that bookkeeping is not done in that church",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 392.66,
+   "end": 399.64,
+   "text": "But it is very easy to count how many kids come to Sunday school, and he assumes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 399.64,
+   "end": 406.68,
+   "text": "axiomatically that there is a connection between the two. That is easy. If you define",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 406.68,
+   "end": 415.18,
+   "text": "to get the young people into the church, that you know how to measure. It is very...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 415.18,
+   "end": 422.18,
+   "text": "Anybody know enough about the English Open Classroom to know why it's successful?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 422.18,
+   "end": 433.4,
+   "text": "Two reasons why. Well, one is that parents aren't allowed near an English teacher.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 433.4,
+   "end": 438.4,
+   "text": "Parents are strangers and foreigners and enemies and are allowed in once a year.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 438.4,
+   "end": 452.9,
+   "text": "But that she only does. And that is not unimportant. Parents are sympathy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 452.9,
+   "end": 459.11,
+   "text": "And the other reason is that it is a strictly behaviorist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 459.11,
+   "end": 474.04,
+   "text": "behaviorist, extreme skinner behavior modification aimed at one goal only, that kids by the end",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 474.04,
+   "end": 498.16,
+   "text": "of the third year can read. It isn't, it isn't a, it isn't a big concern, it's their writing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 498.16,
+   "end": 516.14,
+   "text": "doesn't kill it. It's for in a strictly behavior, behaviorist way, which the one great advance",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 516.14,
+   "end": 526.04,
+   "text": "over Skinner. Let's say that six-year-old child knows more about his or her own rhythm",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 526.04,
+   "end": 535.58,
+   "text": "and attention span than we do. And so let's each work, but strictly at programmed behaviorism.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 535.58,
+   "end": 547.19,
+   "text": "Here's a teacher, but he writes a program. But it's a program based on the typical behaviorist",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 547.19,
+   "end": 563.46,
+   "text": "repetition, that's one reason why it doesn't work in this country because it's being picked",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 563.46,
+   "end": 568.92,
+   "text": "up in this country by the wrong people, being picked up by cognitive people, and it isn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 568.92,
+   "end": 580.53,
+   "text": "at all cognitive. But it is focused on learning to read and nothing, and that we know how",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 580.53,
+   "end": 587.09,
+   "text": "to measure. We say we do not know the next step, but the English Open Classroom is not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 587.09,
+   "end": 597.49,
+   "text": "It is not to be interested in how many children will voluntarily then continue to read.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 597.49,
+   "end": 600.49,
+   "text": "That's not interested. They're interested in the skill.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 600.49,
+   "end": 607.48,
+   "text": "And if you can define your objectives that clearly, you can measure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 607.48,
+   "end": 613.48,
+   "text": "And the main problem with voluntary, particularly with philanthropic institutions,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 613.48,
+   "end": 620.48,
+   "text": "is that they are not willing or able to define their objectives that clearly,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 620.48,
+   "end": 627.44,
+   "text": "and therefore don't measure but that's one of their problems and maybe they should it's not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 627.44,
+   "end": 635.28,
+   "text": "that simple but it isn't true that the difference between a business and a non-business is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 635.28,
+   "end": 647.26,
+   "text": "measurability we can measure in non-businesses not the same things necessarily in the business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 647.26,
+   "end": 655.74,
+   "text": "but we can measure attainment of objectives. What we need to do is first define the objectives",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 655.74,
+   "end": 665.4,
+   "text": "and then think through what's the proper appropriate measurement. But make up your mind",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 665.4,
+   "end": 675.88,
+   "text": "what the objectives are. And this is fairly unusual. In that 20 odd years ago, before your",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 675.88,
+   "end": 684.16,
+   "text": "time and my time and Hugh Williamson's time, somebody in there said, well what are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 684.16,
+   "end": 688.48,
+   "text": "the right measurements for our accomplishment and incidentally the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 688.48,
+   "end": 695.68,
+   "text": "measurements tell you that they defined their objectives as student exchange. That they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 695.68,
+   "end": 705.8,
+   "text": "did what Father Keister down at St. Ambrose did, namely to say, all I can do is get",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 705.8,
+   "end": 713.24,
+   "text": "them into Sunday school. The rest is up to the good Lord. But if I can't get them into Sunday",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 713.24,
+   "end": 726.91,
+   "text": "school, the good Lord won't get the chance. And so I measure. Now, I don't keep those books,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 726.91,
+   "end": 732.11,
+   "text": "how many souls I save, but I can keep books about Sunday school attendance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 732.99,
+   "end": 740.35,
+   "text": "And I assume there is a connection. And so these people said, we assume there is a connection",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 740.35,
+   "end": 750.11,
+   "text": "between student exchange and international understanding the evidence is no better nor worse",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 750.11,
+   "end": 762.44,
+   "text": "than that for the connection between about the same level of uh fragmentary evidence shall we say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 764.76,
+   "end": 779.36,
+   "text": "but uh you may say you're unlikely to do any harm until you may do some good and so clearly these",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 779.36,
+   "end": 786.8,
+   "text": "good people define their objective as student exchange and in terms of that they've been very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 786.8,
+   "end": 811.48,
+   "text": "successful and now somebody comes and says you don't you're not telling me until you can think",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 811.48,
+   "end": 823.95,
+   "text": "that through there is very little point working on this or on that because you don't know whether",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 823.95,
+   "end": 835.45,
+   "text": "these are all the real and relevant needs what do you think of that stage in the development of a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 835.45,
+   "end": 845.42,
+   "text": "business or an organization does one accept fundamental and searching questions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 845.42,
+   "end": 856.99,
+   "text": "which will inevitably inevitably produce dissent in the organization",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 858.51,
+   "end": 867.61,
+   "text": "inevitably produce inevitably produce a very disagreeable need for risky decisions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 867.61,
+   "end": 889.47,
+   "text": "why not leave well enough alone and go on to moving around more students but can you speak",
+   "speaker": "drucker",
+   "drucker_coverage": 0.863
+  },
+  {
+   "start": 889.47,
+   "end": 933.44,
+   "text": "up so that you can they can all hear you of any high school i'd rather have an american than a",
+   "speaker": "other",
+   "drucker_coverage": 0.249
+  },
+  {
+   "start": 933.44,
+   "end": 970.8,
+   "text": "dutch frankly you have to have to pick it why here here you go to your physician and you have",
+   "speaker": "other",
+   "drucker_coverage": 0.277
+  },
+  {
+   "start": 970.8,
+   "end": 983.08,
+   "text": "You have a splinter in your finger, in your sprain, your ankle, sinus that hurts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 983.08,
+   "end": 986.08,
+   "text": "Would you expect him to give you an electrocardiogram?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 986.08,
+   "end": 996.15,
+   "text": "Mind you, I have known some to do it, but that's very clearly two parts of the bill.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.901
+  },
+  {
+   "start": 996.15,
+   "end": 1002.43,
+   "text": "You expect him to take the splinter out without sending you to a major surgeon",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1002.43,
+   "end": 1011.24,
+   "text": "to tell you to bandage, put an ACE bandage on that ankle",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1011.24,
+   "end": 1015.88,
+   "text": "and put some heating pad on that sinus and maybe take some antibiotic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1015.88,
+   "end": 1020.68,
+   "text": "Uh, that won't do you much good. But, uh, and that's what you expect him to, don't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1020.68,
+   "end": 1025.72,
+   "text": "You don't expect him to pop you into hospital bed and give you a total physical.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1025.72,
+   "end": 1049.19,
+   "text": "And what, at what point do you, do symptoms become chewed in around the center?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.531
+  },
+  {
+   "start": 1049.19,
+   "end": 1062.8,
+   "text": "That's what you're really reaching for. You see, we are systemic. We get one very important.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.816
+  },
+  {
+   "start": 1062.8,
+   "end": 1068.24,
+   "text": "when you get that kind of feeling and listen to the words because that is precise as you can be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1069.44,
+   "end": 1076.8,
+   "text": "when you and the reason let me say when it begins to suspect that things are systemic when by",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1076.8,
+   "end": 1085.54,
+   "text": "clearing up one symptom you're covering out the next good that's springtime my finger when you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1085.54,
+   "end": 1094.02,
+   "text": "take it out it isn't going to come back you know splinters do not form spontaneously uh and that's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1094.02,
+   "end": 1105.84,
+   "text": "but uh if by removing one what looks like a symptom something popped immediately pops up and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1105.84,
+   "end": 1114.16,
+   "text": "you get a kind of a picture of and you say these things symptoms of an underlying disturbance and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1114.16,
+   "end": 1124.72,
+   "text": "you don't say this is just individual incidents but there is no clear quantitative or logical way",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1124.72,
+   "end": 1130.42,
+   "text": "for this path that's a prominent path on recognition, and one of the most",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1130.42,
+   "end": 1137.6,
+   "text": "interesting ones. If you're interested in it, the great authority on it is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1137.6,
+   "end": 1149.6,
+   "text": "that most interesting of the early Gestalt men, Kafka, about 1906, from a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1149.6,
+   "end": 1155.48,
+   "text": "Gestalt, the configuration point, the old Greek riddles of how many grains of sand",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1155.48,
+   "end": 1169.87,
+   "text": "make a sand pile. You know a sand pile behaves totally different, the physics. At",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1169.87,
+   "end": 1177.49,
+   "text": "what point do piling up grains of sand give you a sand pile? At what point does",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1177.49,
+   "end": 1187.67,
+   "text": "quantity change into quality? And he worked on these, and a lot of these",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1187.67,
+   "end": 1195.29,
+   "text": "things you're all familiar with, such as the Rorschach test, or such as all the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1195.29,
+   "end": 1204.74,
+   "text": "perception tests are based on that kind of work these are all the russia testing tests the way",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1204.74,
+   "end": 1235.46,
+   "text": "you a path non-paths of judgment but all you can say is that when it looks as if what are isolated",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1235.46,
+   "end": 1247.05,
+   "text": "symptoms are really and the test is always that by getting rid of the symptom you don't get you don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1247.05,
+   "end": 1256.31,
+   "text": "create health you just the next symptom comes now mind you see maybe the only disease you then have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1256.31,
+   "end": 1267.66,
+   "text": "is hypochondria but that is a syndrome maybe you just there's nothing wrong with the organism but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1267.66,
+   "end": 1275.56,
+   "text": "there's hypochondria which we do not know how to treat either in the physical body or in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1275.56,
+   "end": 1279.56,
+   "text": "corporate, but there are corporates there for contracts, there are plenty of them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1279.56,
+   "end": 1287.96,
+   "text": "Still, so this would be the first one, but it's the most difficult one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1287.96,
+   "end": 1324.51,
+   "text": "Because one can't, when does one ask?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.973
+  },
+  {
+   "start": 1324.51,
+   "end": 1334.16,
+   "text": "You see, even before that, one always does it in case.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1334.16,
+   "end": 1338.16,
+   "text": "You see, the great danger is not to.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1338.16,
+   "end": 1345.84,
+   "text": "If failure, well you know you have to.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1345.84,
+   "end": 1348.84,
+   "text": "Things don't turn out as expected.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1348.84,
+   "end": 1357.84,
+   "text": "Why do you have to? Even the laziest and the stupidest eventually reaches the conclusion,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1357.84,
+   "end": 1367.53,
+   "text": "well, there's something wrong here. Mind you, you know, you come out on a main road,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1367.53,
+   "end": 1372.53,
+   "text": "and you should have turned left, and you turn right, and now you're traveling north instead of south.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1372.53,
+   "end": 1383.47,
+   "text": "After about 30 miles, you begin to ask questions. And after another 10 miles, you look at a map.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1383.47,
+   "end": 1398.32,
+   "text": "Then you see that we shouldn't really have passed Sand Hill that is in the wrong direction. One does eventually discover it if one travels in the wrong direction.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1398.32,
+   "end": 1425.23,
+   "text": "But, so if you are in case of failure, one begins to reassess, in case of success one does not, that's why success is so dangerous, because one then takes it for granted, and usually either you have, as Lou pointed out, you have attained your objectives,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1425.23,
+   "end": 1449.33,
+   "text": "And what you've been trying to do, you have finished doing. It's done. Some of you know that I am not a great admirer of sales training. I don't believe one can train a salesman. But one can teach salesmen a few things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1449.33,
+   "end": 1474.44,
+   "text": "The most important thing to teach a salesman is to stop selling when the customer has bought. And that's a terribly difficult thing for a salesman to learn. Particularly here, they are all primed with the big sales field. The boss has told them it's going to be terribly difficult. And the customer says, where do I sign?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1474.44,
+   "end": 1480.44,
+   "text": "And then the young salesman is likely to say, as one of them once said to me,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1480.44,
+   "end": 1500.26,
+   "text": "let me finish my sales talk, to stop when one has attained the objective.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1500.26,
+   "end": 1513.62,
+   "text": "uh and success particularly success of this magnitude is always a compelling reason",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1514.74,
+   "end": 1523.38,
+   "text": "for doing something and maybe you come up with a contouring what we are doing is exactly what we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1523.38,
+   "end": 1528.74,
+   "text": "should be doing we need to do more of it and now let's raise our sights a good bit higher",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1528.74,
+   "end": 1541.46,
+   "text": "fine but maybe you don't and then any other reason this was a one-man show 25 years ago",
+   "speaker": "drucker",
+   "drucker_coverage": 0.803
+  },
+  {
+   "start": 1542.18,
+   "end": 1567.88,
+   "text": "now how many people have you got here 400 what 800 140 yeah paid professionals paid people",
+   "speaker": "drucker",
+   "drucker_coverage": 0.961
+  },
+  {
+   "start": 1567.88,
+   "end": 1581.99,
+   "text": "that is more or a larger organization for a voluntary with chapters in the u.s and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1581.99,
+   "end": 1594.34,
+   "text": "representatives abroad whenever you have a quantum change in size one has both",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1594.34,
+   "end": 1601.0,
+   "text": "has to think through both what is our business and also how do we organize a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1601.0,
+   "end": 1606.86,
+   "text": "quantum change in size is always a good reason for saying how should it be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1606.86,
+   "end": 1612.24,
+   "text": "organized it changes the structure but it's also the reason for saying what is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1612.24,
+   "end": 1621.24,
+   "text": "our business of life. Why do I say that, you know? What happens if you go from one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1621.24,
+   "end": 1633.9,
+   "text": "half-time, part-time executives in New York to 140 spread all over the globe",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1633.9,
+   "end": 1645.52,
+   "text": "other than the E.P. Rolls-Royce? Now that's the least important thing. What's much more",
+   "speaker": "drucker",
+   "drucker_coverage": 0.914
+  },
+  {
+   "start": 1645.52,
+   "end": 1675.41,
+   "text": "important? The economy. But how does it manifest itself? And the gentleman here said you lose",
+   "speaker": "other",
+   "drucker_coverage": 0.247
+  },
+  {
+   "start": 1675.41,
+   "end": 1680.15,
+   "text": "control. That's the reason why you have to look at your organization. But why do",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1680.15,
+   "end": 1695.75,
+   "text": "you have to look at your purpose? Because here you have grown, and now if you",
+   "speaker": "drucker",
+   "drucker_coverage": 0.615
+  },
+  {
+   "start": 1695.75,
+   "end": 1700.91,
+   "text": "really want to make this organization effective, you have to make sure that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1700.91,
+   "end": 1707.51,
+   "text": "everybody understands at least what, not maybe totally what the objective is,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1707.51,
+   "end": 1715.75,
+   "text": "but that he has some way of relating himself to it and if you do not recreate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1715.75,
+   "end": 1721.27,
+   "text": "vision you can be sure you don't have the idea that you can grow from one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1721.27,
+   "end": 1730.13,
+   "text": "professional 240 of whom 60 are outside of the central office and maintains a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1730.13,
+   "end": 1734.75,
+   "text": "common vision without reaffirming it without thinking through what this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1734.75,
+   "end": 1744.65,
+   "text": "objective. He's a little silly. In fact, everybody in this organization knows what he thinks your",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1744.65,
+   "end": 1757.26,
+   "text": "organization, that I can meet you. These different groups have very different objectives, and that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1757.26,
+   "end": 1764.38,
+   "text": "unless you force yourself to think through what the objectives are, you won't even find out what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1764.38,
+   "end": 1770.78,
+   "text": "during tennis i wouldn't say disagreements disagreements are harmless but clashes of vision",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1772.22,
+   "end": 1794.8,
+   "text": "another reason let's go back to what the lady in back there said about the symptoms you know",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.513
+  },
+  {
+   "start": 1794.8,
+   "end": 1820.52,
+   "text": "she talked about that american and other high school kids may not be quite as i spoke to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1820.52,
+   "end": 1834.19,
+   "text": "there was not one mustache in the crowd that they know and when i said to them the kind of answer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1834.19,
+   "end": 1860.73,
+   "text": "in unison that's not what we are going we're going to study this properly i think high school",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1860.73,
+   "end": 1879.61,
+   "text": "generation one look at that answer we're not select something not to worry about too much",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1879.61,
+   "end": 1890.44,
+   "text": "you would have to do is in your next brochure photographs of the 12 kids at random and you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1890.44,
+   "end": 1922.65,
+   "text": "would have dispelled that fear it's the opposite one my god can i live up to that yes sir very hard",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.488
+  },
+  {
+   "start": 1922.65,
+   "end": 1940.59,
+   "text": "to prove but what we were told a few minutes ago is that you have at least a strong indication",
+   "speaker": "drucker",
+   "drucker_coverage": 0.749
+  },
+  {
+   "start": 1941.39,
+   "end": 1954.51,
+   "text": "that the market is the environment and one always asks what is our business",
+   "speaker": "drucker",
+   "drucker_coverage": 0.924
+  },
+  {
+   "start": 1954.51,
+   "end": 1961.79,
+   "text": "if one has reason to suspect that the market is changing whether you define market in terms",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1961.79,
+   "end": 1967.87,
+   "text": "of demographics or whether you define it and this is not coming back to your question",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1967.87,
+   "end": 1977.79,
+   "text": "that the product or service serves a very different from what you originally intended it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1977.79,
+   "end": 1987.13,
+   "text": "to serve or what it was originally for that's a more a very radical market change and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1989.37,
+   "end": 2001.34,
+   "text": "in other words let me see there is a methodology which says if your market changes or you have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2001.34,
+   "end": 2026.57,
+   "text": "it may change if your technology changes if your size changes if you have to and should it be",
+   "speaker": "drucker",
+   "drucker_coverage": 0.901
+  },
+  {
+   "start": 2029.37,
+   "end": 2042.91,
+   "text": "then you do not and finally if the kind of problems you have seem to become pattern around",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2042.91,
+   "end": 2049.47,
+   "text": "something you don't know what it is but if you have a kind of suspicion that they're really",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2049.47,
+   "end": 2058.51,
+   "text": "symptoms of the same underlying phenomenon rather than isolated self-contained",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2060.91,
+   "end": 2070.67,
+   "text": "individual discrete events uh but be careful it's a laptop the laptop one is the quickest",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2070.67,
+   "end": 2080.51,
+   "text": "wrote the hypochondriac. This is exactly how a hypochondriac becomes a hypochondriac.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2080.51,
+   "end": 2089.34,
+   "text": "A hypochondriac has the same ailments of the flesh that afflict. But while the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2090.62,
+   "end": 2102.68,
+   "text": "normal person, so to speak, looks upon that crick in the neck and that sprained ankle,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2102.68,
+   "end": 2109.72,
+   "text": "well i should have looked before i stepped off the ladder and said so it wrote so on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2109.72,
+   "end": 2122.6,
+   "text": "hypochondriac relates all them to systemic complaints and mind you yes it might be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2125.16,
+   "end": 2137.0,
+   "text": "it might well be uh but but it is uh uh the complaints of the hypochondriac are usually",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2137.0,
+   "end": 2145.6,
+   "text": "not imaginary. He has a crick in the neck. He has a sore throat. He has stepped his toe",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2145.6,
+   "end": 2154.22,
+   "text": "and loses the nail on it. But most of us simply, all right, so you lose a nail, so you put",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2154.22,
+   "end": 2161.48,
+   "text": "the band-aid on. So you have sprained your ankle, so you put the nail spandex on. So",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2161.48,
+   "end": 2167.38,
+   "text": "So you have a sore throat, so you gargle with salt water till it goes away.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2167.38,
+   "end": 2170.78,
+   "text": "The complaints are exactly the same.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2170.78,
+   "end": 2176.62,
+   "text": "Only the hypochondriac sees a pattern of deep underlying disease.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2176.62,
+   "end": 2178.42,
+   "text": "And so be careful.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2178.42,
+   "end": 2187.08,
+   "text": "Obviously, going from the fact that there are symptoms to the tentative diagnosis of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2187.08,
+   "end": 2193.26,
+   "text": "an underlying basic cause because why this by no means impossible it is also",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2193.26,
+   "end": 2202.56,
+   "text": "the root of the problem but there is that and unless you reach a point where",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2202.56,
+   "end": 2208.74,
+   "text": "you can see that we have in doctoring symptoms doctoring events and no sooner",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2208.74,
+   "end": 2215.76,
+   "text": "get be rid of one then a similar one appears elsewhere but enough then one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2215.76,
+   "end": 2221.6,
+   "text": "has to look for corners but other than that to what one can handle with a band-aid one handles",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2221.6,
+   "end": 2229.6,
+   "text": "with a band-aid and not with radical surgery uh they'll be a little careful of the suspicion",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2229.6,
+   "end": 2237.46,
+   "text": "that because there are problems something fundamentally must be wrong maybe maybe not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2238.74,
+   "end": 2250.37,
+   "text": "but one all says if the size of an instinct another also means that the number of people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2250.37,
+   "end": 2258.45,
+   "text": "it has changed greatly, and then as you rethink your objectives and reaffirm them, what changes?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2258.45,
+   "end": 2269.33,
+   "text": "You don't have common vision. And if the market has changed, that forces you to say, well,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2269.33,
+   "end": 2276.13,
+   "text": "are we still serving the same function, or what function should we serve? And if technology and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2276.13,
+   "end": 2282.69,
+   "text": "product, but above all technology, has changed greatly, which is not here, then one has the same",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2282.69,
+   "end": 2292.05,
+   "text": "problem and so one has there is a methodology for asking when one should ask what is our business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2292.05,
+   "end": 2297.63,
+   "text": "what it should be and you might add in addition that if you haven't done it for 10 years it's a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2297.63,
+   "end": 2306.63,
+   "text": "good idea to do it anyhow because the lifetime of any definition of what is our business 10 years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2306.63,
+   "end": 2319.59,
+   "text": "is fairly long, we say there are some definitions around that have proven valid for a long time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2319.59,
+   "end": 2326.67,
+   "text": "And in one way they are very great achievements, and in another way they are very dangerous.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2326.67,
+   "end": 2334.67,
+   "text": "I think, where in American business would you look for the best answer to the question",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2334.67,
+   "end": 2344.27,
+   "text": "what is our business and what should it be. Coca-Cola is an old one, but they radically",
+   "speaker": "drucker",
+   "drucker_coverage": 0.844
+  },
+  {
+   "start": 2344.27,
+   "end": 2357.98,
+   "text": "changed it. They re-spawned it. Anybody else? We've got leading examples quoted in the literature.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.891
+  },
+  {
+   "start": 2359.18,
+   "end": 2368.51,
+   "text": "You come out to the respective right and left ears. Theodore Weil and the telephone company",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2368.51,
+   "end": 2376.99,
+   "text": "and Alfred Sloan and GM and these were very bold things. Bale in particular to say our business is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2376.99,
+   "end": 2383.47,
+   "text": "service in 1908 was absolutely heretical. You know when he first proposed it 10 years earlier",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2384.35,
+   "end": 2392.66,
+   "text": "his board of directors fired him out of hand. He was general manager and president of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2392.66,
+   "end": 2399.3,
+   "text": "telephone company in 1897 and came to his board and said we want to think through what our business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2399.3,
+   "end": 2404.96,
+   "text": "They say, well, that's obvious, it's the telephone, they say, no, no, it's Sibs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2404.96,
+   "end": 2430.31,
+   "text": "On the spot, ten years later, telephone systems in both, say, Illinois and, say, Virginia,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2430.31,
+   "end": 2439.54,
+   "text": "Parliament, chambers of the National Assembly, because of lack of Sibs,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2439.54,
+   "end": 2446.56,
+   "text": "that the board called back, made an amazing story for Boston Bank,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2446.56,
+   "end": 2451.95,
+   "text": "that's the only example of Sibs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2451.95,
+   "end": 2463.66,
+   "text": "thought they must have been in very real and then they did it but I thrown had",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2463.66,
+   "end": 2505.26,
+   "text": "very similar from the very right and we work we died in a new very well but now",
+   "speaker": "drucker",
+   "drucker_coverage": 0.952
+  },
+  {
+   "start": 2505.26,
+   "end": 2513.74,
+   "text": "do we have any telephone people here can we speak freely don't listen and now let",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2513.74,
+   "end": 2531.38,
+   "text": "Let me say, the fact that Bale's concepts proved valid so long is the greatest single danger to it, because it makes it terribly difficult.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2531.38,
+   "end": 2542.61,
+   "text": "Everybody has come up in a tradition where the basic varieties, they have done better in challenging, in challenging.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2542.61,
+   "end": 2549.49,
+   "text": "We have to, the first challenge, the financial concept,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2549.49,
+   "end": 2556.37,
+   "text": "means concept of the all-purpose common share, and did very well.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2556.37,
+   "end": 2560.39,
+   "text": "And without that they would not have survived to that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2560.39,
+   "end": 2563.39,
+   "text": "But they have to challenge a few other things too.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2563.39,
+   "end": 2569.17,
+   "text": "And it's terribly hard if grandpa has been so wise,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2569.17,
+   "end": 2573.59,
+   "text": "and they have been living off his intellectual capital so long.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2573.59,
+   "end": 2602.13,
+   "text": "Nobody has ever had a chance, a reason to see that very clearly in GM, where the fact that Sloan was so powerful, and I don't mean tyrannically, but she was not powerful, as a thinker and with intellectual honesty, intellectual rigor, has paralyzed me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2602.13,
+   "end": 2606.13,
+   "text": "because it is terribly difficult to think.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2606.13,
+   "end": 2613.13,
+   "text": "You grew up in a system in which things were completely clear,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2613.13,
+   "end": 2618.13,
+   "text": "and obvious, and simple, and logical, and made sense,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2618.13,
+   "end": 2622.13,
+   "text": "and you are very good at manipulating these things,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2622.13,
+   "end": 2627.13,
+   "text": "but you have never had to think, and it's terribly difficult to do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2627.13,
+   "end": 2652.18,
+   "text": "So, but on the other hand, if you have a Sloan-Ruby, you'll be grateful because 50 years for anything man designed is a very long time. But most of these decisions are good for 10 years maximum. You might say C is also at the end of a 50 year definition.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 35.84,
+ "created_utc": "2026-09-20T23:01:29+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

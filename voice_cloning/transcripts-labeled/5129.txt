@@ -1,0 +1,360 @@
+[OTHER] Good morning, ladies and gentlemen, and welcome to the annual Peter Drucker Symposia.
+[OTHER] I'm Bill May, Dean of Faculty of the Venice School, and I'm delighted to see so many of you here this morning.
+[OTHER] It's an outstanding tribute to our dear friend Peter Drucker, Emeritus Professor and Distinguished Visiting Lecturer,
+[OTHER] and shows the respect and the interest that the business community has
+[OTHER] in Peter's remarks and opinions, which are always crisp and fresh,
+[OTHER] sometimes surprising, sometimes controversial.
+[OTHER] This morning they're taking up a subject which is perhaps one of the most important issues,
+[OTHER] outstanding issues, the country faces today.
+[OTHER] It has a broad spectrum of considerations involving the government deficit, unemployment, exchange payments, and a vast array of other aspects.
+[OTHER] I think that we'll hear this morning that perhaps the curing of productivity or the decline of productivity, which this country has suffered, but which has been suffered almost equally by Japan and Europe, Sweden even, we'll find that that is perhaps not the panacea for all of our problems.
+[OTHER] But it's going to be an exciting session.
+[OTHER] At this moment, I'll get out of the way and let Bob Hawkins, Vice Dean of the school, Dale Zand, and Peter Drucker take over.
+[OTHER] Thank you, Dean May.
+[OTHER] I'm Dale Zand, and I will be the moderator this morning.
+[OTHER] The format that will follow is we'll hear from our principal speaker, Professor Drucker,
+[OTHER] And then we will hear from Professor Robert Hawkins, who is internationally known in the area of economics and finance and has done some leading studies in that area.
+[OTHER] During the coffee break, we would appreciate if you would write the questions that you have in mind on the index cards or slips of paper that have been provided to you.
+[OTHER] We'll collect those during the coffee break, and we will select from among them and use those as the basis for starting our discussion after the coffee break.
+[OTHER] As Dean May said, the topic of productivity has risen in prominence in recent years.
+[OTHER] There is increasing concern about how international trade and monetary systems are affecting productivity.
+[OTHER] The era of the United States investing abroad to offset declining opportunity and productivity in the United States may have passed its peak.
+[OTHER] and underdeveloped but natural resource-rich nations are increasingly major forces in the world political and economic community.
+[OTHER] These factors, among many others, pose a great many questions, and the answers are clearly not immediate or obvious.
+[OTHER] What is productivity? What enhances it? What inhibits it?
+[OTHER] And what does productivity mean in the context of a particular nation's political, economic, social, and cultural system?
+[OTHER] And this morning, we're privileged to hear from Peter Drucker.
+[OTHER] His writings are undoubtedly familiar to all of us here today.
+[OTHER] They stimulate, they provoke, and always they illuminate.
+[OTHER] Dr. Drucker was professor of management here at New York University
+[OTHER] for two decades before he left for a warmer climate.
+[OTHER] In the preface to his latest book, Professor Drucker says that whoever reads his books, although they may agree or disagree with him, is a friend.
+[DRUCKER] He pays.
+[DRUCKER] Provided he pays.
+[DRUCKER] This is a business.
+[OTHER] The other part of that, however, is that friendship requires initiation and extension on the part of one in that pair.
+[OTHER] And once again, I think it's our privilege to hear today Peter Drucker as he, in a sense, extends himself and reaches out and shares with us his thoughts on what do we know now about productivity.
+[OTHER] Ladies and gentlemen, Peter Drucker.
+[DRUCKER] Thank you, Dale. Ladies and gentlemen, let me first say that I am exceedingly happy to be back here again. We moved out a little over 10 years ago, as Dale said, to a warmer climate. We actually moved to relax, to take it a little easier, as a result of which both my wife and I worked three times as hard as we ever did before, which I don't think I have to explain to you, do I?
+[DRUCKER] But this is still home, and particularly this building and the people here.
+[DRUCKER] And after more than 20 years on the faculty, it really is the only home a vagrant like myself has.
+[DRUCKER] And so I'm very grateful to be allowed back and very happy to be here,
+[DRUCKER] and very happy to see so many veterans around here, but also so many newcomers.
+[DRUCKER] Before we started, Madeleine Stanley, who, as some of you know,
+[DRUCKER] is responsible for all the things that go right in these meetings,
+[DRUCKER] and I'm responsible for all the things that go wrong.
+[DRUCKER] Madeleine told me that this is our 10th meeting in this format,
+[DRUCKER] format, although we began them in 1950 as a fact series of faculty lectures, and so
+[DRUCKER] I feel that this is a particularly happy occasion, both the 10th and the 30th anniversary, I
+[DRUCKER] think, of these series.
+[DRUCKER] You know, when we first talked about productivity in the symposia, but it's, my memory says
+[DRUCKER] about eight years ago and at that time that was a new topic and nobody else paid much attention
+[DRUCKER] and some of you kind of said why should we pay attention it's always been taking care of itself
+[DRUCKER] which by the way was the answer that made me not become an economist 50 years ago
+[DRUCKER] I was the youngest member of the Keynes Seminar in Cambridge, invited members only, and I was very dubious about where I was going to go, and economics was a possibility and a strong attraction until one of the million people, and I'm quite sure it was Abba Lerner, asked the master, what about productivity, why isn't it in your system?
+[DRUCKER] And the Master said, we don't have to care of itself provided only that there is fullness. That was the answer that I think made me decide that any discipline that so cavalierly can dismiss things one doesn't understand is not for me.
+[DRUCKER] I've always been more interested in the things one can't understand than in the ones one can.
+[DRUCKER] Eight years ago, this was still a prevalent view. It takes somehow care of itself. Now we know it
+[DRUCKER] doesn't. Or if it does, like all things, they take care of themselves. It goes down and up.
+[DRUCKER] And we have learned a great deal in the last eight years. And the first thing we have learned,
+[DRUCKER] And the most important one is the one Dean Mays mentioned in his introduction.
+[DRUCKER] The decline in productivity is not an American phenomenon.
+[DRUCKER] It is a worldwide phenomenon of all developed and incidentally equally of the rapidly industrializing developing countries.
+[DRUCKER] It is greatest behind the Iron Curtain.
+[DRUCKER] Poland is where the Iron Curtain was lifted for a little bit so we get a glimpse in, is only an example, but the Soviet Union is probably much more pronounced, where it is quite clear that in the one sector, which in the developed world still has fairly rapid increases in productivity, namely agriculture,
+[DRUCKER] The Soviet Union has the extraordinary achievement of negative productivities.
+[DRUCKER] The last 20 years since the Khrushchev began to divert capital to agriculture
+[DRUCKER] and to raise wages on the farms for fishing to hold people,
+[DRUCKER] the more capital was poured in, the lower the harvests are,
+[DRUCKER] not just proportionate, but absolutely, and the more labor there is on the Russian farm.
+[DRUCKER] That's negative productivity, and that is a great achievement.
+[DRUCKER] I wouldn't say unprecedented, but there are not many precedents.
+[DRUCKER] And the rest of the developed world, their rate of productivity decrease is about the same,
+[DRUCKER] though that isn't quite true.
+[DRUCKER] And I shock you by saying that the fastest rate of productivity decrease is Japan.
+[DRUCKER] because you look at labor productivity only and there's a rate of productivity
+[DRUCKER] decrease is the same as in this country or in Germany not as great as in Sweden
+[DRUCKER] the Japanese just started from a very high base basis so that's the they still
+[DRUCKER] increase labor productivity but a decreasing rate if you plop it on log
+[DRUCKER] log peter paper the curve is almost strictly parallel towers but the
+[DRUCKER] productivity of capital in Japan has been going down about twice as fast as ours.
+[DRUCKER] And these are very dubious measurements, but the magnitudes are reliable, to the
+[DRUCKER] point where... Is it better now? Yeah. Well, will you please not suffer in silence,
+[DRUCKER] and if you have any trouble, will you please say louder? Because I put it
+[DRUCKER] aside because I got an echo. Do you get an echo? What? That's what we did, that's why
+[DRUCKER] I put it aside. And maybe it's the Searing Gate batteries of man. No, it isn't. So, okay.
+[DRUCKER] And in Japan, if you look at the automobile industry, let me say the automobile industry
+[DRUCKER] of the world that's in greatest trouble is the Japanese.
+[DRUCKER] It is a 5% drop in automobile sales,
+[DRUCKER] and Toyota and Nissan are both bankrupt.
+[DRUCKER] They have those incredibly fixed capital costs.
+[DRUCKER] And if you look at their balance sheet,
+[DRUCKER] and an old financial man like myself
+[DRUCKER] looks at balance sheets before he looks at P&Ls,
+[DRUCKER] because I know how to fake a P&L, a balance sheet is harder.
+[DRUCKER] In this country, the lawyers would already have drawn up the petition for Chapter 11
+[DRUCKER] for them.
+[DRUCKER] The fixed capital costs are incredible, and if you look at the last ten years and relate
+[DRUCKER] the capital invested in those two companies to their output, they went from, if 1970 is
+[DRUCKER] to one, it's now about 2.2 to one. They need more than twice the amount of capital for
+[DRUCKER] each additional unit of output. And that, as any old financial man can tell you, is
+[DRUCKER] the road to receivership, the fastest road to receivership. And so one of the reasons
+[DRUCKER] why they are pushing cars so hard is clearly not to maintain employment, but to maintain
+[DRUCKER] solvency and one reason why they want us and the europeans to lower the boom is so that they then
+[DRUCKER] can blame us uh but the capital the rate of capital productivity has been going down faster
+[DRUCKER] in japan than in this country though it's not doing too well here either and then let me say
+[DRUCKER] the first thing we know is that none of the explanations for this decrease can be accepted.
+[DRUCKER] Because all of them look at national factors. Bob and I, Bob Hawkenstein, talked yesterday about it
+[DRUCKER] and he mentioned the shift to service employment, which is a very plausible explanation for what
+[DRUCKER] happened in this country. But you know, there's been no such shift in the United Kingdom,
+[DRUCKER] no such shift in the Soviet Union, and not much of such a shift in Japan.
+[DRUCKER] And yet, productivity behaves the same way. And almost anything you can see
+[DRUCKER] is a local phenomenon and one cannot explain generic events by local phenomena and so let's
+[DRUCKER] be very skeptical because if you go by these explanations you are then likely to do the wrong
+[DRUCKER] things let me say in retrospect we also realize that the explanations we always said for the
+[DRUCKER] 100 years in the rise of productivity are very debatable, though they have more evidence,
+[DRUCKER] more backing, than the phenomenon apparently which we do not understand, and you may see
+[DRUCKER] one reason for this is that economists, in order to have a system, and so such things
+[DRUCKER] as productivity, which are clearly related to both technology and demographics, are very
+[DRUCKER] hard to explain in terms of an economic model.
+[DRUCKER] But we know that we have to be very careful.
+[DRUCKER] That's number one.
+[DRUCKER] And for a while, I thought all the declining productivities have in common that the government
+[DRUCKER] overload, the amount of the national product, the proportion that is distributed through
+[DRUCKER] governmental channel is rising in productivity, negative correlation, except that it doesn't
+[DRUCKER] quite fit Japan, where the proportion of national product that is distributed by government
+[DRUCKER] has not been rising significantly, and in fact may have been going down up till about three years ago.
+[DRUCKER] So there is no one explanation that fits the observed facts.
+[DRUCKER] And then one is very leery about the hypothesis, and one says,
+[DRUCKER] maybe this is a factor, maybe that is a factor, but one doesn't say this is the explanation.
+[DRUCKER] The second thing we do know is that there has been a change in the constellation up till make it 1870.
+[DRUCKER] And most of you still operate on that basis.
+[DRUCKER] One could argue that productivities of the factors of production are largest substitutes.
+[DRUCKER] In other words, that you can trade more capital investment against higher labor productivity and less labor and so on, and vice versa.
+[DRUCKER] Although, let me say, the evidence for this was always shaky.
+[DRUCKER] Somebody who looks at businesses and industries the way I do, rather than at economic models, always saw exceptions.
+[DRUCKER] And now I think it is safer to assume that it doesn't work.
+[DRUCKER] Penny's automobile industry is a good example where the productivity of labor is, despite all the robotization you hear about, has not really been doing very well compared to historical reasons.
+[DRUCKER] Though, let's not go into this because that's, there's a whole pack full of marked cards,
+[DRUCKER] such as the age of the labor force and the relation in Japan between wage and age and so on.
+[DRUCKER] But clearly that tremendous increase in capital investment has so far not produced a rapid increase in labor productivity.
+[DRUCKER] in Japanese have become no less labor-intensive, but tremendously more capital-intensive.
+[DRUCKER] And that's true of our steel industry to a large extent, too.
+[DRUCKER] And you may say so much of our capital investment in the steel industry has not been in productive equipment,
+[DRUCKER] but in pollution control, but the fact remains that the traditional,
+[DRUCKER] I call it the Kuznets relationship, because Simon Kuznets got the Nobel Prize for showing this,
+[DRUCKER] where it means capital investment and increased labor productivity can no longer be taken for granted.
+[DRUCKER] Except that there is also a very peculiar phenomenon,
+[DRUCKER] that perhaps what has happened is that instead of a linear curve, which Kuznets showed,
+[DRUCKER] showed, you have an exponential one, which means that up to a very substantial point,
+[DRUCKER] more capital does not mean more labor productivity.
+[DRUCKER] And then when you reach total automation, it breaks through.
+[DRUCKER] Again, you have a nice example.
+[DRUCKER] Five years ago, the microchip manufacturers had to make a decision
+[DRUCKER] how to handle the very labor-intensive stages of the work in developed countries.
+[DRUCKER] Ours, let's say an Intel, made the decision to farm it out to where you have cheap labor.
+[DRUCKER] The Intel chips are assembled in Nigeria with very cheap labor
+[DRUCKER] and incidentally very, very good labor in terms of productivity.
+[DRUCKER] The Japanese are temperamentally averse to entrusting anything to a foreigner who is
+[DRUCKER] not part of their culture, and so they made the, at that time it seemed almost asinine
+[DRUCKER] decision, to try to automate something which everybody knew couldn't be automated.
+[DRUCKER] Well, they succeeded.
+[DRUCKER] And even though the capital investment is very high, the productivity is much greater
+[DRUCKER] and the quality is much better.
+[DRUCKER] That's why our microchip people are so afraid now of the Japanese competition.
+[DRUCKER] So if you can go into total automation, this is near total automation, then you'll probably
+[DRUCKER] get the old trade-off again.
+[DRUCKER] And incidentally, there are now enough examples to prove, and I didn't see it, but now that
+[DRUCKER] if you can get total automation, you are infinitely more productive and more competitive than
+[DRUCKER] anything based on even the cheapest labor.
+[DRUCKER] And if you have the knowledge base in your society, if you have the people who are trained
+[DRUCKER] and schooled, as the Japanese have, as we have, as the Germans have, the British do
+[DRUCKER] not have. By the way, the British have probably, of all developed countries today, the poorest
+[DRUCKER] knowledge base since for 30 years they have not developed middle management people. And
+[DRUCKER] it's beginning to show very badly. They are very good at the top, and in the middle they
+[DRUCKER] have not, then the absence of society is not of the Harvard Business School, but of the
+[DRUCKER] North Dakota State Business School shows. And in the long run, believe me, the North
+[DRUCKER] Dakota State Business School may be more important than the Harvard Business School because it
+[DRUCKER] gives you the support people. And without the support people, you know, a leader is
+[DRUCKER] somebody who's got followers. And if you ain't got the followers, then having the Harvard
+[DRUCKER] Business School people doesn't help you. And that's the British situation. And that's why
+[DRUCKER] I think Britain is in much greater danger, in much worse straits than the figures indicate.
+[DRUCKER] And the old generation of middle management who are basically trained as NCOs or sub-alterns
+[DRUCKER] in World War II are getting old. The replacements aren't there and aren't really well trained
+[DRUCKER] by modern standards. So if you can automate, really automate, which puts tremendous demands
+[DRUCKER] on that educated, competent, responsible and responsive middle management structure, professional
+[DRUCKER] structure, then you are more productive than the cheapest labor. So at the
+[DRUCKER] extreme, the old trade-off may still hold, but only at the extreme, and only in that
+[DRUCKER] direction, not on the other side. And we know that. And we know, therefore, that
+[DRUCKER] productivity first is not the productivity of one factor, but of all
+[DRUCKER] factors. And there are basically, well, either three or four. There's money and there are
+[DRUCKER] key physical resources. And now you expect me to say people, and I'm disappointed there
+[DRUCKER] is time. Because for the people who are critical, which are your management people, your technical
+[DRUCKER] people, the teacher in the classroom. Time is really the resource, and it basically when
+[DRUCKER] you look at the barriers to their productivity, they are largely that they aren't given the
+[DRUCKER] time to do the things they know how to do. The best example of this, if you want to see
+[DRUCKER] is, you know, you all talk of a nurse's shortage. There is no such thing. They are underpaid,
+[DRUCKER] but there is no nurse's shortage. If we use the nurses we have for nursing instead of
+[DRUCKER] for paperwork, we'd have a nurse's glut. But 70% of their time today in the typical community
+[DRUCKER] hospital, those poor women fill out forms. And the time is being paid for nursing. Their
+[DRUCKER] wage scale reflects the fact that they are paid on the basis of low-grade clerks, which
+[DRUCKER] is what they actually use their time, and not on the basis of what they are being trained
+[DRUCKER] for, which is patient care, which would probably be at least twice what they are making on
+[DRUCKER] average and be cheap at that and so when you put in a clear co-handlers a
+[DRUCKER] paperwork you suddenly have in this is surplus and then you can pay and that is
+[DRUCKER] productivity of time and those are really the three factors which together
+[DRUCKER] give you overall it's how is the sound now all right use them back can you hear
+[DRUCKER] Thanks. And thanks, Frank, for getting the feedback out.
+[DRUCKER] And so we know that productivity is a combination of the three or the configuration of the three.
+[DRUCKER] And we are now beginning to talk about total productivity.
+[DRUCKER] But we are not yet really able to measure it.
+[DRUCKER] It's a concept so far, there's a lot of good work going on, but it is very hard to measure it.
+[DRUCKER] But we also know that one can't work at it. One has to work at each resource separately.
+[DRUCKER] And the trade-off decisions have to be made as expedient, ad hoc decisions, because we have no theory, really.
+[DRUCKER] And yet, it has to be done.
+[DRUCKER] And so the first thing we know is that one has to work.
+[DRUCKER] That's an interesting thing.
+[DRUCKER] Because this is almost the opposite of what Keynes and his generation believed.
+[DRUCKER] They believed that productivities are a reaction to outward economic stimuli.
+[DRUCKER] And this doesn't work anymore, if it ever did.
+[DRUCKER] And maybe it did. Look at the history of George Siemens of the Deutsche Bank in Europe.
+[DRUCKER] It's not even economically both moralists who said it is the duty of a manager to make resources productive
+[DRUCKER] because they are in his keeping, not because of cost.
+[DRUCKER] In all of Taylor, there is no mention of cost. The word does not exist in his vocabulary.
+[DRUCKER] The word is duty, and he saw it as a moral obligation.
+[DRUCKER] So did George Siemens, the banker.
+[DRUCKER] And so these were not reactions to economic stimuli.
+[DRUCKER] They were economic rewards, but not economic motivations.
+[DRUCKER] And I think this is what the generation of 1930 did not understand.
+[DRUCKER] And because we lost that moral imperative.
+[DRUCKER] The odds are economic, but the motivations must not be.
+[DRUCKER] The penalties are economic, but not entire.
+[DRUCKER] They are also probably moral.
+[DRUCKER] And so we know that one has to work on productivity.
+[DRUCKER] Productivity crisis.
+[DRUCKER] You know, when I came in in the 20s,
+[DRUCKER] my first teacher of economics was the only survivor of Kondratyev's disciples.
+[DRUCKER] all the others were shot by Stalin, he got over the border.
+[DRUCKER] And so I started out with the Kondratyev Cycle in 1927, which was a very good time for it.
+[DRUCKER] And believe me, the evidence, and it's again very popular, but the evidence is not convincing.
+[DRUCKER] Because if there were a Kondratyev Cycle, you should have a productivity crisis every 50 years.
+[DRUCKER] And there was only one big one in the 18th century, the French.
+[DRUCKER] French mercantilism ended in a major crisis of productivity and of capital formation.
+[DRUCKER] And that's when the first scientific revolution in economics occurred to physiocrats
+[DRUCKER] who looked across the channel and that those unsystematic English who had no theory in 1730
+[DRUCKER] and who meddled through and who did everything wrong,
+[DRUCKER] but who had steady increase in productivity and a rapid rate of capital formation,
+[DRUCKER] whereas the one country in which economists and the government, namely France,
+[DRUCKER] was the richest country of Europe, was rapidly going down the spout.
+[DRUCKER] If that sounds contemporary, it's not intentional.
+[DRUCKER] All the characters are fictitious.
+[DRUCKER] But France invented the Council of Economic Advisers in 1708, and the decline began in
+[DRUCKER] 1720.
+[DRUCKER] And the lead times haven't changed much, largely for the same reason.
+[DRUCKER] But instead of trying to understand, they thought they understood and began to manipulate.
+[DRUCKER] Instead of saying, something is going on here, instead of being clinical and diagnosticians,
+[DRUCKER] they thought they had to be scientists, and at the end, in any social area, then you get
+[DRUCKER] dogmatists, and when things don't work, the only reaction is, let's redouble the efforts.
+[DRUCKER] And the French experience was the one, the first before modern times, in which economics
+[DRUCKER] were macroeconomics.
+[DRUCKER] And the last, the reaction to the French fiasco, which destroyed old France, was the shift
+[DRUCKER] towards microeconomics, which began with the physiocrats, 1740, 1750.
+[DRUCKER] lasted until 1930. And during that time, there was no productivity crisis. So one can, I
+[DRUCKER] think, say very bluntly, experience indicates that while government cannot promote productivity,
+[DRUCKER] macroeconomics will destroy it. Productivity is a microeconomic event that cannot be.
+[DRUCKER] produced by macroeconomic governmental policies,
+[DRUCKER] but can apparently be severely damaged by them.
+[DRUCKER] Which, by the way, is one reason why I do not share the prevailing euphoria
+[DRUCKER] about the economic policy of the present administration.
+[DRUCKER] To me, this is just another Keynesian binge.
+[DRUCKER] And very much so, with a slightly different sign in front of it.
+[DRUCKER] But with the same basic assumptions that the great white father can control and manipulate.
+[DRUCKER] And it may help a little bit if we cut the tax load and cut expenditures,
+[DRUCKER] but the root cause is the belief in, I think, a pure macroeconomic system,
+[DRUCKER] or primarily macroeconomic system.
+[DRUCKER] And that is just as built into the present administration as it was in its predecessors
+[DRUCKER] for the last 30 years, 25 years.
+[DRUCKER] And so we know that productivity is a local and microeconomic phenomenon.
+[DRUCKER] It is not, it can be hampered by governmental policies.
+[DRUCKER] I think it is very doubtful that it can be promoted by them or even supported.
+[DRUCKER] There's no evidence at all.
+[DRUCKER] There's lots of evidence that it can be impeded.
+[DRUCKER] But it can be made only in the local shop, in the business, in the factory,
+[DRUCKER] in, God forbid, the university, which may not like that term, the hospital.
+[DRUCKER] the police force. And it is something in which you have to work on all resources.
+[DRUCKER] And we know it isn't working harder. But we know that the resources require different treatment.
+[DRUCKER] Let me say, money is a very peculiar resource. Money requires both, working harder and working smarter.
+[DRUCKER] Key physical resources always require working harder, and people always require working smarter. For that reason, one begins with money, because one has two approaches.
+[DRUCKER] And when you look at your receivables, that's largely a matter of working smarter.
+[DRUCKER] Do we really finance those customers whom we should finance?
+[DRUCKER] Or are we subsidizing?
+[DRUCKER] You know, if you are a manufacturer, you can't compete with the banks.
+[DRUCKER] Their acquisition costs of capital are much too high, but they're still lower than yours.
+[DRUCKER] And so you're giving credit and saying, we have no credit losses, it's a stupid thing to do.
+[DRUCKER] That's a bank's approach.
+[DRUCKER] Sure, credit losses are your restraint, but the question is what you're trying to accomplish.
+[DRUCKER] You're trying to get profitable sales, and one looks at receivers from the point of view of a marketing strategy.
+[DRUCKER] and you'll be surprised how different it looks.
+[DRUCKER] But at the same time, one tries to make money, work harder,
+[DRUCKER] which, by the way, we have learned a good deal about.
+[DRUCKER] Now, key physical resources, one always tries to work harder.
+[DRUCKER] One tries to get more turnover per shelf space, unit of shelf space.
+[DRUCKER] One tries to get a little more yield out of a rod of copper.
+[DRUCKER] One tries to get a good deal more heating out of a BTU.
+[DRUCKER] That's working harder.
+[DRUCKER] When it comes to people, especially to people whom you pay for their knowledge,
+[DRUCKER] personal people, salespeople, managers, teachers,
+[DRUCKER] there one tries to make them work smarter.
+[DRUCKER] And that's a management duty.
+[DRUCKER] And so each resource requires its own approach,
+[DRUCKER] but each resource requires being worked at.
+[DRUCKER] And at the same time, you require a systems view.
+[DRUCKER] Let me give you one example of where we are grossly unproductive.
+[DRUCKER] For good reasons.
+[DRUCKER] We just built a new and various bursting, it seems.
+[DRUCKER] And we built one of the nicest buildings I have seen.
+[DRUCKER] For the management technology of 1870, for the teaching technology,
+[DRUCKER] I don't think, well, our auditorium is equipped poorly, but the rest is just, we are going to find within five years that we have a lovely building that's not functional. Largely because there is no facilities management. The architect and the interior and so on don't work together.
+[DRUCKER] We are not looking at a building as something that has to be productive.
+[DRUCKER] It's very flexible compared to this year, you know, 20 years later.
+[DRUCKER] We learned a lot, this building built 20 years ago.
+[DRUCKER] We built, even next door is already much better.
+[DRUCKER] We built a very inflexible building here.
+[DRUCKER] And facilities management, simply because up till recently,
+[DRUCKER] the amount of money you had invested in your offices was minimal.
+[DRUCKER] And today, except that most of you will be very soon where the physician is,
+[DRUCKER] who has today about between $250,000 and $600,000 in his office in capital investment.
+[DRUCKER] And then one doesn't just build first and look at the instrumentation secondly.
+[DRUCKER] Then one builds a system.
+[DRUCKER] And so facilities management is a way of integrating people and money
+[DRUCKER] and key physical resources in the space that is a working space.
+[DRUCKER] Factories, we have Albert Kahn started it in 1920.
+[DRUCKER] So we know a great deal, but we are not using it yet.
+[DRUCKER] But except this, one has to look at all resources and then at their relationship.
+[DRUCKER] And the last thing we know about productivity is that the only things that work are unspectacular.
+[DRUCKER] The only thing that works is the drop by drop that eventually hollows even the toughest stone.
+[DRUCKER] It is a continuing effort.
+[DRUCKER] And therefore, contrary to the spirit of modern management,
+[DRUCKER] When you look at our management books, and let's not become personal and mention any author,
+[DRUCKER] they all essentially talk about planning and setting objectives.
+[DRUCKER] They all talk about things that are major efforts that then energize a long follow-up.
+[DRUCKER] That is not the way you work on productivity.
+[DRUCKER] On productivity, you work basically far more the way the drill sergeant of old,
+[DRUCKER] which is you do the same thing every day, but you do it, and you do it, and you do it.
+[DRUCKER] You don't have to be as profane as he is.
+[DRUCKER] You don't have to scream, though sometimes screaming, as all of you know,
+[DRUCKER] is both necessary and wholesome, but you have to do it.
+[DRUCKER] You have to set a goal. That real sergeant is effective, because he knows what the finished recruit should be able to do in six weeks. And eight out of ten will do it. And he is effective because he is doing very unspectacular things steadily and faithfully.
+[DRUCKER] And so we know about productivity that we can't wait for Uncle Sam.
+[DRUCKER] That's waiting for Godot.
+[DRUCKER] And as all of you who remember that Beckett play know,
+[DRUCKER] the joke about Godot is he don't exist.
+[DRUCKER] And if you wait for Uncle Sam in productivity, you'll find out he don't exist.
+[DRUCKER] It's your job, my job, our job, day by day, with a goal.
+[DRUCKER] with the goal of making sure that their nurses will be able to spend all their time on patient care.
+[DRUCKER] Now, that goal you will probably never attain, if only because even nurses need a coffee break.
+[DRUCKER] But all, but not.
+[DRUCKER] Then you can also work on their skill, because then the nurses are eager to perfect their skill.
+[DRUCKER] Today you have tremendous resistance because the nurses say, so I am learning something new and you so-and-so again won't let me do it. They are discouraged.
+[DRUCKER] On your shelf space in retail, which is both the capital and the critical area, what is the goal?
+[DRUCKER] Is it twice the profitable?

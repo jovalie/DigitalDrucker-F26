@@ -1,0 +1,2961 @@
+{
+ "pointer": "4943",
+ "media": "4943.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2785.2,
+ "segments": [
+  {
+   "start": 2.61,
+   "end": 4.61,
+   "text": "Could I have your attention, please?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 5.25,
+   "end": 7.25,
+   "text": "I think we should begin the proceedings",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 8.19,
+   "end": 10.19,
+   "text": "while you're finishing your",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 10.49,
+   "end": 12.61,
+   "text": "dessert and having your coffee.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 13.65,
+   "end": 18.49,
+   "text": "Before anything begins, is there a John Reeve in the audience?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 20.19,
+   "end": 26.83,
+   "text": "John Reeve, you have a message from your offices which tells you that you must pick up the car at the school.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 29.57,
+   "end": 31.47,
+   "text": "Okay.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 31.47,
+   "end": 33.77,
+   "text": "Very important matter to be dealt with.",
+   "speaker": "other",
+   "drucker_coverage": 0.013
+  },
+  {
+   "start": 40.19,
+   "end": 44.07,
+   "text": "To make sure everyone is clear on our program,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 45.27,
+   "end": 48.85,
+   "text": "Peter will be speaking with you until no later than 2.15",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 48.85,
+   "end": 51.03,
+   "text": "about the future of free enterprise,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 51.55,
+   "end": 55.31,
+   "text": "at which point the day's proceedings are finished",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 55.31,
+   "end": 59.81,
+   "text": "and you are free to return to do whatever you wish to do.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 60.83,
+   "end": 65.17,
+   "text": "I remind you again that tomorrow after tomorrow's session,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 65.35,
+   "end": 66.39,
+   "text": "there will be, after lunch,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 66.51,
+   "end": 69.39,
+   "text": "there will be an hour and a half question and discussion period",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 69.39,
+   "end": 76.35,
+   "text": "There will be no time for questions and discussion in the remainder of this day.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 77.65,
+   "end": 81.57,
+   "text": "So, without further ado, Peter, the future of free enterprise.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 82.09,
+   "end": 91.56,
+   "text": "Thank you very much, Bill.",
+   "speaker": "other",
+   "drucker_coverage": 0.27
+  },
+  {
+   "start": 92.66,
+   "end": 99.06,
+   "text": "And I'm delighted to hear that free enterprise will survive to 2015.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 101.84,
+   "end": 105.5,
+   "text": "That's one of the more optimistic forecasts I've heard.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 105.5,
+   "end": 118.88,
+   "text": "And I mean it. Let me say I recently had reason to go and dig into the social literature around the time World War II broke out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 118.88,
+   "end": 129.06,
+   "text": "And there were very few people in any country who thought it at all remotely possible that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 129.06,
+   "end": 138.46,
+   "text": "free enterprise could survive a world war, let alone the inevitable post-war depression.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 138.46,
+   "end": 143.02,
+   "text": "And as you know, we haven't done so badly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 143.02,
+   "end": 153.42,
+   "text": "And that led me to thinking, to question what explains that these last 45 years in whatever",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 153.42,
+   "end": 161.4,
+   "text": "part of the world the Communists didn't manage to take over, have by and large moved into",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 161.4,
+   "end": 171.4,
+   "text": "a free market or a market economy with a minimum of restrictions on the movement of capital,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 171.4,
+   "end": 176.3,
+   "text": "substantial restriction of the movement of goods and very severe ones of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 176.3,
+   "end": 184.02,
+   "text": "movement of people but capital bear by and large is moving very freely and with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 184.02,
+   "end": 191.4,
+   "text": "certainly in developed countries a freedom of access that was unknown not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 191.4,
+   "end": 198.4,
+   "text": "only in the interwar years but when you go back really by and large even before",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 198.4,
+   "end": 210.48,
+   "text": "world war one uh and one answer is of course performance uh maybe the decisive turning point",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 211.28,
+   "end": 219.04,
+   "text": "was when a german economist who found himself minister of economics under the american",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 219.04,
+   "end": 231.84,
+   "text": "occupation defied his american masters and in 1949 overnight removed all government regulations and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 231.84,
+   "end": 239.28,
+   "text": "restrictions and currency control and rationing in a still starving and impoverished germany",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 239.28,
+   "end": 250.24,
+   "text": "and released uh the uh german economic miracle and another turning point came two years later",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 250.8,
+   "end": 261.28,
+   "text": "maybe three years later when in an occupied germany occupied japan uh a japanese civil servant",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 261.28,
+   "end": 272.02,
+   "text": "whose name was Yoshida, defied his American masters, who were totally don't believe that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 272.02,
+   "end": 274.22,
+   "text": "we were the bearers of free enterprise.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 274.22,
+   "end": 281.6,
+   "text": "In those years, we were the bearers of controlled, planned, government-regulated economies, in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 281.6,
+   "end": 290.46,
+   "text": "part because the then administration we had solved its internal problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 290.46,
+   "end": 301.31,
+   "text": "It could not get through the measures the left wing of the Democrats wanted in economics,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 301.31,
+   "end": 303.81,
+   "text": "and yet it could not get rid of them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 303.81,
+   "end": 310.87,
+   "text": "So it solved the problem by shipping them into power positions in the occupied countries",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 310.87,
+   "end": 318.07,
+   "text": "of Germany and Japan, and they there tried to legislate what the American Congress wasn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 318.07,
+   "end": 324.55,
+   "text": "willing to accept and Japan particularly and here was a Japanese bureaucrat who",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 324.55,
+   "end": 333.23,
+   "text": "defied his American masters and in 52 even before the peace treaty was signed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 333.23,
+   "end": 339.67,
+   "text": "basically removed not government control that's the last thing a Japanese would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 339.67,
+   "end": 346.45,
+   "text": "do but turned around the way government control was exercised as a restraint on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 346.45,
+   "end": 355.75,
+   "text": "business to a support for business. And the Magasa, let me see, but the Korean",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 355.75,
+   "end": 362.71,
+   "text": "War saved that man. Magasa was so angry at him and at this defiance of what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 362.71,
+   "end": 368.35,
+   "text": "everybody knew were the immutable laws of history that he asked for his head.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 368.35,
+   "end": 374.03,
+   "text": "And the Korean War broke out and Magasa was in Korea and too busy to get rid of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 374.03,
+   "end": 382.19,
+   "text": "Mr. Yoshida. Maybe those were the two crucial events, and from there on there is performance,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 382.19,
+   "end": 389.47,
+   "text": "and instead of the post-war collapse, which everybody knew was inevitable, and the 35%",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 389.47,
+   "end": 398.19,
+   "text": "unemployment, we got the fastest and quickest and most comprehensive expansion of the economy,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 398.19,
+   "end": 409.34,
+   "text": "the world economy we have ever seen.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.686
+  },
+  {
+   "start": 409.34,
+   "end": 416.78,
+   "text": "But I think it is clear now that we only postponed the question of the structure of an advanced",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 416.78,
+   "end": 418.54,
+   "text": "industrial economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 418.54,
+   "end": 420.42,
+   "text": "We did not solve it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 420.42,
+   "end": 427.82,
+   "text": "I know this is not what the people in power in Washington today believe, but I think the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 427.82,
+   "end": 435.5,
+   "text": "fact that they are really now batting their heads against the wall is in large measure the result",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 435.5,
+   "end": 442.94,
+   "text": "of their deluding themselves that we have the answers and they're obvious and they're generally",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 442.94,
+   "end": 452.3,
+   "text": "accepted and we are facing a crisis because of our success and when you look at what is the crisis",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 452.3,
+   "end": 461.7,
+   "text": "it is basically a crisis of legitimacy and it's most pronounced in the leading",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 461.7,
+   "end": 470.8,
+   "text": "country that is this country in 1950 or so when we were flush with the first",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 470.8,
+   "end": 478.26,
+   "text": "signs of unbelievable success and I don't think you people can realize how",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 478.26,
+   "end": 486.42,
+   "text": "much success it was and because it was in the few of us who had not accepted",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 486.42,
+   "end": 498.48,
+   "text": "the government gospel not because let me say we were terribly impressed by the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 498.48,
+   "end": 507.62,
+   "text": "ways the market had performed between 1918 and 1938 the market was no blessing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 507.62,
+   "end": 515.78,
+   "text": "but because we were even less convinced that government knew the answers because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 515.78,
+   "end": 521.3,
+   "text": "we didn't think that government knew the questions. Those few of us, and you have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 521.3,
+   "end": 531.84,
+   "text": "no idea how few we were, were terribly, was a period of great elation when you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 531.84,
+   "end": 536.66,
+   "text": "saw what happened in Europe and then you saw a few years later what happened in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 536.66,
+   "end": 543.98,
+   "text": "Japan and a few years later the biggest development boom history has ever known",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 543.98,
+   "end": 549.66,
+   "text": "got going in South America at the risk of offending you South America is a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 549.66,
+   "end": 564.09,
+   "text": "success story of this century and not the failure and so we kind of perhaps in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 564.09,
+   "end": 569.19,
+   "text": "in a fit of arrogance, thought we had found the answer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 569.19,
+   "end": 572.43,
+   "text": "And some of you here may remember.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 572.43,
+   "end": 575.01,
+   "text": "No, I don't think there are many around here that old.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 575.01,
+   "end": 578.67,
+   "text": "That in the early 50s, we concluded",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 578.67,
+   "end": 581.33,
+   "text": "that modern management was good.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 581.33,
+   "end": 584.13,
+   "text": "Many people concluded modern management, especially",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 584.13,
+   "end": 591.89,
+   "text": "in the large corporation, was the first governance",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 591.89,
+   "end": 601.57,
+   "text": "in the world that could really succeed on the basis of performance without being having a boss",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 601.57,
+   "end": 610.85,
+   "text": "without being accountable the shareholders had become so dispersed it wasn't AT&T alone that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 610.85,
+   "end": 616.61,
+   "text": "had more than a million shareholders not one of them owning more than a couple of hundred shares",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 616.61,
+   "end": 630.17,
+   "text": "The same was true of PM, and of all the biggest that they had ceased to count, when so a hard-working,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 630.17,
+   "end": 640.93,
+   "text": "competent management could work on the performance of the business or the institution and do",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 640.93,
+   "end": 648.21,
+   "text": "it by balancing, and in the process balance, the claims and interests of a number of, we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 648.21,
+   "end": 656.31,
+   "text": "call them constituents today, we call them stakeholders, the people who were the financial",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 656.31,
+   "end": 665.27,
+   "text": "investors and the employees and the customers and the suppliers and the communities and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 665.27,
+   "end": 674.71,
+   "text": "community at large and this was gospel and then we did something in full innocence",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 675.83,
+   "end": 682.55,
+   "text": "no not in full innocence with full consciousness on the part of a few of us that we were doing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 682.55,
+   "end": 694.87,
+   "text": "something that would we were sure uh once and for all settle the social problem of the 19th century",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 695.27,
+   "end": 698.37,
+   "text": "We invented the modern pension fund.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 699.71,
+   "end": 705.63,
+   "text": "Now, in this room, there's a representative of a much older version of TIAA, the teachers,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 706.07,
+   "end": 716.41,
+   "text": "who in the 20s solved the problem of the survival of the privately non-governmental educational institution in the U.S.,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 716.41,
+   "end": 722.03,
+   "text": "which was very seriously endangered, by inventing a pension fund",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 722.03,
+   "end": 728.85,
+   "text": "under which a fairly, I wouldn't say minimal, but a bearable burden,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 729.47,
+   "end": 734.19,
+   "text": "a non-governmental, private, non-profit institution",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 734.19,
+   "end": 739.81,
+   "text": "could provide for the future financial security of their people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 740.51,
+   "end": 744.09,
+   "text": "And without that belief, we wouldn't have private universities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 744.09,
+   "end": 754.09,
+   "text": "In a way, when we then, 30 years later, invented the corporate pension fund, there were older",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 754.09,
+   "end": 765.19,
+   "text": "ones around, AT&T had had one for many years, but it was basically, all it did was buy government",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 765.19,
+   "end": 766.19,
+   "text": "bonds.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 766.19,
+   "end": 780.05,
+   "text": "we invented one, General Motors invented it, we tried to copy TIA, and we were defeated.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 780.05,
+   "end": 786.75,
+   "text": "And I was present at what may be a critical turning point, a board meeting at General",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 786.75,
+   "end": 793.63,
+   "text": "Motors in which a proposal by management for its pension fund was turned down under the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 793.63,
+   "end": 798.71,
+   "text": "threat of a strike by the Automobile Workers Union.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 798.71,
+   "end": 800.99,
+   "text": "But that was part of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 800.99,
+   "end": 811.67,
+   "text": "Also under the carrot of a promise by the company's investment banking advisor that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 811.67,
+   "end": 818.69,
+   "text": "the way the stock market was going to go, if you go for a defined benefits pension fund,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 818.69,
+   "end": 821.77,
+   "text": "you would never have to put the penny into the pension fund.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 821.77,
+   "end": 825.83,
+   "text": "The stock market would take care of your employees.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 825.83,
+   "end": 832.49,
+   "text": "And this, amazingly enough, was not the reason why Walter Russo vetoed a defined contributions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 832.49,
+   "end": 833.49,
+   "text": "plan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 833.49,
+   "end": 842.79,
+   "text": "He vetoed it because in any defined contributions plan there is lurking under the bed the possibility",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 842.79,
+   "end": 846.83,
+   "text": "of the employees contributing to the plan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 846.83,
+   "end": 852.53,
+   "text": "And Walter was not willing to settle for anything except something that, from the point of view",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 852.53,
+   "end": 860.37,
+   "text": "of his employees members could be sold as being free we tried to convince him that his members",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 860.37,
+   "end": 866.53,
+   "text": "were more intelligent than that we tried to use the ilzan's argument this morning that even blue",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 866.53,
+   "end": 874.13,
+   "text": "collar workers know where the interests are he didn't believe us and i have an unhappy suspicion",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 874.13,
+   "end": 882.13,
+   "text": "that he was right that they really believe it was free and so we went into a plan which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 882.13,
+   "end": 890.47,
+   "text": "at the time, I don't think we know, we knew, but we suspected that if it worked it would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 890.47,
+   "end": 898.73,
+   "text": "be copied and it would convert, and this was why we wanted it. It would solve the problem",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 898.73,
+   "end": 909.91,
+   "text": "of the 19th century, of the conflict between capital and labor, by socializing ownership",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 909.91,
+   "end": 913.99,
+   "text": "been the large publicly held corporation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 913.99,
+   "end": 916.67,
+   "text": "without nationalizing it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 916.67,
+   "end": 919.33,
+   "text": "And you know, it's been the greatest success",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 919.33,
+   "end": 924.89,
+   "text": "of any social innovation in a very long time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 924.89,
+   "end": 928.69,
+   "text": "And today, as all of you know, the pension funds",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 928.69,
+   "end": 932.71,
+   "text": "are the only real capitalists around.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 932.71,
+   "end": 936.01,
+   "text": "Compared to them, the Hunt brothers or what have you,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 936.01,
+   "end": 941.31,
+   "text": "even the Getty Museum, are very, very poor, almost.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 941.83,
+   "end": 944.19,
+   "text": "I wouldn't say beggars, but lower middle class.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 947.99,
+   "end": 950.25,
+   "text": "I mean, all they can afford is champagne.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 951.27,
+   "end": 957.53,
+   "text": "And I don't know whether you know the famous definition of lower middle class",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 957.53,
+   "end": 962.77,
+   "text": "in the first modern social census, the British census of 1910,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 963.29,
+   "end": 966.65,
+   "text": "the first one that defined socioeconomic status.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 966.65,
+   "end": 969.45,
+   "text": "and the defined lower middle class",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 969.45,
+   "end": 973.75,
+   "text": "as people who can at most afford three servants.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 976.15,
+   "end": 982.23,
+   "text": "So on that basis, I think the Huns probably qualified.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 983.23,
+   "end": 992.59,
+   "text": "And now we have to find the solution",
+   "speaker": "drucker",
+   "drucker_coverage": 0.679
+  },
+  {
+   "start": 992.59,
+   "end": 998.37,
+   "text": "to the problem of the success of this great social innovation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 999.21,
+   "end": 1000.83,
+   "text": "And there are two problems.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1001.77,
+   "end": 1004.43,
+   "text": "And both are equally crucial.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1005.25,
+   "end": 1009.31,
+   "text": "One is that it has not solved the social conflict,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1010.05,
+   "end": 1025.83,
+   "text": "because we have not made the pension fund a vehicle of identification of employee interest and enterprise interest.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1026.49,
+   "end": 1032.78,
+   "text": "The Japanese, at the same time, faced up to the problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1033.02,
+   "end": 1039.98,
+   "text": "and some of their American advisors urged them to go into the pension fund",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1039.98,
+   "end": 1046.14,
+   "text": "and they said no they are now going and they said no because they didn't think",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1046.14,
+   "end": 1052.46,
+   "text": "it would solve the social problem also at that time life expectancies in Japan",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1052.46,
+   "end": 1060.65,
+   "text": "were still so short 47 years that the pension plan would the benefit would be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1060.65,
+   "end": 1068.63,
+   "text": "almost the number of people who would survive to get the pension would be very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1068.63,
+   "end": 1074.81,
+   "text": "low today. Japanese life expectancies, you know, are larger, longer than ours. But the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1074.81,
+   "end": 1081.11,
+   "text": "main reason was that they said after 20 or 30 years in which unemployment in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1081.11,
+   "end": 1092.27,
+   "text": "Japan reached up to 50% in the 30s. Employment security is the first need,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1092.27,
+   "end": 1098.55,
+   "text": "and so they invented or extended lifetime security, which earlier only",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1098.55,
+   "end": 1103.13,
+   "text": "government servants had had, through the rank-and-file, and this is now their",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1103.13,
+   "end": 1112.75,
+   "text": "social problem, but we aren't going today to talk about Japan. And for 30 years it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1112.75,
+   "end": 1117.13,
+   "text": "It did solve the social conflict in Japan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1117.13,
+   "end": 1124.79,
+   "text": "I think when the Japanese, as they now have to, will have to lay off people and admit",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1124.79,
+   "end": 1130.05,
+   "text": "to the unemployment rates, and it's already higher in Japan than it's here in all likelihood,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1130.05,
+   "end": 1136.37,
+   "text": "though it's hidden, the social problem will reemerge with a vengeance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1136.37,
+   "end": 1142.45,
+   "text": "And the reason why I'm not optimistic about Japan is not because the Japanese face very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1142.45,
+   "end": 1150.41,
+   "text": "economic problems those you can trust the Japanese they can face up to but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1150.41,
+   "end": 1156.37,
+   "text": "because they are likely to face again a major social but let's go back to this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1156.37,
+   "end": 1165.02,
+   "text": "country and the pension fund has not solved our social problem and it will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1165.02,
+   "end": 1175.58,
+   "text": "have to especially as we move to a society of non-blue-collar workers people who want to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1175.58,
+   "end": 1184.38,
+   "text": "identify with the enterprise who want to feel that it's my business not i'm an employee and higher",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1184.38,
+   "end": 1196.62,
+   "text": "hand and then the pension fund how do we build the stake of the employee into meaningful participation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1196.62,
+   "end": 1207.1,
+   "text": "and we will have to go back to the model we spent 30 years ago that of teachers who are the only",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1207.1,
+   "end": 1214.14,
+   "text": "major institution in this country which successfully but with very hard work over 50 years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1214.7,
+   "end": 1227.1,
+   "text": "has made its insured its annuity holders uh active participants in the governance of the institution",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1227.1,
+   "end": 1234.46,
+   "text": "to the point where most of us feel that teachers is our organization and i think we will have to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1234.46,
+   "end": 1240.7,
+   "text": "learn to do that in the pension fund, but you can't do it if you have a defined benefit fund,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1240.7,
+   "end": 1249.26,
+   "text": "because then, as all of you know, the results of the pension fund have an immediate major impact",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1249.26,
+   "end": 1257.34,
+   "text": "on annual earnings, so that any management, no matter how far-sighted it wants to be,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1257.34,
+   "end": 1264.2,
+   "text": "is forced to manage in terms of short-term pension fund earnings.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1267.26,
+   "end": 1271.18,
+   "text": "And as a result, we have built into our economy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1271.18,
+   "end": 1277.6,
+   "text": "a total loss of the balance between long-term and short-term.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1278.38,
+   "end": 1284.04,
+   "text": "And you know it is stupid to say that management should be concerned with the long-term.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1284.04,
+   "end": 1292.44,
+   "text": "management's first job is a balance between the two and it's a never-ending job and there is no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1292.44,
+   "end": 1301.46,
+   "text": "formula and just as in the hospital you have said old woman who is very sick and tomorrow we operate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1301.46,
+   "end": 1307.48,
+   "text": "and if the operation is successful there is a good chance that she live another 20 years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1307.48,
+   "end": 1309.16,
+   "text": "and even enjoy it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1309.82,
+   "end": 1312.26,
+   "text": "We get rid of that, whatever it is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1312.66,
+   "end": 1315.18,
+   "text": "Yeah, but first she has to survive the night.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1316.32,
+   "end": 1318.24,
+   "text": "And if she doesn't survive the night,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1318.8,
+   "end": 1322.58,
+   "text": "the most advanced high-tech surgical technology",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1322.58,
+   "end": 1324.26,
+   "text": "doesn't do her much good.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1325.1,
+   "end": 1327.16,
+   "text": "And you have to survive the night",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1327.16,
+   "end": 1330.66,
+   "text": "so that you can survive 20 years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1331.08,
+   "end": 1332.56,
+   "text": "And on the other hand, you know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1333.24,
+   "end": 1335.32,
+   "text": "what's the point of surviving the night",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1335.32,
+   "end": 1337.34,
+   "text": "if by next noon you are dead?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1337.48,
+   "end": 1347.24,
+   "text": "So, you need the balance, and everybody in management knows that almost every decision",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1347.24,
+   "end": 1360.3,
+   "text": "you make is a balanced decision between short-term and long-term, between employee costs today",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1360.3,
+   "end": 1371.1,
+   "text": "and having a management tomorrow between satisfying the banks and cutting back your service to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1371.1,
+   "end": 1378.98,
+   "text": "your customers so that three years hence you'll have satisfied banks, but you won't have customers,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1378.98,
+   "end": 1380.4,
+   "text": "and so on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1380.4,
+   "end": 1382.22,
+   "text": "And you know it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1382.22,
+   "end": 1390.68,
+   "text": "And today we are forced to forget that there is no point in surviving tonight unless you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1390.68,
+   "end": 1393.52,
+   "text": "have a chance for 20 years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1393.52,
+   "end": 1402.24,
+   "text": "But also that the oldest lesson of financial history is that profitability is not the sum",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1402.24,
+   "end": 1403.72,
+   "text": "of profits.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1403.72,
+   "end": 1408.62,
+   "text": "It is distinct and different from profit.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1408.62,
+   "end": 1417.5,
+   "text": "results accumulated do not give you long-term results precisely because all short-term results",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1418.7,
+   "end": 1425.34,
+   "text": "if they are not a balance are a delusion and we are forgetting it and the reason",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1427.02,
+   "end": 1435.98,
+   "text": "and it shows very clearly you know if you ask what are the competitive competitiveness is a buzzword",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1435.98,
+   "end": 1443.26,
+   "text": "but when you look at american performance there is no reason to worry about american competitiveness",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1443.82,
+   "end": 1452.38,
+   "text": "we are doing quite well not a maybe not even b plus but i would say a little better than the b",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1452.38,
+   "end": 1462.94,
+   "text": "minus uh when you look at our exports and that's the percentage of manufacturing production in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1462.94,
+   "end": 1469.42,
+   "text": "world that is contributed by American companies and that's how we are doing in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1469.42,
+   "end": 1476.26,
+   "text": "the gross industries gross industries we do on an a-minus basis by the way and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1476.26,
+   "end": 1482.18,
+   "text": "the Japanese said it's at best c-minus",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1482.7,
+   "end": 1491.66,
+   "text": "no our problem of part first a government surplus that almost demands a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1491.66,
+   "end": 1499.34,
+   "text": "a trade deficit without it we would either have a major depression or raging inflation or both",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1500.94,
+   "end": 1508.94,
+   "text": "and the short-sightedness of management that they whenever a decision has to be made",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1508.94,
+   "end": 1516.86,
+   "text": "sacrifices even the medium-term future to immediate results and has very little choice",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1516.86,
+   "end": 1521.4,
+   "text": "because with the kind of pension plan we have,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1521.98,
+   "end": 1524.4,
+   "text": "here you run the ABC company",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1524.4,
+   "end": 1529.08,
+   "text": "and 80% of your stock is hold by institutions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1529.08,
+   "end": 1533.18,
+   "text": "and if you're an exporter that doesn't show",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1533.18,
+   "end": 1536.86,
+   "text": "what the securities analysts expect,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1537.76,
+   "end": 1541.28,
+   "text": "you'll face a massive sell-off by the institutions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1541.28,
+   "end": 1542.7,
+   "text": "or a hostile takeover.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1543.32,
+   "end": 1546.84,
+   "text": "So where can you squeeze six cents a share out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1546.84,
+   "end": 1554.12,
+   "text": "Well, out of the pension fund, the contribution these days is larger than profits in practically every company.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1554.82,
+   "end": 1562.58,
+   "text": "And so you put pressure on your pension fund managers to do better in this year's stock market,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1563.26,
+   "end": 1568.82,
+   "text": "and they in turn put pressure on the companies which they hold in a vicious circle",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1568.82,
+   "end": 1574.58,
+   "text": "which accentuates the short-term vision and short-term outlook all around.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1574.58,
+   "end": 1584.18,
+   "text": "and the hostile takeover is simply a symptom of this consequence and aggravates it let me say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1584.18,
+   "end": 1591.5,
+   "text": "the aggravated because the pension fund holders pension fund managers being trustees have a legal",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1591.5,
+   "end": 1601.68,
+   "text": "duty to accept the hostile takeover offer whether they think it's good for the company or not he is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1601.68,
+   "end": 1608.44,
+   "text": "is my publisher for many years, Harper and Row,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1608.44,
+   "end": 1611.74,
+   "text": "and they had a hostile takeover.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1611.74,
+   "end": 1616.2,
+   "text": "And these are owner-managers, and they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1616.2,
+   "end": 1619.28,
+   "text": "were very unhappy about selling out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1619.28,
+   "end": 1623.06,
+   "text": "But they are also the managers of the pension fund,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1623.06,
+   "end": 1628.64,
+   "text": "which owns 21% of the stock.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1628.64,
+   "end": 1631.64,
+   "text": "And here is Harper and Row.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1631.64,
+   "end": 1635.18,
+   "text": "selling at the stock exchange for $24 a share,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1635.96,
+   "end": 1638.38,
+   "text": "and Mr. Murdoch offers you $65.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1641.38,
+   "end": 1643.58,
+   "text": "Just assume they had said no,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1644.36,
+   "end": 1648.92,
+   "text": "and six months later the Harper and Rose share would sell at $24,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1648.92,
+   "end": 1652.7,
+   "text": "which is all it can possibly justify",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1652.7,
+   "end": 1657.78,
+   "text": "on the basis of present and potential earnings.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1658.46,
+   "end": 1661.56,
+   "text": "What Murdoch expects to get out of it, I don't know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1661.64,
+   "end": 1668.34,
+   "text": "but it's his money, not mine, but other than prestige.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1669.64,
+   "end": 1674.98,
+   "text": "And he sells the 24, and then any employee of Harper & Bow,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1674.98,
+   "end": 1680.32,
+   "text": "and then the outside shareholder, could have sued a man, the trustees,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1680.78,
+   "end": 1684.84,
+   "text": "for dereliction of duty and would have won triple damages.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1685.34,
+   "end": 1687.52,
+   "text": "This is a breach of fiduciary duty.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1687.94,
+   "end": 1690.62,
+   "text": "But that only aggravates it. It isn't the cause.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1691.64,
+   "end": 1721.64,
+   "text": "And the reason for this is that fundamentally we have created, we have eliminated ownership without a substitute for it because a pension fund isn't an owner. It's barely an investor. It's a speculator. And has to be. And yet it has the title of ownership.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.9
+  },
+  {
+   "start": 1721.64,
+   "end": 1729.52,
+   "text": "And, on the other hand, we have eliminated accountability of management.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1729.52,
+   "end": 1739.66,
+   "text": "It turns out that the old political theory that one has to be accountable for something",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1739.66,
+   "end": 1749.72,
+   "text": "to somebody, or else one is a despot and illegitimate, that still holds, and that good intentions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1749.72,
+   "end": 1759.8,
+   "text": "are no substitute therefore and so if the hostile takeover simply spotlights highlights uh eight",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1759.8,
+   "end": 1769.96,
+   "text": "prices of quality constitutional crisis of basic concepts uh created by success that's always the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1769.96,
+   "end": 1780.34,
+   "text": "toughest now we do know let me see you think one can say that the hostile takeover is a thing of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1780.34,
+   "end": 1792.55,
+   "text": "the past not only because we are going to make it increasingly difficult legally but also because it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1795.52,
+   "end": 1805.11,
+   "text": "rested on asset values not having been adjusted to inflation and that adjustment is largely over",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1805.91,
+   "end": 1813.51,
+   "text": "there are no pickings anymore all that's left is what murdoch did last month to pay 65",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1813.51,
+   "end": 1822.31,
+   "text": "books for something that perhaps you can squeeze it up to where it's worth 30 but that's all you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1822.31,
+   "end": 1830.79,
+   "text": "can possibly do there isn't in a very competitive industry with tremendous over capacity and very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1830.79,
+   "end": 1839.43,
+   "text": "poor distribution there is no way for the leaders to improve their performance you can only take it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1839.43,
+   "end": 1845.27,
+   "text": "away from each other and as all of you have learned you can only take it away from each",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1845.27,
+   "end": 1850.71,
+   "text": "other if you sacrifice profit so that's all there is in this industry that's all that's left",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1852.23,
+   "end": 1858.15,
+   "text": "and those two things will i think very fast put an end to the hostile takeover",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1859.19,
+   "end": 1863.67,
+   "text": "including also the fact that most of the existing uh",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1863.67,
+   "end": 1872.31,
+   "text": "The heritages of the inflationary period have by now been liquidated.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1873.19,
+   "end": 1879.71,
+   "text": "Most of the companies that diversified because they didn't know what to do with their cash",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1879.71,
+   "end": 1885.99,
+   "text": "and it lost value every day have by now divested and spun off.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1885.99,
+   "end": 1891.21,
+   "text": "The great bulk of those things, they have all learned that they don't know how to manage them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1891.21,
+   "end": 1900.47,
+   "text": "One of the wholesome lessons of the last few years is that you can't manage businesses",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1900.47,
+   "end": 1902.67,
+   "text": "by reports and good intentions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1902.67,
+   "end": 1911.2,
+   "text": "You have to know what you are doing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1911.2,
+   "end": 1915.96,
+   "text": "And to know what you are doing, you have to understand the business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1915.96,
+   "end": 1919.1,
+   "text": "And we have learned the lesson again.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1919.1,
+   "end": 1926.46,
+   "text": "this is the third time in my life because i came in as a boy in the aftermath of the european",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1926.46,
+   "end": 1935.37,
+   "text": "inflations and my father who was the leading austrian government servant in the economic sphere",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1935.37,
+   "end": 1940.41,
+   "text": "was asked by the austrian government to leave the government and take over the chairmanship",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1940.41,
+   "end": 1950.09,
+   "text": "of a bank to liquidate the stranded post-inflation whales so for three years i heard nothing else",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1950.09,
+   "end": 1956.41,
+   "text": "around the dinner table when i was 13 or so and then i came in to banking in the 30s",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1957.05,
+   "end": 1964.41,
+   "text": "and made a respectable living and earned a lot of money for my employer by liquidating",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1964.41,
+   "end": 1972.25,
+   "text": "the stranded whales such as insult of the inflation of the 20s and then one learns",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1972.81,
+   "end": 1979.61,
+   "text": "that management have to know what they are doing or they will only make the bank as rich and will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1979.61,
+   "end": 1987.69,
+   "text": "you please accept the fact that they don't need us lawyers accountants and bankers have a much",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1987.69,
+   "end": 1998.01,
+   "text": "more powerful patron they have uncle sam they don't need us uh and so uh we are almost at the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1998.01,
+   "end": 2007.37,
+   "text": "end of the liquidation cycle most of those extravaganzas have faced up to reality and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2007.37,
+   "end": 2017.37,
+   "text": "there are still a few around. Anybody wants to liquidate USX? I think that's going to make",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2017.37,
+   "end": 2022.33,
+   "text": "somebody rich, but it's going to be very hard work. I don't know whether life is worthwhile,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2024.09,
+   "end": 2030.81,
+   "text": "but there are a few around, misbegotten ones that quite clearly cannot possibly work,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2030.81,
+   "end": 2038.97,
+   "text": "but not very many. Most of them are gone or going. And so the hustle takeover is over,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2038.97,
+   "end": 2047.67,
+   "text": "but the problem is there. The problem is because we have two. And let me not talk today about the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2047.67,
+   "end": 2061.23,
+   "text": "pension fund and how we can make it be run for the benefit of its two beneficiaries,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2061.23,
+   "end": 2068.75,
+   "text": "because that's his problem yeah on the one hand the law says unmistakably that the pension fund",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2068.75,
+   "end": 2078.19,
+   "text": "trustees have one fiduciary duty to the future beneficiary and at the same time the law equally",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2078.19,
+   "end": 2086.27,
+   "text": "unmistakably says that any defined benefit fund the management that put in the money is the boss",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2086.27,
+   "end": 2098.69,
+   "text": "and simply because the results of the pension fund immediately affect the results of the company",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2098.69,
+   "end": 2107.21,
+   "text": "for whom the pension fund is a trustee and those two are incompatible and we tried to point this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2107.21,
+   "end": 2118.67,
+   "text": "out in 1950-52 in a series of learned legal papers and nobody listened and it's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2118.67,
+   "end": 2124.55,
+   "text": "pretty obvious and how we are going to solve it I have my prejudices but I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2124.55,
+   "end": 2130.43,
+   "text": "don't know the answer but it's going to be probably solved by the defined",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2130.43,
+   "end": 2139.75,
+   "text": "benefit plan disappearing within two years if you have a stock market",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2139.75,
+   "end": 2146.01,
+   "text": "down there because it was going to be too expensive and believe me there's one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2146.01,
+   "end": 2153.5,
+   "text": "thing about the stock market old JP Morgan who ought to have known was asked",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2153.5,
+   "end": 2160.08,
+   "text": "by a bright young man what he could say about the stock market he said there's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2160.08,
+   "end": 2167.04,
+   "text": "only one thing young man to need to know about the stock market eventually it will always go down",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2169.12,
+   "end": 2180.87,
+   "text": "and so that is wisdom and when it does this for 18 months then most of our defined benefit plans",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2181.67,
+   "end": 2187.67,
+   "text": "will have been converted either dissolved or converted into defined contribution plan and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2187.67,
+   "end": 2191.27,
+   "text": "And we will have solved that problem, not ideally,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2191.27,
+   "end": 2196.29,
+   "text": "but somewhat, and have given up, however, in the process",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2196.29,
+   "end": 2201.29,
+   "text": "the great hope of 30 years ago that the pension plan would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2201.29,
+   "end": 2205.11,
+   "text": "solve the social problem of the 19th century,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2205.11,
+   "end": 2210.89,
+   "text": "the incompatibility of interest between the employer,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2210.89,
+   "end": 2216.03,
+   "text": "the enterprise, not the capital, and the employee.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2216.03,
+   "end": 2218.27,
+   "text": "The capitalists, that's yesterday.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2218.27,
+   "end": 2220.55,
+   "text": "That's the enterprises today.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2220.55,
+   "end": 2222.87,
+   "text": "And I think we will forget it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2222.87,
+   "end": 2226.83,
+   "text": "And that will leave the question of the accountability",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2226.83,
+   "end": 2228.69,
+   "text": "of management.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2228.69,
+   "end": 2234.63,
+   "text": "And let me say we know for what, but we don't know to whom.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2234.63,
+   "end": 2237.81,
+   "text": "For what is reasonably easy?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2237.81,
+   "end": 2240.81,
+   "text": "We know how one makes that balance",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2240.81,
+   "end": 2246.61,
+   "text": "by building into the system the yardsticks and measurements",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2246.61,
+   "end": 2251.97,
+   "text": "that go beyond the immediate short-term bottom line.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2251.97,
+   "end": 2256.28,
+   "text": "We know, and I hope everybody in this room",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2256.28,
+   "end": 2262.2,
+   "text": "knows it, that the short-term bottom line is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2262.2,
+   "end": 2267.72,
+   "text": "capable of infinite manipulation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2267.72,
+   "end": 2270.98,
+   "text": "I hope I'm not the only old accountant in here,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2270.98,
+   "end": 2274.88,
+   "text": "But any old accountant knows that the old story that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2274.88,
+   "end": 2280.02,
+   "text": "ends with the words of the fellow looking for a comptroller,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2280.02,
+   "end": 2284.86,
+   "text": "the one who got the job was, tell me what you needed to be.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2284.86,
+   "end": 2287.6,
+   "text": "The question was, how much is 2 and 2?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2287.6,
+   "end": 2292.14,
+   "text": "And the one who said, tell me how much you needed to be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2292.14,
+   "end": 2292.94,
+   "text": "got the job.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2292.94,
+   "end": 2294.92,
+   "text": "He was the accountant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2294.92,
+   "end": 2301.73,
+   "text": "The other one was a statistician who said,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.853
+  },
+  {
+   "start": 2301.73,
+   "end": 2307.05,
+   "text": "2 and 2 is 3.9 with 80% probability.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2307.05,
+   "end": 2311.33,
+   "text": "And then there was a long range planner.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2311.33,
+   "end": 2314.15,
+   "text": "But the accountant was the one who says, tell me",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2314.15,
+   "end": 2317.03,
+   "text": "how much you need it to be.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2317.03,
+   "end": 2318.85,
+   "text": "Always the short term.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2318.85,
+   "end": 2325.19,
+   "text": "The bottom line is there is not a very dependable measurement",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2325.19,
+   "end": 2327.49,
+   "text": "of anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2327.49,
+   "end": 2331.49,
+   "text": "And that's why old financial people like me",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2331.49,
+   "end": 2338.6,
+   "text": "start reading an annual report from the back, where the flow of funds statement is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2338.6,
+   "end": 2349.16,
+   "text": "That's not so easy to fake. It's a necessary, but by no means a conclusive measurement.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2349.8,
+   "end": 2357.96,
+   "text": "And we know that market standing, performance as innovator, and productivities",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2359.0,
+   "end": 2363.24,
+   "text": "are the ones in which short range and short and long range are balanced.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2363.24,
+   "end": 2371.76,
+   "text": "and therefore if you build them into your system you have reasonably reliable",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2371.76,
+   "end": 2378.84,
+   "text": "guideposts so we know what management should be accountable for but to whom",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2378.84,
+   "end": 2386.42,
+   "text": "and how for a long time a good many of us in preaching said you need an",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2386.42,
+   "end": 2394.16,
+   "text": "effective board and a few of you have worked on it and the ones who have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2394.16,
+   "end": 2401.38,
+   "text": "worked on it are better off he says so far an effective board has been the only",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2401.38,
+   "end": 2407.12,
+   "text": "defense real defense against the hostile takeover because they can mobilize a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2407.12,
+   "end": 2417.26,
+   "text": "community but it is not adequate and how do you build accountability into whom",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2417.26,
+   "end": 2430.83,
+   "text": "for the survival of the enterprise as a growing concern which in which is also",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2430.83,
+   "end": 2440.23,
+   "text": "the most gives you the highest return on the investment you all have heard that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2440.23,
+   "end": 2447.17,
+   "text": "nine out of ten of companies that have been taken over do less well a year",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2447.17,
+   "end": 2450.23,
+   "text": "after than they did when they were taken over.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2450.23,
+   "end": 2452.45,
+   "text": "The figure is closer to 100.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2452.45,
+   "end": 2459.29,
+   "text": "There are almost no exceptions of a hostile takeover, because the hostile takeover has",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2459.29,
+   "end": 2468.27,
+   "text": "to run the business for the very short term so that the takeover artist can repay himself",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2468.27,
+   "end": 2471.25,
+   "text": "and pay off that bank loan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2471.25,
+   "end": 2480.01,
+   "text": "And then he has to milk the business, and within a year, profits go down.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2480.01,
+   "end": 2491.13,
+   "text": "So we know that this is not the road to give the shareholder optimum or maximum returns,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2491.13,
+   "end": 2496.85,
+   "text": "even though if you leave out the short term, you also rob the shareholder, but you rob",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2496.85,
+   "end": 2497.85,
+   "text": "everybody.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2497.85,
+   "end": 2502.87,
+   "text": "So we know how to balance it, but we don't yet know how to build this accountability",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2502.87,
+   "end": 2503.87,
+   "text": "in.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2503.87,
+   "end": 2509.45,
+   "text": "This is the question of the rest of this century.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2509.45,
+   "end": 2514.91,
+   "text": "It is most acute in this country because we lack the buffers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2514.91,
+   "end": 2524.77,
+   "text": "If you look at Japan and Germany, the real power is not exercised by stockholders and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2524.77,
+   "end": 2525.77,
+   "text": "not by management.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2525.77,
+   "end": 2534.05,
+   "text": "It's exercised by banks, by commercial banks, whose main interest is not in the dividend",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2534.05,
+   "end": 2541.71,
+   "text": "or the capital gains, but in the commercial business of that company.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2541.71,
+   "end": 2548.81,
+   "text": "Here is the largest bank of Europe, continental Europe, the Deutsche Bank, and almost more",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2548.81,
+   "end": 2555.63,
+   "text": "than one-third of its total revenue comes from one account, its Siemens.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2555.63,
+   "end": 2561.17,
+   "text": "And they directly and indirectly control 70 percent of Siemens stock.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2561.17,
+   "end": 2570.17,
+   "text": "But I don't think they even look at the stock price, because about four-fifths of that income",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2570.17,
+   "end": 2576.67,
+   "text": "is the commercial worldwide business of Siemens, such mundane things as letters of credit for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2576.67,
+   "end": 2581.31,
+   "text": "exports of X-ray machinery.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2581.31,
+   "end": 2586.05,
+   "text": "And so the bank has no interest in short-term returns.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2586.75,
+   "end": 2593.05,
+   "text": "It is concerned with the market standing and the basic soundness of Siemens.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2593.05,
+   "end": 2595.13,
+   "text": "And the same is true in Japan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2596.43,
+   "end": 2603.35,
+   "text": "And so these two countries, in a way, have not legally, the banks don't exist,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2603.35,
+   "end": 2609.39,
+   "text": "but an actual constitutional authority there which looks at a business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2609.39,
+   "end": 2615.85,
+   "text": "in terms of its long-term and short-term, of its financial returns",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2615.85,
+   "end": 2618.95,
+   "text": "and its financial strength, of its market,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2619.49,
+   "end": 2627.41,
+   "text": "because it is, in fact, the first thing Deutsche Bank looks at Siemens is market standing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2627.41,
+   "end": 2633.03,
+   "text": "because half of that Siemens profit is financing Siemens sales.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2633.35,
+   "end": 2641.11,
+   "text": "financing, Siemens, export business, and so that's where the great bulk of the profit",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2641.11,
+   "end": 2642.47,
+   "text": "comes from.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2642.47,
+   "end": 2648.73,
+   "text": "And so markets standing, as far as Deutsche Bank and Siemens are concerned, are more important",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2648.73,
+   "end": 2651.77,
+   "text": "than the profit margin, far more.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2651.77,
+   "end": 2659.49,
+   "text": "And that gives you a balanced view, maybe too conservative, too long-range.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2659.49,
+   "end": 2665.51,
+   "text": "The Japanese and the Germans have rightly been accused of being too much concerned with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2665.51,
+   "end": 2666.51,
+   "text": "the long term.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2666.51,
+   "end": 2672.77,
+   "text": "Also, let me say their shareholders have done much better than ours, far better, but three",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2672.77,
+   "end": 2675.37,
+   "text": "times as well.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2675.37,
+   "end": 2680.99,
+   "text": "So maybe it isn't quite too unbalanced.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2680.99,
+   "end": 2692.82,
+   "text": "But in this country, where the intermediary is not a commercial banker, but a short-term",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2692.82,
+   "end": 2698.56,
+   "text": "speculative investor, we face that problem nakedly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2698.56,
+   "end": 2704.24,
+   "text": "And in the next month or so, hostile takeover is out of the way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2704.24,
+   "end": 2711.14,
+   "text": "And within a short period, it'll be something people write PhD theses about, which is always",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2711.14,
+   "end": 2720.58,
+   "text": "a clear sign that it has no nothing more to tell us and when the short run uh after that we will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2720.58,
+   "end": 2728.9,
+   "text": "tackle the problem to whom for what we know the answer to though very few management yet really",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2728.9,
+   "end": 2735.54,
+   "text": "have equipped themselves with the instrumentation board the measurements they need they're using",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2735.54,
+   "end": 2745.3,
+   "text": "them fitfully but they are learning but to whom and through what agency and there is a grave danger",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2745.3,
+   "end": 2752.26,
+   "text": "that in the next crisis whether it's depression or inflation we will see government moving into",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2752.26,
+   "end": 2764.1,
+   "text": "that spot as it has in sweden where boards are basically government appointees or today in japan",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2764.1,
+   "end": 2769.1,
+   "text": "there is a struggle for power between the banks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2769.1,
+   "end": 2775.78,
+   "text": "If you want to understand Japanese politics, the domestic accepted that the real issue",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2775.78,
+   "end": 2778.8,
+   "text": "is one that isn't being mentioned.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2778.8,
+   "end": 2781.18,
+   "text": "It is that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 27.65,
+ "created_utc": "2026-09-20T22:50:08+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

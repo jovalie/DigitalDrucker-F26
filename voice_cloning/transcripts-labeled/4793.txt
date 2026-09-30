@@ -1,0 +1,521 @@
+[OTHER] Good morning. On behalf of the Graduate School of Business Administration of New York University, I'd like to welcome you all to day number two of the annual Peter F. Drucker Symposia.
+[OTHER] It's especially gratifying to see many of the same faces that we had here yesterday morning.
+[OTHER] I'm Professor Tom Gladwin, who will be standing in for Dean Robert Hawkins, who was up here yesterday morning.
+[OTHER] I'll be serving as the moderator of this morning's affairs.
+[OTHER] Our format today is a bit different from what we did yesterday
+[OTHER] in that we'll be splitting up the symposium this morning into two parts.
+[OTHER] The bulk of the morning will be devoted to the topic of managing the increasing complexity of large organizations
+[OTHER] with our principal speaker, Peter F. Drucker, followed by our panelist, William F. May.
+[OTHER] You're all encouraged to submit questions on the cards that have been provided
+[OTHER] that we will direct to the speakers after our coffee break.
+[OTHER] So be sure on the way out to the coffee break
+[OTHER] that you drop these into the hands of Madeline Stanley.
+[OTHER] After coffee, we'll come back in for about an hour or so of questions and answers,
+[OTHER] and then we'll allow Peter to wind up the two-day symposia
+[OTHER] with a solo talk entitled Toward the Next Economics.
+[OTHER] We'll then head over to the World Trade Center for our cocktails and lunch.
+[OTHER] That is our format for the morning.
+[OTHER] Our well-known speakers up here, of course, need very little in the way of introduction.
+[OTHER] Bill May is the dean of our Faculty of Business Administration here at NYU,
+[OTHER] who joined us last fall after serving 15 years as chairman and chief executive officer of the American Can Company.
+[OTHER] He's a prize acquisition.
+[OTHER] He will be responding to Peter's thoughts on the management of increasing organizational
+[OTHER] complexity, a topic which is certainly important to virtually every organization that is represented
+[OTHER] in the room today.
+[OTHER] What do we mean by this complexity?
+[OTHER] What internal and external factors are really bringing it about?
+[OTHER] challenges does this complexity pose for organizational design, coordination and
+[OTHER] control, information processing, and so on? What new approaches are there for coping
+[OTHER] and dealing effectively with this organizational complexity? Well, without
+[OTHER] further delay, let me turn the floor over to a man that most of you were
+[OTHER] introduced to yesterday morning. I give you that distinguished educator, that
+[OTHER] prolific author that much sought after advisor and that foremost philosopher of
+[OTHER] American society that we've all come to hear Peter F Drucker thank you Tom
+[DRUCKER] Gladman but I hope you don't mind if I immediately correct the chairman you
+[DRUCKER] know one doesn't do it the most important thing about me I am and hope
+[DRUCKER] to continue for many years a member of the Faculty of GBA and very proud about
+[DRUCKER] about it a bit, and very happy and therefore very, very grateful to be allowed to come
+[DRUCKER] back here. And by the way, we have already decided that I should come back next year,
+[DRUCKER] but we haven't decided topics yet. But we have picked a topic for the 1984 Symposium.
+[DRUCKER] is, is there a cure against persistent deflation? So there are still some optimists around.
+[DRUCKER] Our first topic here today, maybe the way to start it is to tell you an anecdote. Last
+[DRUCKER] week, I had three days at home. By the way, will you please, if you have any trouble hearing
+[DRUCKER] me, shout louder and not wait till the break? I can't judge it from here. Can you all hear?
+[DRUCKER] How about you in the back row, that lady with the earrings? Yeah, good. Thanks.
+[DRUCKER] About last week, I had three days with old friends, the top management of one of the
+[DRUCKER] world's largest banks which is in the process of succession and that particular bank has a long
+[DRUCKER] tradition of a one top man very strong chief executive and we sat down and my old friends
+[DRUCKER] the chief executive said we do not know how we are going to structure top management after i retire
+[DRUCKER] but we do know one thing there is going to be no successor to me we can no longer have a chief
+[DRUCKER] executive and we have to think through how we build a team with a presiding officer and even
+[DRUCKER] we are not even sure whether that's a permanent function or whether we follow the swiss who
+[DRUCKER] elect a chairman from the eight department heads each year maybe for a three year term we don't
+[DRUCKER] know we do not understand it and we wrestled with it three days and we are going to since we have
+[DRUCKER] five years we are going to wrestle with it a few more times but it is a very important story
+[DRUCKER] because this is a man who is convinced and committed to the idea of the chief executive
+[DRUCKER] officer and yet and they're very successful tenure when he leaves the bank in a few years
+[DRUCKER] he will leave behind a very different bank from the one who took over and a very much
+[DRUCKER] more important and bigger one and yet somehow the complexity does not fit the traditional lines
+[DRUCKER] and one reason for this is not that the structures have become so much more complex
+[DRUCKER] but that we have neglected the second approach to what to call it to governance which is traditional
+[DRUCKER] the last 30 years you know if you look at the history of political theory and basically
+[DRUCKER] when we talk organization structure we are talking governance and political theory uh
+[DRUCKER] there are two strands in western the western tradition one is the constitutionalist one
+[DRUCKER] which basically says what are the right laws so that even mediocre people can function
+[DRUCKER] and so that the evildoers are at least confined and the other one which went by the name of
+[DRUCKER] of the education of the Christian prince,
+[DRUCKER] so it also goes back to the Greeks and before,
+[DRUCKER] says how do we form the rulers
+[DRUCKER] so that even if there are turbulent times
+[DRUCKER] and the rules aren't clear,
+[DRUCKER] we get the best there is
+[DRUCKER] and we get virtue into the system and leadership.
+[DRUCKER] And in the last 30 years,
+[DRUCKER] we have emphasized the constitutional approach.
+[DRUCKER] Let me say this is normally in this country where business basically started out taking its structural concepts from the American Constitution.
+[DRUCKER] If you look at our organization theory, it is tremendously influenced by the Constitution, for better or worse.
+[DRUCKER] Largely for better, because at least it preaches their need to think through the limitations of power.
+[DRUCKER] But not entirely. And we have had some approaches that are opposite, that start out with how do we form people.
+[DRUCKER] Some of you may be old enough to remember that I once was considered a pioneer of human relations,
+[DRUCKER] relations, which was an attempt to offset somewhat the constitutionalist approach, with
+[DRUCKER] an approach on the formation of people and of their relationships, and there is organization
+[DRUCKER] development. But let's face it, those two things haven't worked. They have been minor
+[DRUCKER] corrections. They never became mainstream. And now we will have to look at the formation
+[DRUCKER] of people very seriously simply because for some of the problems we have to solve there
+[DRUCKER] is no other way. Let me give you an example. Increasingly we will have multinational companies
+[DRUCKER] in which the was the 19th century if you look at our multinationals today they are most of
+[DRUCKER] the 19th century in their structure with a parent company in the home country
+[DRUCKER] and with subsidiaries which even if they manufacture manufacture the same products
+[DRUCKER] for their own home market and increasingly you get
+[DRUCKER] what to a good pedantic orthodox organization man like myself are
+[DRUCKER] strictly incest incestuous relationships in which the design may come out of
+[DRUCKER] Detroit or the specs come out of Detroit the design comes out of Germany their
+[DRUCKER] body comes out of Brazil and said transmission out of Mexico the fiesta
+[DRUCKER] the ford fiesta or if you look at the ibm office products or if you look at the shoes you are
+[DRUCKER] wearing which are the result of production sharing in which fundamentally resources are organized not
+[DRUCKER] in terms of products but in terms of stages of production with labor intensive work done where
+[DRUCKER] where the labor is designed and where the market is or the technology,
+[DRUCKER] with a lot of the technology done where the technologists are.
+[DRUCKER] And let me say, technologists are proving remarkably resistant to migration.
+[DRUCKER] It is for reasons which may be good or bad.
+[DRUCKER] But those French specialists in veterinary medicine, which is the strongest French pharmaceutical
+[DRUCKER] tradition, prefer to work in a research lab on the Loire to working in Hoboken.
+[DRUCKER] I can't figure it out, but they do.
+[DRUCKER] And you can't get them to move, or even to New London, Connecticut.
+[DRUCKER] And so you have to do the research where the researchers are.
+[DRUCKER] no longer true as it was in the 50s that researchers were so badly paid in
+[DRUCKER] Germany or Austria or Japan that they only too gladly took that job in Peoria.
+[DRUCKER] They don't anymore and though you will have to think through how you organize
+[DRUCKER] and integrate not components but stages and the product is sold where the
+[DRUCKER] customers are which are likely to be developed countries and then that
+[DRUCKER] subsidiary you have in France is not the traditional one but even more
+[DRUCKER] difficult is a subsidiary in Colombia where if you're a pharmaceutical company
+[DRUCKER] Colombia is a developed market let me see the only industry for which
+[DRUCKER] developing countries are fully developed markets are the pharmaceutical for the
+[DRUCKER] simple reason that pharmacy is the only part of modern health care a very poor
+[DRUCKER] country can really afford. It's the cheapest part and it has 60% of the job.
+[DRUCKER] And so Colombia spends proportionately more per capita on prescription drugs
+[DRUCKER] than most developed countries. And yet it's a small market because the small
+[DRUCKER] population and only the urban population roughly similar to one good sales
+[DRUCKER] district in a developed country let's say Manchester or Kansas City and yet
+[DRUCKER] that head of your subsidiary there has to be a distinguished man because you
+[DRUCKER] matter greatly so it probably is the most distinguished medical
+[DRUCKER] administrator, former dean of the medical school and minister of health and he has
+[DRUCKER] to be an equal because you negotiate with the government and not with the
+[DRUCKER] elderly Catholic nun who buys drugs for Mercy Hospital. How does he relate to the
+[DRUCKER] top? And you need his input. He's a very distinguished man, very few of that
+[DRUCKER] caliber you could get into your own organization. How do you structure him?
+[DRUCKER] And so you have all kinds of new complexities which make the simple traditional structures very hard.
+[DRUCKER] And then one has to say, first we need new structural principles.
+[DRUCKER] Now the answer to it is, we ain't got none.
+[DRUCKER] We have patchwork.
+[DRUCKER] We had, in the history of organization, two very simple principles.
+[DRUCKER] One is only around 1911, the functional organization of a manufacturing company.
+[DRUCKER] And the other one came shortly thereafter, pure DuPont Alfred Sloan, and then I codified
+[DRUCKER] it the federal decentralization.
+[DRUCKER] And they work where they work, like a charm.
+[DRUCKER] they have strict requirements and severe limitations and when you go beyond it
+[DRUCKER] and almost every organization today goes beyond whether you talk of you know when
+[DRUCKER] I first knew the Bell telephone system it was beautifully organized and very
+[DRUCKER] simple good operating companies and 98% of their business was within their
+[DRUCKER] territory because in those days 98% of all calls and 98% of all revenues were
+[DRUCKER] local calls nobody had heard of computer transmission or what-have-you all right
+[DRUCKER] you transmitted radio programs by cable not your TV programs and today if you
+[DRUCKER] look at it you uncle Sam you know that you know
+[DRUCKER] Rookers law, don't you? That when Uncle Sam brings an antitrust suit, the problem
+[DRUCKER] is over. Uncle Sam brought the trust suit against IBM punch card
+[DRUCKER] monopoly in 1949, and it brought the suit against ATT's telecommunication
+[DRUCKER] monopoly in 1968, always when it's over. Uncle Sam tries to rewrite history. So
+[DRUCKER] So it's infallible, never failed.
+[DRUCKER] And so when you look at it today, and you all know the telephone system
+[DRUCKER] is desperately trying to reorganize itself into regulated and non-regulated
+[DRUCKER] and quasi-regulated businesses.
+[DRUCKER] But when actually you have no longer a local system that's interconnected
+[DRUCKER] with a long-distance system with local peripherals, is the right word.
+[DRUCKER] The old organization cannot work, and doesn't.
+[DRUCKER] And how do you organize?
+[DRUCKER] And we don't know the answers, we know patchwork,
+[DRUCKER] and we will all have to live with things which quite clearly are full of friction
+[DRUCKER] and present problems, simulated decentralization,
+[DRUCKER] such as the process industries pioneered when Bill May ran CanCo.
+[DRUCKER] I think he pioneered here the process one, you know, the one thing you can get out of a glass kiln is glass,
+[DRUCKER] no matter what you try.
+[DRUCKER] And yet it goes into God knows how many markets or cans.
+[DRUCKER] And so you have to simulate decentralization,
+[DRUCKER] which I think if Bill were to write a definitive work on transfer pricing would be a wonderful work,
+[DRUCKER] except that nobody would believe it, because it's much too complicated.
+[DRUCKER] And there is no right way of doing it.
+[DRUCKER] And yet you have to do it, or you can't give people any responsibility.
+[DRUCKER] and or take the increasing need to operate with two technologies at the
+[DRUCKER] same time you know a good many high technology companies are have one foot
+[DRUCKER] in electricity and one in electronics and it doesn't work the demands
+[DRUCKER] especially the lead times are so different and how do you organize and so
+[DRUCKER] we have it do a great deal of patchwork and we understand it let me see in
+[DRUCKER] retrospect we understand why the Japanese are organized the way they are
+[DRUCKER] because modern Japan industry had a problem of being in two cultures at the
+[DRUCKER] same time the old one pre-meiji pre-1867 which is still the old suppliers and so
+[DRUCKER] on and then you import it from the west of modern corporate structure and then
+[DRUCKER] you build groups then you build a center with satellites in which you have
+[DRUCKER] usually none or very little ownership relationship but a great deal of joint
+[DRUCKER] strategy and and mutual loyalty and yesterday one of the gentlemen this
+[DRUCKER] morning said yesterday you talked about Toyota being so illiquid how come they
+[DRUCKER] have no debt on their balance sheet indeed they don't have a penny of debt
+[DRUCKER] on their balance sheet but they have guaranteed seven times their capital as
+[DRUCKER] loans bank loans to their suppliers which don't show on their balance sheet
+[DRUCKER] but which if you read carefully the annual report you'll find it there it's
+[DRUCKER] not it's not even mentioned in an accountant's footnote but you can piece
+[DRUCKER] it together and that's the way it works and you have a group and those suppliers
+[DRUCKER] have had their own management succession for five generations and yet they are in
+[DRUCKER] part of Toyota and Toyota is in back of them now I don't think we go into
+[DRUCKER] building what is clearly a clan structure but we are probably despite
+[DRUCKER] antitrust going into doing something that the Germans called a group like
+[DRUCKER] Siemens simply because it works better if you look at that head of the second
+[DRUCKER] largest company in medical electronics is Siemens the largest is GE and whereas
+[DRUCKER] the GE, you have an X-ray department. At Siemens, you have a company in medical
+[DRUCKER] electronics. 40% of the shares are which are publicly traded, which means the same
+[DRUCKER] bank holds them, that holds Siemens. And the president of that electronics
+[DRUCKER] company is a president with a board of management and a supervisory board, which
+[DRUCKER] is only half Siemens. And he has a very different status from the GE department manager or group
+[DRUCKER] vice president. And it's not only that he has a different status in the industry,
+[DRUCKER] he negotiated the purchase of the
+[DRUCKER] the CAT scanner from the English till he was ready to sign and then he went to his board.
+[DRUCKER] He did not, he discussed it with them as a matter of strategy but that was then his business
+[DRUCKER] and yet how does he keep in step and so we have new problems and let me say we will have
+[DRUCKER] to rediscover the education of the Christian prince
+[DRUCKER] by the way the great masterpiece of that tradition
+[DRUCKER] is Machiavelli's Prince, both the climax
+[DRUCKER] and the reduction to absurdity.
+[DRUCKER] But Madison, in his comments on the federalist comments,
+[DRUCKER] is in that tradition, too.
+[DRUCKER] It's not defunct.
+[DRUCKER] And Henry Adams' education of Henry Adams,
+[DRUCKER] it's an old and honorable tradition.
+[DRUCKER] and we have forgotten, we have neglected it.
+[DRUCKER] When I first started, it was still very strong in the 30s.
+[DRUCKER] And then because we had such a big job of architecture to do,
+[DRUCKER] of organizational work, we forgot it.
+[DRUCKER] So let me point out some of the things we know.
+[DRUCKER] Yesterday, Bob Hawkins, in one of his comments,
+[DRUCKER] alluded to the Japanese habit
+[DRUCKER] of rotating people on their way up, regardless of their background,
+[DRUCKER] where we, after, he said, a short period,
+[DRUCKER] tend to pop them into a function and keep them.
+[DRUCKER] Neither statement is literally true.
+[DRUCKER] The Japanese don't do what he said they do.
+[DRUCKER] In fact, they have growing resistance to it from their own technical people.
+[DRUCKER] Young Japanese engineers do not accept, without great screaming, a stint in personnel or a stint in accounting.
+[DRUCKER] They say, damn it, I want to do engineering work.
+[DRUCKER] And between you and me, Japanese data processors are no more willing to become members of the human race than American data processors.
+[DRUCKER] But there is something to it. One of the funniest things about Japan is that you have to have
+[DRUCKER] a university degree from a good university, be at the top of your class, but Japanese
+[DRUCKER] employers, whether management or government, assume that one learns absolutely nothing
+[DRUCKER] in the university. It's a more realistic assumption than ours, more nearly realistic, so that
+[DRUCKER] they start all over again. And that part of that exposure. But there is something you
+[DRUCKER] have, and also of course since nobody usually leaves the employer of a company and nobody
+[DRUCKER] joins, the group has grown up together and it worked together and got drunk together
+[DRUCKER] and so on, but it has been exposed and it substitutes for what you and I would consider
+[DRUCKER] a very sloppy organization in many cases, by that personal network, by having grown
+[DRUCKER] up together, by knowing the facets of the business.
+[DRUCKER] Now, they have severe limitations, let me say.
+[DRUCKER] Promoting only from within is just as bad as promoting only from without.
+[DRUCKER] Well, it's better, but one needs to bring in people from the outside into middle management positions or an
+[DRUCKER] organization becomes ingrown very rapidly
+[DRUCKER] but
+[DRUCKER] There is this looking at it and for the multinational
+[DRUCKER] When you know when national cash, which is one of our oldest multinational
+[DRUCKER] brought in the first non-American as chief executive officer,
+[DRUCKER] Mr. Anderson, who is now chairman.
+[DRUCKER] He shocked those people at NCR
+[DRUCKER] by looking at getting a roster of all the younger people
+[DRUCKER] in NCR organizations from all over the world,
+[DRUCKER] 59 countries, management and technical people,
+[DRUCKER] people in their late 20s,
+[DRUCKER] and said, I want one quarter of them
+[DRUCKER] within the next five years to work in another country,
+[DRUCKER] their next promotion has to be outside their country.
+[DRUCKER] And there are many of them in the United States and in Dayton.
+[DRUCKER] So that they aren't like me.
+[DRUCKER] When I got to the top in Tokyo, I did not know my way around Dayton.
+[DRUCKER] I didn't know anybody in Dayton.
+[DRUCKER] I hadn't worked with anybody.
+[DRUCKER] When I needed something from head office, I had to go through channels.
+[DRUCKER] And you all know what that means.
+[DRUCKER] It may get up there, but does it ever come back?
+[DRUCKER] And this, let me see, at the same time, in the multinational, you will not be able to
+[DRUCKER] remove all the people.
+[DRUCKER] Most of you know the name of Jacques-Maison Rouge, who very largely built IBM International,
+[DRUCKER] the World Trade Corporation, and who refused at the end, after 10 years in this country,
+[DRUCKER] the job of vice chairman of whatever the top multinational job is, and is in Paris as chairman
+[DRUCKER] of the World Trade Corporation and head of Europe and Asia and who said that my children
+[DRUCKER] are now reaching the point at which they have to decide whether they want to be Frenchmen
+[DRUCKER] or Americans and they want to be Frenchmen and then I can't live in the United States.
+[DRUCKER] And he was, what, 45, which is the age at which your children, now, if you're a Frenchman,
+[DRUCKER] university counts.
+[DRUCKER] You can go to a French school in New York, but you have to go to a French university.
+[DRUCKER] If you're Japanese, that's first grade.
+[DRUCKER] If you're an Englishman, excepted, that's prep school.
+[DRUCKER] And so, excepted that you will have to look at your management people, where it's limits
+[DRUCKER] It's a mobility, transnational mobility, that are rooted in very genuine values.
+[DRUCKER] And don't make the typical mistake of managers to believe that there is only one value system
+[DRUCKER] and it's that of the corporation.
+[DRUCKER] That is a hollow man with only one value.
+[DRUCKER] And whatever the system is, if it's only one system, he's a hollow person.
+[DRUCKER] So what is the value system?
+[DRUCKER] And to have your children grow up with roots in a culture that is a legitimate thing, particularly
+[DRUCKER] for a Japanese who feels that outside of Japan they will never be accepted.
+[DRUCKER] There will always be foreigners or nieces and sances taking the sex of their generation
+[DRUCKER] rather than 100% Americans or let alone 100% Germans.
+[DRUCKER] Can you see that?
+[DRUCKER] So the young ones, before the children reach that age, you need to build a multinational
+[DRUCKER] core.
+[DRUCKER] Let me say, I discussed it the other day with one of my friends amongst the big eight accounting
+[DRUCKER] firms, and that's becoming a very real problem because as the firm has grown very big, their
+[DRUCKER] name on the door is the same, but how do you maintain the cohesion?
+[DRUCKER] But the only way to do it is to take that young CPA at age 26, who shows anything between
+[DRUCKER] his ears except a balance sheet, and move him from the office in Worcester, Mass., to
+[DRUCKER] Lima, Peru, for a few years, and back around.
+[DRUCKER] At that age, people like to move, it's an adventure.
+[DRUCKER] Even if they are married, they are still mobile.
+[DRUCKER] And so, we will have to work very hard at building a corporate culture, if you want
+[DRUCKER] to call it that, but to do it early.
+[DRUCKER] And let me say, you will have to realize that organization is not mechanical.
+[DRUCKER] We try to build our organizations as close to mechanical models as possible, for the
+[DRUCKER] simple reason that it's simple.
+[DRUCKER] But this is fine when you assume, as we did, and the most extreme example of this is the
+[DRUCKER] first one who really, the two ones who came to grips with organization and work, Frederick
+[DRUCKER] Taylor and Henri Fayol, both assumed that you know what you are doing.
+[DRUCKER] You know, a coal mines coal, it's obvious, doesn't it?
+[DRUCKER] Taylor when he looked at what the sand shoveler was doing assumes that we know what we are doing.
+[DRUCKER] When you are in a period in which the real challenge is to decide what you're doing and
+[DRUCKER] to find out whether it's technological change or market change, then you can't assume that
+[DRUCKER] the work is given. And then the one axis of organization in which you see you need a skeleton
+[DRUCKER] and all of you know a land animal that's more than six inches tall needs a skeleton, can't be
+[DRUCKER] held together by hardened skin anymore. And the organization chart with its lines of authority
+[DRUCKER] and it's reporting is a skeleton. Now, we always had some problems with that. As you know,
+[DRUCKER] you all know that if you have a divisional structure, the relationship between your
+[DRUCKER] corporate controller and divisional controllers is not a simple one and can't be decided one way or
+[DRUCKER] another. You all know that when you get to technology, it doesn't work if you have
+[DRUCKER] coordinating groups and it doesn't work any other way you all know but by and
+[DRUCKER] large we try to organize around the skeleton what was information coming in
+[DRUCKER] as a form of energy information is energy and let me say by the way it is a
+[DRUCKER] a shift as energy to information as energy. That is a major element in the
+[DRUCKER] present transition to the low entropy. Information is very low entropy energy.
+[DRUCKER] And incidentally, unlike other energy, infinitely storable. Totally different in
+[DRUCKER] it, but it's energy. When you have that, then you have for the first time energy
+[DRUCKER] transformed, transferred from the crude process of making things to all work,
+[DRUCKER] including that of the manager. And the moment you have a console on your disk
+[DRUCKER] and you can plug into your data bank, the old organization structure collapses.
+[DRUCKER] Because you then need, you know, if you look at our body, we have not
+[DRUCKER] one system, but it doesn't. Interrelated but autonomous. The skeletal and the
+[DRUCKER] musculature is one, but we have several nervous system in the circulatory and
+[DRUCKER] then ingestive, digestive, and then inhaling, respiratory, and the procreative
+[DRUCKER] and so on. They are all interrelated, but they are autonomous. And you can look at
+[DRUCKER] the body as organized, there aren't any one of them, and you have to, which is when
+[DRUCKER] When you look today at how anatomy is taught in the medical school, yes, you still begin
+[DRUCKER] with dissection, which focuses on skeletal and musculature.
+[DRUCKER] But you end it.
+[DRUCKER] For example, my brother went to medical school 50 years ago.
+[DRUCKER] You end it there.
+[DRUCKER] No longer.
+[DRUCKER] That's the beginning.
+[DRUCKER] And you look then at other ways that give you a systems view of the body, chemical,
+[DRUCKER] electrochemical phenomena and so on. Well, we are beginning to look at organizations
+[DRUCKER] that way. At the moment, everybody has a console on his desk. We will have to organize around
+[DRUCKER] information which, for instance, presupposes that we will have to ask that each manager
+[DRUCKER] and professional think through what information he needs. You know, my friends at IBM talk
+[DRUCKER] very learned about data banks but that presumes that you know what you want in
+[DRUCKER] there and most of you look at it the wrong way you look at you see at the
+[DRUCKER] encyclopedia or the telephone book in your mind's eye what that telephone book
+[DRUCKER] is very ingenious invention by the way the first modern information system just
+[DRUCKER] a hundred years old but they're very simple one and one in which you want
+[DRUCKER] only one piece of one bit and it is related to already established criteria
+[DRUCKER] name and address now that's not what an information and so you won't get an
+[DRUCKER] info data bank unless you think through what information do I need to do my job
+[DRUCKER] so that one can then the information specialist can at least begin to go to
+[DRUCKER] to work and think through the logics. Also you need a different kind of responsibility which
+[DRUCKER] gives you a different relationship because the moment you do this you will find that your present
+[DRUCKER] boss basically is irrelevant to your information needs. He's a restraint on them. He's neither a
+[DRUCKER] source of information nor really somebody whom you need to inform because for most of the work
+[DRUCKER] He reviews, but he's not a partner.
+[DRUCKER] And your subordinates, some of them are very much part of your system,
+[DRUCKER] and others are peripheral.
+[DRUCKER] And so when you look at information as an organizing principle,
+[DRUCKER] which it has to be,
+[DRUCKER] you arrive at, just as when electricity came in,
+[DRUCKER] we had to reorder the fractional horsepower motor.
+[DRUCKER] We have totally reorganized production.
+[DRUCKER] And now with the mini processor, we are doing it again. We are going back to batch production, obviously. And just as one has to reorganize production with a new energy, one has to organize structure with a new energy.
+[DRUCKER] And we will organize it. And we don't know yet, except that we can say, you, you purchasing agent, will have to think through what information you need. We can't tell you.
+[DRUCKER] whereas traditional organization structure goes the other way here i as the organization specialist
+[DRUCKER] tell you and i can write your job description well you can then tell me here is something
+[DRUCKER] what that causes problems for me but fundamentally i can do it for you which one can always do in a
+[DRUCKER] skeleton because here the principle is linear and rigid in formation it's neither
+[DRUCKER] It varies heavily based on feedback rather than on a linear.
+[DRUCKER] So what is the structure for it?
+[DRUCKER] And let me say, and how do we organize the new within the old?
+[DRUCKER] In fact, can we organize?
+[DRUCKER] If you look at the last 30 years in which the obstacles to entrepreneurship were exceedingly high.
+[DRUCKER] in terms of the tax laws, in terms of our credit structure, in the preferences of the young.
+[DRUCKER] Now, we are not as bad as the Japanese, where the better you do in school, the bigger your employer has to be.
+[DRUCKER] We don't believe that bigger is better and very big is best, but we get pretty close to it.
+[DRUCKER] close to it it isn't true you're being told that in all the graduate business schools the bright
+[DRUCKER] young ones now want to go into small business that's what they say when you look at where they
+[DRUCKER] are three years later they're always city bank and for good reasons city bank can afford people
+[DRUCKER] who don't and they keep you and it takes five years before you and you keep accepting
+[DRUCKER] And Citibank can afford that overhead.
+[DRUCKER] And the little entrepreneur with two million sales maximum can't.
+[DRUCKER] But also, he has no time to train anybody.
+[DRUCKER] He has to throw them in.
+[DRUCKER] And also, they learn the wrong things.
+[DRUCKER] one has to learn system before you can say what we violate system you have to be able to do it
+[DRUCKER] you can write free verse after you have learned to write the sonnet uh one started composition
+[DRUCKER] with the most advanced of modern music i almost became a musician uh modern composers anton from
+[DRUCKER] raven and i thought he would let me write the kind of stuff he wrote and he said my dear
+[DRUCKER] Peter, you are taking liberty with the variation form. Haydn did this after 30 years. First
+[DRUCKER] you'll never be a Haydn, and you have been in it 30 days. And I had to learn to write
+[DRUCKER] the orthodox variation, where you modulate on variation three from the major into minor,
+[DRUCKER] but not before variation three and not later. And then after I'd done that for a year badly,
+[DRUCKER] He said, now, baby, you can take one liberty, but be careful.
+[DRUCKER] And I brought it in.
+[DRUCKER] He said, that was wrong.
+[DRUCKER] You aren't ready yet.
+[DRUCKER] And it was right.
+[DRUCKER] So, accepted.
+[DRUCKER] And that's why they go to the GEs and the IBMs,
+[DRUCKER] because they have a training program.
+[DRUCKER] They are right.
+[DRUCKER] Not only because they also pay better.
+[DRUCKER] It isn't quite as severe as it is in Europe or in Japan, but it's there.
+[DRUCKER] and that's one of so for that reason and enormous so we have been amazingly
+[DRUCKER] effective in having small entrepreneurs and yet when you look at the things that
+[DRUCKER] need to be done an enormous amount must come out of existing large organizations
+[DRUCKER] simply because the capital needs of people needs and the planning needs are
+[DRUCKER] so great. So how do you organize the entrepreneurial within the managerial? And again the answer
+[DRUCKER] is largely not structure but people and compensation systems and managing individuals and placing
+[DRUCKER] them and not structure. And how do you do what is increasingly becoming the crucial
+[DRUCKER] task in an inflationary period, long-term and short-term. Accepted in an inflation,
+[DRUCKER] financial men must be on top. Not because that's where they belong, but because there
+[DRUCKER] is no choice. If your treasurer can lose more money in a week, either in foreign exchange
+[DRUCKER] or in interest rates, then you can make the poundest work in a year.
+[DRUCKER] Then you have to have the treasure on top.
+[DRUCKER] Inflation always puts financial people on top
+[DRUCKER] and they always do the wrong things.
+[DRUCKER] Simply because, don't blame them,
+[DRUCKER] because
+[DRUCKER] the structure forces them to.
+[DRUCKER] They always
+[DRUCKER] push the short term only
+[DRUCKER] And it takes very strong management to inflation-proof a company which one does not only by knowing
+[DRUCKER] what inflation does, but by seeing what are the few things that are not short-term and
+[DRUCKER] that one has to run disregarding inflation, not ignorance of inflation, but disregarding
+[DRUCKER] it.
+[DRUCKER] On the assumption of a 3% rather than 18% interest rate, because of that 18% interest rate, 15% is inflation, roughly, or 40. What are the few things and how do we build the information system so that it doesn't mislead us?
+[DRUCKER] how do i i now in my own friends and clients show these things below the line and have a separate
+[DRUCKER] budget so that i'm not totally misled but also how do i build it structurally that the two can
+[DRUCKER] go together and i want operating people and they have to be very short term in an inflationary
+[DRUCKER] period. I have no choice. And yet I want the operating people not totally to think shorter,
+[DRUCKER] but I want a few people to work on the long term, but not on pie in the sky. So how do
+[DRUCKER] I build the structure? And let me say the only answer I have found is again the placement
+[DRUCKER] of people, the rotation of people, to make sure that they're exposed to different challenges,
+[DRUCKER] the formation of people. Yesterday, after our meeting here, I had a drink with a very
+[DRUCKER] lively young woman, friend of one of my daughters who is an editor of a business magazine, very
+[DRUCKER] bright young woman. And when we talked about the thing, she brought up some of the questions
+[DRUCKER] that bother her about her friends, male and female, who are in business, about 30.
+[DRUCKER] And she looked at me and said, you know what you're really saying?
+[DRUCKER] You said you want the Chase Bank to become what the Germans call a Bildungsroman,
+[DRUCKER] a novel of human formation.
+[DRUCKER] Now that was a rather put, but by no means stupid, in a way that is the way.
+[DRUCKER] How do people, not the human relations people made one dreadful mistake, which we now realize.
+[DRUCKER] They talked of human nature.
+[DRUCKER] That was the reason why we in the human relations movement were totally ineffectual.
+[DRUCKER] We talked of a collective called the human being in society.
+[DRUCKER] We did not talk. We preached to individuals, but we did not really look at them.
+[DRUCKER] We didn't manage them. We managed workers, supervisors.
+[DRUCKER] One has to, but it explains why we were ineffectual
+[DRUCKER] and why the very human beings whom we thought we befriended rejected us.
+[DRUCKER] And the organization development people believe that structure is an obstacle, an impediment,
+[DRUCKER] and has to be, if not eliminated, at least bent to the human being.
+[DRUCKER] They are equally ineffectual.
+[DRUCKER] The skeleton has to be rigid, let me say, very few things as undesirable as a floppy skeleton.
+[DRUCKER] Because it very rapidly becomes arthritic.
+[DRUCKER] Can't stand it.
+[DRUCKER] So a skeleton has to be rigid.
+[DRUCKER] One cannot adapt the skeleton to people.
+[DRUCKER] But one has to fit people as individuals so that they can learn what the individual can learn.
+[DRUCKER] That they have the exposures that they then transmute into a personality.
+[DRUCKER] And we will increasingly have to depend not on goodwill, but on systematic work on the education of the leadership, the rulership, the professional in organizations, their relationships, on their taking responsibility for it.
+[DRUCKER] We will have to challenge people to say it's your job to think through who has to know
+[DRUCKER] and understand what you're trying to do and to make yourself understood.
+[DRUCKER] Don't wait for the information specialist.
+[DRUCKER] That's futile.
+[DRUCKER] It's your job to say who needs to know what I'm going to concentrate on, but also who
+[DRUCKER] depends on me for what, and then to go to that person and say, this is what I think
+[DRUCKER] you look to me for, which is the only way to get relationships. You know, as an old
+[DRUCKER] consultant, every client of mine tells me of the terrible personality problems we have.
+[DRUCKER] Nonsense. They're almost, personality problems are very rare in organizations. Organizations
+[DRUCKER] have to be very tolerant. Misunderstandings are common. Personality problems are almost
+[DRUCKER] But what is common is that you don't know what the next fellow is doing because he hasn't told you and you haven't asked him.
+[DRUCKER] And so you assume he must do what to you is obvious, and when there's something else, you think he's either stupid or malicious.
+[DRUCKER] No, he only marches by his own drama and hasn't told you what it is, and you don't hear it.
+[DRUCKER] So we will have to demand a great deal of responsibility from individuals for making
+[DRUCKER] themselves effective in a system that we cannot organize so that it makes them effective.
+[DRUCKER] We started out this beginning of work on modern organization with the old belief of the constitutionalists.
+[DRUCKER] I'm an old constitutionalist.
+[DRUCKER] degrees in constitutional law, it goes back that far. The question has always
+[DRUCKER] been what does the structure has to be so that it makes it possible for people
+[DRUCKER] to work. The structure supports the scaffolding and that is will continue as
+[DRUCKER] it has throughout the long history of governance. There be a key question but
+[DRUCKER] But now we will increasingly also have to ask the question, and what does the individual
+[DRUCKER] have to learn?
+[DRUCKER] What responsibility does he have to take?
+[DRUCKER] What placement does he have to have so that he can support the structure?
+[DRUCKER] And that is the only way we know to manage complexity.
+[DRUCKER] And all I'm really saying is that we are moving from the mechanical model in all areas.
+[DRUCKER] We are moving from it in philosophy, we are moving from it in technology, we are moving
+[DRUCKER] from it in science, well let me see.
+[DRUCKER] It is quite clear that, not that the breakthroughs aren't in physics, but that the approach to
+[DRUCKER] an understanding of science is no longer in physics, that the young biologists are the
+[DRUCKER] ones who can synthesize modern science not long as a physicist for first time
+[DRUCKER] in 300 years that's a very great shift in worldview and we are moving of it in
+[DRUCKER] our organizations to biological models basically organic models and the one
+[DRUCKER] characteristic of organic models is that they have several axes and not one and
+[DRUCKER] And so one characteristic is that they depend on configurations.
+[DRUCKER] We don't know what makes a cell differentiate itself and become the lining of the esophagus.
+[DRUCKER] But it is not something outside the cell.
+[DRUCKER] It's not an external stimulus.
+[DRUCKER] So what makes a purchasing agent tomorrow effective?
+[DRUCKER] It will not possibly be something outside the purchasing agent, which it is today,
+[DRUCKER] which it is in the table of organization.
+[DRUCKER] What does he have to learn?
+[DRUCKER] What responsibilities does he have to take?
+[DRUCKER] First, to make himself a purchasing agent, and secondly, to be effective on one.
+[DRUCKER] And that is the great challenge, I think, ahead.
+[DRUCKER] And all I can tell you is that this is, I told you yesterday, our 10th meeting of this particular symposium.
+[DRUCKER] I don't think I'll run this 30 years long, but whoever runs it, those of you young enough in this room,
+[DRUCKER] will you ask him the question, how do we do it now?
+[DRUCKER] Because by that time we'll know.
+[DRUCKER] The next 20 years we'll do it.
+[DRUCKER] Thank you very much.
+[DRUCKER] And I hope I didn't cut too much into Bill's time.
+[DRUCKER] And will you please be terribly nuts and bolts focused in your questions?
+[DRUCKER] Because we have well done the stratosphere much too long.

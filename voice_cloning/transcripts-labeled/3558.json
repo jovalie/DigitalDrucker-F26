@@ -1,0 +1,2268 @@
+{
+ "pointer": "3558",
+ "media": "3558.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1786.0,
+ "segments": [
+  {
+   "start": 3.47,
+   "end": 10.93,
+   "text": "And from that, proceed to their short-term policies or their short- and medium-term policies.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 11.29,
+   "end": 11.57,
+   "text": "Thanks.",
+   "speaker": "other",
+   "drucker_coverage": 0.25
+  },
+  {
+   "start": 11.79,
+   "end": 24.42,
+   "text": "Thank you very much, Irving.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.492
+  },
+  {
+   "start": 25.72,
+   "end": 29.18,
+   "text": "It seems as though we've got a massive structural change in the world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 29.18,
+   "end": 32.94,
+   "text": "in which governments aren't appreciative and in which management is not geared up.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 34.08,
+   "end": 41.28,
+   "text": "And so the question period is to be addressed at either or both speakers,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 41.28,
+   "end": 43.88,
+   "text": "and maybe they will give you some responses",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 43.88,
+   "end": 47.74,
+   "text": "which will be a clue to how management can get geared up.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 48.5,
+   "end": 51.34,
+   "text": "These attractive young ladies will pick them up if you've written them down.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 54.14,
+   "end": 56.22,
+   "text": "While they're picking them up, if you have written them down,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 56.28,
+   "end": 57.36,
+   "text": "I'll take one from the front.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 79.98,
+   "end": 83.06,
+   "text": "Let me repeat that for those of you who didn't hear it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 83.36,
+   "end": 87.26,
+   "text": "And if you allow me some editorial license, I'll paraphrase it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 87.86,
+   "end": 92.32,
+   "text": "The question dealt with the massive size of the euro currency market",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 92.32,
+   "end": 100.5,
+   "text": "and whether or not that does not make it difficult to implement effective national monetary policy,",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.489
+  },
+  {
+   "start": 100.64,
+   "end": 101.7,
+   "text": "especially by the Federal Reserve.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 104.15,
+   "end": 111.19,
+   "text": "Well, I think that I would have to say that from the point of view of short-run monetary policy,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 111.19,
+   "end": 115.01,
+   "text": "it adds another wrinkle of complexity.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 116.27,
+   "end": 122.77,
+   "text": "I would say the existence of the euro currency market is only at the most a minor factor",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 122.77,
+   "end": 126.27,
+   "text": "in the management of the monetary policy of the United States.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 126.57,
+   "end": 130.29,
+   "text": "If I had a more minor word than minor, I would use it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 132.05,
+   "end": 137.65,
+   "text": "And that is because what we have to see in the United States is the rest of the world.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 138.55,
+   "end": 142.33,
+   "text": "Is that what the American banking system and credit system intermediates,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 142.33,
+   "end": 146.73,
+   "text": "whether it's done through banks or not, is the entire world's savings streams.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 147.35,
+   "end": 150.91,
+   "text": "Not the savings streams even of the United States, but of the whole world.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 151.45,
+   "end": 158.51,
+   "text": "And we ought to understand that that farmer in Lagos who is bringing some money into the local agricultural bank",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 158.51,
+   "end": 165.67,
+   "text": "is part of the euro-dollar market, because that's just a euphemism for speaking about the world banking system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 166.29,
+   "end": 172.11,
+   "text": "Now, world savings today, in my opinion, are in the magnitude of $2 to $3 trillion per year,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 172.65,
+   "end": 179.31,
+   "text": "of which the banks probably intermediate at least $500 billion in one form or another in the world banking system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 179.31,
+   "end": 180.99,
+   "text": "That's probably an understatement.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 181.51,
+   "end": 186.65,
+   "text": "The euro currency market is just only one aspect of it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 186.95,
+   "end": 191.91,
+   "text": "And we know it by simple fact that if you would abolish it tomorrow, it simply would be somewhere else.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 192.11,
+   "end": 195.17,
+   "text": "And it's not because of taxation and things like that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 195.65,
+   "end": 202.23,
+   "text": "That maybe would mean that all of international banking would be taxed, which could happen.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 202.71,
+   "end": 207.19,
+   "text": "But what it wouldn't, and therefore perhaps you wouldn't be in places which were tax shelters.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 207.19,
+   "end": 214.13,
+   "text": "But the international intermediation of world savings is one of the things that is going on today.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 214.69,
+   "end": 230.47,
+   "text": "And in that sense, no country today can run its monetary policy on the assumption that it itself is in control of the total levels of demand and supply simply by its own monetary policy.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 230.91,
+   "end": 235.89,
+   "text": "So there's a complication in that sense of the word, but not because of the euro currency market.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 236.17,
+   "end": 238.49,
+   "text": "It's because we have an integrated world economy.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 238.81,
+   "end": 245.8,
+   "text": "Peter, do you care to add anything on euro dollars?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.472
+  },
+  {
+   "start": 245.8,
+   "end": 247.0,
+   "text": "No, I'm just learning.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 250.92,
+   "end": 255.62,
+   "text": "As you can see, there are infinite numbers of questions coming up here,",
+   "speaker": "other",
+   "drucker_coverage": 0.123
+  },
+  {
+   "start": 255.62,
+   "end": 267.52,
+   "text": "and I'm trying to group them into things to allow both people to comment in the broad about kind of overlapping questions.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 268.1,
+   "end": 275.7,
+   "text": "One of them, which has obviously raised a substantial chord among some of you,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 276.02,
+   "end": 281.5,
+   "text": "is Peter Drucker's offhand comment about the long-term outlook for red China.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 281.5,
+   "end": 286.66,
+   "text": "and I suppose that maybe both of you",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 286.66,
+   "end": 290.1,
+   "text": "would like to elaborate or compare notes",
+   "speaker": "other",
+   "drucker_coverage": 0.029
+  },
+  {
+   "start": 290.1,
+   "end": 296.76,
+   "text": "well I do not pose as a China expert",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 296.76,
+   "end": 298.82,
+   "text": "and I'm not even",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 298.82,
+   "end": 301.94,
+   "text": "despite having lived most of this century",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 301.94,
+   "end": 303.3,
+   "text": "an expert on revolution",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 303.3,
+   "end": 306.34,
+   "text": "so this is probably the one thing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 306.34,
+   "end": 307.72,
+   "text": "one learns in this century",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 307.72,
+   "end": 311.56,
+   "text": "but it seems to me quite unlikely",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 311.56,
+   "end": 320.95,
+   "text": "that the present policy of forced draft is biggest need for.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 321.37,
+   "end": 340.91,
+   "text": "And it is, I think, reasonably clear that Chinese agriculture,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.642
+  },
+  {
+   "start": 340.91,
+   "end": 348.67,
+   "text": "and that's 90% of China, is in worse shape than it was in the 50s,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 349.07,
+   "end": 354.19,
+   "text": "that there was a short-lived recovery after the Civil War was over",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 354.19,
+   "end": 360.09,
+   "text": "and the fighting stopped, and then the productivity is not going up.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 360.61,
+   "end": 365.13,
+   "text": "If anything's going down, the communes don't work, they never do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 365.67,
+   "end": 368.95,
+   "text": "Their regime is politically committed to them, however.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 373.55,
+   "end": 381.25,
+   "text": "And I would say, if you ask what is the most likely scenario,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 381.25,
+   "end": 388.65,
+   "text": "it is that within 10 years you have a return to an extreme of Stalinism,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 388.99,
+   "end": 397.63,
+   "text": "as the only way, terror as the only way to hold it together, or a collapse into",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 397.63,
+   "end": 406.55,
+   "text": "warlords. But I do not, I think the chances of the present trapeze wire",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 406.55,
+   "end": 414.11,
+   "text": "balance working, well how many, how long can you walk the high wire? Ten minutes?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 414.11,
+   "end": 424.59,
+   "text": "50 minutes I don't think you can walk it 15 years would you if you yes I don't",
+   "speaker": "drucker",
+   "drucker_coverage": 0.705
+  },
+  {
+   "start": 424.59,
+   "end": 430.11,
+   "text": "disagree with that basically Peter I my my view of it is I think it's very",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 430.11,
+   "end": 438.23,
+   "text": "similar in that when I think about of China and its huge size and numbers of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 438.23,
+   "end": 442.77,
+   "text": "people I see on one hand we'll say from the point of view of international trade",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 442.77,
+   "end": 449.33,
+   "text": "and finance, that even minor changes among so many people can look very big to the outside",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 449.33,
+   "end": 449.69,
+   "text": "world.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 450.07,
+   "end": 454.55,
+   "text": "So if one says, well, you know, this country hasn't borrowed, how much could it borrow?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 454.71,
+   "end": 458.21,
+   "text": "Well, it might end up by borrowing in the tens of billions, so that looks big.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 458.77,
+   "end": 463.49,
+   "text": "But when you think of tens of billions as borrowed by a country that has nearly a fourth",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 463.49,
+   "end": 468.03,
+   "text": "of the population of the world, that does not really represent, on the real side of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 468.03,
+   "end": 469.85,
+   "text": "the Chinese economy, all that much change.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 469.85,
+   "end": 472.59,
+   "text": "I would see that in China",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 472.59,
+   "end": 475.41,
+   "text": "two things would completely be upsetting",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 475.41,
+   "end": 478.61,
+   "text": "either an attempt to raise the standard of living of people",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 478.61,
+   "end": 481.37,
+   "text": "which would then be completely unmanageable",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 481.37,
+   "end": 485.21,
+   "text": "in their society or a very rapid industrialization",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 485.21,
+   "end": 487.71,
+   "text": "which I think would lead to a lot of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 487.71,
+   "end": 490.01,
+   "text": "from their point of view very unfortunate",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 490.01,
+   "end": 492.59,
+   "text": "sunken capital because",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 492.59,
+   "end": 496.45,
+   "text": "to the best of my knowledge they neither have the infrastructure",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 496.45,
+   "end": 499.63,
+   "text": "on the physical side nor do they have the infrastructure",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 499.63,
+   "end": 505.27,
+   "text": "on the human side. It's one thing to run an economy that is not developing, but if you try",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 505.27,
+   "end": 511.07,
+   "text": "to run a developing country, then you find the need for what Peter was referring to before as",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 511.07,
+   "end": 516.57,
+   "text": "management, knowledge, the organizing ability to orchestrate all this knowledge, and you find that",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 516.57,
+   "end": 521.77,
+   "text": "it just isn't there because that's what comes out of experience. It isn't possible to decree that",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 521.77,
+   "end": 527.57,
+   "text": "sort of thing. You can want it quickly, so you've got the alternative, which is then to turn to",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 527.57,
+   "end": 534.37,
+   "text": "foreigners to provide you with this knowledge and this organizing capability. But the difficulty",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 534.37,
+   "end": 538.37,
+   "text": "with foreigners, and I've observed it in other developing countries, and they would have",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 538.37,
+   "end": 545.57,
+   "text": "their problems many more fold, is that the foreigner can provide a certain amount of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 545.57,
+   "end": 550.97,
+   "text": "it. Usually it's at the very, very top. But very quickly, he gets down to the level where",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 550.97,
+   "end": 556.63,
+   "text": "he has to link with domestic capability. And if domestic capability isn't there, his scale",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 556.63,
+   "end": 561.19,
+   "text": "of operation becomes, therefore, very, very limited. He can do something, but he can't",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 561.19,
+   "end": 566.03,
+   "text": "do very much. And I take this as an example like the hotel industry. If you want to build,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 566.03,
+   "end": 570.97,
+   "text": "say, six hotels in China, maybe you could find six Swiss managers. But if you build,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 571.13,
+   "end": 577.07,
+   "text": "take it to exaggerate, in such a big country, what you need was 200 hotels and equivalent",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 577.07,
+   "end": 582.75,
+   "text": "staff. You might absorb all the hotel talent of the world. It wouldn't be enough because",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 582.75,
+   "end": 586.03,
+   "text": "you'd have to find the people who were both capable to go to China,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 586.35,
+   "end": 588.63,
+   "text": "willing to live in China, make a livelihood in China,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 588.69,
+   "end": 591.77,
+   "text": "to run 200 hotels, and then you'd run into the problem",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 591.77,
+   "end": 594.09,
+   "text": "that, after all, if you got the manager of the hotel,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 594.19,
+   "end": 595.59,
+   "text": "the hotel doesn't really operate",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 595.59,
+   "end": 598.41,
+   "text": "unless there are people underneath the manager who know what they're doing.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 598.77,
+   "end": 600.67,
+   "text": "And that's something that takes generations,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 601.09,
+   "end": 603.15,
+   "text": "at least decades to create, not generations.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 603.15,
+   "end": 607.43,
+   "text": "So I see that any change in China is either big lurching",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 607.43,
+   "end": 609.47,
+   "text": "around with a lot of sunken capital",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 609.47,
+   "end": 612.13,
+   "text": "or what I would think a wiser decision",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 612.13,
+   "end": 614.83,
+   "text": "to proceed more slowly on the whole thing,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 614.97,
+   "end": 618.93,
+   "text": "in which case things, as they change, will change slowly,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 619.05,
+   "end": 621.61,
+   "text": "and that 10 years from now won't look all that different from now.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 622.09,
+   "end": 627.55,
+   "text": "I have a group of questions relating to OPEC and oil.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 629.87,
+   "end": 631.59,
+   "text": "Some of them address to Peter Drucker,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 631.99,
+   "end": 636.83,
+   "text": "especially his point that in the longer term,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 637.35,
+   "end": 638.73,
+   "text": "oil won't be scarce.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 640.45,
+   "end": 641.61,
+   "text": "That's not what I said.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 641.71,
+   "end": 643.39,
+   "text": "I said that oil countries won't be rich.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 643.79,
+   "end": 645.85,
+   "text": "In the longer term, the oil countries won't be rich.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.587
+  },
+  {
+   "start": 647.09,
+   "end": 653.29,
+   "text": "Another having to do with the impact of the oil price change in stimulated inflation",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 653.29,
+   "end": 657.43,
+   "text": "and using up capital in the oil-importing countries,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 657.43,
+   "end": 663.45,
+   "text": "and a third aspect having to do with the impact of oil and oil OPEC uncertainty",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 663.45,
+   "end": 665.93,
+   "text": "on the international monetary system and its operation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 668.26,
+   "end": 675.2,
+   "text": "At the risk of sounding like somebody about to enter the next primary, which I am not,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 675.42,
+   "end": 683.42,
+   "text": "Let me say that there is very little proof to the Washington article of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 683.42,
+   "end": 689.26,
+   "text": "creed that oil is the cause of our inflation. I would imagine you would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 689.26,
+   "end": 696.78,
+   "text": "agree very little. Fundamentally this is the scapegoat who just happens to be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 696.78,
+   "end": 703.22,
+   "text": "popular and we have a long list of such scapegoats, big steel, big labor,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 703.22,
+   "end": 711.92,
+   "text": "and that inflation is caused by government fundamentally but there is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 711.92,
+   "end": 720.56,
+   "text": "very little doubt that the hike in petroleum prices hit the rapidly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 720.56,
+   "end": 726.46,
+   "text": "developing countries very hard we in the developed world I think I'm going to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 726.46,
+   "end": 731.48,
+   "text": "make myself unpopular I don't know whether we unbalanced benefited from",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 731.48,
+   "end": 737.58,
+   "text": "OPEC or paid a little but fundamentally we put things from one pocket into the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 737.58,
+   "end": 744.98,
+   "text": "other where do they put their money either into deposits in the developed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 744.98,
+   "end": 750.92,
+   "text": "world or the only thing say of my prediction that hasn't come true when",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 750.92,
+   "end": 757.9,
+   "text": "OPEC came on I said finally the French will find the market for the Concorde",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 757.9,
+   "end": 779.32,
+   "text": "You know, he was over-optimistic, which I really am, but Kuwait, you know, you've got 50 square miles of sand, absolute dryness, ideal place to store concords, but they bought everything else.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 779.32,
+   "end": 809.23,
+   "text": "And basically, in terms of purchasing power, they don't get more money now than they got in 1973, in terms of purchasing power, both because the dollar is worth half of what it was then, and because in terms of capital goods, which they mostly buy, the price increases have been much faster than the rate of dollar depreciation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 809.23,
+   "end": 828.53,
+   "text": "So they don't get very much more. They have an enormous amount of liquidity they don't know what to do with where they don't have population. And frankly, I'm not an economist. I'm a way of an old summer historian.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 828.53,
+   "end": 855.77,
+   "text": "And if there's one lesson in history, it's that wealth that isn't being put to productive use is being expropriated very fast, either by a gang of bandits or by the people, you know, that old story of the rich man's son who had the money, who went into partnership with the poor man's son who had the knowledge.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 855.77,
+   "end": 861.83,
+   "text": "And ten years later, the rich man's son had the experience and the poor man's son had the money.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 862.71,
+   "end": 866.47,
+   "text": "And that's the way it goes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 867.39,
+   "end": 873.35,
+   "text": "And I do not believe that there is an exception to that rule.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 874.03,
+   "end": 880.37,
+   "text": "And that money will be a great blessing for countries without population,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 880.37,
+   "end": 888.79,
+   "text": "without skill, without willingness and ability to work,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 889.55,
+   "end": 892.77,
+   "text": "I think they're only going to lose it sooner or later.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 893.47,
+   "end": 898.07,
+   "text": "The only question is whether it will be a horrible end or a whimper.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 898.67,
+   "end": 902.45,
+   "text": "But I don't think there is a possible exception to this.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 903.91,
+   "end": 908.03,
+   "text": "In fact, this is not the lesson of morality, but of history.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 908.03,
+   "end": 913.37,
+   "text": "Irving, would you like to comment on OPEC and the international monetary system?",
+   "speaker": "other",
+   "drucker_coverage": 0.275
+  },
+  {
+   "start": 913.37,
+   "end": 922.87,
+   "text": "Well, first let me endorse what Peter has said in my conviction that the OPEC price increases",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 922.87,
+   "end": 928.19,
+   "text": "has had very little to do with our inflationary, worldwide inflationary problems.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 929.13,
+   "end": 934.45,
+   "text": "We were headed for what is now called double-digit inflation in 1973",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 934.45,
+   "end": 938.53,
+   "text": "before anyone had any idea of OPEC price increases.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 939.25,
+   "end": 942.61,
+   "text": "And if the OPEC stops raising prices, which will be useful for some,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 942.93,
+   "end": 945.49,
+   "text": "we're going to have the inflationary problem continue,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 946.07,
+   "end": 949.13,
+   "text": "unless we do things that are more fundamental to cure it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 950.31,
+   "end": 953.47,
+   "text": "I'd like to make that point because so much is made out of it.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 953.85,
+   "end": 958.53,
+   "text": "I think if you think for a moment, if you can think in terms of historical analogies,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 958.53,
+   "end": 963.13,
+   "text": "if this was happening in the Depression in the 1930s and OPEC had raised prices,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 963.13,
+   "end": 965.71,
+   "text": "all other prices would fall, not rise.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 966.43,
+   "end": 971.79,
+   "text": "And so the idea that in some way the OPEC price increases are inflationary",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 971.79,
+   "end": 977.33,
+   "text": "has a comment on the impact that an action of that kind has in the world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 977.33,
+   "end": 980.89,
+   "text": "that is already deeply embedded with an inflationary problem.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 981.35,
+   "end": 984.71,
+   "text": "And in an inflationary environment, then these kind of shock effects",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 984.71,
+   "end": 989.87,
+   "text": "all tend to have inflationary impact on the economy,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 989.87,
+   "end": 994.43,
+   "text": "but only to a minor extent if you want to separate it out from the basic causes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 995.07,
+   "end": 1000.67,
+   "text": "Now, on the monetary system, the reason I emphasized before why I think the petrodollar recycling",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1000.67,
+   "end": 1006.67,
+   "text": "is a really very shallow at best concept is what the point that Peter was making.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1007.31,
+   "end": 1012.69,
+   "text": "When these countries earn surplus dollars, they have no problem with them.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1012.97,
+   "end": 1014.17,
+   "text": "They just invest them.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1014.71,
+   "end": 1018.01,
+   "text": "They either buy things with them, and some of them buy things,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1018.01,
+   "end": 1023.07,
+   "text": "And I say I thought Peter was a little optimistic to think they would buy the Concorde, but maybe he knows something I don't know.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1023.57,
+   "end": 1025.01,
+   "text": "And maybe they will buy the Concorde.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1025.53,
+   "end": 1034.01,
+   "text": "But they buy everything in sight, and then they still have some buy so much in sight that they manage to be in deficit,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1034.43,
+   "end": 1037.13,
+   "text": "even though there are large increases in their oil earnings.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1037.79,
+   "end": 1041.41,
+   "text": "And I won't be unkind to mention the obvious case of that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1041.41,
+   "end": 1050.23,
+   "text": "We're now getting, it's an exceptional thing to have an oil exporting country that's also an oil surplus exporting country.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1050.37,
+   "end": 1051.13,
+   "text": "But there are a few.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1051.83,
+   "end": 1058.65,
+   "text": "Now, they put their investments in treasury bills, in financial assets, in buildings, real estate,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1059.09,
+   "end": 1061.59,
+   "text": "and sometimes it's in the United States, sometimes elsewhere,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1061.99,
+   "end": 1066.29,
+   "text": "and like any good portfolio manager, they try to diversify their assets.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1066.55,
+   "end": 1068.31,
+   "text": "They have no problem getting rid of the money.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1069.23,
+   "end": 1069.83,
+   "text": "It's theirs.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1069.83,
+   "end": 1085.65,
+   "text": "The problem is the wise usage of the money, and many of them are unhappy about it because they feel that with inflation, if you invest in financial assets, is the rate of return on financial assets going to be good enough to offset the deterioration in the purchasing power of what you're investing in?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1085.91,
+   "end": 1093.19,
+   "text": "A problem that every investor has in the world of today is what represents a good investment in the world of global inflation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1093.87,
+   "end": 1097.25,
+   "text": "Now, the other side is really a different problem,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1097.65,
+   "end": 1100.19,
+   "text": "which is what happens to a developing country",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1100.19,
+   "end": 1103.79,
+   "text": "if its balance of payments deficit is increasing?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1104.25,
+   "end": 1107.13,
+   "text": "In some cases, the balance of payments deficit didn't increase",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1107.13,
+   "end": 1110.55,
+   "text": "because the countries were fortunate enough to have exports of their own,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1110.55,
+   "end": 1113.37,
+   "text": "which were also rising in price, and they did fairly well.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1113.83,
+   "end": 1116.61,
+   "text": "In some countries, the balance of payments deficit increased.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1117.27,
+   "end": 1119.63,
+   "text": "Now, for a developing country,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1119.63,
+   "end": 1122.91,
+   "text": "that an increase in the balance of payments deficit",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1122.91,
+   "end": 1126.05,
+   "text": "or a balance of payments deficit is a chronic situation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1126.51,
+   "end": 1128.25,
+   "text": "This is what you live with all the time.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1128.67,
+   "end": 1131.59,
+   "text": "And unfortunately, there is no petrodollar recycling.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1132.09,
+   "end": 1135.85,
+   "text": "You can't go to a Citibank or Chase Manhattan or Lloyd's",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1135.85,
+   "end": 1137.87,
+   "text": "and say, well, by the way, we understand those Arabs",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1137.87,
+   "end": 1140.65,
+   "text": "or those Venezuelans put some deposits with you,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1140.65,
+   "end": 1143.53,
+   "text": "and of course now you're going to recycle those dollars to us",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1143.53,
+   "end": 1146.31,
+   "text": "because you're not going to worry about our credit worthiness",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1146.31,
+   "end": 1148.61,
+   "text": "because after all, what we'd like you to do",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1148.61,
+   "end": 1153.23,
+   "text": "is to tap the dollars that were put on deposit in your bank",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1153.23,
+   "end": 1155.17,
+   "text": "by these oil-exporting countries.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1155.47,
+   "end": 1157.33,
+   "text": "Well, that's an absolute nonsense situation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1157.91,
+   "end": 1160.27,
+   "text": "The ability of a country abroad to borrow",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1160.27,
+   "end": 1162.93,
+   "text": "to meet a balance of payments deficit",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1162.93,
+   "end": 1166.05,
+   "text": "is completely related to its creditworthiness",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1166.05,
+   "end": 1168.81,
+   "text": "with respect to the international financial community.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1169.37,
+   "end": 1172.03,
+   "text": "And where it borrows and from whom and what institutions",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1172.03,
+   "end": 1173.89,
+   "text": "has virtually nothing to do",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1173.89,
+   "end": 1176.43,
+   "text": "with what is happening to those petrodollars.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1176.43,
+   "end": 1178.77,
+   "text": "It's a completely independent decision.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1179.35,
+   "end": 1185.69,
+   "text": "But what you do have is the problem that an increase in the price of oil does increase the import bill of a country.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1186.19,
+   "end": 1191.93,
+   "text": "And for many countries, say a country like Brazil, it has increased the need to borrow internationally.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1192.45,
+   "end": 1197.53,
+   "text": "And often the international funds that it has to borrow will come from the banking system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1197.53,
+   "end": 1205.63,
+   "text": "But where the banking system is getting its funds is only in very small portion from the deposits of oil exporters.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1205.63,
+   "end": 1210.93,
+   "text": "it's getting its funds from the deposits of savers from all over the world, including its",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1210.93,
+   "end": 1217.11,
+   "text": "own country. So there has never been any problem of financing the deficits of the developing",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1217.11,
+   "end": 1224.19,
+   "text": "countries related to the amount of surpluses that the other countries are generating. What it relates",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1224.19,
+   "end": 1229.37,
+   "text": "to is the creditworthiness of the countries that are borrowing, the entities within those countries",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1229.37,
+   "end": 1234.67,
+   "text": "on their creditworthiness and the credit conditions in the creditor countries.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1234.67,
+   "end": 1239.63,
+   "text": "So obviously, if there's a credit squeezed in the United States, that could conceivably",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1239.63,
+   "end": 1244.95,
+   "text": "have carried far enough, or if there are credit allocations of a quantitative kind and the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1244.95,
+   "end": 1250.15,
+   "text": "regulatory authorities tell you not to lend to foreign entities or abroad, that could",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1250.15,
+   "end": 1255.17,
+   "text": "have an impact on the ability of developing countries to borrow the funds, but that's",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1255.17,
+   "end": 1262.07,
+   "text": "not related to the surplus problem of the oil-exporting countries. And I really do think",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1262.07,
+   "end": 1268.41,
+   "text": "that a lot of attention has been given to this as though it was a major impact on the monetary",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1268.41,
+   "end": 1273.37,
+   "text": "system, when, as a matter of fact, it's not. I think that the other thing that's caused the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1273.37,
+   "end": 1282.75,
+   "text": "confusion is that it had, in 1974, when it was uncertain as to how do you finance the deficits",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1282.75,
+   "end": 1287.73,
+   "text": "for the developing countries, then people began to improvise and began to say, well,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1287.79,
+   "end": 1291.91,
+   "text": "we could do more of it through the monetary fund. We could do more of it through the World Bank.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1291.91,
+   "end": 1299.39,
+   "text": "And you started to use the international monetary organizations to provide more credits. But that",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1299.39,
+   "end": 1305.63,
+   "text": "is not the fund acting as the manager of the monetary system. That is the fund acting as",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1305.63,
+   "end": 1311.55,
+   "text": "though it were a bank and another intermediary, which I particularly don't object to. But I don't",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1311.55,
+   "end": 1316.63,
+   "text": "confuse it with the fact that when the fund is acting as an intermediary in providing funds,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1316.63,
+   "end": 1325.15,
+   "text": "it is only a very, that is only, that's relatively unimportant compared with its major function,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1325.39,
+   "end": 1331.09,
+   "text": "which is to try to manage the international monetary system as a whole, irrespective of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1331.09,
+   "end": 1336.93,
+   "text": "what the sources of funds are and what the usage of those funds are, is to create a monetary system",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1336.93,
+   "end": 1340.41,
+   "text": "which encourages the expansion of international trade and finance.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1340.85,
+   "end": 1344.39,
+   "text": "And if you look at the magnitudes of international trade and services today",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1344.39,
+   "end": 1349.35,
+   "text": "and you compare it with what is happening with these, say, the borrowings of developing countries",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1349.35,
+   "end": 1354.63,
+   "text": "or what's happening to reserves, you see that these things are really blown completely out of proportion.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1355.05,
+   "end": 1361.77,
+   "text": "So I don't really regard the developments in the oil field as a major impact on the monetary system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1362.03,
+   "end": 1365.63,
+   "text": "It's had a major impact on the international banking that's going on",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1365.63,
+   "end": 1369.99,
+   "text": "because we've had an increased demand for loanable funds from the developing countries.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1370.39,
+   "end": 1377.99,
+   "text": "Another group of questions directed to one or both speakers had to do with the international",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1377.99,
+   "end": 1385.57,
+   "text": "differences in technological change or productivity or both as between, say, the United States",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1385.57,
+   "end": 1391.93,
+   "text": "and Japan and West Germany or other countries in Europe as well.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1391.93,
+   "end": 1397.69,
+   "text": "and a second component of that had to do with a comment by Peter Drucker",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1397.69,
+   "end": 1400.71,
+   "text": "about the similarity in savings rates",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1400.71,
+   "end": 1407.13,
+   "text": "but the dissimilarity in productive investment rates across the same countries.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1407.75,
+   "end": 1412.95,
+   "text": "Why do these exist and what can the United States do to change the situation?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1414.79,
+   "end": 1417.23,
+   "text": "Assuming you think there's a need to change it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1417.23,
+   "end": 1428.19,
+   "text": "Let me say productivity we have had a hundred years ago, not quite, but almost a year.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1428.95,
+   "end": 1435.75,
+   "text": "In the last unfinished volume of Das Kapital, Marx predicted the imminent demise of the system",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1435.75,
+   "end": 1442.17,
+   "text": "because of the inexorable law of the decreasing productivity of capital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1442.17,
+   "end": 1448.41,
+   "text": "And when he meant imminent, he meant imminent because in a letter in which he was asked to explain",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1448.41,
+   "end": 1454.37,
+   "text": "that he said, I will not see it, I am already 70,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1455.45,
+   "end": 1459.93,
+   "text": "but Friedrich Engels, who is 20 years younger, will live to see it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1460.69,
+   "end": 1463.51,
+   "text": "So that meant before 1900.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1465.19,
+   "end": 1467.27,
+   "text": "And that was just the time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1467.83,
+   "end": 1472.85,
+   "text": "And he, in that sense, only said what every economist of the 19th century,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1472.85,
+   "end": 1478.75,
+   "text": "almost everyone, except a few heretics, would have considered axiomatic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1479.73,
+   "end": 1483.95,
+   "text": "And just at that time, as is common with predictions of economists,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1484.47,
+   "end": 1491.29,
+   "text": "that things turned around, and the secular increase in the productivity,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1491.69,
+   "end": 1496.03,
+   "text": "both of labor and of capital, began of labor in this country,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1496.53,
+   "end": 1499.27,
+   "text": "where in those very years Frederick Taylor discovered",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1499.27,
+   "end": 1504.07,
+   "text": "that there is an alternative to working harder, which is working smarter.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1504.85,
+   "end": 1508.47,
+   "text": "And in Europe, at that time, the first modern banker,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1509.13,
+   "end": 1510.95,
+   "text": "George Siemens of the Deutsche Bank,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1511.09,
+   "end": 1514.21,
+   "text": "discovered that one can work on the productivity of money.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1514.99,
+   "end": 1517.93,
+   "text": "And as a result of those two, for 100 years,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1518.27,
+   "end": 1520.71,
+   "text": "we had a steady increase in productivity",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1520.71,
+   "end": 1525.19,
+   "text": "to the point where when I was a very young man",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1525.19,
+   "end": 1528.75,
+   "text": "and allowed to sit in a corner in the Keynes Seminar,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1529.27,
+   "end": 1533.21,
+   "text": "Keynes, when being asked why is there no productivity in your model,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1533.47,
+   "end": 1535.21,
+   "text": "we didn't say model in your system,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1535.21,
+   "end": 1543.11,
+   "text": "said because you can't take the continuing increase in productivity for granted",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1543.11,
+   "end": 1546.69,
+   "text": "as long as the economy is stable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1547.31,
+   "end": 1548.95,
+   "text": "And we know this ain't true.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1550.11,
+   "end": 1556.45,
+   "text": "Around 1860, productivity began to turn down in all developed countries, by the way,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1556.45,
+   "end": 1565.49,
+   "text": "of all resources of money of key physical resources and of people and we don't know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1565.49,
+   "end": 1571.53,
+   "text": "the reasons or you can speculate whether that's a shift to the service economy or whether that's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1571.53,
+   "end": 1580.01,
+   "text": "because all of your good people got mbas which i think is a very likely cause uh and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1580.01,
+   "end": 1588.85,
+   "text": "And I don't know why, but since it happened most in the Soviet Union where they have no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1588.85,
+   "end": 1595.83,
+   "text": "MBAs, I think we can rule out this explanation and continue running this school.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1595.83,
+   "end": 1603.55,
+   "text": "And so whatever it is, we have had now what is more than a cyclical decline in productivity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1603.55,
+   "end": 1612.11,
+   "text": "And the rate at which they are going down, if you plot it on log-log paper, they would all look the same.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1612.59,
+   "end": 1614.29,
+   "text": "There is not much difference.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1614.77,
+   "end": 1616.11,
+   "text": "There is only one exception.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1618.14,
+   "end": 1624.22,
+   "text": "The productivity of labor has been going up in one country, that's Belgium, for a very simple reason.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1624.98,
+   "end": 1629.7,
+   "text": "They have such an insane law on layoffs that nobody hires anybody.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1630.24,
+   "end": 1636.4,
+   "text": "And as a result, Belgium is so grotesquely understaffed that the productivity is going up.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1636.72,
+   "end": 1643.6,
+   "text": "But I don't think that's a shining example of social policy either.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1643.6,
+   "end": 1649.2,
+   "text": "And we have to go to work and reverse it, but there is no real difference.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1649.2,
+   "end": 1655.88,
+   "text": "The Japanese started from a much higher increase in productivity of labor, by the way, productivity",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1655.88,
+   "end": 1661.9,
+   "text": "of capital in Japan is not particularly good, it's poor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1661.9,
+   "end": 1666.54,
+   "text": "The Germans are much better, and the French are better still.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1666.54,
+   "end": 1673.04,
+   "text": "we're all going down at about the same rate and we are still not bottoming out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1673.04,
+   "end": 1679.02,
+   "text": "Capital I think we are beginning to, capital is becoming so scarce and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1679.02,
+   "end": 1684.72,
+   "text": "expensive that we are beginning to be a little better at putting it to work but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1684.72,
+   "end": 1692.52,
+   "text": "not so you notice it much. So this is a great job to be done and we know one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1692.52,
+   "end": 1702.64,
+   "text": "thing, macroeconomics do not create productivities. Productivities are created microeconomically",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1702.64,
+   "end": 1710.16,
+   "text": "by the likes of you in your place of business and not by the great white father in the Federal",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1710.16,
+   "end": 1718.7,
+   "text": "Reserve Board. That much we do know. As to savings rates, let me say the last few years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1718.7,
+   "end": 1726.06,
+   "text": "I have been doing the kind of things I was once trained to do, which is to take popular",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1726.06,
+   "end": 1731.54,
+   "text": "assumptions and reduce them to quantitative terms and plotting them, and you get some",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1731.54,
+   "end": 1732.78,
+   "text": "very interesting things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1732.78,
+   "end": 1742.1,
+   "text": "One question I ask myself is, what in a period of secular inflation is an inflation-proof",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1742.1,
+   "end": 1742.92,
+   "text": "investment?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1744.04,
+   "end": 1745.16,
+   "text": "There are only two.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1745.16,
+   "end": 1756.08,
+   "text": "If you have enough time, meaning 80 years, then first rate art.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1757.1,
+   "end": 1766.16,
+   "text": "Since 1600, or a little before, when Leonardo da Vinci invented art as an investment,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1766.16,
+   "end": 1773.84,
+   "text": "investment and he actually did. Art has been the best investment simply because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1773.84,
+   "end": 1782.08,
+   "text": "despite the great activity of forgers the supply of old art is limited.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.99
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 23.9,
+ "created_utc": "2026-09-20T22:49:59+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

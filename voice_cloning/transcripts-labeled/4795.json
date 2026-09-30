@@ -1,0 +1,3598 @@
+{
+ "pointer": "4795",
+ "media": "4795.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2917.0,
+ "segments": [
+  {
+   "start": 2.26,
+   "end": 8.14,
+   "text": "We have a very broad range of fascinating questions here, many that are related to the",
+   "speaker": "drucker",
+   "drucker_coverage": 0.976
+  },
+  {
+   "start": 8.14,
+   "end": 15.26,
+   "text": "relationships between organizational structure and its overall strategy, a number of questions",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 15.26,
+   "end": 19.28,
+   "text": "that are related to organizational structure and human resource management.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 19.28,
+   "end": 23.26,
+   "text": "Why don't we start out with some nuts and bolts kind of questions on the human resource",
+   "speaker": "other",
+   "drucker_coverage": 0.065
+  },
+  {
+   "start": 23.26,
+   "end": 24.7,
+   "text": "management side.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 25.38,
+   "end": 31.64,
+   "text": "One question here is, what effect is dual career families having on managerial staffing",
+   "speaker": "other",
+   "drucker_coverage": 0.099
+  },
+  {
+   "start": 31.64,
+   "end": 41.0,
+   "text": "mobility and so on what is the impact of the increasing dual career family well I",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.321
+  },
+  {
+   "start": 41.0,
+   "end": 48.68,
+   "text": "think all of you by now know that increasingly you can't move an",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 48.68,
+   "end": 58.94,
+   "text": "individual you have to move his wife and increasingly the decision whether to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 58.94,
+   "end": 63.5,
+   "text": "accept the promotion and the move will be made jointly and let me say where you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 63.5,
+   "end": 70.62,
+   "text": "see that most strongly and you can learn from our mistakes is in the universities",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 70.62,
+   "end": 78.75,
+   "text": "frankly I have grave doubts that the traditional American college or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 78.75,
+   "end": 84.27,
+   "text": "university in the countryside can survive I would consider the survival of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 84.27,
+   "end": 94.27,
+   "text": "almost very unlikely. Just now you have a faculty surplus, but in ten years from now, you won't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 94.27,
+   "end": 104.27,
+   "text": "And then the fact that when you hire that young assistant professor of history, and he is married to a wife",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 104.27,
+   "end": 109.71,
+   "text": "to a wife who's an accountant, or a lawyer, or a nurse.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 109.71,
+   "end": 115.19,
+   "text": "There are no jobs in Osaka.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 115.19,
+   "end": 120.27,
+   "text": "We are evangelism.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 120.27,
+   "end": 123.97,
+   "text": "We can usually find a job for a wife, and it works.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 123.97,
+   "end": 127.83,
+   "text": "If you were at the University of California, Riverside,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 127.83,
+   "end": 130.77,
+   "text": "which is 50 miles out, is dying.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 130.77,
+   "end": 133.57,
+   "text": "They cannot replace faculty.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 133.57,
+   "end": 136.89,
+   "text": "And you will accept it that you will not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 136.89,
+   "end": 143.15,
+   "text": "Assume that it's a promotion for that district sales manager in Atlanta.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 143.15,
+   "end": 155.17,
+   "text": "There will be division sales manager in Minneapolis unless you have somebody in Minneapolis working on finding a job.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 155.55,
+   "end": 158.89,
+   "text": "Today, incidentally, a house too, but a job for his wife.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 160.27,
+   "end": 161.33,
+   "text": "And accept it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 161.33,
+   "end": 169.55,
+   "text": "On the industrial scene, there's no question that dual careers has inhibited the physical",
+   "speaker": "other",
+   "drucker_coverage": 0.142
+  },
+  {
+   "start": 169.55,
+   "end": 173.71,
+   "text": "geographical transfer of people for training purposes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 173.71,
+   "end": 181.73,
+   "text": "Most corporations have some concern about both husband and wife working for the same",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 181.73,
+   "end": 183.51,
+   "text": "corporation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 183.51,
+   "end": 189.49,
+   "text": "We do have a lot of husband and wives working in our company, in the company I was with.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 189.49,
+   "end": 197.33,
+   "text": "But in general, the wife has her career, sometimes a professional career, and the husband has, of course, his career with you.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 198.69,
+   "end": 205.37,
+   "text": "What often happens is that the personnel managers of corporations are working closer and closer together.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 206.71,
+   "end": 215.05,
+   "text": "You transfer an individual to Los Angeles, and you call up your friendly personnel manager in the XYZ company or in several other companies and say,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 215.05,
+   "end": 222.77,
+   "text": "hey, would you have a position of this type for the man's wife whom we're transferring to Los Angeles?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 223.63,
+   "end": 227.85,
+   "text": "And very frequently something of that nature can be worked out.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 228.67,
+   "end": 234.77,
+   "text": "If it can't be worked out, then, of course, it becomes a matter between the wife and the husband,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 234.93,
+   "end": 239.79,
+   "text": "the husband and the wife, as to whose career is the more important.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 240.57,
+   "end": 244.71,
+   "text": "And generally some decision is made along those lines.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 244.71,
+   "end": 247.49,
+   "text": "But it gives you a lot more pause.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 247.59,
+   "end": 248.27,
+   "text": "And maybe it's good.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 248.39,
+   "end": 252.95,
+   "text": "I think that in the past there were perhaps too many transfers.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 253.31,
+   "end": 255.69,
+   "text": "People would meet their furniture coming back sometimes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 257.21,
+   "end": 259.35,
+   "text": "They're moving back and forth.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 259.81,
+   "end": 264.29,
+   "text": "So lots of times, you know, you didn't know what to do, so you moved somebody.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 265.47,
+   "end": 267.95,
+   "text": "And that now is becoming not only more expensive,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 268.19,
+   "end": 272.23,
+   "text": "but it's becoming physically more difficult with the dual careers.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 272.23,
+   "end": 283.43,
+   "text": "But may I put in a very simple don't. You know, we learned in the last 40 years,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.976
+  },
+  {
+   "start": 283.43,
+   "end": 288.73,
+   "text": "maybe it isn't written company policy, but most of you do it, that here is that couple",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 288.73,
+   "end": 294.13,
+   "text": "that have a mongoloid child in Greenwich, Connecticut, and they finally found a place",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 294.13,
+   "end": 301.83,
+   "text": "where that child is happy and looked after. And then when the man says, no, I'm not going",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 301.83,
+   "end": 304.27,
+   "text": "to take the job in New Orleans.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 304.27,
+   "end": 306.27,
+   "text": "Finally, we have found a place.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 306.27,
+   "end": 309.21,
+   "text": "And my wife, mothers of Mongoloid children,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 309.21,
+   "end": 312.01,
+   "text": "have very serious guilt problems.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 312.01,
+   "end": 316.19,
+   "text": "My wife is, for the first time, a little reconciled.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 316.19,
+   "end": 318.33,
+   "text": "We are no longer penalizing them,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 318.33,
+   "end": 321.45,
+   "text": "though it took us a long time to learn it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 321.45,
+   "end": 324.87,
+   "text": "Will you accept the fact that it better be written company",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 324.87,
+   "end": 329.97,
+   "text": "policy that if an employee, male or female,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 329.97,
+   "end": 336.67,
+   "text": "says no to a promotion or a transfer because he is not going to destroy his family,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 338.96,
+   "end": 341.22,
+   "text": "that you are not going to penalize him for it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 341.28,
+   "end": 342.6,
+   "text": "It's not the black mark.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 343.34,
+   "end": 349.98,
+   "text": "It is a, within, otherwise you're going to have it within 10 years predictably.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 349.98,
+   "end": 358.26,
+   "text": "As a major legislative problem, and you'll have Uncle Sam screaming discrimination,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 358.26,
+   "end": 361.28,
+   "text": "and then you will scream and complain",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 361.28,
+   "end": 363.2,
+   "text": "and you have no one to blame but yourself.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 363.9,
+   "end": 367.5,
+   "text": "Actually, I think that the enlightened personnel officer",
+   "speaker": "other",
+   "drucker_coverage": 0.167
+  },
+  {
+   "start": 367.5,
+   "end": 369.06,
+   "text": "is the enlightened management of corporations.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.359
+  },
+  {
+   "start": 369.06,
+   "end": 369.96,
+   "text": "Is there such a thing?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 370.7,
+   "end": 370.98,
+   "text": "Pardon?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 371.36,
+   "end": 373.0,
+   "text": "Is there such a thing? Where?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 373.8,
+   "end": 376.0,
+   "text": "I saw one one time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 376.3,
+   "end": 378.18,
+   "text": "In my books only.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 378.3,
+   "end": 381.26,
+   "text": "I wish everyone who's enlightened here would stand up.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.405
+  },
+  {
+   "start": 381.34,
+   "end": 386.4,
+   "text": "Anyway, let us say the more reasonable.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 386.4,
+   "end": 390.82,
+   "text": "personnel manager, the more intelligent",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 390.82,
+   "end": 393.82,
+   "text": "Are you again beginning to",
+   "speaker": "drucker",
+   "drucker_coverage": 0.94
+  },
+  {
+   "start": 393.82,
+   "end": 396.62,
+   "text": "I'm going too far? Alright, the more reasonable",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.421
+  },
+  {
+   "start": 396.62,
+   "end": 400.36,
+   "text": "the more reasonable personnel manager",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 400.36,
+   "end": 404.48,
+   "text": "or the executive is beginning to realize",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 404.48,
+   "end": 408.32,
+   "text": "that the individual probably knows his own capacities",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 408.32,
+   "end": 411.3,
+   "text": "and capabilities best of all",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 411.3,
+   "end": 418.0,
+   "text": "And it takes a lot of good basic logic for an individual to say,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 418.1,
+   "end": 423.1,
+   "text": "no, I think that what I'm doing today is about where I belong.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 423.76,
+   "end": 431.0,
+   "text": "And I really shouldn't be enticed by this promotional or transfer opportunity,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 431.18,
+   "end": 435.18,
+   "text": "which would probably lead to a promotion, because I'll be less happy there",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 435.18,
+   "end": 443.14,
+   "text": "and I'll be less effective in that job than I am in the job in which I now reside.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 443.8,
+   "end": 445.7,
+   "text": "It's very difficult to move people back.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 445.86,
+   "end": 449.0,
+   "text": "I have had a few instances where it has been done successfully,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 449.92,
+   "end": 455.76,
+   "text": "where a mistake was made by management in thinking that this individual could carry a larger responsibility.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 456.58,
+   "end": 459.9,
+   "text": "I found him completely unhappy, quite ineffective.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 460.74,
+   "end": 465.88,
+   "text": "And he voluntarily, in this case, said, I'd like to go on back to be a plant manager.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 466.44,
+   "end": 468.06,
+   "text": "It's what I think I can do.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 468.64,
+   "end": 474.82,
+   "text": "And he went back, and he was one of the best plant managers that we had.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 474.82,
+   "end": 478.22,
+   "text": "Let's continue with this enlightened personnel manager,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 478.86,
+   "end": 481.44,
+   "text": "because there are many questions bearing upon that role.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 482.54,
+   "end": 483.94,
+   "text": "A number of questions ask,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 484.12,
+   "end": 490.64,
+   "text": "what does the challenge of organizational complexity mean for the personnel function in large organizations,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 491.26,
+   "end": 498.8,
+   "text": "especially what does it mean for the role of the central personnel department inside the organization?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 500.95,
+   "end": 507.23,
+   "text": "Well, any major move, first of all, as Peter said, we're all computerized now.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 507.87,
+   "end": 513.79,
+   "text": "So we have personnel records, and it depends upon the depth of them",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 513.79,
+   "end": 516.41,
+   "text": "as to how much the corporation wants to spend on them.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 516.41,
+   "end": 538.79,
+   "text": "Some corporations have gone very, very far in developing a recovery recall system for their people, which indicates not only the statistics with respect to their background, but also indicates opinions of where they might go, sometimes the only individual's opinion.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 538.79,
+   "end": 542.01,
+   "text": "There are some corporations who ask people, what would you ultimately like to be?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 542.83,
+   "end": 549.99,
+   "text": "And fortunately, not a lot of them say CEO, so you don't have too much competition.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 551.33,
+   "end": 558.41,
+   "text": "And in some instances, I've seen corporations who do that where the individual has obtained what is his ultimate objective.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 558.89,
+   "end": 568.27,
+   "text": "Anyway, when an opening occurs, obviously the business manager, if you're decentralized, has the first opportunity of filling that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 568.27,
+   "end": 576.01,
+   "text": "But he also has to relate to the corporate personnel manager to make certain that there isn't a more qualified individual for that particular job.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 576.09,
+   "end": 593.61,
+   "text": "So that you, in most corporations today with the aid of computers, your promotions, your development in a complex organization are done on the basis of taking a look at almost every available candidate.",
+   "speaker": "other",
+   "drucker_coverage": 0.006
+  },
+  {
+   "start": 593.61,
+   "end": 609.75,
+   "text": "If I may come in, I would say there is a probability, I don't know how much, make it 64 and one-eighth percent, you know, the less certain you are, the more precise you have to be, and the first law of econometrics.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 609.75,
+   "end": 616.07,
+   "text": "And, but it's not about two thirds, I would say, two out of three.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 616.59,
+   "end": 625.83,
+   "text": "That's why the personnel function will become far more important and the personnel discipline will disappear.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 627.59,
+   "end": 636.57,
+   "text": "I think we developed really as a result largely of the union drive of societies in the world,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 636.57,
+   "end": 638.99,
+   "text": "but to a personnel profession.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 639.75,
+   "end": 648.65,
+   "text": "which is star-focused and which basically spends its time with a great many chores",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 648.65,
+   "end": 653.67,
+   "text": "and very little thinking about people, it thinks about activities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 655.95,
+   "end": 659.13,
+   "text": "And it's unlikely that this is going to survive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 660.11,
+   "end": 663.03,
+   "text": "The personnel function will become far more important,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 663.25,
+   "end": 666.57,
+   "text": "it will become a line function rather than a star function,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 667.59,
+   "end": 669.53,
+   "text": "as it is in Japan, by the way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 669.75,
+   "end": 675.35,
+   "text": "In Japan, you know, if you run a plant or if you run, you're the manufacturing manager,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 675.95,
+   "end": 681.75,
+   "text": "you learn who your plant manager is from the company newspaper.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 682.09,
+   "end": 685.09,
+   "text": "Personnel appoints him, doesn't even consult you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 686.17,
+   "end": 692.05,
+   "text": "That may be going a little bit too far, but it's not different from the way the military operates.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 692.05,
+   "end": 698.21,
+   "text": "and that this is the only way you can make sure",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 698.21,
+   "end": 703.05,
+   "text": "that you place the person who is most qualified",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 703.05,
+   "end": 705.01,
+   "text": "and needs the exposure the most",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 705.01,
+   "end": 709.69,
+   "text": "and you don't start out with whom does the boss want",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 709.69,
+   "end": 711.59,
+   "text": "but what does the job require.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 713.05,
+   "end": 715.67,
+   "text": "I'm not sure we'll go that far.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 715.67,
+   "end": 720.43,
+   "text": "Those are strong arguments against our present staff man",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 720.43,
+   "end": 726.67,
+   "text": "who has not enough authority and yet too much responsibility but we will see more and more",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 726.67,
+   "end": 733.87,
+   "text": "personnel as a line function concerned with the placement of people their development of people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 733.87,
+   "end": 743.39,
+   "text": "their career paths of people and so on and fewer and fewer personnel specialists as a career",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 743.39,
+   "end": 749.95,
+   "text": "because you can only do this if you know operations by having been in them and know them",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 750.43,
+   "end": 753.23,
+   "text": "by expecting to go back into them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 753.83,
+   "end": 759.09,
+   "text": "And so I think if you were to set up things today,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 759.27,
+   "end": 765.13,
+   "text": "I would aim at having, oh yes, one does need a few specialists,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 765.97,
+   "end": 770.01,
+   "text": "but fundamentally I would look at here is Joe or Jane",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 770.01,
+   "end": 775.79,
+   "text": "and at what stage in his or her career does she belong for five years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 775.79,
+   "end": 779.39,
+   "text": "in a people-focused job concerned with placing people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 779.39,
+   "end": 787.15,
+   "text": "always training people always thinking through tomorrow's needs for people and what should our",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 787.15,
+   "end": 793.63,
+   "text": "jobs have to be to be marketable it's going to be a very difficult question as the supply changes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 795.31,
+   "end": 801.39,
+   "text": "and then after three or five years whereas jane who now understands a lot about people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 801.39,
+   "end": 813.55,
+   "text": "and organization go back into operations and i think you will see uh in this country in 1906",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 814.83,
+   "end": 820.35,
+   "text": "when the first big management job was done which was the reorganization of an american army that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 820.35,
+   "end": 826.91,
+   "text": "had totally collapsed in the spanish-american war elio root wanted to copy the german general staff",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 826.91,
+   "end": 833.95,
+   "text": "which is a separate career ladder and congress slapped him down rightly and so general staff is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 833.95,
+   "end": 843.07,
+   "text": "seen as a development as a major challenge to somebody who is on the way up and that's a great",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 843.07,
+   "end": 848.27,
+   "text": "strength and i think you will see personnel in this country moving in that same direction",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 848.83,
+   "end": 855.95,
+   "text": "in some ways it is one of the two general staffs of a business the other one is planning and both",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 855.95,
+   "end": 861.23,
+   "text": "neither of them should be a permanent career that gives you either wire pullers or specialists",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 861.23,
+   "end": 870.67,
+   "text": "and you don't really want either i i agree in in general i think one uh the most effective",
+   "speaker": "other",
+   "drucker_coverage": 0.24
+  },
+  {
+   "start": 870.67,
+   "end": 878.67,
+   "text": "personnel manager is one who has come from from operations uh and i do think that you should move",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 878.67,
+   "end": 883.47,
+   "text": "people in and out of any function whether it's personal or anything else but i do believe that",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 883.47,
+   "end": 899.09,
+   "text": "But there is a wonderful opportunity in the field of personnel management, middle management education, continuing education, the development of additional and more attractive, more effective fringe benefits.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 899.09,
+   "end": 907.61,
+   "text": "I think there's a marvelous opportunity for ingenuity, imagination, and development there as there is in almost any other function of the business.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 907.61,
+   "end": 915.07,
+   "text": "okay let's move into the area of the relationships between strategy and structure a number of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 915.07,
+   "end": 921.87,
+   "text": "questions on where should the locus of strategic planning and management be in the large complex",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 921.87,
+   "end": 929.91,
+   "text": "organization should it be at the top or should it be embedded further down the locus of strategic",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 929.91,
+   "end": 937.33,
+   "text": "management and planning if you look at strategic management and planning it it's not terms i'm",
+   "speaker": "drucker",
+   "drucker_coverage": 0.853
+  },
+  {
+   "start": 937.33,
+   "end": 941.07,
+   "text": "necessarily enamored of. Let's see",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 941.07,
+   "end": 945.29,
+   "text": "are you talking about how to do better",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 945.29,
+   "end": 948.75,
+   "text": "what we are already doing or are you talking about the different?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 949.69,
+   "end": 953.09,
+   "text": "Our planning historically has been focused on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 953.09,
+   "end": 957.37,
+   "text": "doing what we already do. That may no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 957.37,
+   "end": 961.71,
+   "text": "longer work in a time of real discontinuity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 962.21,
+   "end": 965.19,
+   "text": "If you want to look at doing the new things",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 965.19,
+   "end": 974.63,
+   "text": "they can't be in the existing containers one can only codify yesterday no matter how much your job",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 974.63,
+   "end": 980.79,
+   "text": "description says that that general manager of the transformer department is also responsible for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 980.79,
+   "end": 991.51,
+   "text": "the future you know the one predictable thing in operations is a daily crisis uh and also he's got",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 991.51,
+   "end": 1000.87,
+   "text": "But $850 million in today's business and all future businesses of, well, the best forecast is that within eight years you're going to sell $4 million.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1002.45,
+   "end": 1006.55,
+   "text": "The curve is not, the curve is always an exponential one, you hope.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1007.61,
+   "end": 1013.33,
+   "text": "And he is not going to take time out when the daily crisis hits, nor will his boss allow him to.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1013.95,
+   "end": 1017.97,
+   "text": "You know, here transformer sales are going down and we have quality problems.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1017.97,
+   "end": 1020.43,
+   "text": "and the big boss comes up and he says,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1020.51,
+   "end": 1024.27,
+   "text": "leave me alone, I'm working on what will replace the transformer,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1024.57,
+   "end": 1026.41,
+   "text": "I don't think you're going to last long.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1027.75,
+   "end": 1029.07,
+   "text": "Nor should you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1031.35,
+   "end": 1039.98,
+   "text": "And then the locus of tomorrow,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1039.98,
+   "end": 1043.34,
+   "text": "which always also begins with abandoning yesterday",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1043.34,
+   "end": 1048.9,
+   "text": "and don't ask operating people to sit there in contemplation of suicide.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1049.54,
+   "end": 1059.54,
+   "text": "No, if you look at strategic planning as what is different than you, where you begin with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1059.54,
+   "end": 1065.54,
+   "text": "what are the things we go out of, and then say what are the really different things,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1065.54,
+   "end": 1070.54,
+   "text": "then it's simply not something you can do in the existing operating containers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1070.54,
+   "end": 1078.54,
+   "text": "And it's got to be a central function for the simple reason that it's got to have time,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1078.54,
+   "end": 1086.16,
+   "text": "It's got to be reasonably free from the daily crisis, and it's got to be willing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1086.16,
+   "end": 1090.9,
+   "text": "and able to think the unthinkable, namely that it wasn't the good Lord who",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1090.9,
+   "end": 1098.62,
+   "text": "invented the glass bottle, and therefore it won't last forever. And that you can't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1098.62,
+   "end": 1104.84,
+   "text": "put, and but don't for Christ's sake do that with a big huge staff. Thinking is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1104.84,
+   "end": 1116.1,
+   "text": "best done by one person with a pencil or with a piece of yellow and a yellow pad or with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1116.1,
+   "end": 1118.1,
+   "text": "a blackboard and a piece of chalk.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1118.22,
+   "end": 1122.7,
+   "text": "It is not really well done in the management conference.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1124.08,
+   "end": 1125.28,
+   "text": "I agree completely.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1125.42,
+   "end": 1131.46,
+   "text": "You need the perspective that exceeds that of a divisional manager, and the greatest",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1131.46,
+   "end": 1136.24,
+   "text": "amount of insight and speculative thought comes from an individual working with himself.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1136.66,
+   "end": 1154.24,
+   "text": "Well, let's continue with that. We have a very specific question here. What would you advise an organization to do when the chief executive officer will not set strategic goals and the board will not act? What would you advise?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1155.28,
+   "end": 1156.78,
+   "text": "Get another job.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1156.94,
+   "end": 1160.38,
+   "text": "Get another job, yes. Absolutely.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.837
+  },
+  {
+   "start": 1162.3,
+   "end": 1164.46,
+   "text": "You're on the Titanic at that point.",
+   "speaker": "other",
+   "drucker_coverage": 0.213
+  },
+  {
+   "start": 1164.46,
+   "end": 1175.14,
+   "text": "Let me see. There are, judging by yesterday's name card, there are five headhunters in this room. Will you find one of them fast?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1177.88,
+   "end": 1191.9,
+   "text": "Is the current trend toward organizing companies into strategic business units likely to be effective? The SBU concept.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.314
+  },
+  {
+   "start": 1191.9,
+   "end": 1203.56,
+   "text": "It depends a great deal on the nature of the business and the nature of the organization.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.352
+  },
+  {
+   "start": 1203.56,
+   "end": 1209.56,
+   "text": "I know that's kind of a hedging answer, but I can't answer it any other way.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1209.56,
+   "end": 1219.8,
+   "text": "If you are in a fairly uniform operation, whether it's mining or manufacturing a given",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1219.8,
+   "end": 1225.74,
+   "text": "article, then of course you don't need to have separate units. But if you're in things",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1225.74,
+   "end": 1231.88,
+   "text": "that aren't that closely related, but I hope have some degree of synergism, that's a bad",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1231.88,
+   "end": 1238.26,
+   "text": "word because it can lead you into some terrible situations. But anyway, then I think the individual",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1238.26,
+   "end": 1245.7,
+   "text": "units have merit. We just saw a situation, which is now public, where there was absolutely",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1245.7,
+   "end": 1251.62,
+   "text": "no synergism i'm talking about the engelhardt corporation which the only thing that the only",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1252.42,
+   "end": 1260.64,
+   "text": "responsible answer was to separate the corporation which was done well the strategic business unit",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.443
+  },
+  {
+   "start": 1260.64,
+   "end": 1269.76,
+   "text": "which as you know ge invented about or make it 15 years ago uh as the answer to the organization",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1269.76,
+   "end": 1275.28,
+   "text": "problems which the reorganization to which i was the chief consultant created",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1275.28,
+   "end": 1287.28,
+   "text": "which was that on the one hand here were businesses that were big enough, in some cases very big,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1287.28,
+   "end": 1296.28,
+   "text": "and yet if you had all of them report to the top, you would have had 600 or 400 businesses,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1296.28,
+   "end": 1304.78,
+   "text": "and if you went by the span of control, you had too many levels.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1304.78,
+   "end": 1333.78,
+   "text": "And so the strategic business unit was basically an attempt to create a locus for the fundamental thinking and planning and strategic management, including people by the way, that would reduce the number of units again to a manageable number without giving you six levels of command between",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1334.78,
+   "end": 1339.78,
+   "text": "the chief executive, and where the actual action is being done.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1339.78,
+   "end": 1342.78,
+   "text": "And it worked. It is not an easy structure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1342.78,
+   "end": 1345.78,
+   "text": "It requires a great deal of self-discipline.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1345.78,
+   "end": 1353.78,
+   "text": "And it took probably, I guess by that time I had stopped working with GE so I can speak rather freely,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1353.78,
+   "end": 1358.78,
+   "text": "but it took about six, eight years, five years before people had learned",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1358.78,
+   "end": 1364.78,
+   "text": "opt to take the appropriate amount of responsibility and to be self-disciplined,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1364.78,
+   "end": 1367.78,
+   "text": "where you don't have that problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1367.78,
+   "end": 1371.78,
+   "text": "The role of structures varies.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1371.78,
+   "end": 1374.78,
+   "text": "The simpler, the better.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1374.78,
+   "end": 1382.78,
+   "text": "What is the maximum of complexity you need to have, not what is the minimum.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1382.78,
+   "end": 1403.52,
+   "text": "And so where you have a newspaper chain, 180 papers, you know, one newspaper doesn't work with the other. The Rochester Times or whatever it is, doesn't work with the paper of the same chain in Pueblo, Colorado.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1403.52,
+   "end": 1410.76,
+   "text": "so each are truly autonomous you don't build anything else in between and where",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1410.76,
+   "end": 1416.4,
+   "text": "you have sealed Roebuck stores they don't work with one another and each has",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1416.4,
+   "end": 1422.04,
+   "text": "its own territory there you are very simple and flat you can be but where you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1422.04,
+   "end": 1427.02,
+   "text": "have technologies where you have competing technologies within the same",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1427.02,
+   "end": 1435.18,
+   "text": "corporate body parallel India don't yet know which one is going to win and you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1435.18,
+   "end": 1443.51,
+   "text": "have to be in let's say the large mainframe computer but you can't any",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1443.51,
+   "end": 1449.87,
+   "text": "longer stay out of the mini answer microprocessor and you don't really know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1449.87,
+   "end": 1455.41,
+   "text": "how the two will work together because it is quite conceivable that tomorrow",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1455.41,
+   "end": 1461.69,
+   "text": "you will build your own large-scale computer by small units and building",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1461.69,
+   "end": 1466.49,
+   "text": "blocks but it is equally conceivable that you build your system around even",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1466.49,
+   "end": 1472.85,
+   "text": "larger units we don't know then you need a place where these things can be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1472.85,
+   "end": 1477.93,
+   "text": "balanced and looked at that is sufficiently close to the scene of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1477.93,
+   "end": 1487.95,
+   "text": "action and yet big enough and so that it can work with the top management and the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1487.95,
+   "end": 1494.97,
+   "text": "top management staffs without creating a traffic jam Mike let me see I judge",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1494.97,
+   "end": 1501.57,
+   "text": "organizations not by what's how they look on the chart but by street criteria",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1501.57,
+   "end": 1507.25,
+   "text": "do more than a very few people on the top have to spend more than one quarter",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1507.25,
+   "end": 1518.39,
+   "text": "of the time in meetings. If so, you're over-organized. And I mean that literally. Secondly, when",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1518.39,
+   "end": 1528.76,
+   "text": "I call up Abel, secretary in the executive vice president's office, does she know where",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1528.76,
+   "end": 1535.18,
+   "text": "everybody is, or does she say, well, they're out in the field someplace? And I'm quite",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1535.18,
+   "end": 1540.26,
+   "text": "serious. And the other one is when I go up and I have a meeting with the president, how",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1540.26,
+   "end": 1545.36,
+   "text": "many other people sit in that ante room. If it's more than three, then too many",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1545.36,
+   "end": 1551.9,
+   "text": "report to him. And believe me, these are much better criteria. And when you move",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1551.9,
+   "end": 1555.8,
+   "text": "there, you have six sitting there. Then I'm saying, now why don't you have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1555.8,
+   "end": 1562.5,
+   "text": "strategic planning units? Then you have too many people reporting to you, and you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1562.5,
+   "end": 1566.9,
+   "text": "have not really thought through, and you have too many levels, and you have not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1566.9,
+   "end": 1574.16,
+   "text": "really thought through how you create a center that enables you to abolish two or three levels",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1574.16,
+   "end": 1583.16,
+   "text": "and yet give you the close working relationship with a place where a decision can be made would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1583.16,
+   "end": 1587.4,
+   "text": "you agree and that's the only thing i'd add is that you one thing you haven't learned is you",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.434
+  },
+  {
+   "start": 1587.4,
+   "end": 1593.48,
+   "text": "ask the secretary the question because she knows the answer i only ask the question because she's",
+   "speaker": "drucker",
+   "drucker_coverage": 0.655
+  },
+  {
+   "start": 1593.48,
+   "end": 1597.78,
+   "text": "the only one if anybody if she doesn't know the answer then i know nobody that's right",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1597.78,
+   "end": 1603.54,
+   "text": "i don't have to go any further if she does at least one person does",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1603.54,
+   "end": 1611.92,
+   "text": "okay we have a number of questions about the potential utility or value or application of",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.353
+  },
+  {
+   "start": 1611.92,
+   "end": 1618.28,
+   "text": "foreign management practices and styles here in the u.s let's start first with the question of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1618.28,
+   "end": 1626.48,
+   "text": "German co-determination, workers on the boards there, is Mr. Fraser an exception at Chrysler",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1626.48,
+   "end": 1634.04,
+   "text": "or is he the beginning of a new trend to worker participation at the board level in U.S. companies?",
+   "speaker": "other",
+   "drucker_coverage": 0.27
+  },
+  {
+   "start": 1634.04,
+   "end": 1642.4,
+   "text": "Well look, co-determination is the last desperate attempt of a dying union movement",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1642.4,
+   "end": 1645.52,
+   "text": "to cement itself in the power structure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1645.52,
+   "end": 1652.32,
+   "text": "The labor union is an institution whose time is past, but it's also a needed one as Poland",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1652.32,
+   "end": 1654.92,
+   "text": "has demonstrated.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1654.92,
+   "end": 1662.24,
+   "text": "But fundamentally, when 90% of the gross national product goes out into the wage fund, then",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1662.24,
+   "end": 1668.72,
+   "text": "labor unions have no function anymore, then more becomes their meaningless slogan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1668.72,
+   "end": 1676.18,
+   "text": "And so, when 50% of the young entrants into the labor force have sat in school beyond",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1676.18,
+   "end": 1682.14,
+   "text": "the lifespan of the natural man, then the traditional labor union has ceased to ever",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1682.14,
+   "end": 1683.14,
+   "text": "function.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1683.14,
+   "end": 1686.64,
+   "text": "White-collar unions, yes, they exist, but they are very different animals from what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1686.64,
+   "end": 1689.58,
+   "text": "Walter Russo had in mind.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1689.58,
+   "end": 1697.74,
+   "text": "And so the labor union in every place is aging, the most certain symptom of an institution",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1697.74,
+   "end": 1704.46,
+   "text": "crisis is the inability to attract good people into management. That is the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1704.46,
+   "end": 1710.34,
+   "text": "absolutely infallible symptom. And when you look at labor union leadership in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1710.34,
+   "end": 1720.34,
+   "text": "the developed world, well look at ours. And now, I knew Walter Russo very well.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1720.34,
+   "end": 1726.06,
+   "text": "He was quite close to the redhead. And believe me, what Charlie Wilson,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1726.06,
+   "end": 1730.18,
+   "text": "Engine Charlie of GM said about him that if Walter had been born three years earlier,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1731.54,
+   "end": 1737.46,
+   "text": "he would be president of GM and not I, because Walter would have gone to college.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1737.46,
+   "end": 1742.86,
+   "text": "Walter would then have been promoted into supervision before 1925.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1743.04,
+   "end": 1747.4,
+   "text": "That was the way to supervision of 29 and into management.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1748.48,
+   "end": 1753.84,
+   "text": "And then, but he was just at that point, he worked for Ford in the River Rouge plant",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1753.84,
+   "end": 1757.18,
+   "text": "when Ford was hit by the demise of the Model T.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1758.24,
+   "end": 1760.72,
+   "text": "And that's why he was thrown off the track.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1761.18,
+   "end": 1764.36,
+   "text": "And five years later, you began to come in through college.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1766.44,
+   "end": 1772.84,
+   "text": "And so in those days, union leadership was the way for the ablest, the most ambitious.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1773.9,
+   "end": 1777.84,
+   "text": "Today, you know, not Walter Roos' grandson, I don't know whether he has any,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1777.84,
+   "end": 1784.56,
+   "text": "but the grandson of the generation comes to the School of Commerce at Washington Square",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1784.56,
+   "end": 1790.34,
+   "text": "or to the graduate business school here, four years later comes out with a degree in cost accounting",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1790.34,
+   "end": 1793.52,
+   "text": "and never has to do a day's honest work again in his life.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1794.04,
+   "end": 1796.88,
+   "text": "You know, that's what one goes to school for, after all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1796.92,
+   "end": 1797.98,
+   "text": "That's the main purpose.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1798.7,
+   "end": 1804.52,
+   "text": "And he doesn't go into union leadership.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1804.92,
+   "end": 1807.78,
+   "text": "The Jerry Whiffs are very rare exceptions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1807.84,
+   "end": 1811.62,
+   "text": "what you now see are people who are losers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1811.62,
+   "end": 1813.0,
+   "text": "who go into union leadership",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1813.0,
+   "end": 1814.98,
+   "text": "but not just in this country",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1814.98,
+   "end": 1817.44,
+   "text": "England is worse, Germany is worse",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1817.44,
+   "end": 1821.3,
+   "text": "Japan is different because they are a stint",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1821.3,
+   "end": 1823.22,
+   "text": "as president of the local union",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1823.22,
+   "end": 1826.68,
+   "text": "is an important assignment",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1826.68,
+   "end": 1828.7,
+   "text": "on the way up the management ladder",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1828.7,
+   "end": 1831.62,
+   "text": "union presidents in Japan",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1831.62,
+   "end": 1834.68,
+   "text": "are not appointed by management",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1834.68,
+   "end": 1836.28,
+   "text": "but nominated by it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1836.28,
+   "end": 1842.12,
+   "text": "and come out of management and go back into management, but that's unique.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1842.12,
+   "end": 1850.28,
+   "text": "So co-determination is the last desperate attempt, and also to establish the center",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1850.28,
+   "end": 1852.16,
+   "text": "of gravity in the blue-collar worker.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1852.16,
+   "end": 1859.02,
+   "text": "If you look at the laws, they've all been fighting participation by white-collar workers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1859.02,
+   "end": 1863.7,
+   "text": "and management, and have lost on that issue, both in Germany and in England.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1863.7,
+   "end": 1870.14,
+   "text": "So this is, and the moment you have a union leader in management, he can either do nothing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1870.14,
+   "end": 1876.1,
+   "text": "or do harm, because he can no longer represent.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1876.1,
+   "end": 1879.18,
+   "text": "So I'm not saying it isn't going to come.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1879.18,
+   "end": 1887.2,
+   "text": "One gets hit sometimes by the last big wave of the, you know, and it can be a nasty wave.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1887.2,
+   "end": 1891.58,
+   "text": "But the real problem is a very different one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1891.58,
+   "end": 1897.96,
+   "text": "With ownership of American industry in the hands of employees, because the pension funds",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1897.96,
+   "end": 1905.32,
+   "text": "are the only capitalists around, how will we build the new ownership into the decision-making",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1905.32,
+   "end": 1906.32,
+   "text": "structure?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1906.32,
+   "end": 1911.74,
+   "text": "Now, if you don't do that, then the unions will say, we represent them, and we move in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1911.74,
+   "end": 1914.34,
+   "text": "on you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1914.34,
+   "end": 1920.4,
+   "text": "But the oldest law of politics is that power follows property.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1921.34,
+   "end": 1924.1,
+   "text": "The property is in the hands of the employees.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1925.96,
+   "end": 1930.56,
+   "text": "The Fortune 500, the pension funds, own more than 50%.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1930.56,
+   "end": 1935.0,
+   "text": "They own about 30% of the listed companies.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1935.32,
+   "end": 1938.66,
+   "text": "But they're heavily concentrated in the Fortune 500.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1939.64,
+   "end": 1942.84,
+   "text": "The power, the property, is in the hands of the employees,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1942.84,
+   "end": 1945.3,
+   "text": "not of your company's employees",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1945.3,
+   "end": 1946.86,
+   "text": "but of the country's employees",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1946.86,
+   "end": 1949.38,
+   "text": "if you do not build",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1949.38,
+   "end": 1951.94,
+   "text": "power",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1951.94,
+   "end": 1955.14,
+   "text": "then you will have only the choice between",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1955.14,
+   "end": 1956.58,
+   "text": "and I'm paraphrasing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1956.58,
+   "end": 1958.8,
+   "text": "John Locke",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1958.8,
+   "end": 1961.14,
+   "text": "the choice between the bloody revolution",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1961.14,
+   "end": 1963.18,
+   "text": "of 1644",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1963.18,
+   "end": 1964.86,
+   "text": "or the glorious revolution",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1964.86,
+   "end": 1967.0,
+   "text": "of 1688 but you're going to have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1967.0,
+   "end": 1967.72,
+   "text": "the revolution",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1967.72,
+   "end": 1970.96,
+   "text": "the power has to shift to where the property is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1970.96,
+   "end": 1973.16,
+   "text": "and you have still a few years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1973.16,
+   "end": 1975.32,
+   "text": "to engineer and control that shift.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1978.56,
+   "end": 1979.68,
+   "text": "A few additional points.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1979.86,
+   "end": 1983.3,
+   "text": "The co-determination or two-tier board in Germany",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1983.3,
+   "end": 1985.26,
+   "text": "arose in the iron and steel community",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1985.26,
+   "end": 1988.14,
+   "text": "for political reasons after World War II",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1988.14,
+   "end": 1990.68,
+   "text": "and is populated.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1991.4,
+   "end": 1994.78,
+   "text": "The union representatives are individuals",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1994.78,
+   "end": 1996.52,
+   "text": "from the corporation itself.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1997.7,
+   "end": 1999.68,
+   "text": "As near as I can tell from conferences",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1999.68,
+   "end": 2002.04,
+   "text": "and meetings I've had in Germany,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2002.46,
+   "end": 2005.82,
+   "text": "it's an accommodation which appears to be",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2005.82,
+   "end": 2012.94,
+   "text": "satisfactory because of the long time that it has been in effect and most of the managers in",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2012.94,
+   "end": 2020.9,
+   "text": "Germany will tell you that the union representation does not have vastly different objectives and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2020.9,
+   "end": 2028.08,
+   "text": "ideas and values than does management. Now in other sectors of Europe where the union",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2028.08,
+   "end": 2034.32,
+   "text": "representation is professional union representation as opposed to worker union representation a great",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2034.32,
+   "end": 2041.42,
+   "text": "deal of difficulty and some very gross inefficiencies arise.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2041.94,
+   "end": 2046.44,
+   "text": "As far as the United States is concerned, I question whether the present union leadership",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2046.44,
+   "end": 2049.08,
+   "text": "has real interest in co-determination.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2049.2,
+   "end": 2053.02,
+   "text": "I think Frazier is a unique situation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2053.8,
+   "end": 2059.92,
+   "text": "I was talking to George Meany some years ago, and we were talking about co-determination,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2059.92,
+   "end": 2067.22,
+   "text": "two-tier boards. And George, in his typical witty fashion, said, I know what my responsibilities",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2067.22,
+   "end": 2074.24,
+   "text": "are. I know that what I am supposed to do is get the greatest percentage of the value",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2074.24,
+   "end": 2081.52,
+   "text": "of our free enterprise system for my people. And if I have to sit on a board and make determinations",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2081.52,
+   "end": 2086.52,
+   "text": "as to the allocation of resources such as capital, he said, I'll be confused. He said,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2086.52,
+   "end": 2087.96,
+   "text": "and I'm too old to be confused.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2088.92,
+   "end": 2094.59,
+   "text": "Let's move from West Germany to Japan.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2094.93,
+   "end": 2095.89,
+   "text": "Another question here.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2096.37,
+   "end": 2100.03,
+   "text": "What is the essence of the Japanese style of decision-making,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2100.59,
+   "end": 2104.57,
+   "text": "and could it ever be useful in the U.S. context?",
+   "speaker": "other",
+   "drucker_coverage": 0.269
+  },
+  {
+   "start": 2106.19,
+   "end": 2110.75,
+   "text": "Let me say that the first one who wrote about what we can learn",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2110.75,
+   "end": 2114.93,
+   "text": "from Japanese management was I, 20 years ago.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2114.93,
+   "end": 2120.37,
+   "text": "but let me also say that when I discuss",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2120.37,
+   "end": 2123.81,
+   "text": "Japanese management with my Japanese friends",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2123.81,
+   "end": 2126.01,
+   "text": "the ones who have a sense of history",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2126.01,
+   "end": 2129.35,
+   "text": "they are apt to say as I told you yesterday",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2129.35,
+   "end": 2133.37,
+   "text": "everything we do we learn from IBM",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2133.37,
+   "end": 2134.85,
+   "text": "we are imitating IBM",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2134.85,
+   "end": 2138.73,
+   "text": "and they mean it and it's largely true",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2138.73,
+   "end": 2142.75,
+   "text": "and fundamentally all the things that you are being told",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2142.75,
+   "end": 2149.63,
+   "text": "are old japanese traditions are brand new and have almost no root in japan and i some of you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2149.63,
+   "end": 2154.59,
+   "text": "know that i'm teaching japanese history don't you and japanese art and have been for many years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2154.59,
+   "end": 2164.11,
+   "text": "it's an old field of mine and they have no roots or almost none uh the decision-making system",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2164.11,
+   "end": 2186.12,
+   "text": "And I first saw, in the 1930s, when old Thomas Watson did it. And I knew the old gentleman, and I was very fond of him and had tremendous respect for him. And nobody has ever accused old Thomas of being permissive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2186.12,
+   "end": 2212.92,
+   "text": "That wasn't his reputation. And he was an autocrat of the purest, full of idiosyncrasies. But he had learned that he first, it was a tiny little company, that he first had every one of those half dozen people, maybe a dozen, who were then going to have to carry out the decisions, think through what it was all about.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2212.92,
+   "end": 2214.28,
+   "text": "That was his phrase.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2216.64,
+   "end": 2219.78,
+   "text": "And till then he didn't allow them to have an opinion.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2220.1,
+   "end": 2221.9,
+   "text": "He had an opinion, but not they.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2222.5,
+   "end": 2225.74,
+   "text": "And only when it was understood.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2225.92,
+   "end": 2227.7,
+   "text": "Then he moved his lightning speed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2228.36,
+   "end": 2229.96,
+   "text": "And that's what the Japanese do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2231.46,
+   "end": 2237.04,
+   "text": "And so they waste no time on selling a decision.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2237.04,
+   "end": 2238.26,
+   "text": "And we waste.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2238.8,
+   "end": 2239.72,
+   "text": "It's unbelievable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2240.54,
+   "end": 2243.74,
+   "text": "Top management in its infinite wisdom makes that decision.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2243.74,
+   "end": 2248.74,
+   "text": "then start selling it. And by the time it's sold, the decision is obsolete.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2248.74,
+   "end": 2257.74,
+   "text": "The Japanese pre-sell by making sure everybody thinks through what the decision is all about.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2257.74,
+   "end": 2265.74,
+   "text": "He's not allowed to have an opinion. If you're in Japan, I happen to be the only foreigner today,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2265.74,
+   "end": 2271.74,
+   "text": "in all Japanese positions, who is chairman, I'm chairman of a Japanese cabinet committee",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2271.74,
+   "end": 2277.5,
+   "text": "on the urban problem. The tradition is when you have a very hot potato",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2277.5,
+   "end": 2281.58,
+   "text": "which will ruin the career of any Japanese, you stick it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2281.58,
+   "end": 2287.34,
+   "text": "to a foreigner. And it's a very good tradition. It enables",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2287.34,
+   "end": 2290.86,
+   "text": "him to do radical decisions, they blame it on me and I don't understand",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2290.86,
+   "end": 2295.18,
+   "text": "Japanese. And so it works. But",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2295.18,
+   "end": 2299.82,
+   "text": "and I see it. And here are the young people, nine ministries,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2299.82,
+   "end": 2307.1,
+   "text": "young meaning 45 who work on what is the decision all about but if any of them as much as indicates",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2307.9,
+   "end": 2316.62,
+   "text": "which way he wants it to go he gets slapped down so fast you don't his job is to say but this is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2316.62,
+   "end": 2323.66,
+   "text": "really a decision on sure sure and on our serious system it only looks like something else",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2323.66,
+   "end": 2331.1,
+   "text": "that's his job so that we all understand it and know who's concerned and that way we also i always",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2331.1,
+   "end": 2336.06,
+   "text": "know at the end even though my japanese very limited where each ministry stand and each",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2336.06,
+   "end": 2341.18,
+   "text": "division heard even though he has not had an opinion then one knows where to make compromises",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2341.82,
+   "end": 2346.62,
+   "text": "and then when the decision is made they move with then two weeks",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2346.62,
+   "end": 2356.62,
+   "text": "And that we think we can learn, but that's not a Japanese problem if you want to read the text on it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2356.62,
+   "end": 2363.9,
+   "text": "It is a book, I don't even know whether, which was written by a Spanish Jesuit in the 17th century.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2363.9,
+   "end": 2371.9,
+   "text": "His name was Gracian. His manual on oracles and decisions also Schopenhauer translated it into German.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2371.9,
+   "end": 2377.9,
+   "text": "And that is a decision. You find it in Machiavelli. There's nothing new about it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2377.9,
+   "end": 2385.9,
+   "text": "Our decision-making in which one makes a decision separate from its implementation is poor decision-making.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2385.9,
+   "end": 2394.9,
+   "text": "Now when you look at what the Japanese have learned, there is no country with the worst tradition of labor relations in Japan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2394.9,
+   "end": 2403.5,
+   "text": "Going back 500 years, under Tokugawa, this 250 years military shogun, there was a peasant rebellion.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2403.7,
+   "end": 2405.58,
+   "text": "Peasants were the employees of the time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2405.96,
+   "end": 2407.92,
+   "text": "A peasant rebellion every nine months.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2408.78,
+   "end": 2413.26,
+   "text": "Bloodily repressed, bloody rebellion for 200 years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2414.02,
+   "end": 2419.36,
+   "text": "And in the 1920s, when the young youth people first traveled to Russia,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2419.36,
+   "end": 2427.7,
+   "text": "the then head of the Marx-Lenin Institute, predicted that the next country with a communist revolution would be Japan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2427.96,
+   "end": 2432.98,
+   "text": "Look at their labor relations. They had a bloody strike almost every six months.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2434.0,
+   "end": 2439.96,
+   "text": "The tradition of labor relations in Japan is unspeakably bad, violent on both sides.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2440.58,
+   "end": 2445.14,
+   "text": "And after World War II, when they questioned every accepted practice,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2445.14,
+   "end": 2448.96,
+   "text": "They looked at IBM, believe me, and they copied IBM.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2449.16,
+   "end": 2451.36,
+   "text": "And IBM had begun in 1930.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2452.22,
+   "end": 2459.1,
+   "text": "And I still remember the old man saying it when he went through the plant and came back deeply shaking",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2459.1,
+   "end": 2463.64,
+   "text": "because the employees he had were not the labor of his youth.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2464.36,
+   "end": 2468.2,
+   "text": "The old man had eyes and he said, they talk quite differently.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2468.2,
+   "end": 2472.18,
+   "text": "And he said, they know more about their jobs than I do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2472.18,
+   "end": 2478.18,
+   "text": "And I am not going to let that go to waste.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2478.18,
+   "end": 2482.18,
+   "text": "And he organized, he abolished the supervisor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2482.18,
+   "end": 2489.59,
+   "text": "That day, the last supervisor in IBM in the plant was in 1936.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2489.59,
+   "end": 2491.59,
+   "text": "Became an assistant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2491.59,
+   "end": 2497.59,
+   "text": "It is your job to get the knowledge and the capacity",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2497.59,
+   "end": 2502.59,
+   "text": "and the desire to do a good job out of the work group and into the job.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2502.59,
+   "end": 2509.31,
+   "text": "the job. And IBM had the first quality circles. Ed Deming, on our faculty, who took the quality",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2509.31,
+   "end": 2517.95,
+   "text": "circle to Japan, had been the quality control man for IBM before he joined us here after World War",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2517.95,
+   "end": 2525.39,
+   "text": "II. That's how he learned. And he organized it where the workers sat down each month with a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2525.39,
+   "end": 2534.21,
+   "text": "question how do we do our present job better and that was the basis for IBM's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2534.21,
+   "end": 2540.55,
+   "text": "commitment not to fire anybody as a result of greater productivity which the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2540.55,
+   "end": 2546.25,
+   "text": "Japanese also copied so it isn't that we have to learn anything from them we just",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2546.25,
+   "end": 2551.43,
+   "text": "have to practice what we have been known for a hell of a long time and we knew",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2551.43,
+   "end": 2553.87,
+   "text": "It's the same thing about market penetration.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2554.55,
+   "end": 2556.09,
+   "text": "These are all our concepts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2556.65,
+   "end": 2558.99,
+   "text": "Only we preach them and they practice them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2560.09,
+   "end": 2565.01,
+   "text": "And let me say, I'm not enough of a theologian to tell you which one is going to go to heaven,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2565.57,
+   "end": 2569.01,
+   "text": "but I'm enough of a businessman to tell you which one makes the profits.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2569.77,
+   "end": 2571.75,
+   "text": "The preachers get consulting fees.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2572.85,
+   "end": 2574.35,
+   "text": "The practitioners make money.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2574.35,
+   "end": 2584.76,
+   "text": "Well, as we said earlier, I think there is a growth, a tendency towards participative",
+   "speaker": "other",
+   "drucker_coverage": 0.159
+  },
+  {
+   "start": 2584.76,
+   "end": 2589.44,
+   "text": "or consensus decision-making in our country.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2589.44,
+   "end": 2596.86,
+   "text": "And I think that as we learn, we will put that participation down farther and farther",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2596.86,
+   "end": 2598.34,
+   "text": "into the organization.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2598.34,
+   "end": 2608.14,
+   "text": "I think we've denied ourselves a tremendous input because of the wall that exists between,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2608.24,
+   "end": 2610.5,
+   "text": "for example, the organized and the unorganized.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2611.66,
+   "end": 2617.46,
+   "text": "But, you know, we over here have an accommodation of the Japanese system",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2617.46,
+   "end": 2622.1,
+   "text": "that you are experiencing where you bring somebody in to make an unpopular decision.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2622.84,
+   "end": 2624.54,
+   "text": "The only thing over here, we call them consultants.",
+   "speaker": "other",
+   "drucker_coverage": 0.024
+  },
+  {
+   "start": 2625.98,
+   "end": 2627.88,
+   "text": "Why do the Japanese call them counselors?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2628.34,
+   "end": 2633.34,
+   "text": "Consultants get bigger fees. I think that's a real difference.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2633.34,
+   "end": 2637.34,
+   "text": "Let's move on to a very different area.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.54
+  },
+  {
+   "start": 2637.34,
+   "end": 2641.34,
+   "text": "The question here is, is there any role for the Machiavellian",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2641.34,
+   "end": 2645.34,
+   "text": "manager in today's modern organization, or",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2645.34,
+   "end": 2654.07,
+   "text": "is the Machiavellian style no longer useful?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.523
+  },
+  {
+   "start": 2654.07,
+   "end": 2658.07,
+   "text": "I don't know what the Machiavellian style",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2658.07,
+   "end": 2662.07,
+   "text": "is. That is my problem. If you mean",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2662.07,
+   "end": 2681.8,
+   "text": "Is there a role for somebody who thinks before he acts? That's what Machiavelli tells you to do, you know. And not to believe that policy manifestos are policy. That's what Machiavelli does. There is no Machiavellian style.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2681.8,
+   "end": 2702.58,
+   "text": "Of course. If you mean, is it intelligent to fear, which Machiavelli does not preach, by the way, who do you think he does?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.88
+  },
+  {
+   "start": 2702.58,
+   "end": 2709.7,
+   "text": "uh well the answer is where if you are in a circus",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2711.7,
+   "end": 2718.97,
+   "text": "and you uh tigers jumping through loops i don't think there is an alternative",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2723.7,
+   "end": 2726.66,
+   "text": "but then you better make sure that your back is never turned",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2726.66,
+   "end": 2737.17,
+   "text": "Bill talked earlier about not allowing personal loyalty teams to grow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2737.17,
+   "end": 2742.17,
+   "text": "Now that's a Machiavellian rule, and a good one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2742.17,
+   "end": 2749.17,
+   "text": "Because, let me say, the trouble is not only that people will be more concerned for their boss,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2749.17,
+   "end": 2755.17,
+   "text": "but also that you limit yourself so terribly in your choice of people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2755.17,
+   "end": 2759.79,
+   "text": "You talk about all things the Japanese have only good management practices.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2759.99,
+   "end": 2760.59,
+   "text": "You are wrong.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2760.69,
+   "end": 2761.99,
+   "text": "They have some very bad ones.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2761.99,
+   "end": 2769.23,
+   "text": "And the worst is the team loyalty, which is the greatest weakness of Japanese organizations",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2769.23,
+   "end": 2773.29,
+   "text": "because it means that eight out of ten able people don't get the chance",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2773.29,
+   "end": 2777.49,
+   "text": "because their boss has lost this current round.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2778.49,
+   "end": 2781.15,
+   "text": "And it is the worst patronage system there is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2781.79,
+   "end": 2782.65,
+   "text": "There are exceptions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2782.81,
+   "end": 2784.03,
+   "text": "Toyota has broken it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2784.23,
+   "end": 2784.89,
+   "text": "But not all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2785.17,
+   "end": 2791.87,
+   "text": "But in Mitsubishi and Mitsubishi, it's dreadful, and the number of really deeply disaffected",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2791.87,
+   "end": 2797.61,
+   "text": "younger people in the government, who just because this round went to somebody else and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2797.61,
+   "end": 2803.61,
+   "text": "it's patronage all the way, don't get the jobs they're really qualified for, and who",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2803.61,
+   "end": 2809.93,
+   "text": "can't quit, and their waste is unspeakable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2809.93,
+   "end": 2814.73,
+   "text": "And now that's a Machiavellian precept, not to allow personal cliques.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2814.73,
+   "end": 2824.91,
+   "text": "it's a good one. And it's a very sound precept. And I wish our lawyers heard it. That if you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2824.91,
+   "end": 2832.59,
+   "text": "have to live with people, one does not base a relationship on adversary proceedings. That's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2832.59,
+   "end": 2838.89,
+   "text": "a Machiavellian precept. And any marriage counselor knows it, but our lawyers don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2838.89,
+   "end": 2844.71,
+   "text": "seem to know it. And so if you want to have to keep on working with people, you don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2844.71,
+   "end": 2853.91,
+   "text": "win total victories yeah no you don't start adversary that's Machiavellian and if you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2853.91,
+   "end": 2860.54,
+   "text": "don't listen to it you're not going to get very far well it was Machiavelli or not but somebody",
+   "speaker": "drucker",
+   "drucker_coverage": 0.617
+  },
+  {
+   "start": 2860.54,
+   "end": 2867.1,
+   "text": "said always leave something on the table don't don't try to have a complete victory and with",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2867.1,
+   "end": 2873.08,
+   "text": "respect to management styles there are a number of management styles that are effective and work",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2873.08,
+   "end": 2879.06,
+   "text": "almost equally well. My advice would be that whatever your style is, providing it's the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2879.06,
+   "end": 2885.52,
+   "text": "acceptable style, that you stick with it. And that because you happen to read an article in the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2885.52,
+   "end": 2891.34,
+   "text": "Harvard Business Review or some other publication that says this is the current fad of management,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2891.52,
+   "end": 2899.28,
+   "text": "this is the style, don't abandon what you know and what you're comfortable with in order to",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2899.28,
+   "end": 2905.02,
+   "text": "take something which is going to make you very uncomfortable and and lose your identity may i",
+   "speaker": "other",
+   "drucker_coverage": 0.265
+  },
+  {
+   "start": 2905.02,
+   "end": 2910.54,
+   "text": "say that you have just now heard what by itself alone is worth 10 times the price of admission",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2910.54,
+   "end": 2915.06,
+   "text": "and i hope you heard it very important thanks very much",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 24.54,
+ "created_utc": "2026-09-20T22:48:27+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

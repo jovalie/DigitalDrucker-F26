@@ -1,0 +1,2065 @@
+{
+ "pointer": "3554",
+ "media": "3554.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1802.0,
+ "segments": [
+  {
+   "start": 2.83,
+   "end": 27.91,
+   "text": "Old art is limited. Not as limited as you think, because a good many old masterpieces are being produced each year. But it's still limited. And if you can wait 100 years, or 60, the other thing, amazingly, that turns out to be inflation-proof is knowledge.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 27.91,
+   "end": 34.59,
+   "text": "You know, two years after the German inflation was over, the German small business still",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 34.59,
+   "end": 41.03,
+   "text": "hadn't recovered, and most of the large companies never recovered in that sense until the 50s.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 41.03,
+   "end": 48.67,
+   "text": "But the physician, the lawyer, the university professor, the accountant had restored their",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 48.67,
+   "end": 56.11,
+   "text": "standard of living, restored their capacity to produce and to contribute as if nothing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 56.11,
+   "end": 61.99,
+   "text": "had happened. And that's been true in the French Revolution just as much. So that's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 61.99,
+   "end": 70.89,
+   "text": "the only inflation-proof investment I know. And when you plot savings rates and you say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 70.89,
+   "end": 78.65,
+   "text": "that savings is not capital formation, you accept the fact that Say's Law has been repealed,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 78.77,
+   "end": 84.89,
+   "text": "but you also accept what Keynes never did, namely that if you repeal it, it is just as",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 84.89,
+   "end": 89.67,
+   "text": "possible, that there's under-savings as there is that there's over-savings.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 90.37,
+   "end": 95.57,
+   "text": "The one theoretical flaw in the Keynesian system who assumed it can only go one way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 96.07,
+   "end": 98.53,
+   "text": "If there is no law, it can go either way, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 98.93,
+   "end": 106.97,
+   "text": "If you don't assume that, it has to be either savings equals investment or there's over-saving.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 106.97,
+   "end": 113.31,
+   "text": "If you see there is no necessary correlation between the two, except that you can't have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 113.31,
+   "end": 120.27,
+   "text": "capital formation investment without savings. Then you find that if you take what people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 120.27,
+   "end": 132.56,
+   "text": "consider savings, which is deferred consumption, you have about the same rates with one and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 132.56,
+   "end": 140.88,
+   "text": "only one independent variable, which is the age structure of the society. It makes sense,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 140.88,
+   "end": 148.64,
+   "text": "you know. And since all developed societies have roughly the same age structure, roughly,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 148.64,
+   "end": 153.48,
+   "text": "the Japanese now have the longest age, but that's a year and a half different. Other",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 153.48,
+   "end": 159.86,
+   "text": "than that, we all have the same age structures and the same demographic structures. You get",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 159.86,
+   "end": 167.02,
+   "text": "the same savings rates, they're only collected differently. But to the extent to which the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 167.02,
+   "end": 173.52,
+   "text": "The society is yet organized of taking care of its older people, which the Japanese are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 173.52,
+   "end": 176.06,
+   "text": "not yet.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 176.06,
+   "end": 182.94,
+   "text": "A larger or greater part of the savings is available for investment and is not used for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 182.94,
+   "end": 186.06,
+   "text": "transfer payments into consumption.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 186.06,
+   "end": 191.14,
+   "text": "Therefore one can say with, I would say, near certainty that within ten years the Japanese",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 191.14,
+   "end": 197.0,
+   "text": "rate of capital formation will not be appreciably higher than ours, even though their rate of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 197.0,
+   "end": 200.6,
+   "text": "of personal savings may still remain very much higher",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 200.6,
+   "end": 204.98,
+   "text": "on paper because they save in the bank where we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 204.98,
+   "end": 206.9,
+   "text": "save in the social security account.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 208.79,
+   "end": 214.27,
+   "text": "No, I think what Peter is saying is just",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 214.27,
+   "end": 220.15,
+   "text": "you kind of wonder whether people appreciate",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 220.15,
+   "end": 222.11,
+   "text": "the implications of what he's saying.",
+   "speaker": "other",
+   "drucker_coverage": 0.056
+  },
+  {
+   "start": 223.55,
+   "end": 225.45,
+   "text": "I don't think I know it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 225.45,
+   "end": 240.61,
+   "text": "Because, as I see it, Peter, one of the things that we're constantly misled with is the way in which we do, if I may say as an economist, all of our national accounting, all the statistics that we generate.",
+   "speaker": "other",
+   "drucker_coverage": 0.069
+  },
+  {
+   "start": 240.97,
+   "end": 253.59,
+   "text": "All the statistics we generate don't tend to illuminate this problem because our whole definition of investment, for example, is so curious in terms of what goes on in the world.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 253.59,
+   "end": 264.29,
+   "text": "We lump together for investment purposes things that have very different impact on the economy, on its growth, on its productivity, on the future condition of the economy.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 264.83,
+   "end": 273.85,
+   "text": "And yet we will talk about certain savings rates, certain investment rates, without disaggregating these figures all the time and trying to figure out what they really mean.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 273.85,
+   "end": 286.57,
+   "text": "And I think if you follow that through in terms of creating a statistical base for economic decision-making, whether it's by the private sector or by governments,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 287.09,
+   "end": 297.73,
+   "text": "that I think you'd find that what we really would find ourselves is that we have very little information and knowledge of the kind that we really ought to be having",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 297.73,
+   "end": 301.77,
+   "text": "for making correct decisions in the economic field",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 301.77,
+   "end": 307.73,
+   "text": "because the statistics are based upon a conception of economies",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 307.73,
+   "end": 311.15,
+   "text": "which really is now outmoded if it ever did exist.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 315.06,
+   "end": 317.88,
+   "text": "Ladies and gentlemen, it's slightly after 11 o'clock,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 318.06,
+   "end": 323.54,
+   "text": "and if you will allow me to exercise the prerogative of the moderator",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 323.54,
+   "end": 329.24,
+   "text": "and apologize to those of you whose questions were not addressed at this session.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 330.02,
+   "end": 338.02,
+   "text": "Let me offer the outlet that, to the extent that we can, they will be addressed in the next session.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 338.96,
+   "end": 344.9,
+   "text": "I am supposed to announce to you that those of you who have not registered for the morning session,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 345.04,
+   "end": 346.44,
+   "text": "please do so at the coffee break.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 347.5,
+   "end": 353.28,
+   "text": "Coffee is ready outside, downstairs, and thanks to both speakers and thanks to you,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 353.28,
+   "end": 355.9,
+   "text": "and we will see you at about 20 minutes after 11.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 355.9,
+   "end": 368.94,
+   "text": "Can I have your attention, please, and encourage you to sit down and quiet down.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.498
+  },
+  {
+   "start": 370.4,
+   "end": 387.0,
+   "text": "I have attempted to incorporate into kind of broad questions and transmitted them to Peter Drucker some of the remaining questions that you had asked and were not addressed before the break.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 387.0,
+   "end": 396.16,
+   "text": "in the hopes that he will weave them, answers to these questions, into his next session.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 397.02,
+   "end": 403.9,
+   "text": "The next session, as you can tell from the program, has to do with what can we learn from foreign managements, if anything.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 405.0,
+   "end": 408.88,
+   "text": "And without further ado, Peter Drucker.",
+   "speaker": "other",
+   "drucker_coverage": 0.098
+  },
+  {
+   "start": 409.58,
+   "end": 411.56,
+   "text": "Thank you very much, Bob Hawkins.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 411.56,
+   "end": 413.82,
+   "text": "let me apologize for not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 413.82,
+   "end": 415.78,
+   "text": "our inability to answer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 415.78,
+   "end": 417.18,
+   "text": "all questions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 417.18,
+   "end": 419.76,
+   "text": "we would be here till about",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 419.76,
+   "end": 420.22,
+   "text": "midnight",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 420.22,
+   "end": 423.84,
+   "text": "and still not have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 423.84,
+   "end": 425.06,
+   "text": "finished with all of them",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 425.06,
+   "end": 427.9,
+   "text": "and in a way I'm very glad that we have to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 427.9,
+   "end": 429.46,
+   "text": "cut it off because there are some",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 429.46,
+   "end": 431.68,
+   "text": "I'm very happy I don't have to answer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 431.68,
+   "end": 434.08,
+   "text": "such as the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 434.08,
+   "end": 436.08,
+   "text": "question from the lady",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 436.08,
+   "end": 437.38,
+   "text": "from the New York Times",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 437.38,
+   "end": 439.8,
+   "text": "what kind of an executive will he",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 439.8,
+   "end": 440.76,
+   "text": "need tomorrow",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 440.76,
+   "end": 449.54,
+   "text": "Let me say, let's face it, the kind of people who will do have to do the job are exactly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 449.54,
+   "end": 452.6,
+   "text": "the kind of people we have now.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 452.6,
+   "end": 456.28,
+   "text": "Evolution isn't going to be that fast.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 456.28,
+   "end": 465.08,
+   "text": "The question is, will you be able to think through your policy, your direction, and will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 465.08,
+   "end": 472.4,
+   "text": "you finally go to work on placing people where their strengths can produce results instead",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 472.4,
+   "end": 480.64,
+   "text": "of trying to either hope for a different breed, this human being isn't going to change very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 480.64,
+   "end": 490.0,
+   "text": "much, or making exaggerated expectations in respect to what education and development",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 490.0,
+   "end": 491.0,
+   "text": "can produce.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 491.0,
+   "end": 507.66,
+   "text": "Believe me, the key to answering the demands of tomorrow is not different people or better people, which is unlikely to happen, but better place people where their strengths can really redound to performance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 507.66,
+   "end": 516.18,
+   "text": "and it is a neglected area of management is to think through what Joe Blow or Jane Doe",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 516.18,
+   "end": 524.38,
+   "text": "can do and to make sure he and she is allowed, permitted, expected to do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 524.38,
+   "end": 531.28,
+   "text": "So I don't believe we are going to see a major change in the human race or a major change",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 531.28,
+   "end": 533.84,
+   "text": "in human qualifications.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 533.84,
+   "end": 538.0,
+   "text": "Neither of them are very rational expectations.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 538.0,
+   "end": 546.44,
+   "text": "The only way is to improve the yield of what we have, and that is putting people at very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 546.44,
+   "end": 548.96,
+   "text": "specific resources.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 548.96,
+   "end": 551.78,
+   "text": "No two individuals are alike.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 551.78,
+   "end": 559.54,
+   "text": "That is to spend a great deal of hard work and thinking on where individuals belong.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 559.54,
+   "end": 566.94,
+   "text": "And by the way, one question was, what do the Japanese do better than we in using people?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 566.94,
+   "end": 574.7,
+   "text": "Believe me, since they cannot fire anybody, they are forced to think much harder than",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 574.7,
+   "end": 579.36,
+   "text": "we do where you place people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 579.36,
+   "end": 587.36,
+   "text": "And in that respect, their immobility is an asset, and we are not using our mobility sufficiently",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 587.36,
+   "end": 594.02,
+   "text": "as an asset, because we are not thinking sufficiently where to place people, which is already an",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 594.02,
+   "end": 599.4,
+   "text": "introduction to my topic, which is what we might learn from others.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 600.04,
+   "end": 611.14,
+   "text": "And I quite intentionally picked that topic because this series began 15 years ago, I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 611.14,
+   "end": 617.44,
+   "text": "think this is our 16th anniversary, with one that was caused, or really was a response",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 617.44,
+   "end": 621.36,
+   "text": "to Savant Schreiber's book on the American Challenge.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 622.06,
+   "end": 630.68,
+   "text": "We had the first series here then in 65 or 64, I've forgotten, in which basically the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 630.68,
+   "end": 639.08,
+   "text": "conviction every place was, it was at the peak, that we had invented management, which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 639.08,
+   "end": 645.44,
+   "text": "some of you know isn't true, and we have somehow the secret of management, which, God help us,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 645.44,
+   "end": 652.18,
+   "text": "isn't so easy, and somehow the others all the world over were organizing themselves very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 652.18,
+   "end": 660.48,
+   "text": "effectively to learn from us. And to a large extent, you can look upon the development of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 660.48,
+   "end": 669.42,
+   "text": "post-war period as a diffusion of American management, not technology if",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 669.42,
+   "end": 675.3,
+   "text": "you want to call it that, with people who were willing to look at us and say what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 675.3,
+   "end": 681.72,
+   "text": "are these people doing that explains their effectiveness and in what way can",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 681.72,
+   "end": 693.34,
+   "text": "we use it ourselves. The ones who tried to imitate us didn't get very far. Let me",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 693.34,
+   "end": 697.68,
+   "text": "say that one of the weaknesses of my friends in Great Britain, in British",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 697.68,
+   "end": 702.72,
+   "text": "industry, is that they are too Americanized in the sense that they are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 702.72,
+   "end": 708.96,
+   "text": "using things that came from this country. The old remark about two countries",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 708.96,
+   "end": 719.14,
+   "text": "divided by common language, and simply slap things on and they don't fit either their",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 719.14,
+   "end": 725.8,
+   "text": "objective reality or their social and cultural tradition in many cases.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 725.8,
+   "end": 731.96,
+   "text": "And so one of the things that is very clear is that where you see success in the United",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 731.96,
+   "end": 739.08,
+   "text": "Kingdom. It is very heavily built around people who were trained in and by American companies,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 739.8,
+   "end": 746.92,
+   "text": "who, however, then when they moved into a British company, thought how to adapt it, what fits and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 746.92,
+   "end": 754.84,
+   "text": "what doesn't, rather than copy it. And the great majority copied, and copies are weak.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 754.84,
+   "end": 761.78,
+   "text": "carbon copies are weak and they don't really become organic and where you see",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 761.78,
+   "end": 768.28,
+   "text": "results it is people who learn justice the same thing but did not copy but then",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 768.28,
+   "end": 775.0,
+   "text": "see what does it mean for us and for me and I'm going to talk about some things",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 775.0,
+   "end": 782.8,
+   "text": "one can now learn from others who in the last 15 years have been relatively and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 782.8,
+   "end": 788.52,
+   "text": "and in some cases absolutely more successful and more effective than we have been,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 788.52,
+   "end": 796.76,
+   "text": "but not to imitate, but to say how do we then make this part of our culture,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 797.02,
+   "end": 800.26,
+   "text": "our tradition, our structure, our policies.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 801.54,
+   "end": 805.02,
+   "text": "And if yesterday some of you were here, yesterday it was many,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 805.16,
+   "end": 810.82,
+   "text": "and you may remember Irving Kristol and you and I had a discussion about leadership",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 810.82,
+   "end": 820.02,
+   "text": "and where we talked about the fact that in countries like especially Japan and Germany,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 820.02,
+   "end": 830.44,
+   "text": "the large, the major business leaders see themselves as responsible for thinking through",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 830.44,
+   "end": 839.34,
+   "text": "what the right national policy would be in areas in which business leaders might be expected",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 839.34,
+   "end": 846.84,
+   "text": "to have competence, and I cited the example of the visit I had a few months ago from a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 846.84,
+   "end": 854.46,
+   "text": "Japanese group, the chief executive officers of the 25 largest Japanese companies who came",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 854.46,
+   "end": 861.74,
+   "text": "over here, to always have one question, what policy should we in Japan have in respect",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 861.74,
+   "end": 867.12,
+   "text": "to retirement, wages, what have you, in view of our changing demographics?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 867.12,
+   "end": 889.86,
+   "text": "And when I said, now, what do you think is the right thing for business to do, I was sharply called to order by the chairman who said, that is the next question. The first question is, what's the right policy for Japan? Only when we know that do we even think about what the right policy is for our company.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 889.86,
+   "end": 917.78,
+   "text": "And that is a very different view of the role. And if you want to see where does it come from, it's root, like so much that is good, is in pure vice. It is basically in vanity in Japan and in Germany, where the businessman was basically not respected in what were, in both countries, bureaucratic traditions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 919.86,
+   "end": 927.38,
+   "text": "you have an exaggerated, perhaps, desire on the part of the business leaders to be respectable",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 927.38,
+   "end": 934.78,
+   "text": "and to be gentlemen and to remove from that stigma of filthy lucre. And so they became",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 934.78,
+   "end": 945.28,
+   "text": "pompous and statesmen. But it had also its desirable side effects. The phenomenon is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 945.28,
+   "end": 955.04,
+   "text": "pure, purely bad, the side effects are quite good. And one of them is that they realize",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 955.04,
+   "end": 965.2,
+   "text": "how visible they are in today's world, and that one cannot be that visible without representing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 965.2,
+   "end": 972.92,
+   "text": "And one of the things I think one has to learn is that in this world in which the old tradition,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 972.92,
+   "end": 978.86,
+   "text": "better or worse of complete separation of the political and the economic no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 978.86,
+   "end": 987.5,
+   "text": "longer works and sometimes I wish the other Friedman Milton could prevail and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 987.5,
+   "end": 997.84,
+   "text": "we could restore that separation but I don't think one can restore virginity",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 997.84,
+   "end": 1001.06,
+   "text": "and this would be akin to it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1001.06,
+   "end": 1003.48,
+   "text": "and I don't believe it works",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1003.48,
+   "end": 1008.78,
+   "text": "and so we have to accept that those two",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1008.78,
+   "end": 1010.52,
+   "text": "if they ever were that clean",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1010.52,
+   "end": 1013.64,
+   "text": "separated outside of the lecture halls",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1013.64,
+   "end": 1015.44,
+   "text": "of the University of Chicago",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1015.44,
+   "end": 1016.6,
+   "text": "and I have my doubts",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1016.6,
+   "end": 1020.52,
+   "text": "will never be separated again",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1020.52,
+   "end": 1022.72,
+   "text": "and then one has to say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1022.72,
+   "end": 1026.74,
+   "text": "the heads of the large institutions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1026.74,
+   "end": 1034.34,
+   "text": "not just businesses, are so visible. They are the only leadership group we have, groups we have in society.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1034.82,
+   "end": 1044.26,
+   "text": "If they do not give a clear trumpet call, then there is no trumpet in the land, and only an uncertain sound.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1044.98,
+   "end": 1053.8,
+   "text": "And so that one can learn, and certainly one of the reasons for the performance of, let's say, Germany, Japan,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1053.8,
+   "end": 1061.0,
+   "text": "has been the fact that in those countries the leadership group,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1061.1,
+   "end": 1064.02,
+   "text": "not just in business, but above all in business,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1064.44,
+   "end": 1070.28,
+   "text": "sees itself as representative and as being responsible",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1070.28,
+   "end": 1077.72,
+   "text": "for thinking through major policy decisions in areas of their competence.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1077.72,
+   "end": 1082.34,
+   "text": "It is very hard in Germany to say whether the Bundesbank",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1082.34,
+   "end": 1086.1,
+   "text": "and the Ministry of Finance thinks through policies",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1086.1,
+   "end": 1088.82,
+   "text": "or the large German commercial banks",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1088.82,
+   "end": 1092.82,
+   "text": "because they don't see themselves as separate in that sense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1093.56,
+   "end": 1097.66,
+   "text": "They say, who in our group knows most about this?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1098.7,
+   "end": 1102.8,
+   "text": "And he may work for the Western Bank or for the Federal Bank,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1103.42,
+   "end": 1104.9,
+   "text": "but he's one of us.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1105.76,
+   "end": 1108.9,
+   "text": "And that is a very important difference",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1108.9,
+   "end": 1115.7,
+   "text": "and you cannot import it into a system that, like our system, is based on checks and balances",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1115.7,
+   "end": 1127.25,
+   "text": "and on very careful arm's-length relationships, and still, how does it fit us?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1127.69,
+   "end": 1135.45,
+   "text": "Believe me, I think we have reached the limits of the purely adversary process, if we haven't exceeded it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1135.45,
+   "end": 1145.45,
+   "text": "And sometimes I feel that there's nothing wrong with the Republic, that closing the law schools for ten years wouldn't cure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1145.45,
+   "end": 1149.45,
+   "text": "But it's not going to happen.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1149.45,
+   "end": 1156.45,
+   "text": "But we have reached the limits of what one can hope to achieve by purely adversary processes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1156.45,
+   "end": 1162.45,
+   "text": "There is need for integrating leadership again.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1162.45,
+   "end": 1168.43,
+   "text": "The second thing, let me say, is when you look at the economies that have done best,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1169.25,
+   "end": 1176.85,
+   "text": "it is not the economies that, as all Keynesian-dominated ones have been doing,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1177.27,
+   "end": 1179.93,
+   "text": "started out with a domestic economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1181.15,
+   "end": 1185.43,
+   "text": "Let me say, you all believe that there is a great deal of difference",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1185.43,
+   "end": 1189.69,
+   "text": "between Keynes and Milton Friedman, and if you permit my saying so,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1189.69,
+   "end": 1213.89,
+   "text": "There is none. Both are macroeconomists. Both believe that the economist philosopher can control. Both believe in demand economics. And both believe, above all, in the supremacy of the domestic economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1213.89,
+   "end": 1220.03,
+   "text": "All of these, I submit, have been disproven by the events of the last 30 years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1221.15,
+   "end": 1225.33,
+   "text": "And I think Friedman is obsolete, a little more obsolete than the Keynesians,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1225.57,
+   "end": 1227.51,
+   "text": "because he's a little more doctrinaire.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1229.25,
+   "end": 1233.07,
+   "text": "But that's a bland, that's a rather...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1233.07,
+   "end": 1235.25,
+   "text": "I know some Keynesians who can compete.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1235.25,
+   "end": 1242.41,
+   "text": "And believe me, if you look at the successful ones,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1242.41,
+   "end": 1245.55,
+   "text": "by sheer accident",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1245.55,
+   "end": 1247.71,
+   "text": "in one case the Germans",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1247.71,
+   "end": 1250.47,
+   "text": "and because of Irving Friedman",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1250.47,
+   "end": 1252.13,
+   "text": "in the other the Japanese",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1252.13,
+   "end": 1255.53,
+   "text": "did not start out as a domestic economy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1255.53,
+   "end": 1257.73,
+   "text": "we see very few people realize",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1257.73,
+   "end": 1260.69,
+   "text": "that the father of the Japanese miracle",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1260.69,
+   "end": 1264.07,
+   "text": "has the most un-Japanese name of Irving Friedman",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1264.07,
+   "end": 1268.07,
+   "text": "and who in 1950 told the Japanese",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1268.07,
+   "end": 1270.93,
+   "text": "not to listen to the American economists",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1270.93,
+   "end": 1278.15,
+   "text": "but to practically start out with the world economy rather than the domestic one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1279.41,
+   "end": 1289.5,
+   "text": "And the successful businesses as well as the successful economies of the last 30 years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1289.5,
+   "end": 1293.58,
+   "text": "have accepted the fact that there is a world economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1294.02,
+   "end": 1296.44,
+   "text": "It's a dreadfully complicated one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1297.16,
+   "end": 1300.18,
+   "text": "Irving said we have one currency, the euro dollar,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1300.18,
+   "end": 1323.98,
+   "text": "but that's really saying we ain't got no currency, you know. In a way, we have, we have, because the euro, not euro-dollar, has, well, the standard of value is not terribly satisfactory just now, and nobody controls it, and everybody tries to, and it's a muddle,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1323.98,
+   "end": 1329.84,
+   "text": "but still there is a world economy with its own dynamics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1329.84,
+   "end": 1333.26,
+   "text": "and the dynamics lie in the world economy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1333.26,
+   "end": 1339.4,
+   "text": "and bluntly practically all domestic national policies of the last 20 years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1339.4,
+   "end": 1341.82,
+   "text": "have been disastrous failures",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1341.82,
+   "end": 1348.18,
+   "text": "and only where the cue was taken from the world economy have you seen results",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1349.16,
+   "end": 1355.68,
+   "text": "And the lesson to learn from others is that one starts out with the world economy,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1356.02,
+   "end": 1358.64,
+   "text": "even if one is primarily domestic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1359.2,
+   "end": 1363.32,
+   "text": "Very few people know that next to the United States,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1363.7,
+   "end": 1367.06,
+   "text": "the Japanese are least dependent on the world economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1367.06,
+   "end": 1374.44,
+   "text": "No more than one-tenth of their gross national product comes out of their foreign transactions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1375.44,
+   "end": 1377.64,
+   "text": "Ninety percent is domestic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1378.18,
+   "end": 1381.98,
+   "text": "And only the United States is less dependent.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1382.42,
+   "end": 1386.16,
+   "text": "Every European country is far more dependent on the world economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1386.7,
+   "end": 1393.12,
+   "text": "And yet the Japanese, again, out of a mixture of intelligence and superstition,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1394.74,
+   "end": 1402.02,
+   "text": "have always seen themselves as totally dependent on the world economy, which they are not.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1402.02,
+   "end": 1406.56,
+   "text": "but as a result have been steered by the world economy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1406.56,
+   "end": 1411.22,
+   "text": "and thought out with the question, what's going on outside Japan,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1411.72,
+   "end": 1415.92,
+   "text": "and not with the question, what's going on inside.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1416.58,
+   "end": 1421.68,
+   "text": "Even though they are just as conscious of the next election,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1422.54,
+   "end": 1426.86,
+   "text": "even though every Japanese electoral district is a swing district,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1426.86,
+   "end": 1430.08,
+   "text": "though they are not hampered as much as we are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1430.08,
+   "end": 1433.72,
+   "text": "by laws forbidding bribery in politics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1433.72,
+   "end": 1436.9,
+   "text": "so they can occasionally still make policy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1436.9,
+   "end": 1440.5,
+   "text": "and then buy support for it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1440.5,
+   "end": 1444.28,
+   "text": "which may not be a bad idea",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1444.28,
+   "end": 1447.3,
+   "text": "and at least it works occasionally",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1447.3,
+   "end": 1449.94,
+   "text": "but they start out with the question",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1449.94,
+   "end": 1451.36,
+   "text": "what goes on outside",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1451.36,
+   "end": 1456.32,
+   "text": "and that is something over which we have no control",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1456.32,
+   "end": 1463.9,
+   "text": "and that we therefore have to use as an opportunity or something to adapt to.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1464.74,
+   "end": 1468.02,
+   "text": "And I think increasingly we will have to learn this,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1468.44,
+   "end": 1473.98,
+   "text": "even though our market is so much larger, twice the Japanese at least,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1473.98,
+   "end": 1477.26,
+   "text": "and even though the country is so much larger,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1477.68,
+   "end": 1483.26,
+   "text": "about in territory maybe 15 times the size of Japan,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1483.26,
+   "end": 1490.04,
+   "text": "And even though we are so heterogeneous as against the extreme homogeneity of Japan,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1490.62,
+   "end": 1499.82,
+   "text": "we will still, I think, increasingly have to learn to understand a very complex and very fast-moving world economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1500.92,
+   "end": 1505.96,
+   "text": "The third thing to learn is what marketing means.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1506.86,
+   "end": 1508.72,
+   "text": "You know, we invented it here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1508.72,
+   "end": 1527.14,
+   "text": "And I know by now no company that doesn't preach it, but I'm not sure that I know many that practice it. Marketing is above all a structural concept. It is thinking through the structure of the outside.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1527.14,
+   "end": 1534.14,
+   "text": "And now it's becoming popular in this country, the Boston Consulting Group concept,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1534.62,
+   "end": 1542.44,
+   "text": "to say you have to have market leadership that gives you disproportionate profitability.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1543.12,
+   "end": 1546.82,
+   "text": "Ladies and gentlemen, the evidence does not support that theory.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1547.86,
+   "end": 1555.92,
+   "text": "The evidence supports that that market position that fits the market gives you disproportionate returns.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1555.92,
+   "end": 1579.2,
+   "text": "But that isn't leadership, necessarily. That's leadership, yes, when the automobile industry of the world somehow, and we don't know why, turned from a series of national markets into a world market, then the Chrysler strategy became a strategy for losing, and this isn't hindsight.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1579.2,
+   "end": 1591.3,
+   "text": "Some of us who know that industry said so in 1960, the strategy of being a number three in the national market and satisfying the rest of the world.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1591.56,
+   "end": 1600.34,
+   "text": "Then one had to be one of probably no more than four or five world-class companies or a true specialist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1600.34,
+   "end": 1608.42,
+   "text": "There was Rolls-Royce, a checker cab, a jeep, what have you, and in between there was only wasteland.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1609.2,
+   "end": 1615.0,
+   "text": "And that, but when you're a book publisher, you know, that's a meaningless strategy,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1615.0,
+   "end": 1619.78,
+   "text": "if only because of the language barrier, there isn't going to be world publishing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1621.58,
+   "end": 1627.06,
+   "text": "How many of you are ever going to be able to read Chinese? I won't, I know that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1628.66,
+   "end": 1635.4,
+   "text": "And secondly, the book publishing is a very different industry, because not one of us,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1635.4,
+   "end": 1639.44,
+   "text": "and I say that with my close friend and publisher in this room,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1639.96,
+   "end": 1644.86,
+   "text": "no, not one of us has ever bought a book because of the publisher's name on it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1646.8,
+   "end": 1653.36,
+   "text": "We buy it for all kinds of reasons, but not because it is an XYZ book,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1653.78,
+   "end": 1656.1,
+   "text": "even though no publisher likes to hear it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1657.26,
+   "end": 1662.16,
+   "text": "Publishers, in that sense, are marketers and middlemen and not producers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1662.16,
+   "end": 1667.56,
+   "text": "and though like any really good merchant",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1667.56,
+   "end": 1673.3,
+   "text": "they rightly dictate what is being produced to a large extent",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1673.3,
+   "end": 1675.44,
+   "text": "because they understand the market",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1675.44,
+   "end": 1677.7,
+   "text": "and bring it back to the producers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1677.7,
+   "end": 1681.36,
+   "text": "who like all producers have no feel for the market",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1681.36,
+   "end": 1684.58,
+   "text": "no author understands the audience",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1684.58,
+   "end": 1688.04,
+   "text": "because he writes for himself if he is any good",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1688.04,
+   "end": 1690.54,
+   "text": "and so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1690.54,
+   "end": 1693.92,
+   "text": "like any really good producer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1693.92,
+   "end": 1696.18,
+   "text": "who produces basically for himself",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1696.18,
+   "end": 1699.5,
+   "text": "and uses his own standards",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1699.5,
+   "end": 1702.84,
+   "text": "or there is no commitment in the product",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1702.84,
+   "end": 1706.2,
+   "text": "but in the book publishing industry",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1706.2,
+   "end": 1709.56,
+   "text": "market leadership in terms of volume",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1709.56,
+   "end": 1712.7,
+   "text": "is not the most profitable course",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1712.7,
+   "end": 1715.94,
+   "text": "market leadership in terms of a certain",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1715.94,
+   "end": 1721.46,
+   "text": "image of a certain value",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1721.46,
+   "end": 1724.36,
+   "text": "concept. Yes, that's different. And when you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1724.36,
+   "end": 1727.34,
+   "text": "go to cosmetics, volume is largely",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1727.34,
+   "end": 1727.96,
+   "text": "irrelevant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1730.02,
+   "end": 1733.24,
+   "text": "And you have a market that divides",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1733.24,
+   "end": 1736.2,
+   "text": "by very different value concepts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1736.7,
+   "end": 1738.36,
+   "text": "But this is marketing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1739.2,
+   "end": 1742.4,
+   "text": "And let me say, we preached it and we are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1742.4,
+   "end": 1745.08,
+   "text": "not practicing it. We are still practicing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1745.08,
+   "end": 1752.32,
+   "text": "selling, basically. And when you look at the Japanese, but look also now, one can look",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1752.32,
+   "end": 1760.9,
+   "text": "at these, the best examples of marketing I know are the small, family-owned Italian companies",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1760.9,
+   "end": 1767.74,
+   "text": "with 180 employees who are selling their products every place today. They are the most successful",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1767.74,
+   "end": 1773.6,
+   "text": "entrepreneurs today, despite all attempts by the Italian government to kill them off.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1775.08,
+   "end": 1781.96,
+   "text": "and systematically and what they are too small you know the basically what the italian government is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1781.96,
+   "end": 1787.96,
+   "text": "doing is trying to kill the mosque by throwing moss balls at them and you don't hit many mosques",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1787.96,
+   "end": 1795.72,
+   "text": "that way and those small people in russia and bergamo and what have you who market specialty",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1795.72,
+   "end": 1798.2,
+   "text": "product.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.919
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 26.25,
+ "created_utc": "2026-09-20T22:53:09+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

@@ -1,0 +1,931 @@
+{
+ "pointer": "5014",
+ "media": "5014.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1853.1,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.7,
+   "text": "They very rarely have in this country. They never have in the rest of the world.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 7.7,
+   "end": 22.74,
+   "text": "So one looks at it. And so one goes down the list, what assumptions, what specs, and the like.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 23.32,
+   "end": 28.68,
+   "text": "And then one looks and then one may see that the plumbing business isn't serious.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 32.19,
+   "end": 37.23,
+   "text": "We know nothing about it, that our strengths do not extend to it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 37.23,
+   "end": 48.99,
+   "text": "If you find that our strength is product strength, yes, our strength is essentially being in the right place at the right time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 48.99,
+   "end": 62.85,
+   "text": "The plumbing business might be the same business we are in. It's just bigger ticket items, that's all it is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 62.85,
+   "end": 72.14,
+   "text": "And you may have to invest more money in your warehouse as a result. I don't know, I don't know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 72.14,
+   "end": 85.57,
+   "text": "If you find that your strength is exact, maybe you have no business in the big city.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 85.57,
+   "end": 95.36,
+   "text": "You're a supplier, a statistical outlet, and maybe the big city is all for you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 95.36,
+   "end": 103.92,
+   "text": "Maybe there you have to compete.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 103.92,
+   "end": 113.44,
+   "text": "What you offer is, you find that what you offer is convenience, friendliness, neighborliness,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 113.44,
+   "end": 117.44,
+   "text": "and it's a time-saving of a trip to the city.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 117.44,
+   "end": 140.0,
+   "text": "When none of these things cut much ice in the big city, you don't have to make the trip to the big city, you're already there. In the big city, you don't have the small craftsmen, the small local men, the bulk of your business.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.934
+  },
+  {
+   "start": 140.0,
+   "end": 143.9,
+   "text": "Maybe the work of the business is the mass-builder.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 143.9,
+   "end": 153.39,
+   "text": "There isn't that very little after the mass-builder.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 153.39,
+   "end": 162.16,
+   "text": "The back shop has great inventory low,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 162.16,
+   "end": 166.66,
+   "text": "and yet don't let on being able to keep the line running",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 166.66,
+   "end": 169.66,
+   "text": "so that the fellow who takes on the responsibility",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 169.66,
+   "end": 174.46,
+   "text": "for essentially inventorying you at 8.15 in the morning",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 174.46,
+   "end": 177.76,
+   "text": "so that you can start at 8.30.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 177.76,
+   "end": 179.36,
+   "text": "But he doesn't want it any earlier",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 179.36,
+   "end": 181.46,
+   "text": "because he has no place to put it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 188.54,
+   "end": 193.24,
+   "text": "And maybe there are no accidents.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 193.44,
+   "end": 200.84,
+   "text": "The mobile home operations are genuinely small operations.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 201.3,
+   "end": 202.9,
+   "text": "It's that kind of labor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 203.4,
+   "end": 206.1,
+   "text": "Maybe that fits in. I don't know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 206.9,
+   "end": 214.88,
+   "text": "But don't set down what is impliedly to start with.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 217.75,
+   "end": 222.26,
+   "text": "It's far easier because you know so much.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 228.05,
+   "end": 228.79,
+   "text": "We have done it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 230.09,
+   "end": 233.61,
+   "text": "Don't allow anyone.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 233.75,
+   "end": 235.09,
+   "text": "He can only freeze himself.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 235.09,
+   "end": 240.72,
+   "text": "He can only then get to the point where he has to defend it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 240.72,
+   "end": 244.72,
+   "text": "And you don't want to allow anybody to freeze prematurely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 244.72,
+   "end": 249.29,
+   "text": "So when anybody wants to express an opinion,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 249.29,
+   "end": 252.29,
+   "text": "does anybody know who is the great master of this?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 252.29,
+   "end": 257.29,
+   "text": "The one country where this is the essence of the decision process,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 257.29,
+   "end": 268.17,
+   "text": "that you don't allow until you understand what's from the Japanese.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 268.17,
+   "end": 270.17,
+   "text": "They call it consensus.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 270.17,
+   "end": 283.56,
+   "text": "It had nothing to do, meant that no,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 283.56,
+   "end": 287.74,
+   "text": "but it did, you know exactly where everybody stands.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 287.74,
+   "end": 458.94,
+   "text": "But nobody has said anything. Nobody's face going there. But you also have the Japanese. And its strength comes from the electricity. All right at that. And he may know that there are 199 other branches, but if he doesn't know the material there, he doesn't do business there.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.971
+  },
+  {
+   "start": 458.94,
+   "end": 540.35,
+   "text": "And at the same time, you want to run it like Sears? Can you run it like Sears?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.785
+  },
+  {
+   "start": 540.35,
+   "end": 556.66,
+   "text": "It's a pop story in every little town. And you want mom and pop to work, what, 18 hours a day?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.816
+  },
+  {
+   "start": 556.66,
+   "end": 570.49,
+   "text": "I want them to consider it their business to study a company.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.928
+  },
+  {
+   "start": 570.49,
+   "end": 601.89,
+   "text": "Unless that fellow in Pascoe, and don't ask me about Poonsey, no way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 601.89,
+   "end": 614.92,
+   "text": "Would you open a new branch with anybody who hasn't run a branch? I wouldn't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 614.92,
+   "end": 619.02,
+   "text": "I think you'd think somebody has been running a branch for a few years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 619.9,
+   "end": 624.28,
+   "text": "Because it's easier to put the assistant or the segment in to run that branch.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 624.76,
+   "end": 628.1,
+   "text": "And opening a territory requires a little.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 635.48,
+   "end": 644.46,
+   "text": "So it's hard to run like this in Georgia.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 648.43,
+   "end": 650.77,
+   "text": "But you want to feel this is my branch.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 651.13,
+   "end": 652.65,
+   "text": "Because there's very real implications.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 657.72,
+   "end": 669.65,
+   "text": "Inevitably, a business can make at least as much as if you own it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 669.65,
+   "end": 848.69,
+   "text": "And yet, once a year, the rest require so many salesmen, period.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.961
+  },
+  {
+   "start": 849.15,
+   "end": 859.4,
+   "text": "If you think you need fewer, well, maybe the zone manager has the right to allow you to have one fewer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 859.4,
+   "end": 870.91,
+   "text": "If you need more, you better go on the way to, well, at least, because it's just a little trip.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 883.42,
+   "end": 908.13,
+   "text": "And even so, today, nice colors and lighting and soft view,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 911.56,
+   "end": 921.82,
+   "text": "where their manager, that's the only modern art they like,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 921.82,
+   "end": 932.09,
+   "text": "Well, enough girls. You don't look like the Chase Manhattan Bank, which buys more than one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 932.15,
+   "end": 938.62,
+   "text": "In a business like this, they're spiritual. I'm sure they tell off people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 940.74,
+   "end": 946.26,
+   "text": "All right, you have a private plane, that makes sense, because you're needed to visit those 200 places,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 946.8,
+   "end": 949.36,
+   "text": "not one of which is an idiot, a major airport.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 950.74,
+   "end": 956.68,
+   "text": "And you have to maintain personal face-to-face with those 200.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 957.9,
+   "end": 961.22,
+   "text": "Those boys up there have a very simple rule.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 961.22,
+   "end": 970.42,
+   "text": "sees a member of top management, of central office management, at least once a month and not just for ten years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 970.42,
+   "end": 986.34,
+   "text": "And not in Wenatchee, but in his location. There are very sound limitations on it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 986.34,
+   "end": 991.34,
+   "text": "Uncle Joe does most of it. In his eighties, he did most of that, by the way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 991.34,
+   "end": 1003.1,
+   "text": "Actually, he saw the day. He's the one who keeps the company thing busy all the time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1003.1,
+   "end": 1016.65,
+   "text": "He lives in it. Family's all grown up. He hasn't had much influence by it for a long time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1016.65,
+   "end": 1142.97,
+   "text": "here you see him in the head office you can't get out of that city blissfully even van gogh",
+   "speaker": "drucker",
+   "drucker_coverage": 0.992
+  },
+  {
+   "start": 1142.97,
+   "end": 1168.12,
+   "text": "sunflowers there that's already probably dangerous and you don't have an executive dining room",
+   "speaker": "drucker",
+   "drucker_coverage": 0.761
+  },
+  {
+   "start": 1168.12,
+   "end": 1189.91,
+   "text": "and you don't have an executive men's room the example you said if you have a huge big office",
+   "speaker": "drucker",
+   "drucker_coverage": 0.954
+  },
+  {
+   "start": 1189.91,
+   "end": 1204.91,
+   "text": "because instead of the old beat up army green steel desk board of an army and surplus heap,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1204.91,
+   "end": 1219.35,
+   "text": "you have fine furniture by trailer or what have you, will trade in their green for something",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1219.35,
+   "end": 1224.79,
+   "text": "could cost 600 bucks a piece instead of 6 or 16.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1224.79,
+   "end": 1228.79,
+   "text": "So you have a city district that's built into it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1228.79,
+   "end": 1231.7,
+   "text": "And as we say, I don't think there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1231.7,
+   "end": 1238.52,
+   "text": "was a thousand or two people who built the model with the skyscrapers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1238.52,
+   "end": 1240.14,
+   "text": "They were very controversial.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1240.14,
+   "end": 1245.9,
+   "text": "There's nothing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1245.9,
+   "end": 1248.72,
+   "text": "They talked about the great importance of the profit",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1248.72,
+   "end": 1251.8,
+   "text": "sharing in encouraging the branch managers and all",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1251.8,
+   "end": 1253.96,
+   "text": "their people to keep costs down.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1253.96,
+   "end": 1255.62,
+   "text": "But they were very conscious of the fact",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1255.62,
+   "end": 1262.62,
+   "text": "that what really kept cars down was that when you visited General Woods, who was a legendary",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1262.62,
+   "end": 1275.32,
+   "text": "figure, before you sat down in the chair, he said, be careful, the leg is broken. Yeah.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.803
+  },
+  {
+   "start": 1275.32,
+   "end": 1280.32,
+   "text": "And that was the way his office looked. If you think that one of the better showmen of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1280.32,
+   "end": 1285.32,
+   "text": "the century, if you think that he didn't know what he was doing, you didn't know the old",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1285.32,
+   "end": 1290.32,
+   "text": "man. He knew exactly what he was doing. And then the fellow went back to Macon, Georgia,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1290.32,
+   "end": 1300.32,
+   "text": "big promotion to the old manager. This is when you first saw the general. Got the karate gear pinned on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1300.32,
+   "end": 1304.32,
+   "text": "And you went back and you went around the stores and you said to your store manager,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1304.32,
+   "end": 1308.32,
+   "text": "you really think you are going to let you have two workforce that she is in the office?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1308.32,
+   "end": 1321.57,
+   "text": "My general doesn't have a single one. So if you want this business that would love to run the way it should be running",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1321.57,
+   "end": 1334.08,
+   "text": "running a small business, you've got to set the example. Very few people, if you don't set the example, people measure themselves by their distance from the top.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1334.08,
+   "end": 1343.08,
+   "text": "And if you have to look at that, you probably know that the Chase Bank has been doing very badly, I don't think, compared to the first city.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1343.08,
+   "end": 1347.08,
+   "text": "Even worse than Bank of America, which took some doings the last few years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1347.08,
+   "end": 1354.08,
+   "text": "And I once asked one of the senior, older Chase Bank men, why?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1354.08,
+   "end": 1358.08,
+   "text": "And I expected to hear that David Rockefeller is no banker.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1358.08,
+   "end": 1382.36,
+   "text": "He said, look, it was not that we did nothing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1382.36,
+   "end": 1389.57,
+   "text": "When I came back, I measured myself against David's office,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1389.57,
+   "end": 1391.57,
+   "text": "which is what you expect.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1391.57,
+   "end": 1397.57,
+   "text": "You know, we all now know Rockefeller finance is better than they do, obviously.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1397.57,
+   "end": 1406.57,
+   "text": "and more than I really want to know about them, you can imagine what an office looks like, can't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1406.57,
+   "end": 1416.11,
+   "text": "And if you are the senior man in D\u00fcsseldorf, which is the senior office of the German offices,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1416.11,
+   "end": 1434.69,
+   "text": "which in turn was the second or third largest market, you kind of say, well, he sits on top of 23 billion deposits,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1434.69,
+   "end": 1442.79,
+   "text": "But I sit on top of eight, you know, or five, and you measure it that way, and you're trading your furniture.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1443.03,
+   "end": 1459.88,
+   "text": "That has something on it.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.407
+  },
+  {
+   "start": 1460.14,
+   "end": 1473.66,
+   "text": "No postmaster has shown a great desire to cut costs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1474.04,
+   "end": 1495.22,
+   "text": "The people also measure their own style by the distance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1499.8,
+   "end": 1515.81,
+   "text": "And when you want your local to be very cost, you better make sure that you don't, when you're central office, are in a different plan.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1515.81,
+   "end": 1532.64,
+   "text": "So, these are certain considerations in management.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.941
+  },
+  {
+   "start": 1533.42,
+   "end": 1540.7,
+   "text": "You need to see in this kind of a business, you have people very often, so that they don't get the feeling that they are underling.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1540.88,
+   "end": 1541.84,
+   "text": "Because they are.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1543.52,
+   "end": 1549.74,
+   "text": "You are supposed to have a computer, and you are buying it, you have credit control.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1562.39,
+   "end": 1564.71,
+   "text": "Maybe they don't need a monthly visit, but it's not the case.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1566.17,
+   "end": 1571.09,
+   "text": "But they need to be emphasized constantly, you run this business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1575.25,
+   "end": 1576.79,
+   "text": "But the business is impassable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1577.19,
+   "end": 1602.97,
+   "text": "Not the health.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1602.97,
+   "end": 1612.62,
+   "text": "Other than that, he, all right, he may make a little less money on his own, but he'll get by.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1615.8,
+   "end": 1620.94,
+   "text": "Because that's what most of those houses in the past was up to the world at all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1621.16,
+   "end": 1623.88,
+   "text": "They're owned by a local high school boy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1623.88,
+   "end": 1637.63,
+   "text": "He needs to get a little money to get enough, and enough to buy a truck.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1639.58,
+   "end": 1653.09,
+   "text": "And his money, that kind, with his wife as a bookkeeper, and he hires his nephews to run, come in after school.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1653.09,
+   "end": 1705.52,
+   "text": "Ant isn't getting rich, but he doesn't overwork, perhaps, it's his busy day, but Sunday and Monday, and he stays off the local church or off the local pub, and active in the Kiwanis, and maybe in the Boy Scouts, but he doesn't look upon his business, it's his living, and it gives him a living, and probably a better one than he could have had any other way.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.952
+  },
+  {
+   "start": 1705.52,
+   "end": 1712.24,
+   "text": "it beats forming, it's not one-tenth as strenuous as forming, and doesn't require as much",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1712.24,
+   "end": 1721.84,
+   "text": "confidence. You always have congenial confidence. When Joe puts up with his truck to pick up",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1721.84,
+   "end": 1827.65,
+   "text": "the toiling stock, it isn't racing off everywhere. The biggest reason, and it's by no means",
+   "speaker": "drucker",
+   "drucker_coverage": 0.986
+  },
+  {
+   "start": 1827.65,
+   "end": 1835.41,
+   "text": "certain, it's not even probable, that you can do so without essentially endangering",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1835.41,
+   "end": 1841.25,
+   "text": "Okay, next week, what is it, case one?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1842.23,
+   "end": 1846.65,
+   "text": "We are moving out of a profitable wholesale house",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1846.65,
+   "end": 1849.49,
+   "text": "into a totally unprofitable financial field.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 49.96,
+ "created_utc": "2026-09-20T23:08:22+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

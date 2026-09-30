@@ -1,0 +1,2009 @@
+{
+ "pointer": "3555",
+ "media": "3555.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1792.5,
+ "segments": [
+  {
+   "start": 3.38,
+   "end": 5.42,
+   "text": "I think it's time we begin our program.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 7.1,
+   "end": 11.54,
+   "text": "I'm Bill Dill, the Dean of the Graduate School of Business,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 11.9,
+   "end": 21.8,
+   "text": "and it's my pleasure to welcome you to the first of our two annual sessions with Peter Drucker today.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 23.68,
+   "end": 32.48,
+   "text": "Today's topic, I think, is a particularly appropriate one in the aftermath of Big Business Day",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 32.48,
+   "end": 44.1,
+   "text": "and a number of other events this spring with one looks at the headlines in today's paper,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 45.24,
+   "end": 54.34,
+   "text": "the excursion of executives of Chrysler and Mobile to Washington again today.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 54.34,
+   "end": 65.08,
+   "text": "Today, business leadership is acutely aware of its involvement in an increasingly political environment,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 66.14,
+   "end": 77.96,
+   "text": "and it's a great pleasure to have with us today two of the people who really have,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 77.96,
+   "end": 82.14,
+   "text": "I think among all other commentators on the American business scene,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 82.14,
+   "end": 86.82,
+   "text": "and perhaps the best credentials for saying, we told you so.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 88.94,
+   "end": 99.78,
+   "text": "Peter Drucker has brought to his view of business and the business environment for many years now",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 99.78,
+   "end": 109.2,
+   "text": "a perspective which has set business against the panorama of the whole society",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 109.2,
+   "end": 117.64,
+   "text": "and talked about the problems of the manager in relation to the challenges and duties of the political leader",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 117.64,
+   "end": 123.9,
+   "text": "and talked about the linkage between business and politics.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 125.2,
+   "end": 133.58,
+   "text": "Professor Irving Kristol, now currently on the faculty of the Graduate School of Business,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 133.58,
+   "end": 146.08,
+   "text": "the editor of the Public Interest, has again made his mark in terms of commentary on the business scene",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 146.08,
+   "end": 159.54,
+   "text": "by stressing the linkages, contemporary and historical, between business and the total social and political community.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 159.54,
+   "end": 176.34,
+   "text": "So I look forward to this morning to an informative and interesting, and depending on what questions you folks raise after the two speakers have made their comments, a very exciting and hopefully controversial discussion.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 177.6,
+   "end": 179.56,
+   "text": "A couple of words of housekeeping.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 180.84,
+   "end": 183.74,
+   "text": "The World Trade Center is not hard to find.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 184.44,
+   "end": 187.82,
+   "text": "You do have instructions on how to find your way to lunch.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 188.58,
+   "end": 193.32,
+   "text": "I'm told that the name tag is not a valueless piece of property",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 193.32,
+   "end": 196.08,
+   "text": "because that's your admission ticket to the luncheon,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 196.62,
+   "end": 198.58,
+   "text": "so hang on to that if you have one.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 202.08,
+   "end": 207.38,
+   "text": "Secondly, Ms. Stanley will pass out question cards",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 207.38,
+   "end": 214.08,
+   "text": "and we'll collect those cards before we start the session after the coffee break.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 214.08,
+   "end": 219.72,
+   "text": "we will work in part from written questions that you set down",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 219.72,
+   "end": 223.8,
+   "text": "that I will try to sort out while we make our way through the question period",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 223.8,
+   "end": 228.36,
+   "text": "we also hope to keep things fairly informal and take questions from the floor",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 228.36,
+   "end": 233.04,
+   "text": "I have one introduction I'd like to make before we start in",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 233.04,
+   "end": 235.02,
+   "text": "as many of you have read",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 235.02,
+   "end": 240.3,
+   "text": "I'm in my final semester as dean of the graduate school",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 241.26,
+   "end": 246.32,
+   "text": "And I'm delighted that the search committee, which went out to look for a successor,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 246.94,
+   "end": 248.9,
+   "text": "landed their first choice of candidate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 249.76,
+   "end": 254.38,
+   "text": "And I'm also delighted that he's taken time from his duties at American Can",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 254.38,
+   "end": 256.26,
+   "text": "to come down and be with us this morning.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 256.42,
+   "end": 259.1,
+   "text": "But Bill May, the chief executive of American Can,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 259.18,
+   "end": 262.48,
+   "text": "will be starting next fall as dean of the graduate school,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 262.48,
+   "end": 265.44,
+   "text": "and I hope will be presiding over these sessions next spring.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 265.56,
+   "end": 268.26,
+   "text": "I think Bill is here in the back.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 268.26,
+   "end": 288.98,
+   "text": "So I will take questions, suggestions, and complaints as usual after this session, but those of you who have ideas for the long-range future of the school, I hope we'll seek Bill out in the weeks and months to come.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 288.98,
+   "end": 304.32,
+   "text": "Okay. At this point, to this audience, there's really not much I can do to embellish or inform",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 304.32,
+   "end": 310.04,
+   "text": "you about Professor Drucker other than to say, Peter, we're delighted to have you back",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 310.04,
+   "end": 316.74,
+   "text": "and look forward very much to these two sessions.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.409
+  },
+  {
+   "start": 316.74,
+   "end": 319.62,
+   "text": "Thank you very much, Bill Dill.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 319.62,
+   "end": 326.56,
+   "text": "Ladies and gentlemen, let me first say once more how grateful I am and delighted to be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 326.56,
+   "end": 335.64,
+   "text": "allowed back to what after all these years is still very much my home, and how very much",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 335.64,
+   "end": 342.78,
+   "text": "I appreciate that I am still being permitted to come here every year and to be a member",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 342.78,
+   "end": 352.28,
+   "text": "of the faculty and of the school for a few short days, and usually, and I think I credit",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 352.28,
+   "end": 355.92,
+   "text": "this to the GBA management, the weather is perfect.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 357.46,
+   "end": 363.3,
+   "text": "And let me say a welcome to all the many old friends I see in the audience.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 363.62,
+   "end": 369.08,
+   "text": "I hope I'll get around to saying a few words to each of you in the course of the day, but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 369.08,
+   "end": 380.98,
+   "text": "In case I miss you, let me say how happy I am to see so many people who have been friends of this school and of this lecture series and of myself for so many years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 382.34,
+   "end": 397.57,
+   "text": "And I want to say in particular how grateful I am to Earth Crystal to take time out from what must easily be the busiest schedule in the nation next to Mr. Carter's.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 397.57,
+   "end": 399.21,
+   "text": "to be here",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 399.21,
+   "end": 401.03,
+   "text": "and unlike Mr. Carter",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 401.03,
+   "end": 403.57,
+   "text": "despite the hostages coming out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 403.57,
+   "end": 406.41,
+   "text": "and to be here with us",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 406.41,
+   "end": 408.87,
+   "text": "because really this is his topic",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 408.87,
+   "end": 410.21,
+   "text": "far more than mine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 410.21,
+   "end": 413.59,
+   "text": "and most of what I know about the topic",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 413.59,
+   "end": 415.55,
+   "text": "I've really learned from reading",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 415.55,
+   "end": 417.89,
+   "text": "Professor Crystal over the years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 417.89,
+   "end": 420.83,
+   "text": "and he has enlightened",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 420.83,
+   "end": 423.65,
+   "text": "really given all of us a new perspective",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 423.65,
+   "end": 425.61,
+   "text": "on the political process",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 425.61,
+   "end": 429.37,
+   "text": "and on the changes in the political environment.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 429.37,
+   "end": 440.54,
+   "text": "One can look at this topic of ours in two ways,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.687
+  },
+  {
+   "start": 441.18,
+   "end": 447.92,
+   "text": "and one would really be in terms of a political philosopher",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 447.92,
+   "end": 450.36,
+   "text": "asking the question,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 450.88,
+   "end": 456.8,
+   "text": "what has become of the modern national state",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 456.8,
+   "end": 459.78,
+   "text": "of that proudest child of the modern age,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 459.78,
+   "end": 468.28,
+   "text": "which is clearly in an advanced stage of senility, premature senility, irreversible, I'm afraid.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 468.9,
+   "end": 478.9,
+   "text": "Or one can look and see, since one has to operate in what is and not in what was,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 479.08,
+   "end": 485.56,
+   "text": "or in what should be, or in what will be, what does it look like today?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 485.56,
+   "end": 506.9,
+   "text": "And I thought the intelligent topic for this session is not the philosophical one in which one tries to discern why modern government has become both obese and incompetent,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 506.9,
+   "end": 527.24,
+   "text": "But in which one looks at the situation and says, if you have to run an institution, a business today, what are the rules that no longer apply? What are the rules that sometimes apply? And what are the new rules that again only sometimes apply?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 527.24,
+   "end": 539.8,
+   "text": "because I think one of the characteristics of this period is that there are no rules that one can use with even high probability.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 541.08,
+   "end": 551.48,
+   "text": "And if you look at the situation and the way of crystal is going to, I think, stress other aspects of the same situation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 551.48,
+   "end": 559.88,
+   "text": "And two things, or three, two certainly, strike me as being of particular importance",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 559.88,
+   "end": 565.82,
+   "text": "and usually not seen by the executive in business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 565.82,
+   "end": 572.0,
+   "text": "Let me say the greatest danger in turbulent times like ours is not the turbulence.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 572.72,
+   "end": 580.86,
+   "text": "The greatest danger is that you act rationally in terms of yesterday.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 581.48,
+   "end": 601.24,
+   "text": "And that you assume that the things that have worked for so long, and we have been through the longest period of continuity in economic history ever recorded from 1950 or 48 until the early 70s.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 601.24,
+   "end": 609.74,
+   "text": "And then one comes to believe that the things that work in that period were really laid down on Mount Sinai,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 609.74,
+   "end": 618.4,
+   "text": "if not in the first six days of creation, and our laws of the Lord and laws of nature,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 618.98,
+   "end": 624.18,
+   "text": "whereas they were very temporary and transitory phenomena.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 624.18,
+   "end": 634.5,
+   "text": "And then one doesn't look, one reacts to a reality that no longer really prevails.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 635.02,
+   "end": 642.38,
+   "text": "And so I want to point out two things which most of my friends in businesses,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 642.7,
+   "end": 650.06,
+   "text": "especially top management in large businesses, who are very insulated, as I think you all know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 650.06,
+   "end": 662.74,
+   "text": "take for granted and which simply are at least not solid anymore. The first is a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 662.74,
+   "end": 675.47,
+   "text": "structure of the population in which there was a constituency for business, a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 675.47,
+   "end": 683.19,
+   "text": "business constituency that in a way began with the owner of the corner cigar",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 683.19,
+   "end": 692.15,
+   "text": "store and consisted of individuals who had a stake in business and when you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 692.15,
+   "end": 699.51,
+   "text": "read when you the rhetoric of business leadership including the business Mount",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 699.51,
+   "end": 705.57,
+   "text": "table for which I have great respect and when you look at the lobbyists and so on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 705.57,
+   "end": 713.19,
+   "text": "they all still assume this and then one has to see very bluntly that there is no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 713.19,
+   "end": 723.27,
+   "text": "such constituency and that in fact no group in American society is as",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 723.27,
+   "end": 727.43,
+   "text": "alienated, to use a nice fashionable term, from",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 727.43,
+   "end": 732.94,
+   "text": "big business. And what big business is, is a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 732.94,
+   "end": 737.26,
+   "text": "very debatable question. Believe me,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 737.26,
+   "end": 741.0,
+   "text": "it isn't just GM. The companies which you consider",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 741.0,
+   "end": 745.18,
+   "text": "small business are seen as big business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 745.92,
+   "end": 749.12,
+   "text": "Or anything over a few hundred employees or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 749.12,
+   "end": 752.26,
+   "text": "500 employees or so, where is that?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 752.26,
+   "end": 760.26,
+   "text": "It just sees itself in terms of management and marketing and finance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 760.46,
+   "end": 761.26,
+   "text": "It's big business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 761.8,
+   "end": 765.62,
+   "text": "And the cigar store owner or his replacement,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 766.16,
+   "end": 769.82,
+   "text": "the fellow who owns five supermarkets in Portland, Oregon,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 770.74,
+   "end": 780.64,
+   "text": "does not see identity either of point of view or of concerns",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 780.64,
+   "end": 785.04,
+   "text": "or of perspective with them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 785.08,
+   "end": 793.9,
+   "text": "There is a very sharp break and it is simply a result in large fact, a large measure of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 793.9,
+   "end": 802.54,
+   "text": "the fact that ownership of big business is not in the hands of individuals, but in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 802.54,
+   "end": 820.25,
+   "text": "hands of intermediaries who look quite different from that ownership of the very large in number",
+   "speaker": "drucker",
+   "drucker_coverage": 0.802
+  },
+  {
+   "start": 820.25,
+   "end": 825.71,
+   "text": "small business sector, which large business sees that it's normal",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 825.71,
+   "end": 833.59,
+   "text": "conservative constituency, and really the two do not share their same concerns,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 833.59,
+   "end": 842.93,
+   "text": "they don't see the same world very much. And in a way the emergence of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 842.93,
+   "end": 849.75,
+   "text": "the intermediary as the vehicle through which capital is being formed, such as we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 849.75,
+   "end": 856.57,
+   "text": "form, we don't form enough, and in which savings are channeled into investment is in many ways",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 856.57,
+   "end": 865.57,
+   "text": "both inevitable and a great triumph, but it has resulted in a different political constituency.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 866.27,
+   "end": 872.11,
+   "text": "And one of the oldest proverbs of politics going back all the way to Aristotle is that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 872.11,
+   "end": 891.97,
+   "text": "Power follows property and power therefore is following in the sense that the employees who are the beneficiaries of these intermediaries one way or another are really in a new relationship to big business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 891.97,
+   "end": 903.09,
+   "text": "On the one hand, we have the big business society and economy that is intimately related to the employees, their pension plans, their savings.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 903.79,
+   "end": 918.73,
+   "text": "And then we have a small business society which is related economically to big business, but not socially or psychologically or emotionally or even in terms of direct interest.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 918.73,
+   "end": 928.75,
+   "text": "And so the constituency is gone, and big business so far has not even tried to mobilize a new constituency.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 929.97,
+   "end": 941.69,
+   "text": "And I add to this the fact that most of you in management still see in your mind's eye the employee of 1920.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 941.69,
+   "end": 951.79,
+   "text": "You know, you open a management book, including mine, and read the discussion about labor relations and personnel management,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 951.99,
+   "end": 960.85,
+   "text": "and it is very clear that there are projections of what we learned in the early 20s in Detroit or in Pittsburgh.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 962.19,
+   "end": 967.25,
+   "text": "And that is not the employee of today, even in Detroit or in Pittsburgh.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 967.25,
+   "end": 976.19,
+   "text": "Even the dropout of today is a very different worker from the same steel",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 976.19,
+   "end": 984.77,
+   "text": "worker of 1920. When I first knew the automobile industry, General Motors has",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 984.77,
+   "end": 991.79,
+   "text": "just made the first educational survey of its supervisors, that was 1930, and the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 991.79,
+   "end": 1003.19,
+   "text": "General Motors supervisor was 50 years old and therefore born in 1880 and he had at most",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1003.19,
+   "end": 1011.29,
+   "text": "two half terms of formal schooling. But in 1880 he went to work, you know, in 1894 as",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1011.29,
+   "end": 1018.91,
+   "text": "a water boy on the Burlington Railroad. And yet believe me the job was more demanding",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1018.91,
+   "end": 1024.73,
+   "text": "since the job is today, far more he was, that man was supposed to run his department.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1024.73,
+   "end": 1030.07,
+   "text": "He had no scheduler, and he had no maintenance people,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1030.49,
+   "end": 1034.29,
+   "text": "and he had no personnel department, and no quality control.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1034.61,
+   "end": 1035.73,
+   "text": "He had to run it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1036.31,
+   "end": 1042.69,
+   "text": "And so even at that level, the labor force has changed drastically,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1043.33,
+   "end": 1048.43,
+   "text": "not only in its horizon, and I think it is hard to underestimate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1048.43,
+   "end": 1055.69,
+   "text": "make the change in horizon, partly through the electronic media, partly through the fact",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1055.69,
+   "end": 1065.43,
+   "text": "that so many people in this society today have seen the world courtesy of Uncle Sam.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1065.43,
+   "end": 1074.23,
+   "text": "So the constituency has changed, and unless big business succeeds in mobilizing the constituency",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1074.23,
+   "end": 1079.99,
+   "text": "that lies in its own employees, it will have no power base.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1079.99,
+   "end": 1084.83,
+   "text": "And that, I think, is one of the fundamental problems,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1084.83,
+   "end": 1089.23,
+   "text": "that the old power base, which is that local drugstore owner,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1089.23,
+   "end": 1094.93,
+   "text": "if he exists at all, and largely he is sociologically simply not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1094.93,
+   "end": 1102.39,
+   "text": "there, that went to small town bank,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1102.39,
+   "end": 1108.15,
+   "text": "They are largely, well, yes, they are still there, but they are very clearly out of the mainstream",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1108.15,
+   "end": 1114.05,
+   "text": "and politically can be very effective on local issues, but not the national ones.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1114.71,
+   "end": 1121.37,
+   "text": "But you also see no identity of interest with even the medium-sized,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1121.37,
+   "end": 1128.89,
+   "text": "the business with $20 or $30 million of sales and 600 employees and professional management",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1128.89,
+   "end": 1139.31,
+   "text": "who go to NYU and get their MBA and they do not see themselves as belonging to the same interest.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1140.03,
+   "end": 1145.51,
+   "text": "One of the most important phenomena in this, but also in all other developed countries,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1145.51,
+   "end": 1153.73,
+   "text": "is the fragmenting of the business interest that was such a dominant force in the 19th century",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1153.73,
+   "end": 1161.45,
+   "text": "and spoke with one voice from Andrew Jackson at least through Mark Hanna",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1161.45,
+   "end": 1164.51,
+   "text": "and even through the New Deal, and it's gone.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1164.51,
+   "end": 1172.81,
+   "text": "And now I think you have a major problem how to mobilize the new constituency",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1172.81,
+   "end": 1182.29,
+   "text": "in an employee society in which 95% or 92% of all national product",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1182.29,
+   "end": 1185.61,
+   "text": "goes out in the form of wages and salaries,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1186.87,
+   "end": 1191.91,
+   "text": "and most of the rest is self-employed and doesn't profit either,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1192.85,
+   "end": 1197.55,
+   "text": "and in which the only real source of capital formation,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1197.79,
+   "end": 1203.29,
+   "text": "I do not believe that we will see a resurgence of personal saving,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1203.47,
+   "end": 1205.37,
+   "text": "no matter what the tax laws are,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1205.77,
+   "end": 1210.99,
+   "text": "simply because most of us feel that we are saving through the intermediaries.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1210.99,
+   "end": 1214.89,
+   "text": "and we do compulsory more or less",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1214.89,
+   "end": 1218.09,
+   "text": "and when you add it all up that savings rate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1218.09,
+   "end": 1219.97,
+   "text": "is very high it isn't low",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1219.97,
+   "end": 1223.75,
+   "text": "the story of the low savings rate is largely",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1223.75,
+   "end": 1226.09,
+   "text": "I think a statistical delusion",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1226.09,
+   "end": 1229.51,
+   "text": "we have a very high savings rate compulsory",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1229.51,
+   "end": 1232.65,
+   "text": "savings rate through employee benefit plans",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1232.65,
+   "end": 1235.89,
+   "text": "and that is of the order and social security",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1235.89,
+   "end": 1238.81,
+   "text": "which isn't saving at all economically",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1238.81,
+   "end": 1241.25,
+   "text": "where it is seen by the employee as saving.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1242.27,
+   "end": 1246.75,
+   "text": "And so if you add it all up, it's about a 35% rate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1246.75,
+   "end": 1251.31,
+   "text": "in which current earnings of the employee",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1251.31,
+   "end": 1253.95,
+   "text": "are not available to him for consumption",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1253.95,
+   "end": 1258.55,
+   "text": "and that they are not capital formation either.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1258.71,
+   "end": 1260.33,
+   "text": "He doesn't know and couldn't know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1261.53,
+   "end": 1264.47,
+   "text": "And so I don't think you will see a revival",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1264.47,
+   "end": 1266.31,
+   "text": "of the personal savings rate.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1266.31,
+   "end": 1269.03,
+   "text": "I don't see how it can possibly happen.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1269.81,
+   "end": 1277.51,
+   "text": "And so how do you mobilize the existing nexus of interest",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1277.51,
+   "end": 1281.51,
+   "text": "between the employee and the economic system",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1281.51,
+   "end": 1286.97,
+   "text": "through the pension plan, through the indirect stock ownership,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1287.61,
+   "end": 1291.91,
+   "text": "and through the interest in the job, the stake in the job,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1291.91,
+   "end": 1296.55,
+   "text": "so that it becomes again a political force.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1297.51,
+   "end": 1302.73,
+   "text": "And I think this is the major challenge to business leadership",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1302.73,
+   "end": 1307.01,
+   "text": "and I haven't seen much attempts to do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1307.47,
+   "end": 1311.95,
+   "text": "My prejudices show, let me say, the only attempt I see,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1311.95,
+   "end": 1316.43,
+   "text": "which is the ESOP, happens to be a dangerous delusion",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1316.43,
+   "end": 1320.33,
+   "text": "for any but the smallest business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1320.33,
+   "end": 1324.77,
+   "text": "in which it is a good way of milking the employees",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1324.77,
+   "end": 1327.85,
+   "text": "to keep alive a dying business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1328.31,
+   "end": 1330.13,
+   "text": "But that's all it can do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1330.81,
+   "end": 1334.01,
+   "text": "We have enough experience with this particular instrument",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1334.01,
+   "end": 1335.17,
+   "text": "to know that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1335.75,
+   "end": 1338.47,
+   "text": "This is the wrong way of doing it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1338.47,
+   "end": 1342.01,
+   "text": "Even though the objective is right,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1342.17,
+   "end": 1343.69,
+   "text": "the means are inappropriate.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1344.29,
+   "end": 1345.93,
+   "text": "But the objective is right.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1346.43,
+   "end": 1356.03,
+   "text": "How do you mobilize the latent potential of a parallel of interest that has to be centered around the job",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1356.03,
+   "end": 1361.75,
+   "text": "so that you can mobilize a new majority?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1361.75,
+   "end": 1366.55,
+   "text": "The phrase is hackneyed, but the reality is there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1367.09,
+   "end": 1368.27,
+   "text": "That's the first point.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1368.39,
+   "end": 1377.4,
+   "text": "And the second point is that in all developed countries, and not just in this,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1377.74,
+   "end": 1389.28,
+   "text": "The old integrative mechanisms to create a basis for action in the political arena",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1389.28,
+   "end": 1397.92,
+   "text": "is at best running on one cylinder with five cylinders kind of sputtering.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1398.66,
+   "end": 1402.46,
+   "text": "That's the beginning of our history as a nation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1402.98,
+   "end": 1406.54,
+   "text": "It's a great debate over the danger of factionalism.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1406.54,
+   "end": 1409.68,
+   "text": "and as an answer to it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1409.68,
+   "end": 1413.4,
+   "text": "we invented the political party",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1413.4,
+   "end": 1417.24,
+   "text": "the political party is fundamentally an American invention",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1417.24,
+   "end": 1422.32,
+   "text": "and perhaps the most lasting legacy of James Madison",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1422.32,
+   "end": 1425.08,
+   "text": "as a very great political philosopher",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1425.08,
+   "end": 1428.58,
+   "text": "which was the answer to faction",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1428.58,
+   "end": 1432.14,
+   "text": "in which factions were brought together",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1432.14,
+   "end": 1436.52,
+   "text": "united behind a goal such the election of a president",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1436.52,
+   "end": 1439.06,
+   "text": "or a majority in the Congress",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1439.06,
+   "end": 1442.86,
+   "text": "so that they were forced to submerge",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1442.86,
+   "end": 1445.9,
+   "text": "factional, which always means",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1445.9,
+   "end": 1448.36,
+   "text": "single cause interests",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1448.36,
+   "end": 1450.16,
+   "text": "into a program",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1450.16,
+   "end": 1453.64,
+   "text": "and we did it non-ideologically",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1453.64,
+   "end": 1456.84,
+   "text": "always a kind of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1456.84,
+   "end": 1459.74,
+   "text": "our parties were",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1459.74,
+   "end": 1462.0,
+   "text": "1% thinker of ideology",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1462.0,
+   "end": 1466.04,
+   "text": "anti-Europeans was about",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1466.04,
+   "end": 1469.78,
+   "text": "a 25% ideological content.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1470.3,
+   "end": 1473.92,
+   "text": "The European parties were always far more interest",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1473.92,
+   "end": 1477.6,
+   "text": "parties than they were supposed to be. But they used",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1477.6,
+   "end": 1481.8,
+   "text": "common slogans, ideological slogans, to bring",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1481.8,
+   "end": 1483.12,
+   "text": "about a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1483.12,
+   "end": 1489.72,
+   "text": "long-term coalition of interests.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1489.72,
+   "end": 1492.9,
+   "text": "And if you are interested in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1492.9,
+   "end": 1498.56,
+   "text": "that part of the history of ideas, that is, the history of political parties,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1498.94,
+   "end": 1503.84,
+   "text": "you will see how skillful the 19th century was.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1504.9,
+   "end": 1510.16,
+   "text": "Perhaps the last ones built on the old basis",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1510.16,
+   "end": 1514.38,
+   "text": "were still the European social democratic parties.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1515.54,
+   "end": 1522.34,
+   "text": "And what has happened, let me say, is that this worked too well.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1522.9,
+   "end": 1534.15,
+   "text": "It reached the point at which essentially the original designers of parties aimed, where",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1534.15,
+   "end": 1543.43,
+   "text": "you had consensus in society, and as a result the party no longer does its job.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1543.43,
+   "end": 1550.27,
+   "text": "It used to be in American politics that a landslide was a president elected by more",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1550.27,
+   "end": 1558.67,
+   "text": "than 60 percent of the vote. A landslide today is a president elected by 50.1 percent of the vote.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1559.95,
+   "end": 1568.35,
+   "text": "Every single electoral district has become a swing district. When I moved up to Vermont in 1942 and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1568.35,
+   "end": 1576.67,
+   "text": "went to register, the very nice lady in North Bennington said, won't you register as a Democrat?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1576.67,
+   "end": 1577.81,
+   "text": "And I said, why?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1578.33,
+   "end": 1581.85,
+   "text": "And she said, we need a few respectable Democrats here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1582.69,
+   "end": 1591.72,
+   "text": "But six years later, when I was going to be in San Francisco at the Dewey Truman election",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1591.72,
+   "end": 1596.92,
+   "text": "and went down for an absentee ballot, she said, I can mail one to you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1598.18,
+   "end": 1600.16,
+   "text": "You can fill one out here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1601.22,
+   "end": 1604.68,
+   "text": "Or I can put it in the Republican box for you myself.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1605.7,
+   "end": 1606.7,
+   "text": "That was Vermont.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1606.7,
+   "end": 1628.22,
+   "text": "That is no longer true. Even Vermont is a swing district, even Mississippi. And when you have nothing but 50% districts, in which there is no majority, then the small splinter group, the faction, acquires veto powers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1628.22,
+   "end": 1633.04,
+   "text": "and all during the 19th century",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1633.04,
+   "end": 1635.7,
+   "text": "the Women's Christian Temperance Union",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1635.7,
+   "end": 1639.12,
+   "text": "tried to use the 3 to 5 to 8 percent",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1639.12,
+   "end": 1641.04,
+   "text": "of the voted command",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1641.04,
+   "end": 1647.5,
+   "text": "to force candidates to accept temperance",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1647.5,
+   "end": 1648.56,
+   "text": "accept prohibition",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1648.56,
+   "end": 1650.78,
+   "text": "and it never got any place",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1650.78,
+   "end": 1652.7,
+   "text": "because very few districts",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1652.7,
+   "end": 1654.78,
+   "text": "were so evenly balanced",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1654.78,
+   "end": 1659.66,
+   "text": "that a 5% veto could swing the election.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1660.36,
+   "end": 1663.76,
+   "text": "And in 1918, as you know, it came to pass.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1664.98,
+   "end": 1667.22,
+   "text": "And then the same year or two later,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1667.7,
+   "end": 1671.36,
+   "text": "you had in India a very small group,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1672.0,
+   "end": 1673.52,
+   "text": "which Gandhi mobilized,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1674.04,
+   "end": 1681.72,
+   "text": "basically brought the world's greatest power of the time to its knees",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1681.72,
+   "end": 1687.36,
+   "text": "because England by that time had become evenly balanced and said listen now has",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1687.36,
+   "end": 1693.84,
+   "text": "become accepted and understood by everybody and so very small factional",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1693.84,
+   "end": 1702.6,
+   "text": "groups commanding microscopic fraction sprinters of the vote have a veto power",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1702.6,
+   "end": 1709.02,
+   "text": "they cannot produce action but they can block action the Indian talked about",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1709.02,
+   "end": 1714.9,
+   "text": "business day I think the active support for business day is probably one-tenths",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1714.9,
+   "end": 1721.26,
+   "text": "of one percent if it's that large and yet that is large enough in some areas",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1721.26,
+   "end": 1732.6,
+   "text": "to block and so the parties have lost their power to integrate a majority and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1732.6,
+   "end": 1738.48,
+   "text": "are becoming the victims of factions and if you want to read what this means",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1738.48,
+   "end": 1743.94,
+   "text": "the best text on it is still the Federalist Papers where they were so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1743.94,
+   "end": 1750.58,
+   "text": "conscious of that danger and of the fact that this would paralyze the political",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1750.58,
+   "end": 1762.9,
+   "text": "process and would make impossible any action for a program that basically",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1762.9,
+   "end": 1776.2,
+   "text": "think through priorities, that basically decides at what point one balances one desirable good",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1776.2,
+   "end": 1783.64,
+   "text": "against another, that in other words can establish political action, and that induces then the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1783.64,
+   "end": 1787.36,
+   "text": "paralysis we have now",
+   "speaker": "drucker",
+   "drucker_coverage": 0.903
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 28.16,
+ "created_utc": "2026-09-20T22:52:01+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

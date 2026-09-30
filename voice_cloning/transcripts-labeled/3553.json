@@ -1,0 +1,2646 @@
+{
+ "pointer": "3553",
+ "media": "3553.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1790.0,
+ "segments": [
+  {
+   "start": 3.06,
+   "end": 7.4,
+   "text": "in any modern developed economy based largely on the fact",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 7.4,
+   "end": 11.76,
+   "text": "that we perversely insist on living beyond age 45",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 11.76,
+   "end": 16.56,
+   "text": "and therefore make provisions for the future,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 16.76,
+   "end": 20.56,
+   "text": "which made no sense when you expected to die at age 45.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 20.56,
+   "end": 24.12,
+   "text": "Then the only sensible provision was to have enough sons.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 24.84,
+   "end": 29.32,
+   "text": "And that nobody has ever looked upon as capital formation,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 29.46,
+   "end": 30.5,
+   "text": "though it is, believe me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 30.5,
+   "end": 38.68,
+   "text": "And so you will have a continuing pressure on capital formation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 38.68,
+   "end": 42.72,
+   "text": "and continuing high cost of capital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 44.22,
+   "end": 48.72,
+   "text": "And yet less capital will have less and less power.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 49.98,
+   "end": 57.32,
+   "text": "The power will increasingly lie in the ability to organize the knowledge resources and to market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 57.32,
+   "end": 67.1,
+   "text": "and this I think is a new structure which I do not pretend to understand but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 67.1,
+   "end": 71.78,
+   "text": "when I look at my friends in business I don't think they're organized for it yet",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 71.78,
+   "end": 78.14,
+   "text": "and we are quite rightly putting our chief financial officer into a key",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 78.14,
+   "end": 83.54,
+   "text": "position and you better stay there and when you look talk of top top",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 83.54,
+   "end": 89.22,
+   "text": "management increasingly the chief financial officer is not the subordinate of the chief",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 89.22,
+   "end": 96.02,
+   "text": "executive or if he is the company is mismanaged he has very largely a power center of his own",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 97.22,
+   "end": 102.58,
+   "text": "and has his own relationship to the board with our new audit requirements and so on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 102.58,
+   "end": 110.1,
+   "text": "but i think we will have to do very much the same in respect to the mobilization of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 110.1,
+   "end": 117.1,
+   "text": "the knowledge of the company. Marketing is largely knowledge and not investment. The",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 117.1,
+   "end": 123.74,
+   "text": "knowledge resources. I think the organization of tomorrow will be far more of a team even",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 123.74,
+   "end": 131.0,
+   "text": "than it is today, precisely because one will not be able to control that affiliate in Germany",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 131.0,
+   "end": 139.7,
+   "text": "through capital or that subcontractor in Nigeria through capital, but only through design and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 139.7,
+   "end": 145.04,
+   "text": "management and marketing and I think this is a structural change which I can",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 145.04,
+   "end": 153.38,
+   "text": "kind of divine but cannot put my hands on and if you ask me how do we do it I'm",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 153.38,
+   "end": 157.96,
+   "text": "willing to say retain me for five years and we'll make enough mistakes to know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 157.96,
+   "end": 162.62,
+   "text": "what not to do but I'm not yet willing to say that I or anybody else knows how",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 162.62,
+   "end": 168.2,
+   "text": "to do it and I think therefore that the international economy all will force us",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 168.2,
+   "end": 173.7,
+   "text": "into rethinking again how one structures top management.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 174.02,
+   "end": 177.32,
+   "text": "We talked yesterday about other demands on top management",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 177.32,
+   "end": 179.3,
+   "text": "out of the political arena.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 180.02,
+   "end": 184.44,
+   "text": "I think we are at the beginning of 10 years of very hard work",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 184.44,
+   "end": 190.16,
+   "text": "on rethinking the task, the qualifications,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 191.48,
+   "end": 196.1,
+   "text": "the structure of and the preparations for top management,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 196.1,
+   "end": 225.5,
+   "text": "A job which we thought we had done around 1960, I think we are going to have to start all over again because the environment has changed so drastically, both domestically and worldwide, from the one which we assumed when we drew up the last blueprint and the buildings we then constructed will, I think, become well about as unlivable as the hotel in which I'm staying now,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 225.5,
+   "end": 230.86,
+   "text": "which was built in 1920 on the assumption that there are abundant servants.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 231.96,
+   "end": 236.4,
+   "text": "And I think we will have to redesign our new assumptions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 236.86,
+   "end": 238.54,
+   "text": "Thank you very much, ladies and gentlemen.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 247.9,
+   "end": 250.18,
+   "text": "Thank you very much, Peter. This doesn't work, does it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 251.16,
+   "end": 252.22,
+   "text": "You have a strong voice.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 253.9,
+   "end": 259.0,
+   "text": "For the benefit of the audience, when I mentioned earlier that there was a big stack of questions here,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 259.08,
+   "end": 260.06,
+   "text": "there were yesterday's questions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 260.06,
+   "end": 271.06,
+   "text": "So after hearing what you just heard, you may, as I have, develop some questions which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 271.06,
+   "end": 274.76,
+   "text": "you may address to Peter Drucker or Irving Friedman later.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 275.4,
+   "end": 283.54,
+   "text": "My next task is to introduce Irving Friedman, who has a rather long and interesting and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 283.54,
+   "end": 290.04,
+   "text": "important career in some of the most important international monetary organizations in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 290.04,
+   "end": 297.38,
+   "text": "world. For 18 years, he was in the International Monetary Fund and graduated from there as",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 297.38,
+   "end": 303.6,
+   "text": "the head of the International Economic Staff and moved, I guess, across the street, or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 303.6,
+   "end": 309.54,
+   "text": "maybe in 1964 it was in the same building, to another wing, to the World Bank, where",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 309.54,
+   "end": 318.72,
+   "text": "he served for 10 years, from 1964 to 1974, and again was the head of the economic research",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 318.72,
+   "end": 320.56,
+   "text": "staff in the World Bank.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 321.64,
+   "end": 328.04,
+   "text": "In 1974, he became a real banker and went to a bank which had a significant amount of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 328.04,
+   "end": 333.72,
+   "text": "exposure in developing countries, at least that was a rumor, called the Citicorp, and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 333.72,
+   "end": 339.14,
+   "text": "recently moved to the First Boston Corporation, where he is currently Senior International",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 339.14,
+   "end": 340.9,
+   "text": "Advisor, Irving Friedman.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 342.06,
+   "end": 343.78,
+   "text": "Thank you very much.",
+   "speaker": "other",
+   "drucker_coverage": 0.256
+  },
+  {
+   "start": 343.82,
+   "end": 344.36,
+   "text": "Is this on?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 345.12,
+   "end": 345.38,
+   "text": "Yes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 345.96,
+   "end": 347.0,
+   "text": "Okay, can you hear me back there?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 348.72,
+   "end": 353.48,
+   "text": "As Peter said, suffering in silence is",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.584
+  },
+  {
+   "start": 353.48,
+   "end": 355.74,
+   "text": "unnecessary, although it may be more of a",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 355.74,
+   "end": 357.14,
+   "text": "suffering to hear what I'm going to say.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 361.24,
+   "end": 363.32,
+   "text": "First of all, I do want to thank",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 363.32,
+   "end": 368.78,
+   "text": "Mr. Hawkins for inviting me and Peter",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 368.78,
+   "end": 372.62,
+   "text": "for inviting me to be here. Peter Drucker,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 372.84,
+   "end": 376.04,
+   "text": "I always assumed, would be a very hard",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 376.04,
+   "end": 378.48,
+   "text": "act to follow from having been acquainted",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 378.48,
+   "end": 381.26,
+   "text": "with his works and then himself for many, many years.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 382.46,
+   "end": 387.48,
+   "text": "And after these remarks, I really kind of nonplussed as to what to say,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 387.94,
+   "end": 393.4,
+   "text": "except to express, first of all, my gratitude for his very gracious remarks about myself.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 395.06,
+   "end": 396.76,
+   "text": "One plug deserves another.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 397.76,
+   "end": 401.74,
+   "text": "And I think that anyone who wants to understand modern economics",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 401.74,
+   "end": 407.44,
+   "text": "had better read Peter's latest book, which I had the pleasure of reading in Galley.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 408.48,
+   "end": 414.9,
+   "text": "Like so many other things that Peter has written, what he brings to economics, which he says",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 414.9,
+   "end": 422.16,
+   "text": "he's a consumer and not a producer, a concept that I'm sure Peter doesn't accept, this sort",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 422.16,
+   "end": 425.76,
+   "text": "of very clear-cut dichotomy between consumers and producers.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 426.48,
+   "end": 433.5,
+   "text": "I very much regard him as a foremost producer of economics, but he has a peculiar talent,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 433.94,
+   "end": 435.66,
+   "text": "which is that he produces reality.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 436.48,
+   "end": 440.02,
+   "text": "Now, if that separates them from most economics, that may be true.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 440.76,
+   "end": 445.46,
+   "text": "But if you want realistic economics, namely the economics of the world that's out there,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 446.02,
+   "end": 452.04,
+   "text": "then I would very heartily recommend not only Peter's last book, but everything he's written before then.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 453.3,
+   "end": 457.14,
+   "text": "For myself, I was asked to kind of be here.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 458.5,
+   "end": 461.62,
+   "text": "And I didn't know what I was supposed to talk about.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 461.62,
+   "end": 465.76,
+   "text": "and then now Peter's given me a topic to talk about",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 465.76,
+   "end": 467.7,
+   "text": "which is the international monetary system",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 467.7,
+   "end": 469.12,
+   "text": "and inflation",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 469.12,
+   "end": 471.4,
+   "text": "because he said he wouldn't talk about it",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 471.4,
+   "end": 473.52,
+   "text": "so let me try to make some remarks",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 473.52,
+   "end": 476.36,
+   "text": "on the international monetary system",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 476.36,
+   "end": 479.26,
+   "text": "which I hope is of use",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 479.26,
+   "end": 481.66,
+   "text": "in your seminar",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 481.66,
+   "end": 484.14,
+   "text": "and discussions which are taking place",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 484.14,
+   "end": 485.6,
+   "text": "yesterday and today",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 485.6,
+   "end": 489.45,
+   "text": "having had a great deal to do",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 489.45,
+   "end": 491.51,
+   "text": "with the international monetary system",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 491.51,
+   "end": 498.49,
+   "text": "which essentially can be boiled down to the fact that in the modern world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 498.49,
+   "end": 505.25,
+   "text": "the notion that what we have is a sort of an automatic international economic system",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 505.25,
+   "end": 510.99,
+   "text": "that kind of operates by itself in response to market forces",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 510.99,
+   "end": 516.35,
+   "text": "like changes in economies, in the real economy",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 516.35,
+   "end": 519.31,
+   "text": "or changes in industry or changes in firms",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 519.31,
+   "end": 523.33,
+   "text": "or relative changes in monetary conditions around the world,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 523.45,
+   "end": 528.27,
+   "text": "like different rates of inflation or different exchange rates or different interest rates.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 528.89,
+   "end": 531.83,
+   "text": "And so that explains the world. It just isn't so.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 532.43,
+   "end": 534.25,
+   "text": "That is not the real world out there.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 534.79,
+   "end": 538.69,
+   "text": "That has a lot to do with the real world, and it's a large part of the real world.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 538.69,
+   "end": 544.09,
+   "text": "But it doesn't give you an understanding, I believe, of what is happening in the world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 544.09,
+   "end": 547.11,
+   "text": "or has happened and what is likely to happen in the future.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 547.11,
+   "end": 550.93,
+   "text": "because what we have done in the international world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 550.93,
+   "end": 554.11,
+   "text": "is very analogous to what's happened in the national world.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 554.69,
+   "end": 559.39,
+   "text": "We have tried to set up rules within which markets are supposed to operate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 559.89,
+   "end": 561.85,
+   "text": "They're not supposed to operate by themselves.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 562.57,
+   "end": 565.37,
+   "text": "We give a rules which are established by governments",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 565.37,
+   "end": 569.93,
+   "text": "and we say within these rules we allow other things to take place",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 569.93,
+   "end": 571.93,
+   "text": "on a more or less market basis.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 572.25,
+   "end": 575.13,
+   "text": "And the rules of the international monetary system",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 575.13,
+   "end": 578.61,
+   "text": "which was established essentially, so-called, at Bretton Woods",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 578.61,
+   "end": 581.35,
+   "text": "and then implemented in the years afterwards.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 582.19,
+   "end": 583.83,
+   "text": "And I say essentially at Bretton Woods",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 583.83,
+   "end": 587.11,
+   "text": "because practically nothing that the Monetary Fund did",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 587.11,
+   "end": 591.09,
+   "text": "in 1946 for the next 20 years",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 591.09,
+   "end": 592.75,
+   "text": "is found in the Articles of Agreement.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 593.57,
+   "end": 596.01,
+   "text": "Practically everything the Monetary Fund has done",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 596.01,
+   "end": 598.21,
+   "text": "that has gotten any important attention",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 598.21,
+   "end": 601.17,
+   "text": "was something that was added to the Monetary Fund",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 601.17,
+   "end": 603.07,
+   "text": "and not foreseen at Bretton Woods",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 603.07,
+   "end": 605.35,
+   "text": "and not contained in the Articles of Agreement.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 606.41,
+   "end": 607.31,
+   "text": "And it's still true.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 608.37,
+   "end": 614.13,
+   "text": "The monetary system cannot be described by going back to the Articles of Agreement of the Monetary Fund.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 614.13,
+   "end": 618.03,
+   "text": "You have to find out how it operates and understand why it operates",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 618.03,
+   "end": 623.53,
+   "text": "to understand this international code of conduct agreed by governments",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 623.53,
+   "end": 627.45,
+   "text": "within which market forces were supposed to take place.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 628.13,
+   "end": 631.15,
+   "text": "But it had two or three major essential elements.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 631.15,
+   "end": 634.65,
+   "text": "if I try to summarize them very briefly, if I might.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 635.39,
+   "end": 639.71,
+   "text": "One was the idea that in order to harmonize",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 639.71,
+   "end": 643.17,
+   "text": "and to make it possible for different national economies",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 643.17,
+   "end": 644.37,
+   "text": "to live with one another,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 645.23,
+   "end": 647.99,
+   "text": "countries would undertake the responsibility",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 647.99,
+   "end": 652.01,
+   "text": "of not putting on exchange controls or interference",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 652.01,
+   "end": 653.93,
+   "text": "with international payments,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 654.21,
+   "end": 656.99,
+   "text": "which were related to the exchange of goods and services.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 657.85,
+   "end": 659.59,
+   "text": "If you bought something in one country,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 659.59,
+   "end": 663.47,
+   "text": "you'd be able to pay for it. If you export it to another country",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 663.47,
+   "end": 667.19,
+   "text": "you're able to get paid for it, whether this was a good or a service",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 667.19,
+   "end": 671.01,
+   "text": "and this freedom from restrictions on international payments",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 671.01,
+   "end": 675.47,
+   "text": "was sort of the heart of the monetary system and is",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 675.47,
+   "end": 679.65,
+   "text": "to this day. Another aspect",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 679.65,
+   "end": 682.71,
+   "text": "of the same thing really was the notion",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 682.71,
+   "end": 687.33,
+   "text": "that currencies of the world, particularly the principal currencies of the world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 687.33,
+   "end": 693.29,
+   "text": "And that's, for example, a difference in the monetary system as it is and as it was in the Articles of Agreement.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 693.89,
+   "end": 698.47,
+   "text": "The currencies of the world of the Articles of Agreement are all the currencies of any country.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 699.13,
+   "end": 700.93,
+   "text": "In practice, that's not what counts.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 701.49,
+   "end": 704.63,
+   "text": "What counts is what happens to the major currencies of the world,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 704.99,
+   "end": 713.09,
+   "text": "the currencies of the principal economies and the currencies that are actually used in international trade and payments.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 713.09,
+   "end": 722.87,
+   "text": "And that is why there is the paramount importance of the position of the U.S. dollar, because it is the currency of international trade and exchange of services.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 723.07,
+   "end": 732.13,
+   "text": "There is no other major currency of international trade and services, despite all this discussion of the decline of the dollar, the weakness of the dollar, and everything else.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 732.55,
+   "end": 739.21,
+   "text": "It is the currency, and that is why the dollar is so important, because it's not just the currency of the United States.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 739.21,
+   "end": 744.99,
+   "text": "It is the currency of the rest of the world, and this makes it more difficult to conduct U.S. policy,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 745.39,
+   "end": 750.09,
+   "text": "but also explains why the position of the dollar is so important to the rest of the world.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 750.43,
+   "end": 752.41,
+   "text": "Well, that's very different from the Articles of Agreement.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 752.91,
+   "end": 757.09,
+   "text": "In fact, it's a complete victory for some of those who oppose the Articles of Agreement",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 757.09,
+   "end": 762.75,
+   "text": "on the grounds that the Articles of Agreement of the Fund sort of assumed the universality of all currencies,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 762.91,
+   "end": 766.19,
+   "text": "that all currencies had to be convertible, all currencies were equally important.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 766.63,
+   "end": 768.99,
+   "text": "I don't want to make too much of that because I want to move on.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 769.21,
+   "end": 775.69,
+   "text": "Secondly, was the idea that the currencies of the world would then be convertible into",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 775.69,
+   "end": 782.35,
+   "text": "one another, and this convertibility would be at a more or less stable exchange rate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 782.35,
+   "end": 788.33,
+   "text": "The idea that at Bretton Woods or in the monetary system, we ever thought we had a stable exchange",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 788.33,
+   "end": 790.91,
+   "text": "rate system, it's just wrong.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 790.91,
+   "end": 795.51,
+   "text": "It's just an invention of people who really don't know their economic history.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 795.51,
+   "end": 802.03,
+   "text": "No one that I knew of from 1944 on thought that we were going to be in a period of so-called",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 802.03,
+   "end": 804.29,
+   "text": "fixed exchange rates.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 804.29,
+   "end": 806.93,
+   "text": "Everybody expected the exchange rates to change.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 806.93,
+   "end": 811.69,
+   "text": "The only question was how they would change, what would be the mechanism of change, and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 811.69,
+   "end": 814.21,
+   "text": "how frequently they would change.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 814.21,
+   "end": 819.37,
+   "text": "There were those who thought they could be maintained fairly unchanged for considerable",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 819.37,
+   "end": 822.41,
+   "text": "periods of time, extending over many years.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 822.41,
+   "end": 826.05,
+   "text": "There were those who thought it had to be exchanged more frequently.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 826.05,
+   "end": 831.53,
+   "text": "From the very first days of the fund, in 1948, the first issue in the fund was the change",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 831.53,
+   "end": 835.47,
+   "text": "in the value of the French franc.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 835.47,
+   "end": 840.91,
+   "text": "In 1949, the next major issue, which nearly tore the fund apart, was the change in the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 840.91,
+   "end": 843.17,
+   "text": "exchange rate of the pound sterling.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 843.17,
+   "end": 847.01,
+   "text": "Any change in the exchange rate of the pound sterling or the French franc is another way",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 847.01,
+   "end": 850.43,
+   "text": "of saying a change in the value of the U.S. dollar.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 850.43,
+   "end": 854.19,
+   "text": "One of the first major issues in the fund was what should be the exchange rate for the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 854.19,
+   "end": 855.73,
+   "text": "Japanese yen.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 855.73,
+   "end": 860.91,
+   "text": "And that continued to be an issue within the fund for decades and still is.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 860.91,
+   "end": 866.11,
+   "text": "So the notion that the exchange rate system that was established was one that was devoted",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 866.11,
+   "end": 871.93,
+   "text": "to having a fixed exchange rate that would last indefinitely is, again, as I say, it's",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 871.93,
+   "end": 878.39,
+   "text": "a very shallow concept based really on economic history and understanding of the system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 878.39,
+   "end": 885.97,
+   "text": "Now, the system we have today, the international monetary system, is, in my opinion, can only",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 885.97,
+   "end": 893.15,
+   "text": "be characterized by one basic concept, is that we have no system, and that whereas we",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 893.15,
+   "end": 899.39,
+   "text": "had originally had the notion of rules of international conduct, which would guide the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 899.39,
+   "end": 904.67,
+   "text": "markets, which would give some certainty to the markets as to how they would operate,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 904.67,
+   "end": 924.99,
+   "text": "What we have gotten now to is a system, and I deliberately have made this provocative and exaggerated, because one element of the system has remained, namely a relative freedom from restrictions on international payments we still have, the convertibility of the major currencies into each other we still have.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 924.99,
+   "end": 927.31,
+   "text": "And to that extent, we do have a system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 927.99,
+   "end": 932.39,
+   "text": "But in the exchange rate field, what we have at the present time is a muddle.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 933.19,
+   "end": 938.43,
+   "text": "We have a muddle because, on one hand, you have a so-called floating rate system,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 938.77,
+   "end": 941.31,
+   "text": "which is supposed to reflect market forces.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 941.79,
+   "end": 948.79,
+   "text": "It's supposed to give freedom to the exchange markets to reflect changes in the relative position of countries.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 949.37,
+   "end": 951.33,
+   "text": "And yet, as a matter of fact, it doesn't.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 951.33,
+   "end": 954.53,
+   "text": "And the reason why it doesn't is the governments don't allow it to.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 954.99,
+   "end": 958.11,
+   "text": "And the reason why the governments don't allow it to is nobody wants it to.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 958.65,
+   "end": 967.19,
+   "text": "Nobody wants the dollar rate from day to day today to fluctuate in exchange to changes in international foreign exchange markets",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 967.19,
+   "end": 975.55,
+   "text": "because the foreign exchange markets become a microcosm in which is reflected all of the uncertainties and difficulties of the world,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 975.87,
+   "end": 977.51,
+   "text": "not only currently but in the future.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 977.61,
+   "end": 983.21,
+   "text": "And since we are living in a world of great uncertainty, we find that we live in a world in which,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 983.21,
+   "end": 988.11,
+   "text": "if you allowed the market forces to determine the exchange rates, the already great uncertainty",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 988.11,
+   "end": 994.77,
+   "text": "that arises today from an uncertain exchange rate would be greatly heightened by the inability",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 994.77,
+   "end": 998.93,
+   "text": "to judge what the foreign exchange rate was going to be.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 999.05,
+   "end": 1003.01,
+   "text": "And we all know, and I need not spell it out for this group, of how important the foreign",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1003.01,
+   "end": 1009.53,
+   "text": "exchange rates between currencies is in making any kind of international decision, whether",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1009.53,
+   "end": 1018.79,
+   "text": "it's on the level of the firm or the multinational firm or on the level of the country. You just",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1018.79,
+   "end": 1024.23,
+   "text": "have to take Peter's example of multinational production and think through what it means",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1024.23,
+   "end": 1030.63,
+   "text": "to have these 20 component parts of 20 different countries go into that final shoe and everybody's",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1030.63,
+   "end": 1035.65,
+   "text": "uncertain. When they move from one place to another, what would be the exchange rate at",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1035.65,
+   "end": 1039.67,
+   "text": "which they could calculate would be the true cost when you try to get a common",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1039.67,
+   "end": 1043.07,
+   "text": "numeraire to determine what the final product price is going to be.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1043.51,
+   "end": 1047.53,
+   "text": "And that's one of the things of the realities of the world today, is that this uncertainty",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1047.53,
+   "end": 1051.59,
+   "text": "does exist, but this uncertainty is reduced by the fact",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1051.59,
+   "end": 1055.57,
+   "text": "that governments intervene in very large scale in these exchange markets.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1055.93,
+   "end": 1059.35,
+   "text": "But because the governments intervene in the exchange markets,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1059.89,
+   "end": 1063.65,
+   "text": "we're not always quite clear why they intervene, what's guiding",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1063.65,
+   "end": 1069.43,
+   "text": "their policies, because they are often sometimes influenced by one set of considerations, like",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1069.43,
+   "end": 1074.85,
+   "text": "we'll say the intervention in Europe today is greatly influenced by the fear that if",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1074.85,
+   "end": 1081.11,
+   "text": "you have a depreciating German mark or a depreciating Swiss franc, that adds to inflationary pressures",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1081.11,
+   "end": 1081.65,
+   "text": "in a country.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1082.23,
+   "end": 1086.83,
+   "text": "On the other hand, you have the same countries will sometimes intervene in order to prevent",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1086.83,
+   "end": 1092.03,
+   "text": "the appreciation of their currencies, because they fear that if it's appreciating, this",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1092.03,
+   "end": 1099.59,
+   "text": "may cut down or reduce their competitive position in exchange of international trade and services.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1099.59,
+   "end": 1104.97,
+   "text": "And sometimes it's done for kind of reasons of what might be considered political, higher",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1104.97,
+   "end": 1109.67,
+   "text": "political considerations, like in the European community, which are trying to relate their",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1109.67,
+   "end": 1116.07,
+   "text": "currencies to each other, not only for economic factors, but as part of an attempt to create",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1116.07,
+   "end": 1121.85,
+   "text": "larger markets and the benefits of closer political relations in Western Europe in something",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1121.85,
+   "end": 1127.41,
+   "text": "called the European Community. I won't go into all of these things, but it does mean",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1127.41,
+   "end": 1132.29,
+   "text": "that in the international exchange markets today, in the foreign exchange markets, we",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1132.29,
+   "end": 1139.07,
+   "text": "have neither the uncertainty that comes from market forces nor the greatest \u2014 much more",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1139.07,
+   "end": 1145.35,
+   "text": "\u2014 greater certainty of any clear-cut policy, which would say, well, the aim of our policy",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1145.35,
+   "end": 1150.47,
+   "text": "among governments is to keep these exchange rates stable. Instead, we have fluffy words",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1150.47,
+   "end": 1155.49,
+   "text": "like we're going to keep them orderly, and we're going to offset day-to-day fluctuations,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1155.91,
+   "end": 1160.39,
+   "text": "and we're going to keep things under control, all of which we know really means that you",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1160.39,
+   "end": 1163.67,
+   "text": "don't know what you're going to do, and that every day you're going to get up in the morning",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1163.67,
+   "end": 1168.95,
+   "text": "and look at the litmus paper and decide whether this is a blue day or a red day, and that's",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1168.95,
+   "end": 1170.57,
+   "text": "going to determine market conditions.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1171.29,
+   "end": 1176.25,
+   "text": "And you try to do your most intelligent job, and the people doing it are quite intelligent,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1176.25,
+   "end": 1182.09,
+   "text": "quite expert but do not have strategic guidance as to what it is they're supposed to be doing",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1182.09,
+   "end": 1186.69,
+   "text": "they're supposed to be doing their best and we all know what it means in any uncertain world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1186.69,
+   "end": 1190.71,
+   "text": "to be told to be doing your best that means you're just going to get wrapped on the knuckles",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1190.71,
+   "end": 1196.65,
+   "text": "if anything goes wrong and if anything goes right it's because somebody else did their best now",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1196.65,
+   "end": 1204.75,
+   "text": "in light of what peter has said i'd like to make a few comments on why i think the monetary system",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1204.75,
+   "end": 1207.71,
+   "text": "is in the bad shape that it is today.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1208.23,
+   "end": 1212.65,
+   "text": "And I'd like to emphasize something which Peter knows for me is not a new idea",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1212.65,
+   "end": 1216.59,
+   "text": "and some familiar faces in this audience know it's not a new idea for me,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1217.09,
+   "end": 1224.55,
+   "text": "which is that the international monetary system that was put together during the war",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1224.55,
+   "end": 1231.29,
+   "text": "was greatly influenced by the notion that what the problems are are short-term and cyclical,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1231.29,
+   "end": 1235.15,
+   "text": "that what we're dealing is short-term monetary phenomenon",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1235.15,
+   "end": 1238.33,
+   "text": "or, at the longest, a business cycle,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1238.83,
+   "end": 1241.51,
+   "text": "and that, therefore, the role of the monetary fund",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1241.51,
+   "end": 1244.77,
+   "text": "was, in effect, to get you through that business cycle",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1244.77,
+   "end": 1249.13,
+   "text": "without too much harmful effects on levels of output and employment.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1249.69,
+   "end": 1251.71,
+   "text": "And, therefore, the fund was given resources",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1251.71,
+   "end": 1254.57,
+   "text": "in order to enable countries to do that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1255.27,
+   "end": 1259.11,
+   "text": "In the meantime, what we have found is that, as a matter of fact,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1259.11,
+   "end": 1264.71,
+   "text": "they are not the major forces in the world today. It's not the short-term monetary policy",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1264.71,
+   "end": 1270.75,
+   "text": "and the business cycle policies, which are the principal determinants. It's the adjustment",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1270.75,
+   "end": 1276.09,
+   "text": "to these structural changes that, Peter, are taking place, which has been baffling everybody",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1276.09,
+   "end": 1281.73,
+   "text": "for the last 10 or 20 years, and which, of course, shows up in the activities of nations,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1281.91,
+   "end": 1286.95,
+   "text": "in their so-called balance of payments, in their exchange rates, because, in turn,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1286.95,
+   "end": 1304.05,
+   "text": "These structural changes are result, help, well, sometimes I would say the principal determinants of domestic economic policies, whether they be financial or monetary or fiscal or investment, planning, call them what you will.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1304.53,
+   "end": 1310.73,
+   "text": "But the world is going through a major structural transformation in response to these structural changes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1310.73,
+   "end": 1328.09,
+   "text": "I think, for example, and I've said this for years, and very few people have paid attention to it, the most important force in the international monetary system is our population explosion and the reconciliation or the reaction of the world to this population explosion.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1328.09,
+   "end": 1332.47,
+   "text": "you can get two minutes of time on this point of view in the International Monetary Fund.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1332.95,
+   "end": 1336.99,
+   "text": "And the reason why you can't is because this is simply not yet accepted",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1336.99,
+   "end": 1339.97,
+   "text": "in discussions on the international monetary system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1340.45,
+   "end": 1346.75,
+   "text": "The international monetary system still focuses on short-term and, at best, medium-term problems.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1347.09,
+   "end": 1352.01,
+   "text": "It's still a discussion on, will the interest rates between the United States and Germany",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1352.01,
+   "end": 1353.69,
+   "text": "shift this way or that way?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1354.03,
+   "end": 1357.19,
+   "text": "Will the rate of inflation next year be this or that?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1357.75,
+   "end": 1360.71,
+   "text": "Will a rate of inflation, let's look long time down the road,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1360.99,
+   "end": 1362.91,
+   "text": "what might it be two years from now?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1363.53,
+   "end": 1366.41,
+   "text": "Or what might interest rates be two years from now?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1366.63,
+   "end": 1370.35,
+   "text": "Or what should be the credit policy of the Bundesbank",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1370.35,
+   "end": 1372.89,
+   "text": "versus the Federal Reserve versus the Bank of France",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1372.89,
+   "end": 1374.75,
+   "text": "one, two, or three years hence?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1374.75,
+   "end": 1378.49,
+   "text": "As a result of which, the appreciation",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1378.49,
+   "end": 1384.47,
+   "text": "that what even these fiscal and monetary investment policies are doing",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1384.47,
+   "end": 1392.37,
+   "text": "is trying to react to and sort of create a viable response",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1392.37,
+   "end": 1396.39,
+   "text": "to fundamental changes that are going on in the world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1396.39,
+   "end": 1398.19,
+   "text": "is something not there.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1398.59,
+   "end": 1401.71,
+   "text": "And I think Peter Wood agreed with me",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1401.71,
+   "end": 1405.31,
+   "text": "that one of the most interesting examples of this is Japan.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1405.79,
+   "end": 1407.89,
+   "text": "Everybody underestimated Japan,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1408.15,
+   "end": 1410.61,
+   "text": "who thought of Japan in terms of the short term.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1411.13,
+   "end": 1414.29,
+   "text": "But no one underestimated Japan among those",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1414.29,
+   "end": 1420.19,
+   "text": "who saw Japan not as a country that was living from day to day in the 50s and 60s,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1420.43,
+   "end": 1425.91,
+   "text": "but a country that had a strategic aim to become one of the great industrial giants of the world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1425.91,
+   "end": 1429.55,
+   "text": "and to provide higher living standards for its population",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1429.55,
+   "end": 1434.55,
+   "text": "and to try to react to it in a way that was compatible with Japanese culture,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1434.91,
+   "end": 1440.25,
+   "text": "which, for example, made it more difficult to absorb, we'll say, women into the labor force than in other countries.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1440.25,
+   "end": 1444.47,
+   "text": "that if you understood that, then you could understand the Japanese balance of payments.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1445.13,
+   "end": 1450.37,
+   "text": "And to this day, we talk about the Japanese balance of payments as though it's a short-run phenomenon",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1450.37,
+   "end": 1455.67,
+   "text": "as to whether next year when it's in surplus, the year after it's going to be in deficit, and so forth.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1455.97,
+   "end": 1460.27,
+   "text": "Another point about structural transformation which is so important for the monetary system",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1460.27,
+   "end": 1465.77,
+   "text": "is that in dealing with the developing world and in dealing with developed countries,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1466.41,
+   "end": 1472.61,
+   "text": "We still have a notion that the proper balance of payments behavior of a country is a short-run phenomenon.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1473.51,
+   "end": 1477.39,
+   "text": "So, for example, you'll have a notion that an industrial country,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1478.01,
+   "end": 1482.93,
+   "text": "the proper balance of payments position of an industrial country is, of course, to be in surplus.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1483.41,
+   "end": 1484.49,
+   "text": "Everybody knows that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1484.95,
+   "end": 1487.51,
+   "text": "Everybody knows that such a thing as petrodollar recycling,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1487.51,
+   "end": 1492.99,
+   "text": "one of the purest nonsense concepts in the post-World War II scenario,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1492.99,
+   "end": 1498.05,
+   "text": "is this nonsense called the petrodollar recycling, and I'll be glad to explain this why.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1498.41,
+   "end": 1505.59,
+   "text": "But it, in turn, is a reflection of the fact that no one deals with the problems on the structural level.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1505.59,
+   "end": 1509.29,
+   "text": "They're always dealing with this on a short-run balance of payments level.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1509.47,
+   "end": 1516.09,
+   "text": "If the oil exporters increase their exports, that means more surplus, that means more dollars.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1516.57,
+   "end": 1518.63,
+   "text": "Therefore, some other countries have deficits.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1518.63,
+   "end": 1524.17,
+   "text": "Therefore, the problem is how to reduce the deficits of those who have the deficits, how",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1524.17,
+   "end": 1529.83,
+   "text": "to reduce the surpluses of those who have the surplus, because, of course, the equilibrium",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1529.83,
+   "end": 1534.17,
+   "text": "position in the world is one in which there are no surplus and no deficits.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1534.17,
+   "end": 1538.89,
+   "text": "That also is a world in which there is no structural transformation going on.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1538.89,
+   "end": 1543.27,
+   "text": "And it would only be possible in a world in which structural transformation, like in the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1543.27,
+   "end": 1548.43,
+   "text": "days of the pharaoh, had been put on the shelf, and you say, it's an unchanging world for",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1548.43,
+   "end": 1553.07,
+   "text": "decades to come, therefore we can be in balance of payments equilibrium.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1553.07,
+   "end": 1558.47,
+   "text": "So instead of starting out with the economies as they are, with the way in which world production",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1558.47,
+   "end": 1562.89,
+   "text": "and exchange of goods and services actually takes place, you start out with a short-term",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1562.89,
+   "end": 1567.49,
+   "text": "phenomenon known as the balance of payments of a country and the so-called changes in",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1567.49,
+   "end": 1572.49,
+   "text": "reserves or the so-called exchange rate and so forth, and you keep flopping along and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1572.49,
+   "end": 1574.97,
+   "text": "never really dealing with these problems.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1574.97,
+   "end": 1578.79,
+   "text": "And that's why, because of the short-term horizon, you have such emphasis on things",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1578.79,
+   "end": 1585.27,
+   "text": "like liquidity, the substitution accounts, the SDRs, all of which are fine stuff.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1585.27,
+   "end": 1586.71,
+   "text": "I've worked years on them.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1586.71,
+   "end": 1591.01,
+   "text": "I'm all in favor of them, except when you do it, you're not going to solve any problems.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1591.01,
+   "end": 1594.77,
+   "text": "You'll make the world a little nicer, a little neater, make you feel a little happier about",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1594.77,
+   "end": 1595.77,
+   "text": "the world.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1595.77,
+   "end": 1602.75,
+   "text": "But the fundamental problem, which is how to create a monetary system which is capable",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1602.75,
+   "end": 1609.41,
+   "text": "of encouraging productive investment, which is capable of facilitating this structural",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1609.41,
+   "end": 1610.41,
+   "text": "change.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1610.41,
+   "end": 1614.79,
+   "text": "And let me give you an illustration, and then I think I will cease, because I do want to",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1614.79,
+   "end": 1618.11,
+   "text": "leave some time for questions.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1618.11,
+   "end": 1625.91,
+   "text": "In my way of looking at things, for me, the idea that an industrial country should go",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1625.91,
+   "end": 1631.83,
+   "text": "through a balance of payments deficit is a perfectly acceptable position, and might even",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1631.83,
+   "end": 1637.09,
+   "text": "be a position of greater strength than being in balance of payments, equilibrium, or surplus.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1637.53,
+   "end": 1644.91,
+   "text": "Why? Because if a country that is going through a structural transformation, say a country like",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1644.91,
+   "end": 1650.73,
+   "text": "Japan, or even a country like Germany, and surely a country like the United States, if what is",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1650.73,
+   "end": 1657.65,
+   "text": "happening is that the savings that is borrowed from abroad is being used for productive purposes",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1657.65,
+   "end": 1660.39,
+   "text": "to bring about the structural transformation",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1660.39,
+   "end": 1663.53,
+   "text": "that is necessary to create a more efficient",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1663.53,
+   "end": 1665.43,
+   "text": "and more productive economy.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1665.93,
+   "end": 1670.47,
+   "text": "That inflow of savings is, to borrow a word from Peter,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1670.81,
+   "end": 1672.35,
+   "text": "is the world's subsidization",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1672.35,
+   "end": 1675.37,
+   "text": "of the structural transformation of that country.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1675.77,
+   "end": 1677.67,
+   "text": "And that country is showing great wisdom",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1677.67,
+   "end": 1681.45,
+   "text": "in being able to, because it has the facility",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1681.45,
+   "end": 1684.13,
+   "text": "to tap the resources of the world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1684.13,
+   "end": 1686.39,
+   "text": "to bring about the productive transformation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1686.39,
+   "end": 1692.39,
+   "text": "Now, if the resources of the world are really only being tapped in order to maintain a consumption",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1692.39,
+   "end": 1696.35,
+   "text": "standard, then that is a sign of weakness in the economy.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1696.35,
+   "end": 1699.67,
+   "text": "But it's not to be found in the numbers in the balance of payments.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1699.67,
+   "end": 1704.89,
+   "text": "It is to be found in an analysis of what is going on in that economy and how both domestic",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1704.89,
+   "end": 1707.95,
+   "text": "savings and foreign savings are used.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1707.95,
+   "end": 1712.29,
+   "text": "Because when foreign savings are being misused, so are domestic savings.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1712.29,
+   "end": 1716.21,
+   "text": "And when domestic savings are being well used, so are foreign savings.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1716.21,
+   "end": 1718.71,
+   "text": "And so I don't look at the balance of payments of countries.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1718.71,
+   "end": 1722.67,
+   "text": "And that gives me a lot of trouble with my fellow bankers, who insist upon looking at",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1722.67,
+   "end": 1726.45,
+   "text": "balance of payments behavior as the key to judging a country.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1726.45,
+   "end": 1727.73,
+   "text": "Well, I don't.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1727.73,
+   "end": 1732.31,
+   "text": "That's why I reject things like export ratios and debt service ratios, because they have",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1732.31,
+   "end": 1738.61,
+   "text": "not much to do with the real world of whether an economy is becoming a stronger economy",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1738.61,
+   "end": 1740.83,
+   "text": "in the world or whether it is not.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1740.83,
+   "end": 1748.49,
+   "text": "And so my sort of emphasis this morning is a recognition that if we are going through",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1748.49,
+   "end": 1753.81,
+   "text": "this structural transformation, and I'm convinced we have no choice in view of things like the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1753.81,
+   "end": 1758.51,
+   "text": "population explosion as well as the nation explosion, and if we want to deal with problems",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1758.51,
+   "end": 1764.35,
+   "text": "like world inflation and world scarcities, then at that point in time we must recognize",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1764.35,
+   "end": 1769.49,
+   "text": "that even those who deal with short-run monetary fiscal policy",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1769.49,
+   "end": 1772.91,
+   "text": "and institutions that deal with it, like on the international side,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1773.17,
+   "end": 1774.37,
+   "text": "like the Monetary Fund,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1774.71,
+   "end": 1777.35,
+   "text": "must be willing to look at the other end of the telescope",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1777.35,
+   "end": 1781.11,
+   "text": "and start out with the structural problems that exist in the world",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1781.11,
+   "end": 1784.67,
+   "text": "and from that proceed to their short-term policy.",
+   "speaker": "other",
+   "drucker_coverage": 0.048
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 22.2,
+ "created_utc": "2026-09-20T22:50:57+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

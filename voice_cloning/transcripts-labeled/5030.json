@@ -1,0 +1,35 @@
+{
+ "pointer": "5030",
+ "media": "5030.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2747.5,
+ "segments": [
+  {
+   "start": 2.42,
+   "end": 11.42,
+   "text": "In this kind of community, because otherwise one becomes the victim of one's own weapon.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 11.42,
+   "end": 15.42,
+   "text": "And one becomes the victim of one's own very intentions.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 15.42,
+   "end": 18.42,
+   "text": "And it all sounds so old and old.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 264.18,
+ "created_utc": "2026-09-20T23:07:17+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

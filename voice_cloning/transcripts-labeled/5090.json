@@ -1,0 +1,2233 @@
+{
+ "pointer": "5090",
+ "media": "5090.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 3605.6,
+ "segments": [
+  {
+   "start": 1.87,
+   "end": 22.62,
+   "text": "have you all ready let me ask you is there a typical case or anything",
+   "speaker": "drucker",
+   "drucker_coverage": 0.897
+  },
+  {
+   "start": 22.62,
+   "end": 36.22,
+   "text": "may i please ask you to learn that my home was asked if i'd like you to remember",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 36.22,
+   "end": 49.54,
+   "text": "I would like you to learn anything from it, if you're going to deal with it in the future.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 49.54,
+   "end": 58.54,
+   "text": "And look for the prototype. What does it resemble? Where has it been?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 58.54,
+   "end": 60.54,
+   "text": "What is the meaning of this?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 60.54,
+   "end": 114.87,
+   "text": "This analogy is the organization of the friends of the parish,",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.365
+  },
+  {
+   "start": 114.87,
+   "end": 139.57,
+   "text": "which is the human passion of the parishioners.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.737
+  },
+  {
+   "start": 139.57,
+   "end": 155.91,
+   "text": "There are nine staff members.",
+   "speaker": "other",
+   "drucker_coverage": 0.296
+  },
+  {
+   "start": 155.91,
+   "end": 164.24,
+   "text": "There are nine members.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 164.24,
+   "end": 165.24,
+   "text": "Really?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 165.24,
+   "end": 177.48,
+   "text": "Yes.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.918
+  },
+  {
+   "start": 177.48,
+   "end": 183.63,
+   "text": "They are all members.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.756
+  },
+  {
+   "start": 183.63,
+   "end": 189.47,
+   "text": "In fact, they are the cost center.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.829
+  },
+  {
+   "start": 189.47,
+   "end": 216.41,
+   "text": "Besides, have you ever driven a Chrysler car?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.536
+  },
+  {
+   "start": 216.41,
+   "end": 228.93,
+   "text": "If you go back to the days when Chrysler was a profitable company that had a sizable share of the American automobile market,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.92
+  },
+  {
+   "start": 228.93,
+   "end": 230.93,
+   "text": "how far back do we have to go?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 230.93,
+   "end": 232.93,
+   "text": "What?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 232.93,
+   "end": 237.4,
+   "text": "No, we have to go back.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 237.4,
+   "end": 252.16,
+   "text": "How much did Chrysler manufacture?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.526
+  },
+  {
+   "start": 252.16,
+   "end": 266.24,
+   "text": "The main thing is that much more Chrysler made was the design and the engineering and the marketing and the servicing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 266.24,
+   "end": 272.16,
+   "text": "and chrysler's great strength was engineering himself and those of you who drive chrysler cars",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 272.16,
+   "end": 278.48,
+   "text": "to this day don't drive them because of the way they're manufactured to drive them before the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 278.48,
+   "end": 286.0,
+   "text": "civilian engineer is not that chrysler never was and in here and still one reason",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 287.84,
+   "end": 297.07,
+   "text": "is basically that they still probably give you try and or try and or with significant exceptions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 297.07,
+   "end": 312.19,
+   "text": "You make a godsend thing. The engine was made by Cummins and White. The frame was made by Aerosmith before.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 312.19,
+   "end": 334.94,
+   "text": "The body was made by Goethe. The brakes were made by Borchardt, but then there was a transition.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.956
+  },
+  {
+   "start": 334.94,
+   "end": 339.94,
+   "text": "The wheels were made by Kelby Hayes. Wheels were made for everybody anyhow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 339.94,
+   "end": 348.35,
+   "text": "And so it went, the radiators, who made the radiators, you know, who made the variances, right?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 348.35,
+   "end": 359.52,
+   "text": "GM, Chrysler, GM's largest single account, there is no GM division that buys from GM, etc.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 359.52,
+   "end": 396.36,
+   "text": "Because they claim they have to, claim they have to buy the body company.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.973
+  },
+  {
+   "start": 396.36,
+   "end": 408.37,
+   "text": "So it's very hard to see, frankly, a thing that's very different to an outsider.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 408.37,
+   "end": 411.37,
+   "text": "Who was at work in a body plant?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 411.37,
+   "end": 413.37,
+   "text": "And what did the M.S. do?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 413.37,
+   "end": 415.37,
+   "text": "His own body plant?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 415.37,
+   "end": 418.37,
+   "text": "His own body plant?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 418.37,
+   "end": 421.37,
+   "text": "Where would brothers and sisters have gone?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 421.37,
+   "end": 424.37,
+   "text": "Anybody buy a body plant over the owner's body plant?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 424.37,
+   "end": 429.78,
+   "text": "And a body plant is only good if you have an automotive company.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 429.78,
+   "end": 443.21,
+   "text": "If you don't rock the table, it's what's right for you.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.926
+  },
+  {
+   "start": 443.21,
+   "end": 448.36,
+   "text": "This was probably vanity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 448.36,
+   "end": 456.05,
+   "text": "So how many business decisions do we make out of vanities?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 456.05,
+   "end": 460.05,
+   "text": "And then just decide with magnificent operations,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 460.05,
+   "end": 463.05,
+   "text": "we take citizen-sized companies around the world.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 463.05,
+   "end": 465.05,
+   "text": "That would be a good idea.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 465.05,
+   "end": 519.77,
+   "text": "Then we plan how much does the unit need?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.927
+  },
+  {
+   "start": 519.77,
+   "end": 521.77,
+   "text": "So can you buy a new refrigerator?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 521.77,
+   "end": 532.12,
+   "text": "How much does it need?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.71
+  },
+  {
+   "start": 532.12,
+   "end": 565.76,
+   "text": "From other things, supplies and costs,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 565.76,
+   "end": 569.43,
+   "text": "value added in, value low,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 569.43,
+   "end": 571.43,
+   "text": "can you give me value?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 571.43,
+   "end": 573.43,
+   "text": "I didn't even mark it in that way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 573.43,
+   "end": 583.2,
+   "text": "Nothing. It's cheaper.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 583.2,
+   "end": 585.2,
+   "text": "It's far and out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 585.2,
+   "end": 587.2,
+   "text": "If you were to come back to 1880,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 587.2,
+   "end": 589.2,
+   "text": "you would have seen that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 589.2,
+   "end": 591.2,
+   "text": "most manufacturers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 591.2,
+   "end": 598.71,
+   "text": "far and out tested.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.534
+  },
+  {
+   "start": 598.71,
+   "end": 607.4,
+   "text": "If you go back, what happens?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.827
+  },
+  {
+   "start": 607.4,
+   "end": 948.08,
+   "text": "You just take care of it, don't leave it.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.927
+  },
+  {
+   "start": 948.08,
+   "end": 953.44,
+   "text": "If you don't leave it, it will go back to the cotton pad.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 953.44,
+   "end": 956.92,
+   "text": "You ain't got no cotton.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 956.92,
+   "end": 958.92,
+   "text": "After that, you don't leave.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 958.92,
+   "end": 960.92,
+   "text": "You only destroy it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 960.92,
+   "end": 962.92,
+   "text": "The plant is then",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 962.92,
+   "end": 971.08,
+   "text": "change but it's in the first four weeks it's a slow growing plant and leaves so fast and so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 971.08,
+   "end": 979.03,
+   "text": "you don't need and you need another 10 days to harvest and in between there is not a thing you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 979.03,
+   "end": 990.63,
+   "text": "can do except do damage you're not going near the people you know birds don't need cotton you know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 990.63,
+   "end": 995.03,
+   "text": "You don't even have to have to send little boys out to scare the crows away.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 995.03,
+   "end": 1000.42,
+   "text": "Various, but not...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1000.42,
+   "end": 1013.72,
+   "text": "And basically, despite the board being a customer, it's not an attractive plant to make plants at.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1013.72,
+   "end": 1021.35,
+   "text": "Tomatoes, they're very sturdy plants, but all you need is sunshine and rain at the right time,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1021.35,
+   "end": 1028.45,
+   "text": "and that you cannot supply at the airport, but you can supply in California.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1028.45,
+   "end": 1040.8,
+   "text": "So, the cost is a very, very, economically need on tobacco.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1040.8,
+   "end": 1087.94,
+   "text": "It's a brilliant idea in 1961, not planting cotton.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1087.94,
+   "end": 1091.94,
+   "text": "Suddenly, the cotton farmer became a detergent within five years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1091.94,
+   "end": 1172.6,
+   "text": "The highest of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.975
+  },
+  {
+   "start": 1172.6,
+   "end": 1174.6,
+   "text": "And a lot of stuff was made out of cotton.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1174.6,
+   "end": 1249.56,
+   "text": "It had to be made out of silk.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1249.56,
+   "end": 1457.8,
+   "text": "It was built in 31.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.964
+  },
+  {
+   "start": 1457.8,
+   "end": 1477.94,
+   "text": "I don't know anything about it.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.95
+  },
+  {
+   "start": 1477.94,
+   "end": 1483.06,
+   "text": "several problems",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1483.06,
+   "end": 1502.0,
+   "text": "actually we're hearing you pretty well back here i think what i think we're hearing you",
+   "speaker": "drucker",
+   "drucker_coverage": 0.868
+  },
+  {
+   "start": 1502.0,
+   "end": 1507.0,
+   "text": "pretty well back then. Yeah, but what happens to my voice today, you know?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.8
+  },
+  {
+   "start": 1507.0,
+   "end": 1638.74,
+   "text": "Low dance of the thigh, good. I was thankful for this very important stipend that if you have a Japanese sword",
+   "speaker": "drucker",
+   "drucker_coverage": 0.943
+  },
+  {
+   "start": 1638.74,
+   "end": 1673.06,
+   "text": "or a Damascene blade, I was in need of it. Steel is a laminate, it's not an alloy. Steel is iron of varying carbon content",
+   "speaker": "drucker",
+   "drucker_coverage": 0.898
+  },
+  {
+   "start": 1673.06,
+   "end": 1684.1,
+   "text": "and then hammer them on top of each other one day at a time, and you hammer it, and you anneal it until it's very brittle.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1684.1,
+   "end": 1699.54,
+   "text": "You put the next one on with much less foam, and the Japanese played a 60-bit wonder together.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1699.54,
+   "end": 1708.82,
+   "text": "You can imagine how long it took to do it, and you did it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1708.82,
+   "end": 1711.82,
+   "text": "You didn't make steel, you made a soul.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1711.82,
+   "end": 1719.94,
+   "text": "Nobody could make product out of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1719.94,
+   "end": 1727.34,
+   "text": "And everybody had to be trying for 400 million out of that into every time, but nobody can do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1727.34,
+   "end": 1731.34,
+   "text": "And suddenly those two men, independent of each other,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1731.34,
+   "end": 1734.34,
+   "text": "a Belgian and a German, both in England,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1734.34,
+   "end": 1741.06,
+   "text": "looked upon him and said, this is the wrong way of doing it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1741.06,
+   "end": 1751.38,
+   "text": "What are these high-carbon ions?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1751.38,
+   "end": 1758.38,
+   "text": "At that point, where you balance the brittleness of the high-carbon content",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1758.38,
+   "end": 1763.08,
+   "text": "with the ability of the noise, out is metallurgically,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1763.08,
+   "end": 1766.08,
+   "text": "not the steel, but the iron under the microscope.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1766.08,
+   "end": 1815.32,
+   "text": "But he does most of the work, you know, a good Japanese blade, you cut the blade in half, I don't think you get how often you use a good Japanese blade, you know, like this, and the head is over there, and the body is over there, and yet the fellow hasn't felt any pain, but again, you don't have to do that, but those are the things you can't do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1815.32,
+   "end": 1851.84,
+   "text": "uh and the the way of looking at the product products that what you said you could know when",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1851.84,
+   "end": 1875.36,
+   "text": "and where modern technology begins with the founding since the modern technology is not",
+   "speaker": "drucker",
+   "drucker_coverage": 0.702
+  },
+  {
+   "start": 1875.36,
+   "end": 1894.84,
+   "text": "invented the application of thank you the application of science is the application",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1894.84,
+   "end": 1919.65,
+   "text": "and that begins when craft the streets and in the middle of the 19th century the english had lost",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1919.65,
+   "end": 1926.65,
+   "text": "Just today, if you look at electronics or avionics, the English are way in the lead,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1926.65,
+   "end": 1938.16,
+   "text": "or in common, only they don't convert it into power, because they lack the Hindi need",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1938.16,
+   "end": 2000.75,
+   "text": "not to establish it. The French, that's what they are made for.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2000.75,
+   "end": 2006.89,
+   "text": "They found that the military needed to include bridges and roads,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2006.89,
+   "end": 2013.46,
+   "text": "three of these to the German Caucasus, but not to the military, to the school of mining,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2013.46,
+   "end": 2020.8,
+   "text": "And another 20 years later, the Germans then copied it, took the English agronomists.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2020.8,
+   "end": 2027.21,
+   "text": "The English are the great pioneers of agronomy, late 17th century.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2027.21,
+   "end": 2032.21,
+   "text": "But that was a gentleman on their estate, amateur scientist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2032.21,
+   "end": 2038.21,
+   "text": "The Germans thought that the school of agronomy, of agriculture, still exists, one copy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2038.21,
+   "end": 2045.36,
+   "text": "And then the French Napoleon copying the German school of agronomy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2045.36,
+   "end": 2069.36,
+   "text": "From the two engineers, two schools of technology in old craft, one they called Polytechnic of Engineering, which is the father of all engineering, and the, if I know my foreteacher, did she rightly consider the craft, which is the father of all engineering, and the British never adopted any of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2069.36,
+   "end": 2077.36,
+   "text": "They kept the gentlemen engineers and individually nobody has ever come close to those geeks of the British.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2077.36,
+   "end": 2088.38,
+   "text": "But they had no engineering thing that could take away the king's product.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2088.38,
+   "end": 2093.88,
+   "text": "Hooray. Thank you.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.818
+  },
+  {
+   "start": 2093.88,
+   "end": 2095.88,
+   "text": "I will see whether...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2095.88,
+   "end": 2103.76,
+   "text": "On top.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.619
+  },
+  {
+   "start": 2103.76,
+   "end": 2108.02,
+   "text": "Does it work?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.648
+  },
+  {
+   "start": 2108.02,
+   "end": 2109.02,
+   "text": "No.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2109.02,
+   "end": 2111.02,
+   "text": "Does it work?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2111.02,
+   "end": 2112.02,
+   "text": "Yes.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.98
+  },
+  {
+   "start": 2112.02,
+   "end": 2113.02,
+   "text": "Yes?",
+   "speaker": "other",
+   "drucker_coverage": 0.02
+  },
+  {
+   "start": 2113.02,
+   "end": 2114.02,
+   "text": "No.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2114.02,
+   "end": 2116.02,
+   "text": "Okay, it doesn't work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2116.02,
+   "end": 2148.4,
+   "text": "Well, it doesn't work, and out of the German agronomy school in 1800 came the breakthrough into organic chemistry at that school.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.861
+  },
+  {
+   "start": 2148.4,
+   "end": 2157.4,
+   "text": "It was easy to prove that plants are not fed by some mysterious life forces but by chemicals.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2157.4,
+   "end": 2163.57,
+   "text": "of the chemical word and then synthesized,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2163.57,
+   "end": 2167.57,
+   "text": "word ionization synthetic synthesized earlier",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2167.57,
+   "end": 2171.57,
+   "text": "and three years later needed to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2171.57,
+   "end": 2175.57,
+   "text": "fertilize and build the first chemical industry",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2175.57,
+   "end": 2179.57,
+   "text": "of that kind. That was the first product",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2179.57,
+   "end": 2183.57,
+   "text": "it was not a new process, a new power applied to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2183.57,
+   "end": 2187.57,
+   "text": "old processes making old products, but a new process",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2187.57,
+   "end": 2191.57,
+   "text": "applied to a new product that didn't exist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2191.57,
+   "end": 2194.57,
+   "text": "And the second one, what's it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2194.57,
+   "end": 2197.57,
+   "text": "Didn't exist for the printing press before.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2197.57,
+   "end": 2200.57,
+   "text": "Also didn't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2200.57,
+   "end": 2207.56,
+   "text": "That printing press didn't work that way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2207.56,
+   "end": 2209.56,
+   "text": "It used move of the type,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2209.56,
+   "end": 2216.54,
+   "text": "but it used the move of the type to feed the negative.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2216.54,
+   "end": 2219.54,
+   "text": "Those are the new processes of printing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2219.54,
+   "end": 2232.2,
+   "text": "And those were the first products that were not old products, existing products, done by new, by flying power.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2233.2,
+   "end": 2245.2,
+   "text": "And then the electrical industry, the chemical industry, the pharmaceutical industry, the electronic industry, these are industries that have new products.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2245.2,
+   "end": 2258.2,
+   "text": "And then marketing came in. The old products they didn't have to market, and if you look, the classic, at least, Singer sewing machine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2258.2,
+   "end": 2267.74,
+   "text": "It wasn't Israel Gila, Isaac Gila, Isaac or Israel, Isaac Singer, who realized that the sewing machine was not an old product.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2267.74,
+   "end": 2282.8,
+   "text": "was made Mr. Clark real father of the sewing machine, even though he was a Wall Street lawyer,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2282.8,
+   "end": 2287.8,
+   "text": "was that he realized that the sewing machine was not an old product,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2287.8,
+   "end": 2296.8,
+   "text": "and therefore the selling could not be farmed out, and he organized the selling as a corporate activity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2296.8,
+   "end": 2319.75,
+   "text": "And in the same year, Cyrus McCormick did the same for the Beatles, which again, you realize, wasn't an old product. Old products, they didn't organize the market. You found it out. The market was there. All you had to do was supply it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2319.75,
+   "end": 2352.06,
+   "text": "The question was well-written, or should be, and sure, women have been sewing for thousands of years, and the whole household sews, obviously, from the heaviest women's sewers, the nastiest, the least satisfactory, the most injurious to help, for us to sew them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2352.06,
+   "end": 2386.69,
+   "text": "There were no patterns, there were no tools, there were scissors and needles, and you had very poorly bagged homespun materials that you could barely handle even with heavy, nobody had heavy scissors, knives, and so the sewing machine, woman's liberation in the home, there were typewriters and telephones, the woman's liberation outside the home.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2386.69,
+   "end": 2394.82,
+   "text": "It may be possible for a respectable woman without being dependent on any protection.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2394.82,
+   "end": 2401.64,
+   "text": "It varies from you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2401.64,
+   "end": 2403.64,
+   "text": "I'm going to put the words upside down.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2403.64,
+   "end": 2436.27,
+   "text": "Last, Japanese, there isn't a woman in there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2436.27,
+   "end": 2447.36,
+   "text": "By that time, you had women also.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.684
+  },
+  {
+   "start": 2447.36,
+   "end": 2455.58,
+   "text": "But in 1880, if you read an ad, you would have.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2455.58,
+   "end": 2462.5,
+   "text": "So, and it's one of the amazing products.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2462.5,
+   "end": 2464.5,
+   "text": "Success.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2464.5,
+   "end": 2465.5,
+   "text": "Thank you very much.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2465.5,
+   "end": 2466.5,
+   "text": "Hooray.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2466.5,
+   "end": 2467.5,
+   "text": "Thank you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2470.0,
+   "end": 2478.0,
+   "text": "You see, modern technology, occasionally one ought not to do an environmental thing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2478.0,
+   "end": 2486.37,
+   "text": "And so, one always says, what cannot be formed up?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2486.37,
+   "end": 2490.37,
+   "text": "That is the business. That's what you get paid for.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2490.37,
+   "end": 2505.52,
+   "text": "And in the automobile industry, let me say, there is no process in there that five million machine shops can't do.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.934
+  },
+  {
+   "start": 2505.52,
+   "end": 2518.8,
+   "text": "Basically you deal with processes which by now, not in 1910, but by now are routine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2518.8,
+   "end": 2522.8,
+   "text": "Oh, it'll cost a little more here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2522.8,
+   "end": 2526.8,
+   "text": "That's mostly a matter of the learning curve, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2526.8,
+   "end": 2530.8,
+   "text": "You keep it this way, five years from now you don't have to pass it down.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2530.8,
+   "end": 2542.1,
+   "text": "It is design and engineering and marketing and service, that's the automobile industry.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2542.1,
+   "end": 2554.94,
+   "text": "Any of you drive a Volvo? You know the difference between a Swedish made Volvo and an American made Volvo?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2554.94,
+   "end": 2562.94,
+   "text": "When you go and buy one, do you? Next time you go buy a Volvo, make sure you don't buy an American made Volvo.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2562.94,
+   "end": 2569.63,
+   "text": "Because that is manufactured, and they don't know how.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2569.63,
+   "end": 2575.63,
+   "text": "The Swedish mill Volvo is assembled by Volvo out of England-made parts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2575.63,
+   "end": 2580.63,
+   "text": "And they know how to assemble and they know how to do quality control",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2580.63,
+   "end": 2589.3,
+   "text": "for parts that come 150 miles over the water, and so it is, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2589.3,
+   "end": 2595.54,
+   "text": "And they're very good at it. They're absolutely hopeless as manufacturers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2595.54,
+   "end": 2599.54,
+   "text": "They don't know how, when there's quality control in manufacturing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2599.54,
+   "end": 2604.54,
+   "text": "If you assemble, you don't want your quality control at the receiving side.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2604.54,
+   "end": 2609.53,
+   "text": "And there you have very good quality control.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2609.53,
+   "end": 2613.53,
+   "text": "If you manufacture, that's the wrong place to do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2613.53,
+   "end": 2615.53,
+   "text": "And they don't know it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2615.53,
+   "end": 2619.53,
+   "text": "And so the American made one with a lemon.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2619.53,
+   "end": 2626.53,
+   "text": "And the Swedish made one that was occasionally capable of being driven without too much trouble.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2626.53,
+   "end": 2646.7,
+   "text": "Because Volvo, when it went into this country, it couldn't bring the English force in, mostly John Lucas, who had excess capacity with the English automobile industry being the battery.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.926
+  },
+  {
+   "start": 2646.7,
+   "end": 2651.7,
+   "text": "And it couldn't buy anything, so it began making things, and it isn't very good at making things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2651.7,
+   "end": 2656.7,
+   "text": "But it's also the wrong business. Volvo is a designer and a motorist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2656.7,
+   "end": 2664.61,
+   "text": "And once they're there, they should have worked it all out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2664.61,
+   "end": 2668.61,
+   "text": "And Volkswagen has avoided that mistake in a few times.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2668.61,
+   "end": 2671.61,
+   "text": "It's buying parts in this country.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2671.61,
+   "end": 2674.89,
+   "text": "Volkswagen makes almost nothing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2674.89,
+   "end": 2677.89,
+   "text": "Volkswagen is another assembly engine here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2677.89,
+   "end": 2680.89,
+   "text": "But not the transmission.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2680.89,
+   "end": 2682.89,
+   "text": "Anybody know who makes the Volkswagen transmission?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2682.89,
+   "end": 2692.0,
+   "text": "Volkswagen doesn't touch transmission.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2692.0,
+   "end": 2696.0,
+   "text": "And so, let me say, what can one form out?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2696.0,
+   "end": 2705.75,
+   "text": "That is then, in the pharmaceutical industry,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2705.75,
+   "end": 2708.75,
+   "text": "I've got something for you here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2708.75,
+   "end": 2711.75,
+   "text": "In the pharmaceutical industry, you can't form our research,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2711.75,
+   "end": 2713.75,
+   "text": "you can't form our selling capacity,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2713.75,
+   "end": 2719.06,
+   "text": "but you also cannot form our servicing capacity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2719.06,
+   "end": 2724.06,
+   "text": "But making this stuff, you know, while it is very good,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2724.06,
+   "end": 2730.74,
+   "text": "there are lots of people today who can run fermentation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2730.74,
+   "end": 2788.02,
+   "text": "We have an enormous volume of your power grid, and there are big companies that don't, but I'll let you in on a secret, there are big pharmaceutical companies that don't sell their license, that are research and development, and you know, this line of French from Westpac, not yet designed, they call it, it's a preferred license, no sell in France, and companies are afraid of the American market, it's not the market in which, and they are very happy to sell it to somebody.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2788.04,
+   "end": 2792.68,
+   "text": "who knows the market, who is known to the American doctors.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2792.68,
+   "end": 2795.68,
+   "text": "And so they are in a symbiotic relationship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2795.68,
+   "end": 2797.34,
+   "text": "And they don't make anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2797.34,
+   "end": 2804.8,
+   "text": "And basically, most of them, the main market for the USA,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2804.8,
+   "end": 2807.62,
+   "text": "through a licensee, they are making enough",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2807.62,
+   "end": 2810.86,
+   "text": "to keep quality control.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2810.86,
+   "end": 2813.9,
+   "text": "But they don't sell.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2813.9,
+   "end": 2820.14,
+   "text": "After they buy a product, they develop them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2820.14,
+   "end": 2837.55,
+   "text": "I'd say, well, even, and research it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2837.55,
+   "end": 2840.13,
+   "text": "Because selling, then, is supplying to it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2840.13,
+   "end": 2846.2,
+   "text": "So one looks at business analytically",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2846.2,
+   "end": 2851.52,
+   "text": "because that's what you get paid for.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2851.52,
+   "end": 2861.82,
+   "text": "You can only try to get paid for what is essential,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2861.82,
+   "end": 2871.0,
+   "text": "what nobody else can.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2871.0,
+   "end": 2876.4,
+   "text": "And in short history of modern industry,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2876.4,
+   "end": 2879.5,
+   "text": "200 years is not very long.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2879.5,
+   "end": 2882.3,
+   "text": "We have gone through the stage where we started out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2882.3,
+   "end": 2883.9,
+   "text": "there making this stuff.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2883.9,
+   "end": 2887.38,
+   "text": "If you look at those, if you look",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2887.38,
+   "end": 2904.58,
+   "text": "at best historians of the early 19th century,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2904.58,
+   "end": 2912.45,
+   "text": "they ran a big and ran it very well,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2912.45,
+   "end": 2919.55,
+   "text": "even though he perhaps because he gave very little time to it in part because the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2919.55,
+   "end": 2925.22,
+   "text": "domestic arrangements are very time consuming and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2927.46,
+   "end": 2935.58,
+   "text": "secondly the business began to flourish after one of them died and and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2938.3,
+   "end": 2943.82,
+   "text": "secondly because he spent so much of his time working with marks and looking after that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2943.82,
+   "end": 2950.62,
+   "text": "very difficult marksmen are emotionally and financially very different very different",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2952.78,
+   "end": 2958.54,
+   "text": "but he ran a one of the biggest sexual businesses you ever know family only like",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2960.22,
+   "end": 2964.94,
+   "text": "they were only too glad to have him in england you know with those two girls of his",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2966.46,
+   "end": 2973.02,
+   "text": "both irish middle hands and therefore not really welcoming it like to pick up a middle class home",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2973.02,
+   "end": 2978.3,
+   "text": "apart from the fact that they had the queen's idea that one might be enough and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2981.02,
+   "end": 2986.86,
+   "text": "they were on top of that identical twin so you were always addressing the wrong one you know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2986.86,
+   "end": 3007.15,
+   "text": "uh so they didn't really want him home and but he knew all you had to have was a",
+   "speaker": "drucker",
+   "drucker_coverage": 0.926
+  },
+  {
+   "start": 3007.15,
+   "end": 3012.83,
+   "text": "well there were there were cycles yes there were all times when the man fell off",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3018.0,
+   "end": 3024.6,
+   "text": "But there you couldn't do anything by sales efforts anyhow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3024.6,
+   "end": 3032.6,
+   "text": "There are people in Ireland who are dying because the potato blight destroyed their single source of nourishment.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3032.6,
+   "end": 3041.6,
+   "text": "You know, it's very hard to sell cotton textiles to somebody who has died of starvation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3041.6,
+   "end": 3053.42,
+   "text": "No sales effort will really get you very far, and the best TV ad is unlikely to produce customers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3053.42,
+   "end": 3057.42,
+   "text": "So all you can do is tighten your belt and hope you'll be over.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3057.42,
+   "end": 3063.42,
+   "text": "And it eventually did, and you had financial crises, panic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3063.42,
+   "end": 3070.82,
+   "text": "The present day habit of cutting back advertising in bad times,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3070.82,
+   "end": 3087.85,
+   "text": "Take back to the time it was rational. Today it's irrational. Today advertising, the fixed expense one doesn't come back, and you lose, you don't expand in English time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3087.85,
+   "end": 3094.85,
+   "text": "Anybody who says 2% of our sales are going to advertising doesn't know how to advertise.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3094.85,
+   "end": 3099.85,
+   "text": "That's saying 2% of our sales are going to capital investment.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3099.85,
+   "end": 3105.85,
+   "text": "But a market is a capital investment that has to be considered a fixed expense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3105.85,
+   "end": 3112.85,
+   "text": "And so when they're not overspending good times, then one doesn't cut back on the poor ones.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3112.85,
+   "end": 3126.55,
+   "text": "In fact, if anything, one increases, because poor stands are the time to get market share away from competitors who have to cut back their sales and promotions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3126.55,
+   "end": 3144.01,
+   "text": "But 1835 or 1850, you can't make it. And sure, you could turn out the wrong mixer, a fashion change, and you had to make, but you had to make production decisions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3144.01,
+   "end": 3151.01,
+   "text": "Where are we going to make only shirting, unbleached goods in large quantities in the lowest quantities?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3151.01,
+   "end": 3155.01,
+   "text": "Where are we going into the finishing end of the business, the production end?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3155.01,
+   "end": 3159.57,
+   "text": "And that changed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3159.57,
+   "end": 3166.72,
+   "text": "So here in our case, the question is, you see, the way the bank answered that,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3166.72,
+   "end": 3172.72,
+   "text": "by setting our friends up as an autonomous, wholly-owned subsidiary,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3172.72,
+   "end": 3177.72,
+   "text": "it affected the peer agency, with the manufacturing and the cost center.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3177.72,
+   "end": 3189.45,
+   "text": "But it's not the sale of the product, that's never.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3189.45,
+   "end": 3197.22,
+   "text": "Within the bank, it's the manufacturer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3197.22,
+   "end": 3204.12,
+   "text": "And there is nothing on it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3204.12,
+   "end": 3209.88,
+   "text": "Strange, you know, about manufacturing, the price, the bulk of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3209.88,
+   "end": 3219.41,
+   "text": "Manufacturing companies, that's what nobody thinks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3219.41,
+   "end": 3228.52,
+   "text": "Who's the GM? How many employees does the university have?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.835
+  },
+  {
+   "start": 3228.52,
+   "end": 3236.35,
+   "text": "How many of those are manufacturers?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3236.35,
+   "end": 3247.97,
+   "text": "And if you look at the GM system, where the dealers come in,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.914
+  },
+  {
+   "start": 3247.97,
+   "end": 3250.97,
+   "text": "it doesn't change that much, because the dealer, you know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3250.97,
+   "end": 3268.84,
+   "text": "So, the bulk of his people are in the service shop, not there, unless he forms out his service, and doesn't repair second-hand cars.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.888
+  },
+  {
+   "start": 3268.84,
+   "end": 3284.12,
+   "text": "But the greatest workload in a dealership is things that two-year-old car you bring in, the fenders are dented, one headlight is broken,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3284.12,
+   "end": 3294.12,
+   "text": "You've had six kids in there and you know what it looks like inside, and you probably have two, they lost a few white mice in the rear seat.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3294.12,
+   "end": 3304.14,
+   "text": "Make it look good enough so that the sucker will buy it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3304.14,
+   "end": 3315.8,
+   "text": "Now, give it a paint job, clean it, replace that broken scratch and broken window.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3315.8,
+   "end": 3323.66,
+   "text": "set the speedometer back and the other things that enable you to sell it as a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3323.66,
+   "end": 3331.68,
+   "text": "reconditioned car that's now a good many dealers don't do that they need to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3331.68,
+   "end": 3337.26,
+   "text": "unload these cars to wholesalers who then do it but that's where the labor",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3337.26,
+   "end": 3354.11,
+   "text": "forces are nothing they've never seen it they are there and yet nobody thinks",
+   "speaker": "drucker",
+   "drucker_coverage": 0.881
+  },
+  {
+   "start": 3354.11,
+   "end": 3368.08,
+   "text": "that therefore manufacturing should run sales, run DM, though the manufacturing man in DM is a very important man",
+   "speaker": "drucker",
+   "drucker_coverage": 0.893
+  },
+  {
+   "start": 3368.08,
+   "end": 3377.29,
+   "text": "because he is the cost center. And nobody thinks that the service manager runs the dealership.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3377.29,
+   "end": 3386.89,
+   "text": "So it's the cost center. Now he is more than that. You buy a car increasingly because of your service experience.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3386.89,
+   "end": 3394.63,
+   "text": "It's not, though the service had to become a revenue sector.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3394.63,
+   "end": 3397.95,
+   "text": "And that's causing more trouble in the automobile leadership",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3397.95,
+   "end": 3399.13,
+   "text": "than anything else.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3399.13,
+   "end": 3401.75,
+   "text": "But the whole social system of the leadership",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3401.75,
+   "end": 3410.24,
+   "text": "is becoming a part of top management",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3410.24,
+   "end": 3413.76,
+   "text": "and putting pressure on the manufacturer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3413.76,
+   "end": 3418.95,
+   "text": "to supply cars that can't be serviced properly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3418.95,
+   "end": 3420.87,
+   "text": "Great upset.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3420.87,
+   "end": 3442.92,
+   "text": "There is more that we take, or there is more from it, and all the environmental pressures together, and more and more you hear,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3442.92,
+   "end": 3453.33,
+   "text": "I won't ever buy a Chevy again. I got that through a CIV. You don't take it through a car.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3453.33,
+   "end": 3458.03,
+   "text": "CIVs, any of you have heard of CIVs or said CIVs?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3458.03,
+   "end": 3470.52,
+   "text": "Well, that mix with service managers, your marketing, then selling it, and that caused a tremendous upheaval in the industry.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3470.52,
+   "end": 3479.3,
+   "text": "And if you know the first one was the service, you know the first part was successful.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3479.3,
+   "end": 3488.67,
+   "text": "First part was from the beginning organized around the service manager, at home with everything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3488.67,
+   "end": 3495.2,
+   "text": "And that was the secret of its success, to be like that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3495.2,
+   "end": 3505.4,
+   "text": "very, and it's a very equity company, and that's the reason why people are coming to Fort Byron",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3505.4,
+   "end": 3514.37,
+   "text": "from other automobile companies, can't come from non-automobile industries.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3514.37,
+   "end": 3517.37,
+   "text": "Because the social structure is different.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3517.37,
+   "end": 3519.37,
+   "text": "It's built around the service management.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3519.37,
+   "end": 3524.37,
+   "text": "Not the engineers, not the designers, not the marketing,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3524.37,
+   "end": 3530.44,
+   "text": "the advertising agencies, but it's different.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3530.44,
+   "end": 3534.44,
+   "text": "And that's now infiltrating the whole industry.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3534.44,
+   "end": 3542.37,
+   "text": "Because that's the way the customer treats you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3542.37,
+   "end": 3544.37,
+   "text": "Now here, so what our fellow here,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3544.37,
+   "end": 3559.97,
+   "text": "see products that enable you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3559.97,
+   "end": 3569.8,
+   "text": "And I have no intention of interfering with you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3569.8,
+   "end": 3572.8,
+   "text": "or buying and selling money.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3572.8,
+   "end": 3577.1,
+   "text": "That's your business, and you do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3577.1,
+   "end": 3580.57,
+   "text": "But everything else you see is a process,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3580.57,
+   "end": 3582.57,
+   "text": "and everything else is a manufacture,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3582.57,
+   "end": 3584.57,
+   "text": "it's a production.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3584.57,
+   "end": 3588.0,
+   "text": "It's a production.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3588.0,
+   "end": 3592.15,
+   "text": "But what is a clarity work?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3592.15,
+   "end": 3594.15,
+   "text": "Let me say that there is no,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3594.15,
+   "end": 3598.15,
+   "text": "There is no such thing as clerical worship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3598.15,
+   "end": 3602.15,
+   "text": "Clerical worship is production.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 44.75,
+ "created_utc": "2026-09-20T23:05:37+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

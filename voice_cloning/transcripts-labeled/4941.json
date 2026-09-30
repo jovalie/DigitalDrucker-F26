@@ -1,0 +1,3101 @@
+{
+ "pointer": "4941",
+ "media": "4941.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2788.9,
+ "segments": [
+  {
+   "start": 2.42,
+   "end": 13.26,
+   "text": "As we reconvene, our first task is to introduce to you Professor Dale Zahn, who was our panelist this morning.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.469
+  },
+  {
+   "start": 14.36,
+   "end": 24.36,
+   "text": "Peter just tells me that during the coffee break he tried to encourage Dale to be controversial and tell you all why he thinks Peter's analysis is wrong.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 25.52,
+   "end": 31.08,
+   "text": "Professor Zahn has been resisting that because I think he thinks it's right, but we'll see what happens.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 32.42,
+   "end": 37.42,
+   "text": "Professor Zand is professor of management at the Graduate Business School at New York University.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 37.76,
+   "end": 44.54,
+   "text": "He was the previous chairman of the management department and also chairman of the OD division of the Academy of Management.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 45.62,
+   "end": 54.06,
+   "text": "And he is, in addition, a consultant to a number of very large U.S. corporations, including such firms as Teneco and IBM.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 54.06,
+   "end": 60.48,
+   "text": "I think it's important to note that his consulting relationships tend to be very long-lived.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 61.46,
+   "end": 73.02,
+   "text": "He's been with each of the companies, major companies that he's been working with ever since I've known him, which is almost 20 years now, which means that he continues to produce results with them that they appreciate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 73.98,
+   "end": 83.02,
+   "text": "And his focus of attention is organizational development, obviously working on the development of the corporation through its human resources.",
+   "speaker": "other",
+   "drucker_coverage": 0.277
+  },
+  {
+   "start": 84.04,
+   "end": 84.44,
+   "text": "So, Dale?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 85.28,
+   "end": 85.98,
+   "text": "Thank you.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 85.98,
+   "end": 107.42,
+   "text": "We talk about human resource management as if it is something disembodied and different from us.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.326
+  },
+  {
+   "start": 110.18,
+   "end": 118.26,
+   "text": "And as Pogo says in the old cartoon, you know, we have met the enemy and he is us.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 119.86,
+   "end": 124.17,
+   "text": "What do we mean by human resources?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.381
+  },
+  {
+   "start": 124.17,
+   "end": 148.87,
+   "text": "What we're talking about is a person with the ability to think, to learn, to feel, to do, and to communicate.",
+   "speaker": "other",
+   "drucker_coverage": 0.121
+  },
+  {
+   "start": 152.97,
+   "end": 160.82,
+   "text": "And we're talking about a very complex system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 160.82,
+   "end": 168.29,
+   "text": "If you want to use, if you want to deal with it in a sense, in a disembodied, objective",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 168.29,
+   "end": 168.77,
+   "text": "way.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 171.59,
+   "end": 182.79,
+   "text": "And one of the big problems that I sense occurs among human resource people is that they're",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 182.79,
+   "end": 192.89,
+   "text": "much like Peter's bassoon player, that they",
+   "speaker": "other",
+   "drucker_coverage": 0.297
+  },
+  {
+   "start": 192.89,
+   "end": 197.29,
+   "text": "like to play the bassoon but really don't like music.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 197.29,
+   "end": 200.79,
+   "text": "And the way this operates in human resource systems",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 200.79,
+   "end": 207.03,
+   "text": "is that the procedural and administrative details",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 207.03,
+   "end": 215.14,
+   "text": "of the human resource activity tend to drive human resource",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 215.14,
+   "end": 226.61,
+   "text": "specialists away from dealing with the individuality",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 226.61,
+   "end": 229.6,
+   "text": "of people.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 229.6,
+   "end": 232.1,
+   "text": "We as people vary.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 232.1,
+   "end": 236.68,
+   "text": "We can think specifically, or we can think conceptually.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 236.68,
+   "end": 240.88,
+   "text": "We can learn slowly, or we can learn quickly,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 240.88,
+   "end": 246.54,
+   "text": "or we can learn in ways that human resource people don't",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 246.54,
+   "end": 251.48,
+   "text": "understand.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 251.48,
+   "end": 254.36,
+   "text": "We can feel good when human resource people think",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 254.36,
+   "end": 257.1,
+   "text": "we should really feel disappointed.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 257.1,
+   "end": 260.36,
+   "text": "And we can feel very bad when human resource people",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 260.36,
+   "end": 265.55,
+   "text": "think we should really be feeling good, all of which",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.578
+  },
+  {
+   "start": 265.55,
+   "end": 270.59,
+   "text": "is a great problem and annoyance for us",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 270.59,
+   "end": 273.77,
+   "text": "as human resource people, human resource specialists.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 276.89,
+   "end": 281.87,
+   "text": "Furthermore, we can be incredibly obtuse in the way we communicate with each other.",
+   "speaker": "other",
+   "drucker_coverage": 0.022
+  },
+  {
+   "start": 284.73,
+   "end": 290.41,
+   "text": "I don't recall who it was that said that many people don't realize that the fundamental",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 290.41,
+   "end": 294.31,
+   "text": "purpose of language is to mislead rather than to clarify.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 299.78,
+   "end": 308.42,
+   "text": "And we as people can just take our own good time in doing what the organization or the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 308.42,
+   "end": 309.74,
+   "text": "manager wants us to do.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 309.74,
+   "end": 316.12,
+   "text": "When we talk about human resource management, I think it becomes important to recognize",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 316.12,
+   "end": 325.34,
+   "text": "that there are a number of locations where human resource management occurs.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 325.34,
+   "end": 335.1,
+   "text": "The first place that human resource management occurs is with the self.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 335.1,
+   "end": 344.92,
+   "text": "I think if one would like to add to Peter's list of predictions, I think that perhaps",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 344.92,
+   "end": 354.22,
+   "text": "by the year 2000, we will begin to recognize that the person who has the greatest interest",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 354.22,
+   "end": 362.96,
+   "text": "in the management of human resources is the individual, is the self, and that the process",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 362.96,
+   "end": 372.4,
+   "text": "that appears to be occurring very slowly over the past 70 years is a gradual recognition",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 372.4,
+   "end": 379.78,
+   "text": "that human beings have an interest in themselves as a human resource and in managing themselves",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 379.78,
+   "end": 382.78,
+   "text": "as a human resource.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 382.78,
+   "end": 390.84,
+   "text": "In part, the fact that you are here today, sitting in this room, listening to Peter and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 390.84,
+   "end": 397.74,
+   "text": "to me, is one small indication that you're interested in the management of yourself as",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 397.74,
+   "end": 404.2,
+   "text": "a human resource.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 404.2,
+   "end": 410.14,
+   "text": "A second area where human resource management occurs, and really the next major principal",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 410.14,
+   "end": 418.38,
+   "text": "area, is on the job in the relationship between a person and that person's, if you will,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 418.38,
+   "end": 424.95,
+   "text": "superiors, peers, coworkers, and subordinates.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 424.95,
+   "end": 436.62,
+   "text": "That's where the real human resource management in an organization occurs.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 436.62,
+   "end": 450.88,
+   "text": "If we ask people, what had the greatest effect on your personal development, the one factor",
+   "speaker": "other",
+   "drucker_coverage": 0.245
+  },
+  {
+   "start": 450.88,
+   "end": 468.99,
+   "text": "that they generally return to is a remembrance of a particular manager or coworker whose",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 468.99,
+   "end": 479.03,
+   "text": "way of thinking, whose method of learning, whose way of working with others turned out",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 479.03,
+   "end": 488.09,
+   "text": "to be a very powerful role model for them and, in a sense, encouraged their own growth",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 488.09,
+   "end": 492.68,
+   "text": "and development.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 492.68,
+   "end": 500.14,
+   "text": "Usually, if you stop to think for a moment, can you think of one exceptionally good manager",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 500.14,
+   "end": 503.04,
+   "text": "out of your past experience?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 503.04,
+   "end": 508.62,
+   "text": "you think of one exceptionally bad manager out of your past experience.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 508.62,
+   "end": 511.48,
+   "text": "Most people have very vivid recollections.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 511.48,
+   "end": 519.8,
+   "text": "They can go back to somebody 25 years ago and remember in detail specific incidents",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 519.8,
+   "end": 527.04,
+   "text": "and what that person said and how they looked and when they did it and so on, and what your",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 527.04,
+   "end": 535.29,
+   "text": "feelings were.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 535.29,
+   "end": 547.04,
+   "text": "What happens on the job still turns out to be the greatest opportunity, the greatest",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.34
+  },
+  {
+   "start": 547.04,
+   "end": 555.1,
+   "text": "arena of opportunity for the management of human resources, and that much of what goes",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 555.1,
+   "end": 566.4,
+   "text": "on in human resource management as a specialty is, and probably will continue to be, an attempt",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 566.4,
+   "end": 571.22,
+   "text": "to complement, to supplement, and to a great extent,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 571.22,
+   "end": 585.68,
+   "text": "to offset and buffer what happens on the job.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 585.68,
+   "end": 587.66,
+   "text": "Now, much of our discussion has been",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 587.66,
+   "end": 594.94,
+   "text": "around the notion of knowledge and knowledge work.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 594.94,
+   "end": 607.91,
+   "text": "And there appears to be a conflict in organization.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 607.91,
+   "end": 611.81,
+   "text": "And it's been going on for quite a number of years.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 611.81,
+   "end": 618.63,
+   "text": "You may remember years ago, Doug McGregor came along",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 618.63,
+   "end": 622.03,
+   "text": "with Theory Y. And we had the contrast",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 622.03,
+   "end": 627.21,
+   "text": "between the Theory X assumptions and the Theory Y assumptions.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 627.21,
+   "end": 629.65,
+   "text": "People are either lazy, and they don't",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 629.65,
+   "end": 632.49,
+   "text": "want to think about their work.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 632.49,
+   "end": 635.89,
+   "text": "Fundamentally, they're disinterested.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 635.89,
+   "end": 638.85,
+   "text": "They are motivated as economic persons.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 638.85,
+   "end": 640.99,
+   "text": "The only thing you do is you pay them,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 640.99,
+   "end": 644.79,
+   "text": "tell them precisely what to do, and then along came",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 644.79,
+   "end": 647.95,
+   "text": "Doug McGregor's book, The Human Side of Enterprise.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 647.95,
+   "end": 651.69,
+   "text": "And it was as if we suddenly were told to become,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 651.69,
+   "end": 653.97,
+   "text": "it was like consciousness raising.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 653.97,
+   "end": 657.39,
+   "text": "Be aware that people can think, learn, feel, act,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 657.39,
+   "end": 660.45,
+   "text": "and communicate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 660.45,
+   "end": 673.02,
+   "text": "And the new term became participation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 673.02,
+   "end": 680.06,
+   "text": "And participation is not going to solve all of the HR issues",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 680.06,
+   "end": 682.94,
+   "text": "in an organization, because much of what",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 682.94,
+   "end": 685.82,
+   "text": "goes on under the heading of participation",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 685.82,
+   "end": 701.09,
+   "text": "in many organizations is done to please the HR specialists.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 701.09,
+   "end": 704.09,
+   "text": "The human resource management in many organizations",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 704.09,
+   "end": 707.09,
+   "text": "has somehow or another communicated to managers,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 707.09,
+   "end": 710.45,
+   "text": "You've got to have participation.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 710.45,
+   "end": 716.17,
+   "text": "That participation is somehow or another good in itself.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 716.17,
+   "end": 720.53,
+   "text": "And managers call meetings, and people show up,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 720.53,
+   "end": 723.03,
+   "text": "and then they sit around looking at each other.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 723.03,
+   "end": 724.57,
+   "text": "And at the end of the meeting, they",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 724.57,
+   "end": 727.73,
+   "text": "wonder, what did we really accomplish at that meeting?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 727.73,
+   "end": 730.15,
+   "text": "I could have really used the time.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 730.15,
+   "end": 731.03,
+   "text": "What a shame.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 731.03,
+   "end": 738.25,
+   "text": "We do this endlessly.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 738.25,
+   "end": 740.53,
+   "text": "What Peter was talking about when",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 740.53,
+   "end": 743.19,
+   "text": "he was talking about the knowledge society ties",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 743.19,
+   "end": 748.09,
+   "text": "into an understanding of how does participation",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 748.09,
+   "end": 756.02,
+   "text": "become a useful part of our relationship with each other.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 756.02,
+   "end": 762.3,
+   "text": "First of all, the interesting thing about knowledge",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 762.3,
+   "end": 766.32,
+   "text": "and knowledge work is that it exists",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 766.32,
+   "end": 773.31,
+   "text": "in our heads in contrast to physical production, which",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 773.31,
+   "end": 778.63,
+   "text": "is external to us, which you can see,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 778.63,
+   "end": 780.99,
+   "text": "which you can usually measure and count.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 784.75,
+   "end": 786.63,
+   "text": "The great challenge about knowledge work",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 786.63,
+   "end": 790.45,
+   "text": "is that it's in our heads.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 790.45,
+   "end": 792.09,
+   "text": "And it's not readily accessible.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 792.09,
+   "end": 798.71,
+   "text": "And it's under the control of the person whose head it's in.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 798.71,
+   "end": 802.55,
+   "text": "So the big challenge of human resource management",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 802.55,
+   "end": 804.77,
+   "text": "is, how do you get knowledge from where it is",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 804.77,
+   "end": 813.94,
+   "text": "to where it can be used.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 813.94,
+   "end": 821.62,
+   "text": "As Peter said in several different ways,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 821.62,
+   "end": 823.88,
+   "text": "not only is knowledge work invisible",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 823.88,
+   "end": 829.89,
+   "text": "to the external observer, it's also nonlinear.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 829.89,
+   "end": 831.41,
+   "text": "What do we mean by nonlinear?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 834.35,
+   "end": 837.47,
+   "text": "It means that if a person has been working",
+   "speaker": "other",
+   "drucker_coverage": 0.048
+  },
+  {
+   "start": 837.47,
+   "end": 840.43,
+   "text": "on a problem for two hours and hasn't solved it,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 840.43,
+   "end": 844.1,
+   "text": "does it mean that they're going to solve the problem",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 844.1,
+   "end": 853.31,
+   "text": "by working another two hours or four hours or six hours.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.434
+  },
+  {
+   "start": 853.31,
+   "end": 859.54,
+   "text": "By nonlinear, we also mean that if three people are working",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 859.54,
+   "end": 864.14,
+   "text": "on a problem and then we add three more,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 864.14,
+   "end": 866.9,
+   "text": "are we going to cut the time needed for a solution in half",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 866.9,
+   "end": 870.52,
+   "text": "because we've doubled the number of people working on it?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 870.52,
+   "end": 873.22,
+   "text": "Are we going to double the level of quality of the decisions",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 873.22,
+   "end": 875.56,
+   "text": "that are made because we've doubled the number of people",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 875.56,
+   "end": 877.06,
+   "text": "who are working on it?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 877.06,
+   "end": 878.88,
+   "text": "As a matter of fact, in much knowledge work,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 878.88,
+   "end": 885.14,
+   "text": "What happens is the more people we put on the problem, the more rapidly we deteriorate",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 885.14,
+   "end": 888.08,
+   "text": "the quality, and the longer it takes to arrive at a solution.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 892.89,
+   "end": 900.53,
+   "text": "Now, these are very, very difficult challenges for human resource management to deal with.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 900.53,
+   "end": 905.01,
+   "text": "This is something that we're kind of stumbling along trying to learn how to deal with.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 905.01,
+   "end": 919.77,
+   "text": "In the production, repetitive operations of most businesses, we still have and can tolerate",
+   "speaker": "other",
+   "drucker_coverage": 0.237
+  },
+  {
+   "start": 919.77,
+   "end": 929.5,
+   "text": "what is basically a directive approach to human resource management, where the manager",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 929.5,
+   "end": 938.36,
+   "text": "believes that he or she must tell subordinates what to do in great detail.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 938.36,
+   "end": 946.0,
+   "text": "Much of what happens there is somewhat like what the comedian Sam Levinson had described",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 946.0,
+   "end": 953.3,
+   "text": "many years ago, was the nature of his relationship to his father.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 953.3,
+   "end": 957.74,
+   "text": "When he was a teenager, his father used to say to him, when I want your opinion, I'll",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 957.74,
+   "end": 965.07,
+   "text": "give it to you.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.75
+  },
+  {
+   "start": 965.07,
+   "end": 971.81,
+   "text": "In human resource management situations, much of what still goes on is the character of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 971.81,
+   "end": 979.23,
+   "text": "Sam Levinson's relationship to his father.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.674
+  },
+  {
+   "start": 979.23,
+   "end": 985.97,
+   "text": "At the same time, as the organization runs into difficulty and runs into problems, managers",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 985.97,
+   "end": 994.79,
+   "text": "and human resource specialists want people to participate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 994.79,
+   "end": 1006.27,
+   "text": "But we learn how to participate effectively during periods when things are going reasonably",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1006.27,
+   "end": 1018.44,
+   "text": "well and the problems are important but not overwhelming.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.488
+  },
+  {
+   "start": 1018.44,
+   "end": 1025.12,
+   "text": "What tends to happen in many organizations is that when everything else has failed, they",
+   "speaker": "other",
+   "drucker_coverage": 0.009
+  },
+  {
+   "start": 1025.12,
+   "end": 1031.46,
+   "text": "ask people to participate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1031.46,
+   "end": 1038.82,
+   "text": "Managers and human resource specialists are then greatly disappointed that participation",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1038.82,
+   "end": 1047.76,
+   "text": "doesn't somehow pull a rabbit out of the hat and generate solutions to urgent, extremely",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1047.76,
+   "end": 1064.34,
+   "text": "difficult problems which have been festering in the organization for a long period of time.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.302
+  },
+  {
+   "start": 1064.34,
+   "end": 1075.09,
+   "text": "In a knowledge organization, the time to learn about working with other people is while problems",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1075.09,
+   "end": 1086.13,
+   "text": "are still manageable and the rate of change is not overwhelming.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1086.13,
+   "end": 1090.8,
+   "text": "That turns out to be an investment.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1090.8,
+   "end": 1101.52,
+   "text": "And if human resource managers are to make a contribution to their organization that",
+   "speaker": "other",
+   "drucker_coverage": 0.28
+  },
+  {
+   "start": 1101.52,
+   "end": 1112.9,
+   "text": "goes beyond the normal activities of selection and helping design the appraisal system and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1112.9,
+   "end": 1120.24,
+   "text": "helping managers go through evaluations, helping design the compensation system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1120.24,
+   "end": 1132.4,
+   "text": "If human resource managers are to make a contribution, it is to guide the organization in its investment",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1132.4,
+   "end": 1146.68,
+   "text": "in improving the teamwork of people before there is a crisis.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1146.68,
+   "end": 1162.4,
+   "text": "To build on Peter's analogy of the symphony, the symphony doesn't participate when the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1162.4,
+   "end": 1168.98,
+   "text": "conductor says, oh my God, tonight we've got to perform and the audience is here.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1168.98,
+   "end": 1176.13,
+   "text": "What should we play?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.578
+  },
+  {
+   "start": 1176.13,
+   "end": 1182.41,
+   "text": "How are we going to figure out how to get this thing so it sounds right?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.522
+  },
+  {
+   "start": 1182.41,
+   "end": 1201.05,
+   "text": "Yet that's what many managers want to do with participation.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.514
+  },
+  {
+   "start": 1201.05,
+   "end": 1207.91,
+   "text": "There have been a number of articles about General Motors recently, and within those",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1207.91,
+   "end": 1218.25,
+   "text": "articles you see the seeds of this basic tension within most organizations.",
+   "speaker": "other",
+   "drucker_coverage": 0.29
+  },
+  {
+   "start": 1218.25,
+   "end": 1225.99,
+   "text": "Roger Smith, the CEO, quoted as saying at one point that technology is really the key",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1225.99,
+   "end": 1233.89,
+   "text": "to our future, and General Motors has invested billions of dollars in its plant and plant",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1233.89,
+   "end": 1242.41,
+   "text": "redesign and generally there is the case cited of one Buick plant which in which",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1242.41,
+   "end": 1247.15,
+   "text": "they invested hundreds of millions of dollars installed large numbers of",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1247.15,
+   "end": 1260.13,
+   "text": "robots and so on which has still to come up to its intended design capacity still",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1260.13,
+   "end": 1267.75,
+   "text": "still one of the highest cost-producing plants in the General Motors system.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.427
+  },
+  {
+   "start": 1267.75,
+   "end": 1279.07,
+   "text": "In contrast, they generally describe the plant in Fremont, California, which is a combined",
+   "speaker": "other",
+   "drucker_coverage": 0.022
+  },
+  {
+   "start": 1279.07,
+   "end": 1287.57,
+   "text": "effort with Toyota, and I might as well quote directly from the article if I can find the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1287.57,
+   "end": 1297.48,
+   "text": "quotation here, in which what happened was that in contrast to what was going on in the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1297.48,
+   "end": 1301.9,
+   "text": "Buick plant where one officer of the local said, GM is way overloaded with supervision",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1301.9,
+   "end": 1304.04,
+   "text": "and they won't listen to people on the floor.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1305.68,
+   "end": 1308.4,
+   "text": "General Motors has 14 levels of management.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1308.72,
+   "end": 1310.72,
+   "text": "Toyota, in contrast, has five.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1314.26,
+   "end": 1321.24,
+   "text": "If you go to the Fremont, California plant, which is the new United Motor Manufacturing",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1321.24,
+   "end": 1328.12,
+   "text": "venture, which is a joint venture with Toyota.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.654
+  },
+  {
+   "start": 1328.12,
+   "end": 1332.78,
+   "text": "What GM learned is that simply organizing work more efficiently and giving workers more",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1332.78,
+   "end": 1338.46,
+   "text": "say can produce more impressive results than millions of dollars' worth of robots.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1338.46,
+   "end": 1344.36,
+   "text": "With only a fraction of the money invested in GM's heavily robotized plants, Fremont",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1344.36,
+   "end": 1353.61,
+   "text": "is more efficient and produces better quality cars than any plant in the GM system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1353.61,
+   "end": 1355.17,
+   "text": "This is not unique to GM.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1355.17,
+   "end": 1365.01,
+   "text": "goes on in most of the organizations represented in this room. One of the, one",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1365.01,
+   "end": 1372.15,
+   "text": "of the interesting phenomenon is that managers who know how to work",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1372.15,
+   "end": 1382.95,
+   "text": "effectively in these knowledge-using environments, and now we're talking about",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1382.95,
+   "end": 1393.36,
+   "text": "blue-collar workers who are looked upon as sources of knowledge. One of the myths",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1393.36,
+   "end": 1402.76,
+   "text": "we have is that the only people who have knowledge are graduates with MBAs. And",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.319
+  },
+  {
+   "start": 1402.76,
+   "end": 1410.42,
+   "text": "we've really got to shatter that myth. It's a very difficult myth to get by",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1410.42,
+   "end": 1411.42,
+   "text": "Why?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1411.42,
+   "end": 1416.9,
+   "text": "Because the major purveyors of that myth are the MBAs themselves.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1416.9,
+   "end": 1424.7,
+   "text": "In a sense, we say that they've got to carry that myth forward, otherwise in the language",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1424.7,
+   "end": 1428.32,
+   "text": "of behavioral science, they have a problem of cognitive dissonance.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1428.32,
+   "end": 1433.94,
+   "text": "How else can they explain all the time and money and effort that they've invested in",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1433.94,
+   "end": 1439.64,
+   "text": "getting that MBA if it doesn't somehow or another distinguish them significantly from",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1439.64,
+   "end": 1440.6,
+   "text": "the blue-collar worker.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1440.7,
+   "end": 1444.54,
+   "text": "But the blue-collar worker, remember, is also a human resource.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1444.64,
+   "end": 1445.34,
+   "text": "What does that mean?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1445.4,
+   "end": 1452.88,
+   "text": "The blue-collar worker can also think, learn, feel, act, and communicate.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1455.9,
+   "end": 1460.74,
+   "text": "And that's, you know, there's the individual who does the physical production.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1460.74,
+   "end": 1475.1,
+   "text": "So, learning how to work with knowledge users and knowledge generators is very exciting.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1475.1,
+   "end": 1481.93,
+   "text": "One of the fascinating things that is occurring in our culture is that the people who are",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1481.93,
+   "end": 1490.68,
+   "text": "able to do that very often are looked upon as outcasts in the rest of the organization.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1490.68,
+   "end": 1496.16,
+   "text": "Do you know that, for example, the manager \u2014 probably a great many of you are familiar",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1496.16,
+   "end": 1505.01,
+   "text": "with, for example, General Foods' experiment in the dog food business in establishing from",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1505.01,
+   "end": 1514.35,
+   "text": "the ground up a plant that would basically be a semi-autonomous, self-managed plant in",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1514.35,
+   "end": 1520.97,
+   "text": "which the workers themselves would do much of the human resource management, would select",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1520.97,
+   "end": 1527.81,
+   "text": "new workers. There was knowledge-based pay that individuals would learn a series of jobs,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1527.87,
+   "end": 1532.93,
+   "text": "and this deals with what Peter was talking about, the notion of job redesign, which is not",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1532.93,
+   "end": 1541.49,
+   "text": "necessarily all in the domain of the human resource specialist, but rather workers can be trained",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1541.49,
+   "end": 1549.31,
+   "text": "to redesign jobs so that they are meaningful to them as a cluster of co-workers interdependent",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1549.31,
+   "end": 1550.31,
+   "text": "with each other.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1550.31,
+   "end": 1555.25,
+   "text": "This was done in one of the General Foods plants.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.557
+  },
+  {
+   "start": 1555.25,
+   "end": 1559.25,
+   "text": "The plant had practically no middle management.",
+   "speaker": "other",
+   "drucker_coverage": 0.062
+  },
+  {
+   "start": 1559.25,
+   "end": 1565.09,
+   "text": "Not only do we find that in knowledge systems, middle managers are largely passive transmitters",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1565.09,
+   "end": 1569.05,
+   "text": "of information up and down.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1569.05,
+   "end": 1572.55,
+   "text": "After a while, in order to create a little excitement like the people on the assembly",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1572.55,
+   "end": 1576.99,
+   "text": "line, one of the assembly line plants, what one of the fellows used to do was put a dent",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1576.99,
+   "end": 1581.15,
+   "text": "in the rear left side of the roof every once in a while just to create a little fun create a little",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1581.15,
+   "end": 1586.67,
+   "text": "excitement and so that some guys down the line would have to do something about taking the dent",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1586.67,
+   "end": 1590.67,
+   "text": "out or they'd look at the new ripples that occurred when it went through the paint room",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1590.67,
+   "end": 1594.19,
+   "text": "hey did you see that one joe yeah that was an interesting design you got on that one",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1595.15,
+   "end": 1598.51,
+   "text": "well every once in a while what middle level managers do is uh",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1600.75,
+   "end": 1605.23,
+   "text": "censor a little bit of the information that's coming up and down withhold it for a little",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1605.23,
+   "end": 1611.63,
+   "text": "put a new slant on it, change the way it's sound, and so on, change a little bit of the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1611.63,
+   "end": 1615.29,
+   "text": "emphasis, and then watch what happens as it ricochets through the system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1622.28,
+   "end": 1626.46,
+   "text": "And then human resource managers have to come in and figure out now, what are we going to",
+   "speaker": "other",
+   "drucker_coverage": 0.053
+  },
+  {
+   "start": 1626.46,
+   "end": 1630.92,
+   "text": "do to make work meaningful in life, you know, improve the quality of life for middle-level",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1630.92,
+   "end": 1637.14,
+   "text": "managers, when, as Peter points out, the real dilemma is that, to a great extent, they're",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1637.14,
+   "end": 1645.54,
+   "text": "not needed and how do we find other uses for them well in this in this pet food plant there was",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1645.54,
+   "end": 1651.22,
+   "text": "practically no middle no middle level manager the plant proved to be extremely successful",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1652.34,
+   "end": 1660.34,
+   "text": "the plan manager and his assistant were invited to seminars like this to describe the marvelous",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1660.34,
+   "end": 1665.94,
+   "text": "breakthrough that had occurred in participative management and so on and it really was quite",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1665.94,
+   "end": 1669.32,
+   "text": "exciting.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1669.32,
+   "end": 1673.82,
+   "text": "When it came to figuring out where to transfer this plan manager and the assistant plan manager,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1673.82,
+   "end": 1676.76,
+   "text": "nobody else in the system wanted them.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1676.76,
+   "end": 1677.76,
+   "text": "Why?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1677.76,
+   "end": 1685.12,
+   "text": "We are not going to let any of those characters in our plan, because our plan is basically",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1685.12,
+   "end": 1689.58,
+   "text": "a plan in which people are told what to do, and we are not going to have any bullshits",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1689.58,
+   "end": 1694.53,
+   "text": "running around in our plan.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1694.53,
+   "end": 1699.79,
+   "text": "So these people could not be integrated into the rest of the system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1699.79,
+   "end": 1707.81,
+   "text": "When Peter talks about the challenge of human resource management, and one of the contributions",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1707.81,
+   "end": 1716.57,
+   "text": "that human resource specialists can make is another contribution that you can make is",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1716.57,
+   "end": 1728.97,
+   "text": "the care and feeding and nurturance of managers who are competent in working with human resources,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1728.97,
+   "end": 1737.17,
+   "text": "because those managers very often get chewed up, spit out, and sidetracked by a system",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1737.17,
+   "end": 1750.11,
+   "text": "which has within it a fundamental inbuilt tension while we try to learn how to be more",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1750.11,
+   "end": 1754.37,
+   "text": "productive with knowledge generators.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1754.37,
+   "end": 1761.53,
+   "text": "One might think that the issue appears to be, how do you measure knowledge output?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1761.53,
+   "end": 1764.13,
+   "text": "That is an important issue.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1764.13,
+   "end": 1769.97,
+   "text": "It's quite clearly a little further down the line.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1769.97,
+   "end": 1782.05,
+   "text": "Right now, I think what we have to do is figure out how do we identify and encourage and develop",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1782.05,
+   "end": 1785.31,
+   "text": "competent human resource managers.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1785.31,
+   "end": 1791.0,
+   "text": "There are a number of them in every organization.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1791.0,
+   "end": 1804.09,
+   "text": "They become the centers of the gradual aggregation of a critical mass to help organizations move",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1804.09,
+   "end": 1811.09,
+   "text": "toward more competent human resource management, rather than leaving them as, in a sense, isolated",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1811.09,
+   "end": 1830.82,
+   "text": "individuals without contact with each other.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.599
+  },
+  {
+   "start": 1830.82,
+   "end": 1842.76,
+   "text": "I'll end with one short point, and that is that many of us in the human resource area",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.308
+  },
+  {
+   "start": 1842.76,
+   "end": 1844.32,
+   "text": "like things to fit together neatly.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1844.32,
+   "end": 1849.81,
+   "text": "This is a characteristic of all managers.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.546
+  },
+  {
+   "start": 1849.81,
+   "end": 1858.05,
+   "text": "One of the most difficult things for us to learn about human resource management is that",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1858.05,
+   "end": 1867.83,
+   "text": "probably the most valuable source of knowledge is in the questions that people ask.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1867.83,
+   "end": 1871.73,
+   "text": "Peter described them as the bootleggers.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1871.73,
+   "end": 1874.43,
+   "text": "Who are the bootleggers?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1874.43,
+   "end": 1877.07,
+   "text": "They're the people who say, I still",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1877.07,
+   "end": 1878.89,
+   "text": "have a few questions here.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1878.89,
+   "end": 1885.31,
+   "text": "I really don't accept the system's decision to stop this.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1888.59,
+   "end": 1898.27,
+   "text": "Arthur Watson, Tom Watson of the Watson-IBM family,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1898.27,
+   "end": 1903.97,
+   "text": "years ago was fond of telling the story of how",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1903.97,
+   "end": 1909.95,
+   "text": "the disk storage memory, which is now standard,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1909.95,
+   "end": 1913.53,
+   "text": "came into existence.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1913.53,
+   "end": 1916.55,
+   "text": "He said that actually IBM had decided",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1916.55,
+   "end": 1924.52,
+   "text": "to stop all funding of research on disk storage,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1924.52,
+   "end": 1929.87,
+   "text": "and that there were a small group of people in one research",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1929.87,
+   "end": 1943.8,
+   "text": "Laboratories, who managed to redirect $150,000 for two years",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1943.8,
+   "end": 1952.52,
+   "text": "and proved that you could have a functioning disk storage system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1952.52,
+   "end": 1955.94,
+   "text": "And he would conclude by saying, I",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1955.94,
+   "end": 1958.88,
+   "text": "hesitate to think of where we would",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1958.88,
+   "end": 1966.86,
+   "text": "be if all of the exalted IBM systems of control",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1966.86,
+   "end": 1974.0,
+   "text": "had functioned as well as we like to think they function.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1974.0,
+   "end": 1977.0,
+   "text": "So one of the things to think about human resource management",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1977.0,
+   "end": 1983.03,
+   "text": "is don't be too upset when control systems don't work",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1983.03,
+   "end": 1989.47,
+   "text": "as well as you or other people would like them to work,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1989.47,
+   "end": 1995.39,
+   "text": "that there is a need for some opportunity for people",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1995.39,
+   "end": 1998.21,
+   "text": "to be able to do what Sam Goldman used to say",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1998.21,
+   "end": 2000.67,
+   "text": "in his own unusual way.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2000.67,
+   "end": 2003.25,
+   "text": "Sam used to say, for your information,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2003.25,
+   "end": 2004.87,
+   "text": "let me ask you a few questions.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2009.89,
+   "end": 2014.67,
+   "text": "And in the current issue of Businessweek,",
+   "speaker": "other",
+   "drucker_coverage": 0.023
+  },
+  {
+   "start": 2014.67,
+   "end": 2017.57,
+   "text": "there is the story of an IBM researcher",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2017.57,
+   "end": 2021.53,
+   "text": "who left the company and has set up a business of his own",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2021.53,
+   "end": 2027.89,
+   "text": "because the company felt that it could not",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2027.89,
+   "end": 2034.31,
+   "text": "successfully use the Josephson Junction devices.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2034.31,
+   "end": 2042.01,
+   "text": "And this fellow has left IBM, got $6 million in financing,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2042.01,
+   "end": 2046.67,
+   "text": "has set up his own company, and in not quite four years",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2046.67,
+   "end": 2054.94,
+   "text": "has successfully produced some of the most sensitive",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.363
+  },
+  {
+   "start": 2054.94,
+   "end": 2059.38,
+   "text": "plotting and electronic signal detection devices that are now",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2059.38,
+   "end": 2063.46,
+   "text": "available using Josephson Junctions and now has",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2063.46,
+   "end": 2067.12,
+   "text": "several half-million-dollar contracts in the military",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2067.12,
+   "end": 2069.82,
+   "text": "to further develop these devices.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2069.82,
+   "end": 2074.74,
+   "text": "And he said, I left IBM because nobody in IBM",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2074.74,
+   "end": 2077.44,
+   "text": "felt that this could work.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2077.44,
+   "end": 2081.18,
+   "text": "And this simply illustrates what Peter was saying,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2081.18,
+   "end": 2084.1,
+   "text": "that increasingly, maybe the reason",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2084.1,
+   "end": 2086.0,
+   "text": "why we have more and more entrepreneurs",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2086.0,
+   "end": 2089.54,
+   "text": "is because the systems are saying,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2089.54,
+   "end": 2090.98,
+   "text": "we don't know how to deal with you.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2090.98,
+   "end": 2092.44,
+   "text": "That's one of the characteristics",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2092.44,
+   "end": 2094.76,
+   "text": "of knowledge processing systems, that we",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2094.76,
+   "end": 2098.93,
+   "text": "have to learn how to deal with creative deviance",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2098.93,
+   "end": 2102.71,
+   "text": "without feeling that they're somehow or another going",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2102.71,
+   "end": 2106.07,
+   "text": "to undermine and destroy the entire existing operating",
+   "speaker": "other",
+   "drucker_coverage": 0.021
+  },
+  {
+   "start": 2106.07,
+   "end": 2109.32,
+   "text": "system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2109.32,
+   "end": 2110.84,
+   "text": "Before opening it up for discussion,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.776
+  },
+  {
+   "start": 2110.84,
+   "end": 2115.22,
+   "text": "Peter suggested he would like to make a comment in response",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2115.22,
+   "end": 2118.1,
+   "text": "to Professor Zan's remarks.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.556
+  },
+  {
+   "start": 2118.1,
+   "end": 2120.86,
+   "text": "I don't know whether that's in response.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2120.86,
+   "end": 2124.06,
+   "text": "For your information, Dale, I want to ask you a question.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2128.62,
+   "end": 2133.16,
+   "text": "About participating management, you know, you and I,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2133.16,
+   "end": 2138.74,
+   "text": "we've always had trouble really getting the controversy going.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2138.74,
+   "end": 2144.34,
+   "text": "But I have to say that the last few months,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2144.34,
+   "end": 2153.22,
+   "text": "As a result of a day I spent taking care of my five-year-old grandson, his mother came",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2153.22,
+   "end": 2160.22,
+   "text": "out on a business trip and so she left him with us and I took care of him for a day and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2160.22,
+   "end": 2166.22,
+   "text": "by the way he made it clear that the decision was made by his mother without participation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2166.22,
+   "end": 2170.22,
+   "text": "by him.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2170.22,
+   "end": 2175.34,
+   "text": "And so I had him, and he had gotten out of bed with the wrong foot that morning, and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2175.34,
+   "end": 2183.26,
+   "text": "nothing I suggested he do, which is the truth, whatever I said, he said.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2183.26,
+   "end": 2188.98,
+   "text": "And so in exasperation I said, geez, what would you like to do?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2188.98,
+   "end": 2199.04,
+   "text": "And he looked at me and said, grandfather, how should I know, I'm just five years old.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2199.04,
+   "end": 2207.39,
+   "text": "a few hours later, it was lunchtime, and she said, Keith, would you like to take the table?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2207.59,
+   "end": 2220.64,
+   "text": "And I said, yes, I'd like to. And so we decided, and she said, grandfather, what do you want",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2220.64,
+   "end": 2226.04,
+   "text": "to take the table? And she said, you know, you take the table often enough, and you know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2226.04,
+   "end": 2234.76,
+   "text": "what to do. Take your own decision. And she looked at me and said, there isn't fear that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2234.76,
+   "end": 2242.82,
+   "text": "you force me to make a decision when you know the right answer. You know, that's the perfect",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2242.82,
+   "end": 2247.36,
+   "text": "stretch. Only a five-year-old would be speaking without stretching, and I would fight that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2247.36,
+   "end": 2253.4,
+   "text": "thoroughly. But, you know, they're very human to teach nothing. For participating management,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2254.26,
+   "end": 2265.31,
+   "text": "it was basically that little boy realized that, I don't know if it was sham, but that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2265.31,
+   "end": 2272.39,
+   "text": "But basically that's my job, you know, that's what grandfathers are paid for.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2272.39,
+   "end": 2300.09,
+   "text": "And I think there's a lot of, there's a very real problem and I don't think we really know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2300.09,
+   "end": 2307.59,
+   "text": "how to do that.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.855
+  },
+  {
+   "start": 2307.59,
+   "end": 2310.83,
+   "text": "I agree and I disagree with you.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2310.83,
+   "end": 2314.71,
+   "text": "I think we know a lot more about how to deal with it.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.441
+  },
+  {
+   "start": 2314.71,
+   "end": 2315.71,
+   "text": "Than grandfathers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2315.71,
+   "end": 2326.18,
+   "text": "Well, I think that what comes to mind",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.457
+  },
+  {
+   "start": 2326.18,
+   "end": 2332.42,
+   "text": "is what the Zen master said to the disciple.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2332.42,
+   "end": 2334.3,
+   "text": "When the disciple came to the master",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2334.3,
+   "end": 2342.22,
+   "text": "and asked him, master, what is the secret to life",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2342.22,
+   "end": 2346.47,
+   "text": "in the Zen philosophy?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2346.47,
+   "end": 2351.71,
+   "text": "The master immediately responded and simply said, attention.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2351.71,
+   "end": 2357.34,
+   "text": "attention, attention, attention.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2357.34,
+   "end": 2362.44,
+   "text": "And in what you just described of the relationship",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2362.44,
+   "end": 2366.96,
+   "text": "between yourself and your grandson, which is also",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2366.96,
+   "end": 2370.22,
+   "text": "the relationship by analogy of the manager",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2370.22,
+   "end": 2373.72,
+   "text": "and the people that the manager works with,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2373.72,
+   "end": 2376.9,
+   "text": "the critical thing is that you listened.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2376.9,
+   "end": 2383.11,
+   "text": "You paid attention to your grandson.",
+   "speaker": "other",
+   "drucker_coverage": 0.259
+  },
+  {
+   "start": 2383.11,
+   "end": 2384.31,
+   "text": "He didn't think so.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2384.31,
+   "end": 2392.83,
+   "text": "Well, but you paid attention to him, and you sensed what he was saying, and he in turn",
+   "speaker": "other",
+   "drucker_coverage": 0.14
+  },
+  {
+   "start": 2392.83,
+   "end": 2397.11,
+   "text": "paid attention to you, and he listened to what you were saying, and when you said to",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2397.11,
+   "end": 2403.59,
+   "text": "him, what would you like to do, he paid enough attention to recognize not only was he paying",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2403.59,
+   "end": 2409.91,
+   "text": "attention to you, but he was listening to his own inner feeling, which was saying, and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2409.91,
+   "end": 2412.99,
+   "text": "And this only, fortunately, young people can do.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2412.99,
+   "end": 2421.62,
+   "text": "As we get older, it gets harder and harder to do, which was to admit that I am the best",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2421.62,
+   "end": 2430.72,
+   "text": "judge of my level of competence and what I am capable of doing and not doing.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2430.72,
+   "end": 2435.66,
+   "text": "And when the five-year-old says, how am I supposed to know what to do?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2435.66,
+   "end": 2438.4,
+   "text": "I'm only five years old.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2438.4,
+   "end": 2445.58,
+   "text": "How many of us, for example, can find that we can go to a meeting and recognize that",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2445.58,
+   "end": 2453.58,
+   "text": "here is an activity that is beyond my level of competence and I really need someone else's",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2453.58,
+   "end": 2456.22,
+   "text": "help?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2456.22,
+   "end": 2464.24,
+   "text": "Effective participation occurs in a team when someone can very straightforwardly say, look,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2464.24,
+   "end": 2468.87,
+   "text": "that's an area I am not familiar with.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2468.87,
+   "end": 2478.51,
+   "text": "Who has more knowledge about this and what can you suggest that would be of help to me?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2478.51,
+   "end": 2484.59,
+   "text": "That's effective participation in which people pay attention to others and to what's going",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2484.59,
+   "end": 2492.4,
+   "text": "on in themselves and can communicate that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2492.4,
+   "end": 2497.88,
+   "text": "When was the last meeting you've been to when somebody turned and said, this is an area",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2497.88,
+   "end": 2500.78,
+   "text": "where I need help?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2500.78,
+   "end": 2502.46,
+   "text": "Who can help me?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2502.46,
+   "end": 2509.77,
+   "text": "My God, that's admitting a weakness in public.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2509.77,
+   "end": 2511.93,
+   "text": "In effective organizations, that's",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2511.93,
+   "end": 2513.19,
+   "text": "not treated as a weakness.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2513.19,
+   "end": 2519.64,
+   "text": "That's treated as a strength.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.874
+  },
+  {
+   "start": 2519.64,
+   "end": 2521.76,
+   "text": "Sounds to me like, Dale, what you're describing",
+   "speaker": "other",
+   "drucker_coverage": 0.17
+  },
+  {
+   "start": 2521.76,
+   "end": 2524.5,
+   "text": "is that human resource managers, effective ones,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 2524.5,
+   "end": 2532.93,
+   "text": "are basically wimps.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.822
+  },
+  {
+   "start": 2532.93,
+   "end": 2534.31,
+   "text": "That's a very common attitude.",
+   "speaker": "other",
+   "drucker_coverage": 0.051
+  },
+  {
+   "start": 2544.66,
+   "end": 2547.46,
+   "text": "I think we should open it up for questions from the audience.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2547.46,
+   "end": 2573.69,
+   "text": "You're also beginning to practice, or at least trying to understand and practice what",
+   "speaker": "drucker",
+   "drucker_coverage": 0.905
+  },
+  {
+   "start": 2573.69,
+   "end": 2581.69,
+   "text": "we call matrix management, and obviously none of us, or some of us, don't understand very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2581.69,
+   "end": 2588.69,
+   "text": "quickly what that means, how to go about making the matrix management system work effectively",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2588.69,
+   "end": 2591.69,
+   "text": "for the whole of our section of the algorithm.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2591.69,
+   "end": 2593.69,
+   "text": "Would you comment on that, please?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2593.69,
+   "end": 2606.05,
+   "text": "You know, it's a term, matrix management, I try not to use because I don't know what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2606.05,
+   "end": 2606.53,
+   "text": "it means.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2608.01,
+   "end": 2621.13,
+   "text": "It is something that needs to be done, but basically it's an admission that we cannot",
+   "speaker": "drucker",
+   "drucker_coverage": 0.924
+  },
+  {
+   "start": 2621.13,
+   "end": 2631.63,
+   "text": "organize, and therefore we have to appeal to people who use their own best efforts to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2631.63,
+   "end": 2636.27,
+   "text": "keep things going, even though there is chaos.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2636.27,
+   "end": 2641.23,
+   "text": "And this is sometimes unavoidable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2641.23,
+   "end": 2645.37,
+   "text": "I talked during the break with a former student of mine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2645.37,
+   "end": 2649.69,
+   "text": "who is here, who is now in the administration of a big teaching",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2649.69,
+   "end": 2651.03,
+   "text": "hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2651.03,
+   "end": 2654.97,
+   "text": "And basically, the floor on this can only",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2654.97,
+   "end": 2658.27,
+   "text": "run executive office of the hospital,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2658.27,
+   "end": 2661.45,
+   "text": "can only run things by matrix management.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2661.45,
+   "end": 2666.45,
+   "text": "which is when there is a crisis at three in the morning,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2667.15,
+   "end": 2671.49,
+   "text": "that inhalation therapist reports to her",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2671.49,
+   "end": 2677.0,
+   "text": "and she can get that inhalation therapist",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2677.0,
+   "end": 2681.0,
+   "text": "to work on that old woman with cardiac insufficiency.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2683.52,
+   "end": 2687.1,
+   "text": "And normally the inhalation therapist",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2687.1,
+   "end": 2690.58,
+   "text": "is not under the control of the chronic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2690.58,
+   "end": 2696.4,
+   "text": "And that's a very old form of matrix management,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2696.4,
+   "end": 2698.8,
+   "text": "only nobody in the hospital calls it that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2698.92,
+   "end": 2699.92,
+   "text": "They don't call it anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2700.66,
+   "end": 2702.8,
+   "text": "It's simply an emergency for you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2703.88,
+   "end": 2705.76,
+   "text": "And you can't do it anyhow, by the way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2706.46,
+   "end": 2710.14,
+   "text": "And when you run, like, you are in Citibank, aren't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2710.7,
+   "end": 2711.12,
+   "text": "Aren't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2712.74,
+   "end": 2714.28,
+   "text": "Are you Citibank? No.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2715.62,
+   "end": 2716.1,
+   "text": "What?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2716.82,
+   "end": 2718.16,
+   "text": "I don't know where this is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2718.32,
+   "end": 2719.46,
+   "text": "I thought you were in Citibank.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2719.46,
+   "end": 2736.78,
+   "text": "When you are in a big World Bank, there is no other way but matrix management, because you always form ad hoc teams. And then let me say we know how to make it effective.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2736.78,
+   "end": 2740.46,
+   "text": "And part of the prescription is five years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2740.94,
+   "end": 2747.48,
+   "text": "The idea that you can put it in and it works is plain silly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2750.2,
+   "end": 2765.94,
+   "text": "Because you're basically saying people have the responsibility to keep informed anyone who might conceivably be impacted by their decisions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2765.94,
+   "end": 2772.82,
+   "text": "and anyone of whom they conceivably do depend because sooner or later they will have to work in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2772.82,
+   "end": 2780.98,
+   "text": "an ad hoc team with them and they have to take organization with responsibility you have to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2781.54,
+   "end": 2785.7,
+   "text": "substitute the willingness of people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 29.44,
+ "created_utc": "2026-09-20T22:51:07+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

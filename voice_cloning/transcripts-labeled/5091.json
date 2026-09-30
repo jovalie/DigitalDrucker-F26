@@ -1,0 +1,2779 @@
+{
+ "pointer": "5091",
+ "media": "5091.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2931.2,
+ "segments": [
+  {
+   "start": 1.23,
+   "end": 17.77,
+   "text": "These other people. Let me say one person's judgment on another human being is utterly worthless. Utterly. Partly because we can't rid ourselves of prejudice or first impressions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 17.77,
+   "end": 32.86,
+   "text": "You know, here that fellow worked for you 18 years ago and he was an insecure, shy beginner",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 32.86,
+   "end": 33.86,
+   "text": "and gauche.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 33.86,
+   "end": 34.86,
+   "text": "That's you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 34.86,
+   "end": 41.85,
+   "text": "That was 18 years ago when he was 23, but that's what you still see.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 41.85,
+   "end": 46.77,
+   "text": "But also he came in, you know, at age 23 and he was very brilliant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 46.77,
+   "end": 47.77,
+   "text": "You were very impressed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 47.77,
+   "end": 57.77,
+   "text": "But you still see that brilliant beginner. He just didn't live up to his fame.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 57.77,
+   "end": 63.77,
+   "text": "Or he parts his hair in the middle and you don't even know it, but you are very allergic to that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 63.77,
+   "end": 74.05,
+   "text": "Or he speaks with a good, flat, Nebraska accent, with this kind of grates.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 74.05,
+   "end": 82.74,
+   "text": "Well, he was born in Omaha, you know, where they speak that way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 82.74,
+   "end": 85.74,
+   "text": "And you don't know what to say.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 85.74,
+   "end": 90.74,
+   "text": "Or you met his wife and she has the horror.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 90.74,
+   "end": 97.74,
+   "text": "Yeah, but you know, you're appointing him and not her.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 97.74,
+   "end": 103.54,
+   "text": "And then one checks with other people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 103.54,
+   "end": 112.04,
+   "text": "And if you, and it's amazing if you superimpose judgment and pressure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 112.04,
+   "end": 121.84,
+   "text": "How reliable is a picture of a capsule? And you don't need very many, four, five.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 121.84,
+   "end": 128.04,
+   "text": "And you know you have that uneasy feeling in the tip of your stomach about this prison.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 128.04,
+   "end": 131.64,
+   "text": "And if you find three other people sharing it, and all say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 131.64,
+   "end": 138.64,
+   "text": "Joe. But Joe has done awfully well in every job. But you know what? You never had a good feeling about it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 138.64,
+   "end": 147.02,
+   "text": "Then you listen. That means something. But you have said, I need a feeling that nobody else has.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 147.02,
+   "end": 160.16,
+   "text": "Well, then this will go on. Or, here's Joe, and Joe has worked beautifully for you.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.81
+  },
+  {
+   "start": 160.16,
+   "end": 170.01,
+   "text": "And beautifully for Jim. But Tom and Bob, and you know Tom and Bob, and they are fairly easy people to work with.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 170.01,
+   "end": 172.79,
+   "text": "See, Joe never did a damn thing for me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 172.85,
+   "end": 173.47,
+   "text": "I don't know why.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 175.23,
+   "end": 176.15,
+   "text": "Very common.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 176.51,
+   "end": 178.85,
+   "text": "Joe works with certain kinds of people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 179.13,
+   "end": 180.35,
+   "text": "He can't work with others.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 181.09,
+   "end": 182.83,
+   "text": "Joe is terribly rigid.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 183.33,
+   "end": 187.62,
+   "text": "He can't adapt to a boss.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 188.12,
+   "end": 188.86,
+   "text": "Very common.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 188.98,
+   "end": 190.04,
+   "text": "You've all seen it, haven't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 191.36,
+   "end": 192.66,
+   "text": "Well, that's a fact.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 193.38,
+   "end": 194.7,
+   "text": "That man looks at the boss.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 196.04,
+   "end": 196.76,
+   "text": "That man says,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 199.35,
+   "end": 201.33,
+   "text": "here Joe will have to work for us.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 201.33,
+   "end": 211.93,
+   "text": "Then you suddenly realize what's wrong. Joe is a manic-depressant. Very common.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 211.93,
+   "end": 220.93,
+   "text": "In fact, let me say as an old consultant, one has to learn to work with manic-depressants because otherwise one couldn't work at all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 220.93,
+   "end": 231.93,
+   "text": "That's common. Which means that every so often Joe goes into it. Don't call it a depression, don't call it displeasure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 231.93,
+   "end": 240.93,
+   "text": "It's a clarity to him for what is a subacute. But that's when he needs somebody to stroke his fever brow,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 240.93,
+   "end": 250.93,
+   "text": "Somebody to tell him, we all love you Joe, and at the same time kick him hard where it is, front or back, but hard.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 250.93,
+   "end": 257.93,
+   "text": "You know, one doesn't have, one has, love for my professors, they are no simpersons.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 257.93,
+   "end": 263.93,
+   "text": "Don't ever say, my God, the world is horrible. They don't need you for that, they know that already.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 263.93,
+   "end": 270.93,
+   "text": "But we love you, we adore you, and put him to work, and what they need is getting out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 270.93,
+   "end": 278.37,
+   "text": "Don't say go home and sleep it off. That's fine for a handover, not for a depression.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 278.37,
+   "end": 286.42,
+   "text": "And you know this. You do it without thinking about it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 286.42,
+   "end": 293.42,
+   "text": "And here is Ricky, and Ricky is our best executive, but that's not the way he works.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 293.42,
+   "end": 303.42,
+   "text": "And the manic-depressant needs a little insight. Or he goes into your, don't call me Mr. Walsh, because that's what we are.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 303.42,
+   "end": 315.42,
+   "text": "Or you have somebody who can only work if somebody sits down and says, A, B, C, D, and between C and D you come and see me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 315.42,
+   "end": 333.4,
+   "text": "You know the type? He needs it. And not everybody can work there. Or you have somebody who cannot stand it. He is not flexible enough to adapt.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.917
+  },
+  {
+   "start": 333.4,
+   "end": 358.87,
+   "text": "And then one thinks twice. But then I also understand. You know John and Jim and Tom and Bob and James. I've worked with them for years. And two of those five, including you two, have found working with Jim absolutely delightful and very easy.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.961
+  },
+  {
+   "start": 358.87,
+   "end": 362.99,
+   "text": "The other three, Jane says, he's all right now, but okay.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 363.73,
+   "end": 366.69,
+   "text": "The other two said, he's been absolutely miserable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 367.41,
+   "end": 370.63,
+   "text": "Well, then you look at them, and then you suddenly understand, Jim.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 371.71,
+   "end": 375.27,
+   "text": "You understand that when one checks this, people won't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 376.17,
+   "end": 379.35,
+   "text": "But that is making the placement decision.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 379.35,
+   "end": 384.23,
+   "text": "It's your most important decision, and most of you spend no time on it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 384.23,
+   "end": 400.63,
+   "text": "You make it by visibility. And most of you in this room, most of your promotions are by proven incompetence. Because that's the most visible thing there is. You make them by visibility.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 400.63,
+   "end": 416.91,
+   "text": "And then you owe it to people and to yourself to give them a chance to make the new job succeed by challenge.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 416.91,
+   "end": 421.91,
+   "text": "90 days, 120 days later, you will be more than one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 421.91,
+   "end": 428.91,
+   "text": "And say you are in a new job and it's a new job and now will you please think through what a new job requires.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 428.91,
+   "end": 437.91,
+   "text": "The only way you can find out that you and that person you put in there do not see eye to eye.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 437.91,
+   "end": 451.48,
+   "text": "Here he comes back and tells you he's going to make this museum a cultural discotheque.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 451.48,
+   "end": 455.48,
+   "text": "Well, that was not what you had in mind.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 455.48,
+   "end": 462.97,
+   "text": "And you know your faculty, you know it's going to be a problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 462.97,
+   "end": 472.12,
+   "text": "Then you know that you either say to that museum director, look, my boy, this isn't going to work here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 472.12,
+   "end": 488.49,
+   "text": "Or you say, you go ahead and do it, and I'll protect you. I'll take the flag. That's my job as your boss.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 488.49,
+   "end": 496.49,
+   "text": "One of the most important things a boss can do is enable subordinates to do their work and take the flag.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 496.49,
+   "end": 502.49,
+   "text": "And all right, the art history faculty is going to scream high time that those old fogies",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 502.49,
+   "end": 509.99,
+   "text": "got shooken up, and the graduate council is going to raise blood and murder, but maybe",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 509.99,
+   "end": 512.99,
+   "text": "we move the museum out of the graduate council.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 512.99,
+   "end": 517.97,
+   "text": "Maybe it's important enough to fight.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 517.97,
+   "end": 518.97,
+   "text": "Maybe it isn't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 518.97,
+   "end": 523.97,
+   "text": "If it isn't important, one says to them, look, maybe you're right.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 523.97,
+   "end": 525.97,
+   "text": "For all I know, you're right.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 525.97,
+   "end": 534.81,
+   "text": "it isn't, the museum is not that important to us, to have that fight over it. We have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 534.81,
+   "end": 546.14,
+   "text": "plenty of fights ahead. You see one of the old rules of strategy is one fights on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 546.14,
+   "end": 553.83,
+   "text": "the battlefield of one's own choosing, one possibly has a choice. Whoever can",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 553.83,
+   "end": 559.55,
+   "text": "pick the battlefield is the one that's half the battle. And the museum is not the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 559.55,
+   "end": 566.83,
+   "text": "battlefield I'm going to going to fight out the basic question of the function",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 566.83,
+   "end": 573.93,
+   "text": "of the multiversity which is what you are raising it's a wrong issue even if",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 573.93,
+   "end": 581.6,
+   "text": "our but how does one decide what's the right issue you know we have several",
+   "speaker": "drucker",
+   "drucker_coverage": 0.87
+  },
+  {
+   "start": 581.6,
+   "end": 586.16,
+   "text": "military people here who have probably lived in some strategy schools how does",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 586.16,
+   "end": 594.73,
+   "text": "one decide if it gets you anywhere that's simple you fight it out and it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 594.73,
+   "end": 599.35,
+   "text": "It gets you nowhere, it's a wrong battle.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 599.35,
+   "end": 604.69,
+   "text": "You fight that battle where if you win it, you then control the mountain passes, or the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 604.69,
+   "end": 616.52,
+   "text": "river falls, or the plains, but if all you control, it gets you no place, and you have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 616.52,
+   "end": 622.94,
+   "text": "to slug it out again and again, then you better not fight.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 622.94,
+   "end": 627.94,
+   "text": "So this issue, you look at it, we fight it, all right, he's absolutely right, we are stodgy,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 627.94,
+   "end": 636.94,
+   "text": "old-fashioned we are stuck in the 50s and these are the late 70s and academia",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 636.94,
+   "end": 645.04,
+   "text": "lives in a different environment and we have to think yes I think it's true I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 645.04,
+   "end": 652.18,
+   "text": "think it's true that if we win will it get to them in place or if you win will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 652.18,
+   "end": 666.63,
+   "text": "we only have made enemies to what well you don't know whether you can win it",
+   "speaker": "drucker",
+   "drucker_coverage": 0.931
+  },
+  {
+   "start": 666.63,
+   "end": 672.75,
+   "text": "but it and you always take a risk when you're going to fight you know the other",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 672.75,
+   "end": 678.03,
+   "text": "one the other fellow might have classmates and in academia you know that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 678.03,
+   "end": 691.03,
+   "text": "Well, sure, you don't have to get amped up. But you say, all right, the odds, we take a risk anyhow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 691.03,
+   "end": 701.6,
+   "text": "But let's assume we win it. Does it get us any place? Or are we just locked in?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 701.6,
+   "end": 709.6,
+   "text": "into more, and have only alerted the enemy so that he can then mobilize for the real fight.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 709.6,
+   "end": 717.6,
+   "text": "We say the best strategic story, I hope you don't mind me telling a Brazilian story of 20 years ago, which you know anyhow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 717.6,
+   "end": 725.6,
+   "text": "You know the story of the two Brazilian generals, this is way back when Brazil was probably in the real 1950s,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 725.6,
+   "end": 733.76,
+   "text": "who sat and bemoaned the sad state of their country and one said to the other i know the answer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 735.6,
+   "end": 741.76,
+   "text": "we declare war on the united states you know the story yes but the rest of you don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 742.48,
+   "end": 749.76,
+   "text": "yeah and so this other general said you damn fool we lose that war said of course we do then they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 749.76,
+   "end": 759.76,
+   "text": "have to come in and rebuild us. And the second one thinks deeply and thinks it's too risky.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 759.76,
+   "end": 778.76,
+   "text": "Assume we win. That's a very profound statement. When we struggle, if you win, don't fight.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.632
+  },
+  {
+   "start": 778.76,
+   "end": 799.78,
+   "text": "And so, let me say the corollary to that, and this is part of, not of the same story, but of the same lesson, is when the cardinal climate of Brazil went to the first Vatican, when the Pope Leo, he was being asked,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 799.78,
+   "end": 808.78,
+   "text": "How come that Brazil, such a castle country, is so rapidly losing its religion?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 808.78,
+   "end": 816.78,
+   "text": "And he said, that's very simple, most Brazilians now believe that the contract for fuel supply",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 816.78,
+   "end": 822.78,
+   "text": "to hell has been given to the Brazilian Petroleum Monopoly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 822.78,
+   "end": 826.78,
+   "text": "And no longer any fear of hell around.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 826.78,
+   "end": 829.28,
+   "text": "So part of the same story.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 829.28,
+   "end": 840.02,
+   "text": "And so maybe the art museum is the right place to fight it out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 840.02,
+   "end": 844.32,
+   "text": "because we establish principles, and we have a contained fight,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 844.32,
+   "end": 846.12,
+   "text": "and it's so obviously right.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 846.12,
+   "end": 850.22,
+   "text": "And money is on our side, financial pressures.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 850.22,
+   "end": 853.18,
+   "text": "There's no place where money speaks as loudly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 853.18,
+   "end": 856.34,
+   "text": "as in non-profit institutions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 856.34,
+   "end": 865.94,
+   "text": "some of you from hospitals know so it's on our side uh maybe it's the worst possible place because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 868.58,
+   "end": 878.67,
+   "text": "we erase all the issues and we get absolutely nothing except grief or it is even worse",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 878.67,
+   "end": 891.67,
+   "text": "We raise all the issues but we have a poor case. We raise it where our case is the weakest and our chances for winning therefore very poor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 891.67,
+   "end": 905.67,
+   "text": "As far as the Art Museum goes, it is so clear that it is the wrong place to ask the question of the university's mission, which we are asking.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 905.67,
+   "end": 920.25,
+   "text": "Because the art museum in its very nicely confined place, that is the one place in the university where yesterday is the right answer for tomorrow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 922.66,
+   "end": 927.66,
+   "text": "And so one doesn't raise tomorrow in it, because then we get defeated on principles.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 929.12,
+   "end": 930.92,
+   "text": "The precedents are against us.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 930.92,
+   "end": 939.92,
+   "text": "One looks for the issue where one has allies and has a strong case.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 939.92,
+   "end": 942.92,
+   "text": "But that's strategy, we're not talking about it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 942.92,
+   "end": 949.92,
+   "text": "So one looks at, one takes the people, one takes placement decisions seriously",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 949.92,
+   "end": 954.92,
+   "text": "and one takes seriously the responsibility to challenge people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 954.92,
+   "end": 958.92,
+   "text": "who have moved into a new job to think about it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 958.92,
+   "end": 964.92,
+   "text": "and to realize that they are in a new job, and that just because the title is the same,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 964.92,
+   "end": 970.92,
+   "text": "the director of the museum, the job is totally different.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 970.92,
+   "end": 986.31,
+   "text": "Or just because it's a promotion, what they have done to earn the promotion is not appropriate on the new job, which is very common.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.935
+  },
+  {
+   "start": 986.31,
+   "end": 992.81,
+   "text": "Now let's look at the second hypothesis here, that this is an organizational problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 992.81,
+   "end": 998.75,
+   "text": "How does one test that? How do you test it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 998.75,
+   "end": 1010.19,
+   "text": "Somebody comes to you and says, look at our product development.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.913
+  },
+  {
+   "start": 1010.19,
+   "end": 1019.19,
+   "text": "It's in engineering. And all we get out of the damn thing are expensive product modifications.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1019.19,
+   "end": 1023.5,
+   "text": "Anybody here know what I'm talking about?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1023.5,
+   "end": 1030.04,
+   "text": "It has constant friction between product development and marketing,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1030.04,
+   "end": 1035.18,
+   "text": "and product development and manufacturing,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1035.18,
+   "end": 1038.18,
+   "text": "and we don't get any new products.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1038.18,
+   "end": 1045.26,
+   "text": "And maybe it's in the wrong place.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1045.26,
+   "end": 1049.11,
+   "text": "It doesn't belong in engineering.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1049.11,
+   "end": 1054.12,
+   "text": "How does one test that?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1054.12,
+   "end": 1063.86,
+   "text": "Over here, you have your quality control under manufacturing,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.795
+  },
+  {
+   "start": 1063.86,
+   "end": 1065.86,
+   "text": "as a good many of you do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1065.86,
+   "end": 1097.24,
+   "text": "And all the small quality problems get caught and none of the big ones do. And the customers scream, and marketing screams, and quality control screams, and maybe it doesn't belong in the manufacturing, but the manufacturing people are goddamned if you put it in any other place.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.968
+  },
+  {
+   "start": 1097.24,
+   "end": 1107.24,
+   "text": "It has to do with what goes on in the plant, and if you want me to be responsible for the plant, you better, you know, we have all heard it, haven't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1107.24,
+   "end": 1123.02,
+   "text": "But, so, how do you test the plant? Yes, sir?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.43
+  },
+  {
+   "start": 1123.02,
+   "end": 1130.02,
+   "text": "We examine the problem to find out where the problem is being caused, whether it's a design problem.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.571
+  },
+  {
+   "start": 1130.02,
+   "end": 1150.16,
+   "text": "I hope you will accept from me that I no longer make studies, and certainly not another study.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.652
+  },
+  {
+   "start": 1150.16,
+   "end": 1156.41,
+   "text": "You have made that study, haven't you? Not before you get to that point.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1156.41,
+   "end": 1169.75,
+   "text": "Maybe you won't learn it, but you can suppress the desire to make another study.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1169.75,
+   "end": 1177.07,
+   "text": "I used to believe that one practices first control on studies.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1177.07,
+   "end": 1183.69,
+   "text": "I've now reached the extreme position of a austere monastic order.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1183.69,
+   "end": 1198.27,
+   "text": "practice is abstinence. I used to say before I make a study I have to be convinced or at least",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1198.27,
+   "end": 1206.19,
+   "text": "good case has to be made that the study will turn up anything new and that the new will have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1206.19,
+   "end": 1214.19,
+   "text": "to be important and relevant, and unless I can be convinced of this I won't sanction the study.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1214.19,
+   "end": 1224.47,
+   "text": "And I have now realised that it is much easier to say no because there aren't practically no studies",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1224.47,
+   "end": 1228.47,
+   "text": "that really pass my criteria.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1228.47,
+   "end": 1234.38,
+   "text": "Now we have a better way, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.831
+  },
+  {
+   "start": 1234.38,
+   "end": 1241.34,
+   "text": "know organization problems we know how and one doesn't make a study even though you may have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1241.34,
+   "end": 1250.94,
+   "text": "a report at the end one thinks through how things would work and the different organizational",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1250.94,
+   "end": 1260.38,
+   "text": "assignments arrangements or makes what the physicists called experimental thought experience",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1260.38,
+   "end": 1291.95,
+   "text": "And one says, all right, now let's assume we move that product development to marketing. Oh, how would, what are the fundamental challenges and tasks of product development? Would it work any better? Would it be materially helpful? Would it be unchanged, unaffected? Would it be worse?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1291.95,
+   "end": 1307.65,
+   "text": "In our product development we have a very real problem in that everything is being engineered",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1307.65,
+   "end": 1315.98,
+   "text": "down to the very last production model and there is no market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1315.98,
+   "end": 1326.98,
+   "text": "Or we have a very real problem in that in product development the question of how much would it have,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1326.98,
+   "end": 1335.11,
+   "text": "have would we have what the price have to be for it to be saleable is never being asked now those",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1335.11,
+   "end": 1342.39,
+   "text": "are things which moving it and the marketing would materially improve in all ideas on the other hand",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1342.39,
+   "end": 1347.85,
+   "text": "let me see if you have a problem in product development that why you come out with beautiful",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1347.85,
+   "end": 1355.47,
+   "text": "design that your salesman would love to sell it you can't manufacture the damn thing it's designed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1355.47,
+   "end": 1360.47,
+   "text": "to be produced by elves in the black forest and not by a plant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1360.47,
+   "end": 1365.47,
+   "text": "You know, that isn't being helped by people in the market, not in the least.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1365.47,
+   "end": 1370.47,
+   "text": "On the contrary, anything. And if your product development",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1370.47,
+   "end": 1375.47,
+   "text": "problem is that you have good people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1375.47,
+   "end": 1380.47,
+   "text": "in there, but they never get the developing products because they are all",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1380.47,
+   "end": 1384.81,
+   "text": "running around with band-aids for existing products.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1384.81,
+   "end": 1388.65,
+   "text": "That's not going to be helpful to put in the market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1388.65,
+   "end": 1391.29,
+   "text": "They're only going to put band-aids on different parts",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1391.29,
+   "end": 1393.65,
+   "text": "of the old products.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1393.65,
+   "end": 1398.03,
+   "text": "But the marketing is, every salesman, anybody here",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1398.03,
+   "end": 1400.03,
+   "text": "ever seen a salesman?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1400.03,
+   "end": 1400.93,
+   "text": "Few of you have.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1400.93,
+   "end": 1404.77,
+   "text": "Every salesman I know always comes in and says,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1404.77,
+   "end": 1409.07,
+   "text": "if I had this in vermilion yesterday, I could have sold it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1410.47,
+   "end": 1412.47,
+   "text": "So make it in vermilion.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1412.47,
+   "end": 1416.47,
+   "text": "Every salesman is always trying to recapture the sales,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1416.47,
+   "end": 1419.47,
+   "text": "the big one that went away yesterday.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1419.47,
+   "end": 1423.47,
+   "text": "And that is part of the salesman's job.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1423.47,
+   "end": 1425.47,
+   "text": "And so it's a product development.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1425.47,
+   "end": 1430.47,
+   "text": "People tend to be eaten up by modification, by defensive work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1430.47,
+   "end": 1435.47,
+   "text": "And they have all those big plant projects for tomorrow",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1435.47,
+   "end": 1439.47,
+   "text": "in their plans when you then actually look at who works on them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1439.47,
+   "end": 1445.53,
+   "text": "works on them. The office boy works on them. Everybody else is running around with a screwdriver",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1445.53,
+   "end": 1451.53,
+   "text": "fixing yesterday's problems. Well, then by putting it under marketing, you're only going",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1451.53,
+   "end": 1460.53,
+   "text": "to improve it. You're just substituting different modifications. And so on. One says, would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1460.53,
+   "end": 1469.53,
+   "text": "key problems be materially affected, the key relationships, and think it through.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1469.53,
+   "end": 1480.42,
+   "text": "And now apply this to this museum. Here it is in the graduate faculty, not because anybody planned it that way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1480.42,
+   "end": 1492.86,
+   "text": "In fact, in academia nobody ever planned anything, which is one of the reasons why so many things work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1492.86,
+   "end": 1501.36,
+   "text": "You all know the basic law of statistics, that if the probability of a statistical distribution",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1501.36,
+   "end": 1506.62,
+   "text": "is less than 50%, then you're better off with Randolph.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1506.62,
+   "end": 1514.62,
+   "text": "But therefore academia works better than you long-range planners usually do, because your",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1514.62,
+   "end": 1519.5,
+   "text": "process has, in most cases, a probability well below 50%.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1519.5,
+   "end": 1526.86,
+   "text": "in academia where nobody interferes with things, because nobody knows what goes on,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1526.86,
+   "end": 1538.86,
+   "text": "as in certain random things, occasionally things happen because it's sheer probability, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1538.86,
+   "end": 1549.34,
+   "text": "Sometimes it must work out. But here it is in the graduate faculty. Where can you move?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1549.34,
+   "end": 1557.87,
+   "text": "what else could you do what could you do how many options do you have within the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1557.87,
+   "end": 1563.31,
+   "text": "constraints of academic organization well one would be to make it a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1563.31,
+   "end": 1578.01,
+   "text": "department in the graduate school and one would be to make it a separate",
+   "speaker": "drucker",
+   "drucker_coverage": 0.864
+  },
+  {
+   "start": 1578.01,
+   "end": 1582.51,
+   "text": "school these are the things you can do in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1582.51,
+   "end": 1587.55,
+   "text": "academia and one would be to make it one of those free floating",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1587.55,
+   "end": 1595.15,
+   "text": "parishes that report to administration directly and have let me say never appoint one advisory",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1595.15,
+   "end": 1602.03,
+   "text": "committee alone that's dangerous six and you can be sure that they won't do any damage",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1604.03,
+   "end": 1615.47,
+   "text": "six uh the uh how many of you have seen that little four page flyer that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1615.47,
+   "end": 1620.21,
+   "text": "the take-off on the organization of a Pakistan church.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1620.47,
+   "end": 1620.93,
+   "text": "Any of you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1622.01,
+   "end": 1623.37,
+   "text": "It's one of the funnier things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1624.09,
+   "end": 1626.03,
+   "text": "I only know it because the author,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1626.51,
+   "end": 1628.29,
+   "text": "who is the state,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1628.53,
+   "end": 1631.19,
+   "text": "who is the executive vice president,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1631.37,
+   "end": 1632.65,
+   "text": "I think of the Presbytery,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1633.35,
+   "end": 1635.73,
+   "text": "sent it to me because he suddenly realized",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1635.73,
+   "end": 1638.45,
+   "text": "that maybe I would object to it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1638.89,
+   "end": 1639.81,
+   "text": "I didn't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1639.99,
+   "end": 1643.39,
+   "text": "He underrated my sense of humor greatly,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1643.59,
+   "end": 1644.51,
+   "text": "but never met me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1644.51,
+   "end": 1651.51,
+   "text": "The story is that here is the management consulting firm of Brooker and Townsend,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1651.51,
+   "end": 1659.23,
+   "text": "of Townsend, of XA, what's the name of his book?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1659.23,
+   "end": 1661.23,
+   "text": "Public Organization.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1661.23,
+   "end": 1666.23,
+   "text": "And we have the management consulting firm here in New York City.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1666.23,
+   "end": 1669.23,
+   "text": "And one fine day in the evening, I wander into his office,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1669.23,
+   "end": 1674.23,
+   "text": "or Brooker wanders into his office just as the lights go on in all the skyscrapers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1674.23,
+   "end": 1682.57,
+   "text": "says I'm totally browned out we have been so successful it's a really no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1682.57,
+   "end": 1688.63,
+   "text": "large businesses anymore they need to be organized but only somebody in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1688.63,
+   "end": 1697.43,
+   "text": "Presbyterian Church could have such a conceit because it's not easy and what",
+   "speaker": "drucker",
+   "drucker_coverage": 0.886
+  },
+  {
+   "start": 1697.43,
+   "end": 1706.59,
+   "text": "do we do now?\" And one of us said, well, let's try to design the worst possible organization.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1706.59,
+   "end": 1715.27,
+   "text": "And so we call in our staff, give them the assignment, and each comes up with the most",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1715.27,
+   "end": 1721.27,
+   "text": "impossible thing. And we add some more, and we have the organization of the Protestant",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1721.27,
+   "end": 1729.49,
+   "text": "and believe me that's the way it is but one of them but at least they have 11",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1729.49,
+   "end": 1739.48,
+   "text": "advisory committee on everything so that none of them does any damage and so it's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1739.48,
+   "end": 1747.92,
+   "text": "That's what up the church organization, incredibly funny, four pages.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1747.92,
+   "end": 1764.77,
+   "text": "So you might make it a free-floating, the university art museum, by the way, that solution",
+   "speaker": "drucker",
+   "drucker_coverage": 0.881
+  },
+  {
+   "start": 1764.77,
+   "end": 1776.38,
+   "text": "would be greatly recommended by the peculiarities of federal funding under which money from",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1776.38,
+   "end": 1787.05,
+   "text": "the endowment for the arts and from the endowment for the humanities, cannot go to a university.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1787.05,
+   "end": 1793.99,
+   "text": "That's how we lost our Claremont Music Festival, as part of the Claremont University, we needed",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1793.99,
+   "end": 1799.41,
+   "text": "very little money, the only way to get it very good, and it was a fantastic success,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1799.41,
+   "end": 1805.37,
+   "text": "was to incorporate it separately, and then we would have gotten all the money from Washington,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1805.37,
+   "end": 1811.93,
+   "text": "we needed only a few thousand bucks to practically break even and the colleges didn't want to do it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1812.89,
+   "end": 1817.85,
+   "text": "rightly or wrongly that's another matter but for the president he might have said",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1817.85,
+   "end": 1821.37,
+   "text": "uh but i think that was five years ago and today we will do",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1823.29,
+   "end": 1827.29,
+   "text": "uh money has to go states that someone might be able to raise the money",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1828.65,
+   "end": 1836.89,
+   "text": "and so but the free floating one that reports not to any academic office but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1837.29,
+   "end": 1856.32,
+   "text": "Well, like any university is a big one. They have 65 vice presidents. This is vice president communications. I can always have one of those. And, you know, or somebody.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1856.32,
+   "end": 1884.48,
+   "text": "So it's outside of the educational system and you don't have to worry about the academic senate and you don't have to worry about tenure and you have a great deal of flexibility or you can set it up as a school,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1884.48,
+   "end": 1894.73,
+   "text": "the University Art Museum and Museum School, and have a director of the museum with dean of the school,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1894.73,
+   "end": 1906.79,
+   "text": "or you can make it a department within the graduate school, or you can leave it where it is.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.917
+  },
+  {
+   "start": 1906.79,
+   "end": 1916.95,
+   "text": "And let me say, when you look at it, not one of these things includes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1916.95,
+   "end": 1926.31,
+   "text": "through. You're just where you were before. You just exchanged one problem for another.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1927.51,
+   "end": 1934.39,
+   "text": "You are making a separate institution and I can assure you that nobody is going to do any work",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1934.39,
+   "end": 1940.07,
+   "text": "in that museum for the next 10 years because they're all going to have it over the allocation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1940.63,
+   "end": 1948.47,
+   "text": "of undergraduate credits and money of course. And all of you have spent enough time on allocation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1948.47,
+   "end": 1962.71,
+   "text": "of overhead expenses haven't you you have no idea where these colleges are very relaxed places",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1962.71,
+   "end": 1973.67,
+   "text": "compared to big universities and yet a student student isn't so bad but a Pomona faculty member",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1973.67,
+   "end": 1982.5,
+   "text": "offers one course in the graduate school and they have four years of negotiations about the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1982.5,
+   "end": 1989.4,
+   "text": "allocation of his salary and at least four high-ranking administrators every",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1989.4,
+   "end": 1994.32,
+   "text": "one of whom makes twice as much as the assistant professor that spent 50% of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1994.32,
+   "end": 2001.16,
+   "text": "the time for four years on that problem and if somebody is irreverent as I come",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2001.16,
+   "end": 2011.16,
+   "text": "come along and say, look children, roll with dice, and throw this for me out bodily, and",
+   "speaker": "drucker",
+   "drucker_coverage": 0.8
+  },
+  {
+   "start": 2011.16,
+   "end": 2019.16,
+   "text": "you know, this is really, that's not irreverent, that's willing to take, they're open-minded,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2019.16,
+   "end": 2029.16,
+   "text": "but that's immoral. But at least it's over. Or just go on eeny, meeny, miny, moe basis,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2029.16,
+   "end": 2033.16,
+   "text": "basis, you know. This one you pay for, the next one we pay for.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2033.16,
+   "end": 2037.16,
+   "text": "That's unprincipled.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2037.16,
+   "end": 2042.44,
+   "text": "And, so,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.621
+  },
+  {
+   "start": 2042.44,
+   "end": 2046.44,
+   "text": "but don't laugh, you do exactly the same, don't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2046.44,
+   "end": 2050.44,
+   "text": "And,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2050.44,
+   "end": 2054.44,
+   "text": "I've, you know, I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2054.44,
+   "end": 2058.44,
+   "text": "used to complain that here are those high priced",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2058.44,
+   "end": 2066.38,
+   "text": "research people each of them a potential Nobel Prize winner who spent four months",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2066.38,
+   "end": 2074.56,
+   "text": "arguing over the allocation of the cost of one bottle of India in 185 you won't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2074.56,
+   "end": 2081.34,
+   "text": "been through it haven't you I don't complain anymore but this is much",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2081.34,
+   "end": 2086.96,
+   "text": "better than the arguing over the allocation of something that matters",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2086.96,
+   "end": 2094.48,
+   "text": "It is your turn of day. So, we seem to have to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2094.48,
+   "end": 2102.77,
+   "text": "Now, none of these alternatives will solve for me because,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.879
+  },
+  {
+   "start": 2102.77,
+   "end": 2108.93,
+   "text": "alright, partly because the world of a university is divided into",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2108.93,
+   "end": 2113.33,
+   "text": "undergraduate and graduate and the museum is not.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2113.33,
+   "end": 2119.57,
+   "text": "So you cut the cross. And then it's a facility for the faculty",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2119.57,
+   "end": 2124.97,
+   "text": "for a faculty of a department and very closely related to their work and you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2124.97,
+   "end": 2132.59,
+   "text": "split it off from them and suddenly everybody today the art faculty is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2132.59,
+   "end": 2138.05,
+   "text": "delighted with the opportunity to spend a great deal of time on that catalog on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2138.05,
+   "end": 2142.49,
+   "text": "tibet north and you have no idea how much time a catalog takes you cannot",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2142.49,
+   "end": 2151.61,
+   "text": "imagine. They love it, it's scholarly work, they get credit for it. You split it off",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2151.61,
+   "end": 2157.13,
+   "text": "and suddenly this is in addition to their teaching and it interferes with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2157.13,
+   "end": 2162.69,
+   "text": "their own research and you'd have to make separate budget. It's just a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2162.69,
+   "end": 2173.42,
+   "text": "headache, it's a nightmare. And it isn't the school, you don't want to have to accept",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2173.42,
+   "end": 2181.62,
+   "text": "students into it. A few of your graduate art students go into museum work and yes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2181.62,
+   "end": 2186.82,
+   "text": "and then you have a place where they can do their apprenticeship but you don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2186.82,
+   "end": 2192.5,
+   "text": "you but the museum school happens to be a very expensive proposition. You have to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2192.5,
+   "end": 2199.76,
+   "text": "start with this faculty and we have no students for it. And this way you yes you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2199.76,
+   "end": 2205.52,
+   "text": "You have a few people who go into museum work. How large is the museum market in the US?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2205.52,
+   "end": 2215.29,
+   "text": "Got any idea? Oh, no, no, no. Oh, no. About a thousand a year. Oh, no.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2215.29,
+   "end": 2219.37,
+   "text": "Museum market is the most booming market of the world.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2219.37,
+   "end": 2231.5,
+   "text": "Let's go. Not only does every respectable educational institution now have a museum.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2231.5,
+   "end": 2249.9,
+   "text": "We have two years of family colleges. We never had any professional management. Now we do. And frankly so. But they're going with healing. Palm Springs just opened a museum. You all know about it, don't you? Santa Barbara has one, don't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2250.78,
+   "end": 2257.74,
+   "text": "norton simon has what is now one of the great museums of the world get their head open pacifica",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2257.74,
+   "end": 2264.22,
+   "text": "has gotten money now not much but some oh no this is a booming market but it is still not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2266.35,
+   "end": 2273.23,
+   "text": "thousands of people you have up to a thousand a year for whom they have paid jobs it's that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2273.23,
+   "end": 2280.35,
+   "text": "it's maybe at its peak because so many of them depend on municipal subsidies which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2280.35,
+   "end": 2287.71,
+   "text": "are being cut back very shortly they're suffering from the crisis of the city uh and they have been",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2287.71,
+   "end": 2293.71,
+   "text": "rather lush in their staff many of them but it's not this not that format but it's still a limited",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2293.71,
+   "end": 2303.07,
+   "text": "one and if you can place a dozen people a year 15 they're doing very well so you don't want the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2303.07,
+   "end": 2309.31,
+   "text": "hell of a lot, hell of a big school, and if you don't have that, the economics are just fierce,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2309.87,
+   "end": 2315.79,
+   "text": "just because this is bad. They have to learn a lot of restoration work, and don't forget that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2318.11,
+   "end": 2324.83,
+   "text": "they have to, a museum, art dealers and museum people have to know much more than art historians,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2324.83,
+   "end": 2330.99,
+   "text": "because an art historian specializes on the Spanish Baroque in the 16th century, you know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2330.99,
+   "end": 2339.99,
+   "text": "And the museum man can't do that. Nor can an artist. He may not know quite as much about",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2339.99,
+   "end": 2345.99,
+   "text": "the Spanish Baroque of the 16th century. He may not be able to look at a piece of culture",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2345.99,
+   "end": 2350.99,
+   "text": "and immediately tell you what workshop it came from. But he has to be able to do it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2350.99,
+   "end": 2364.43,
+   "text": "it within a week. But then the week after that, what comes in is not a fake piece of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2364.43,
+   "end": 2372.73,
+   "text": "Spanish sculpture, but a Persian illuminated manuscript. And the week after that, you know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2372.73,
+   "end": 2383.13,
+   "text": "get the 19th century American seascape in. He has to be far more exposed to the art history.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2383.13,
+   "end": 2388.97,
+   "text": "And at the same time he has to know how to run a budget and how to attract visitors and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2388.97,
+   "end": 2398.25,
+   "text": "how to mount an exhibition and how to restore. This is about 5 to 8 years training to deal",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2398.25,
+   "end": 2410.07,
+   "text": "or six, went to very small classes. So we don't really want to do it, but the way we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2410.07,
+   "end": 2414.55,
+   "text": "do it, we can afford it. If you set it up as a school, you couldn't anymore, and we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2414.55,
+   "end": 2422.41,
+   "text": "couldn't get enough students there. The way we do it, as a very successful byproduct of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2422.41,
+   "end": 2430.97,
+   "text": "our graduate art history work where a few young men or women want to go drift into museum work",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2432.01,
+   "end": 2438.41,
+   "text": "and we have a museum where they can actually learn by doing then we can even then we can pay",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2438.41,
+   "end": 2446.84,
+   "text": "him a graduate assistantship idea don't don't rock that boat and so i think if you look at",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2446.84,
+   "end": 2455.76,
+   "text": "it's an organization hypothesis is in all likelihood going to a bad point. Here on this one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2455.76,
+   "end": 2463.44,
+   "text": "But you don't know that in advance until you play it through. Let me say in organization one is not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2463.44,
+   "end": 2472.2,
+   "text": "brilliant. One plays it through because you can't see these things in the ground.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2472.2,
+   "end": 2479.2,
+   "text": "And if you, you know, organization should never be done by,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2479.2,
+   "end": 2487.2,
+   "text": "we need organizational theory to know what's available, but not what to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2487.2,
+   "end": 2490.2,
+   "text": "What to do is one has to figure it out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2490.2,
+   "end": 2495.87,
+   "text": "One looks at it and says, now where does it fit?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2495.87,
+   "end": 2499.87,
+   "text": "And would it work well here?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2499.87,
+   "end": 2508.87,
+   "text": "Not in terms of people, but of time, and relations, and what may be their product development, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2508.87,
+   "end": 2514.87,
+   "text": "Anybody know, by the way, what the only organizational structure is in which product development works?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2514.87,
+   "end": 2520.56,
+   "text": "On its own.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2520.56,
+   "end": 2527.56,
+   "text": "I don't know how many of you have done it, for five years you have it in marketing,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2527.56,
+   "end": 2535.8,
+   "text": "then you get so much arthritic deposit in the joint that you move it into engineering",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2536.92,
+   "end": 2544.12,
+   "text": "and it doesn't work either it's basically neither engineering not design or marketing nor is it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2544.12,
+   "end": 2552.2,
+   "text": "really both the different animals different pictures and it is very unpleasant to have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2552.2,
+   "end": 2562.98,
+   "text": "but at least it functions. And if you really want new products, and you know one reason",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2562.98,
+   "end": 2569.98,
+   "text": "why is just the demand of keeping yesterday alive is so great that if you put it into",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2569.98,
+   "end": 2576.98,
+   "text": "either marketing or engineering it will be swallowed. But also if it's really new, it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2576.98,
+   "end": 2585.36,
+   "text": "doesn't fit existing scope, either of product or of market. And so if you put it within",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2585.36,
+   "end": 2593.36,
+   "text": "put it within the existing structure. It either disorganizes the structure or the structure",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2593.36,
+   "end": 2600.36,
+   "text": "will squeeze into this. And we have learned if you really want product development or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2600.36,
+   "end": 2608.36,
+   "text": "innovation, you better move. And it's a different spirit. You look at things differently. But",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2608.36,
+   "end": 2613.36,
+   "text": "that's a footnote. One looks, one thinks through organization with the question, here are the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2613.36,
+   "end": 2621.36,
+   "text": "the key relationships and the key demands and the key needs. Will they work any better?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2621.36,
+   "end": 2626.64,
+   "text": "They're likely to if we move it here. Well, then they have many different options because, well,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2628.0,
+   "end": 2635.45,
+   "text": "one can't just do everything. You see, here you have a university and there are certain things",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2635.45,
+   "end": 2646.36,
+   "text": "things you cannot do in the university. They just don't work. And other things the university",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2646.36,
+   "end": 2652.86,
+   "text": "can do you wouldn't dream of thinking about in a building because it just don't fit. So",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2652.86,
+   "end": 2658.56,
+   "text": "within the university structure, whatever you do with that museum, you have the same",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2658.56,
+   "end": 2676.56,
+   "text": "Only more so. Sure, maybe you set it up in such a way that the director reports to the dean, where today the director is kind of miscooking the report to anybody.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2676.56,
+   "end": 2687.58,
+   "text": "Didn't have to. Maybe you set it up so that. Well, I wouldn't even recommend that. I wouldn't recommend you to go in for honest bookkeeping.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2687.58,
+   "end": 2690.58,
+   "text": "I very rarely recommend that. It's always too dangerous.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2690.58,
+   "end": 2703.01,
+   "text": "But in no way really think through how much of the art history budget does the museum really,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.92
+  },
+  {
+   "start": 2703.01,
+   "end": 2706.01,
+   "text": "should really be considered a museum budget and vice versa.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2706.01,
+   "end": 2710.01,
+   "text": "Leave it that way. Nobody's greatly bothered by it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2710.01,
+   "end": 2715.01,
+   "text": "The art history faculty has to be someplace, doesn't it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2715.01,
+   "end": 2718.01,
+   "text": "And it's in the museum, fine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2718.01,
+   "end": 2724.09,
+   "text": "And on the other hand, our history faculty is perfectly willing to give some evening lectures",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2724.09,
+   "end": 2733.02,
+   "text": "and delighted with them. And then they'll talk about separate compensation and teaching load.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2733.02,
+   "end": 2740.24,
+   "text": "Leave it to somebody who raises that problem. But maybe you have to.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2743.92,
+   "end": 2750.24,
+   "text": "And none of your graduate students complained about working in a museum. On the contrary,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2750.24,
+   "end": 2757.24,
+   "text": "It's a tremendous process. They see a real object, and not just slides and photographs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2757.24,
+   "end": 2767.24,
+   "text": "They get to do work on objects. They spend an afternoon down in the shop.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2767.24,
+   "end": 2778.24,
+   "text": "Now maybe they seek to restore as work, and maybe all they can do at that stage is stir the glue, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2778.24,
+   "end": 2786.24,
+   "text": "Anybody know how long, if you learn to be a restorer, they let you do nothing but stir the glue?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2786.24,
+   "end": 2788.24,
+   "text": "Six months.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2788.24,
+   "end": 2790.24,
+   "text": "Till you have your heart in it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2794.24,
+   "end": 2798.24,
+   "text": "Restoring is enormously based on deep wood.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2798.24,
+   "end": 2806.92,
+   "text": "very precisely, very slow, and so you stir the glue for a long time because it's got",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2806.92,
+   "end": 2814.76,
+   "text": "to be the right consistency, or you'll ruin it. You can put a shattered piece of ceramics",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2814.76,
+   "end": 2820.56,
+   "text": "together. You better be right, because you can't do it a second time. You've got one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2820.56,
+   "end": 2828.0,
+   "text": "chance. And you better do it in such a way that the cracks don't show. Then you have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2828.0,
+   "end": 2836.5,
+   "text": "know what consistency the glue has to be and how much to put on. And you have one of them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2836.5,
+   "end": 2843.34,
+   "text": "You can do it once and that's it. And then he went to stir the glue right. And so that's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2843.34,
+   "end": 2850.24,
+   "text": "all that graduate student does for a whole week. But then he sees that vase. And it was",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2850.24,
+   "end": 2857.0,
+   "text": "in short and now it's a lovely Greek vase again. And there is a great satisfaction in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2857.0,
+   "end": 2863.0,
+   "text": "and he's not going to complain that he's doing menial labor and doesn't get paid for it, on the contrary.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2863.0,
+   "end": 2873.0,
+   "text": "He's been working on a real-life object and something that was gone is restored and alive again and vibrant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2873.0,
+   "end": 2879.0,
+   "text": "They always don't ask about allocation. Maybe, you know, you really think to them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2879.0,
+   "end": 2883.0,
+   "text": "The organizational one is in the wrong capacity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2883.0,
+   "end": 2886.0,
+   "text": "The mission one might be, again, the right one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2886.0,
+   "end": 2895.45,
+   "text": "All right, shall we go to Bank of America until number two next week?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.841
+  },
+  {
+   "start": 2895.45,
+   "end": 2897.45,
+   "text": "And will you please read it and prepare yourself?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2897.45,
+   "end": 2899.45,
+   "text": "Number three, I beg your pardon.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2899.45,
+   "end": 2901.45,
+   "text": "Bank of America until number three.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2901.45,
+   "end": 2905.45,
+   "text": "It shouldn't take us long.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2905.45,
+   "end": 2929.69,
+   "text": "It's as simple as that.",
+   "speaker": "other",
+   "drucker_coverage": 0.154
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 27.5,
+ "created_utc": "2026-09-20T22:58:40+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

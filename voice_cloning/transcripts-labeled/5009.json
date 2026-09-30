@@ -1,0 +1,1386 @@
+{
+ "pointer": "5009",
+ "media": "5009.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2673.5,
+ "segments": [
+  {
+   "start": 0.37,
+   "end": 15.57,
+   "text": "We've dabbled a little bit in those two cases, and now I think we want to go into the action phase of the area of how one develops a strategy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 16.69,
+   "end": 24.11,
+   "text": "And that's what this one case we have not discussed is all about, the Crispin Shoe Company, remember it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 25.11,
+   "end": 29.73,
+   "text": "Do you want to refresh your mind and have a five-minute look at it before we go?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 29.73,
+   "end": 38.31,
+   "text": "maybe. Gene, have you got a copy? Do you know the case? My only copy, so I must ask it to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 38.31,
+   "end": 54.92,
+   "text": "return. All right. Thank you. If you have any questions, if you want more facts, there",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.579
+  },
+  {
+   "start": 54.92,
+   "end": 61.26,
+   "text": "ain't none. I don't want the facts, there isn't. Got more facts than you need. But is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 61.26,
+   "end": 66.96,
+   "text": "it reasonably clear? Any questions? Let's not worry about the names of these",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 66.96,
+   "end": 75.35,
+   "text": "three characters. It's not very important. But other than that, anybody got any, anything",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 75.35,
+   "end": 98.79,
+   "text": "obscure or anything dubious in his mind or her mind? Okay, how do you begin? How do you",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.424
+  },
+  {
+   "start": 98.79,
+   "end": 120.46,
+   "text": "begin? You actually have to decide what your objective is. I'm just listening. I'm waiting",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.377
+  },
+  {
+   "start": 120.46,
+   "end": 138.58,
+   "text": "for you. Does anybody have a legible hand? Mine is totally and hopelessly illegible.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.476
+  },
+  {
+   "start": 139.22,
+   "end": 144.4,
+   "text": "Anybody willing to put things? We get our criminal insanity off this blackboard.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 145.82,
+   "end": 156.52,
+   "text": "which is what it has now, which is also a form of strategy, but not...",
+   "speaker": "drucker",
+   "drucker_coverage": 0.907
+  },
+  {
+   "start": 156.52,
+   "end": 173.6,
+   "text": "Anybody willing to put down things?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.356
+  },
+  {
+   "start": 173.6,
+   "end": 178.6,
+   "text": "Good. I don't know what... You have a little hand, I remember you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 178.6,
+   "end": 181.6,
+   "text": "You have a little hand. You know what mine looks like, don't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 181.6,
+   "end": 184.6,
+   "text": "Yeah, I know what yours looks like.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.667
+  },
+  {
+   "start": 184.6,
+   "end": 186.6,
+   "text": "Yes, you can't even read it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 186.6,
+   "end": 195.6,
+   "text": "Is there any proof that one didn't have to wait till the 1970s before a child didn't learn to write in school?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 195.6,
+   "end": 200.06,
+   "text": "Never did.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 200.06,
+   "end": 206.06,
+   "text": "So we have one, somebody said, find out what the company's objective is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 206.06,
+   "end": 211.06,
+   "text": "And you said, what are we good at?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 211.06,
+   "end": 213.06,
+   "text": "What are we good at?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 213.06,
+   "end": 214.06,
+   "text": "What are our strengths?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 214.06,
+   "end": 247.9,
+   "text": "Anything else?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.586
+  },
+  {
+   "start": 247.9,
+   "end": 251.9,
+   "text": "Don't start with study, ever.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 251.9,
+   "end": 261.78,
+   "text": "That is a lazy man's excuse that substitutes business for things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 261.78,
+   "end": 266.25,
+   "text": "First find out what is relevant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 266.25,
+   "end": 274.25,
+   "text": "Just as, let me say, every graduate school unit will tell you that one starts work by doing research.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 274.25,
+   "end": 279.27,
+   "text": "That's why, thank God, they don't produce anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 279.27,
+   "end": 285.27,
+   "text": "And one starts by writing. Then one can do research.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 285.27,
+   "end": 287.27,
+   "text": "And one knows what one is looking for.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 287.27,
+   "end": 294.27,
+   "text": "Otherwise you spend the rest of your life in the universe of ill-assorted information,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 294.27,
+   "end": 300.67,
+   "text": "wondering whether it's got anything to do with what you're reading.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 300.67,
+   "end": 303.67,
+   "text": "So don't start out with studying.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 303.67,
+   "end": 306.67,
+   "text": "One starts out with thinking through.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 306.67,
+   "end": 337.32,
+   "text": "And then also don't assume your people have their brains.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 337.46,
+   "end": 339.18,
+   "text": "That would be my market study.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 339.42,
+   "end": 353.8,
+   "text": "I also don't look at it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 353.92,
+   "end": 367.39,
+   "text": "It's very common in studying.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 370.83,
+   "end": 373.39,
+   "text": "Whenever anybody says, let's make another study,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 373.51,
+   "end": 382.62,
+   "text": "just put the question first, assuming that we made it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 382.62,
+   "end": 387.08,
+   "text": "Any probability that we'd find anything we haven't found yet?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 387.08,
+   "end": 427.84,
+   "text": "And secondly, if we find anything, any probability that it will be irrelevant, and if the answer is not very clearly yes, then it's a right approach.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.828
+  },
+  {
+   "start": 427.84,
+   "end": 438.46,
+   "text": "We don't do it. We put down various proposals how to approach, how to stop. Then we'll see how, what do you do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 438.46,
+   "end": 451.18,
+   "text": "So far as we see, you haven't done anything that's very difficult. You are not yet coming to grips with strategy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 451.18,
+   "end": 623.76,
+   "text": "The one fellow who knows what to do, and here's the other fellow who knows what to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.687
+  },
+  {
+   "start": 623.76,
+   "end": 629.85,
+   "text": "It's the Jesuits, elementary logic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 629.85,
+   "end": 661.85,
+   "text": "We are committing sin number one, which is to confuse, contrast, and contradiction.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.859
+  },
+  {
+   "start": 667.07,
+   "end": 685.19,
+   "text": "Black and white, who still are mutually exclusive, as the management group here agrees.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.89
+  },
+  {
+   "start": 685.25,
+   "end": 687.27,
+   "text": "We don't have the resources to do both.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 687.75,
+   "end": 689.03,
+   "text": "We can do one or the other.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 689.17,
+   "end": 690.85,
+   "text": "That's a statement of mutual exclusion.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 691.91,
+   "end": 693.07,
+   "text": "But they don't know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 694.49,
+   "end": 697.81,
+   "text": "They are not the same thing as black and non-black.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 697.81,
+   "end": 703.81,
+   "text": "Black and white is contrast, and the entire spectrum is in between.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 703.81,
+   "end": 714.67,
+   "text": "Black and non-black exhausts the spectrum.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 714.67,
+   "end": 723.67,
+   "text": "The most common mistake, that's why it comes first in the list of mistakes in classical Aristotelian logic,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 723.67,
+   "end": 729.3,
+   "text": "is not the wrong conclusion.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 729.3,
+   "end": 741.34,
+   "text": "But, the undistributed middle, to confuse and contrast with the contradiction.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.917
+  },
+  {
+   "start": 741.34,
+   "end": 746.34,
+   "text": "And here are those two fellows, one says black and the other one says white,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 746.34,
+   "end": 751.34,
+   "text": "and they then conclude that this covers the universe.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 751.34,
+   "end": 755.34,
+   "text": "And the first thing one does in the development of any decision,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 755.34,
+   "end": 760.34,
+   "text": "is to say, what are, is this the full range or what?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 765.75,
+   "end": 773.9,
+   "text": "And if it isn't, you know, then irrational,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.816
+  },
+  {
+   "start": 773.9,
+   "end": 776.32,
+   "text": "you have black and white,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 776.32,
+   "end": 779.02,
+   "text": "and you assume that these are all the colors,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 780.16,
+   "end": 789.36,
+   "text": "then you're almost sitting, lies between us to explain.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 789.36,
+   "end": 797.83,
+   "text": "Neither included nor excluded, it's neglected, it's overlooked.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 797.83,
+   "end": 802.55,
+   "text": "And so the first question when one has alternatives",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 802.55,
+   "end": 813.67,
+   "text": "always to see what the full range of what is this now you may be absolutely right maybe these people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 813.67,
+   "end": 820.07,
+   "text": "want to go back and so you found the chair was just worrying about the standings they're good",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 822.79,
+   "end": 830.31,
+   "text": "and then these people should go back and see what is the purpose of our business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 830.31,
+   "end": 840.04,
+   "text": "and you may say they may not agree on those chances or they don't but here they have that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 840.04,
+   "end": 847.3,
+   "text": "strategic decision to make and to have fairly strongly held positions both rational positions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 847.3,
+   "end": 856.14,
+   "text": "these are on the face of it irrational both is a failure obviously they have thought through",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 856.14,
+   "end": 864.59,
+   "text": "opportunities they both see opportunities they may not have thought they have thought it through",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 864.59,
+   "end": 870.11,
+   "text": "to the point that they are in agreement that they can go one way or another and not both",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 871.15,
+   "end": 882.99,
+   "text": "and limiting other ones they accept limits and then rational is to say what have you exhausted",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 882.99,
+   "end": 893.89,
+   "text": "the alternatives or are you making a decision this uh committing yourselves in your own minds",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 893.89,
+   "end": 902.77,
+   "text": "to courses of action which may indeed turn out to be the two among which you have to choose but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 902.77,
+   "end": 907.73,
+   "text": "unless you have looked at the full range of opportunities you don't know you may have left",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 907.73,
+   "end": 916.05,
+   "text": "out the obvious one just as black and white wouldn't help you any deciding what color pants",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 916.05,
+   "end": 922.82,
+   "text": "are wearing you know and it's the obvious one you want to look at it and you know don't you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 922.82,
+   "end": 930.22,
+   "text": "unless you're absolutely colorblind and but if you say black or white then you can never",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 930.22,
+   "end": 938.56,
+   "text": "and you cannot answer it right and if i look around this room black and white don't give you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 938.56,
+   "end": 972.37,
+   "text": "And then the right answer, I don't see how much somebody wears a white shirt, but there's a couple of them here, but not very much, mostly. And so, in strategy, the first thing to make sure of, nobody can put down all the alternatives, not too many, but the main alternatives, so that at least one can eliminate, and then one can try to do, then one can say on the one hand,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 972.37,
+   "end": 976.03,
+   "text": "Let's think through our objectives, build a matrix.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 976.97,
+   "end": 981.37,
+   "text": "On the one hand, you have to check off strategies against objectives.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 982.03,
+   "end": 985.17,
+   "text": "And on the other hand, you check off strategies against strengths and weaknesses.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 985.69,
+   "end": 989.37,
+   "text": "You find, no, this won't make a decision for you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 989.81,
+   "end": 994.15,
+   "text": "Decisions don't come out of computers or out of logic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 994.61,
+   "end": 998.49,
+   "text": "But at least you eliminate the things that don't fit,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 998.49,
+   "end": 1001.41,
+   "text": "and you see where you have possibilities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1002.37,
+   "end": 1014.57,
+   "text": "rational, what assumptions are there by each, and what you have to do to convert each into",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1014.57,
+   "end": 1023.99,
+   "text": "a reasonable gamble, because that's what an esplanade is, in which the odds are that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1023.99,
+   "end": 1030.46,
+   "text": "you don't hope for miracles. You hope the other side doesn't have any miracles working",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1030.46,
+   "end": 1062.13,
+   "text": "that you can afford to take a chance. When you say a man is either guilty or not guilty,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1062.13,
+   "end": 1106.23,
+   "text": "And you might go, if you want to, go the Scott way and say guilty not guilty and not proven, which is already logically a difficulty. But if you, it is unlikely that anything in the universe is exhausted into eternity.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.955
+  },
+  {
+   "start": 1106.23,
+   "end": 1261.37,
+   "text": "There are a few, very few, hundred years since we have learned that this basic, that great breakthrough, that that conclusion was wrong. That most elements have more. This is one of the most ironic cases of the great productive power of a true mistake, of a brilliant mistake.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.965
+  },
+  {
+   "start": 1261.37,
+   "end": 1280.48,
+   "text": "But one does not assume that alternatives which are substantive, substantive, black and non-black, the second alternative, black, is purely form.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1280.48,
+   "end": 1289.48,
+   "text": "It does not tell you what color it is. All it tells you is it ain't black. But it could be anything from gray to white.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1289.48,
+   "end": 1312.28,
+   "text": "But when you have two alternatives that are both substantive, that are both, in other words, operational courses of action, the assumption is almost irrefutable that they do not exhaust the universe but are random picked out of a fairly large number.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1312.28,
+   "end": 1317.5,
+   "text": "And then one says, holy, let's get down the main alternative.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1317.76,
+   "end": 1319.02,
+   "text": "Let's at least see what we can do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1320.1,
+   "end": 1328.24,
+   "text": "This is the key to strategy is not to do what these fellows are doing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1328.24,
+   "end": 1330.04,
+   "text": "and what you are ready to do,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1330.4,
+   "end": 1333.88,
+   "text": "which is to argue who is right and who is wrong.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1334.14,
+   "end": 1337.26,
+   "text": "But to say what are the available alternatives.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1338.42,
+   "end": 1340.18,
+   "text": "Let's assume they are right, too.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1340.28,
+   "end": 1342.22,
+   "text": "These are on the face of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1342.6,
+   "end": 1345.28,
+   "text": "They are both rational alternatives.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1345.28,
+   "end": 1350.57,
+   "text": "it may turn out that neither of them is good for this company",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1350.57,
+   "end": 1351.19,
+   "text": "we don't know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1351.19,
+   "end": 1354.31,
+   "text": "but they're certainly rational",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1354.31,
+   "end": 1358.78,
+   "text": "none of them is asinine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1358.78,
+   "end": 1360.92,
+   "text": "not one of them is going to say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1360.92,
+   "end": 1365.24,
+   "text": "the gross industry of the 60s is going to be the space program",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1365.24,
+   "end": 1370.08,
+   "text": "let's get a shot, let's build on the moon",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1370.08,
+   "end": 1372.56,
+   "text": "well which for this company",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1372.56,
+   "end": 1376.06,
+   "text": "would be completely irrational",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1376.06,
+   "end": 1377.7,
+   "text": "although God knows some of the way",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1377.7,
+   "end": 1379.84,
+   "text": "particular defense contracts have been",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1379.84,
+   "end": 1387.12,
+   "text": "let, they might have. They're not irrational.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1387.38,
+   "end": 1388.26,
+   "text": "They don't say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1388.26,
+   "end": 1392.84,
+   "text": "let's do",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1392.84,
+   "end": 1394.7,
+   "text": "something that's quite clearly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1394.7,
+   "end": 1396.96,
+   "text": "unrelated to what we have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1396.96,
+   "end": 1399.06,
+   "text": "done, what we know, what we understand.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1399.54,
+   "end": 1400.88,
+   "text": "It just sounds",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1400.88,
+   "end": 1401.42,
+   "text": "glamorous.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1404.84,
+   "end": 1406.44,
+   "text": "So offhand, these two",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1406.44,
+   "end": 1408.38,
+   "text": "alternatives are serious.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1409.06,
+   "end": 1410.38,
+   "text": "But offhand also",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1410.38,
+   "end": 1411.28,
+   "text": "they are not.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1414.02,
+   "end": 1418.36,
+   "text": "So one starts out by saying",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1418.36,
+   "end": 1428.35,
+   "text": "Well, it's the one alternative you can see immediately that's lacking.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1428.35,
+   "end": 1431.35,
+   "text": "In other words, no change, doing nothing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1431.35,
+   "end": 1441.04,
+   "text": "Let me say there's always, and anyone doesn't make this,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1441.04,
+   "end": 1465.34,
+   "text": "and so one always puts down as the first alternative.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.918
+  },
+  {
+   "start": 1465.34,
+   "end": 1469.34,
+   "text": "In the first place, this is one of the few things everybody knows how to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1469.34,
+   "end": 1480.44,
+   "text": "In the second place, it is a major decision.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1480.44,
+   "end": 1482.44,
+   "text": "In most cases, it is a rebel.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1482.44,
+   "end": 1678.07,
+   "text": "So it's a serious decision.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.949
+  },
+  {
+   "start": 1678.07,
+   "end": 1686.07,
+   "text": "But no, surprises are almost by definition unpleasant. Nobody likes to be surprised.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1686.07,
+   "end": 1692.07,
+   "text": "It almost forces you to change your view of the world and of yourself and the course of action.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1692.07,
+   "end": 1700.07,
+   "text": "Even if you win the great prize in the lottery, it is not really a pleasant surprise. It's a shock.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1700.07,
+   "end": 1714.31,
+   "text": "And you see that in all the history of lottery winners, there are almost no cases of people who have held on to it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1714.31,
+   "end": 1726.31,
+   "text": "I happen to know of one, because family history has it that the uncle of my uncle by marriage, my uncle died just now at some particular place,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1726.31,
+   "end": 1733.31,
+   "text": "won the great prize in the lottery in 1880 and held on to it, but you know why?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1733.31,
+   "end": 1740.31,
+   "text": "Because it was such a shock that he had a heart attack and died.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1740.31,
+   "end": 1746.31,
+   "text": "That is, I think, the only documented case of holding on to it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1746.31,
+   "end": 1755.31,
+   "text": "Otherwise, I'm pretty sure my uncle's uncle, who relates to me, would have spent it in one glorious binge of six weeks or what have you,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1755.31,
+   "end": 1761.87,
+   "text": "and then returned to being a taxi driver or whatever he was uh coachman but he",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1762.99,
+   "end": 1770.4,
+   "text": "had a heart attack when he heard the news and got the telegram and died on the spot",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1770.4,
+   "end": 1781.14,
+   "text": "so that half of which the lawyers didn't spend was saved so one looks one starts out with do nothing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1782.5,
+   "end": 1790.35,
+   "text": "but now what else is there can you think of alternatives exactly for the moment",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1793.25,
+   "end": 1803.82,
+   "text": "the argument of these people, which is that we have reached a point where the great flood",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1803.82,
+   "end": 1815.3,
+   "text": "tide that we saw in our market and took advantage of is subsiding. The next wave has to come",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1815.3,
+   "end": 1832.17,
+   "text": "elsewhere. And so we are looking around in terms of how we define our expertise and say",
+   "speaker": "drucker",
+   "drucker_coverage": 0.763
+  },
+  {
+   "start": 1832.17,
+   "end": 1849.0,
+   "text": "It may solve the problem of these three young people, assuming they own it, they don't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1849.0,
+   "end": 1853.0,
+   "text": "But nothing in the case that leads you to believe that they own it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1853.0,
+   "end": 1857.0,
+   "text": "But it may solve the problem of these three people, or it may not.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1857.0,
+   "end": 1861.0,
+   "text": "But it doesn't solve the problem of the company, not in the least.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1861.0,
+   "end": 1865.0,
+   "text": "Just bringing in a consultant doesn't solve the problem of the company.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1865.0,
+   "end": 1870.41,
+   "text": "It just means somebody else has to come up with the answer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1870.41,
+   "end": 1874.41,
+   "text": "And here are three young men, how old are they? Forties?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1874.41,
+   "end": 1891.62,
+   "text": "Let me say this idea that people who have been working for twenty years and working hard and successfully",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1891.62,
+   "end": 1901.21,
+   "text": "make good aristocrats, you understand?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1901.21,
+   "end": 1915.86,
+   "text": "By that time those poor bastards totally become addicted to the habit of working.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1915.86,
+   "end": 1924.74,
+   "text": "assure you, if you haven't, that your ex-associates who are age 65, not 45, are being pensioned",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1924.74,
+   "end": 1935.02,
+   "text": "off and the withdrawal symptoms are very severe. Oh, the first three weeks are blissful, but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1935.02,
+   "end": 1957.13,
+   "text": "I mean, how many trout do you want to catch? So, yesterday, this is no solution for you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1957.13,
+   "end": 1962.89,
+   "text": "personal so all right that time maybe the only piece of the company i wouldn't know there's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1962.89,
+   "end": 1974.6,
+   "text": "nothing in there you said they're anything but hired hands the fact that they'll often become",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1974.6,
+   "end": 1987.47,
+   "text": "the early get the fair piece of change so what but it certainly does not solve the problem for",
+   "speaker": "drucker",
+   "drucker_coverage": 0.883
+  },
+  {
+   "start": 1987.47,
+   "end": 1992.91,
+   "text": "the company it just means that they say we are not competent to solve the company's problem",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1992.91,
+   "end": 2000.83,
+   "text": "let somebody else do it why they have already called in that staffman so what moody does not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2000.83,
+   "end": 2018.01,
+   "text": "so here's the company they took it out of stagnation stayed in yesterday's market did not",
+   "speaker": "drucker",
+   "drucker_coverage": 0.942
+  },
+  {
+   "start": 2018.01,
+   "end": 2029.21,
+   "text": "accept the fact that it had reached its objective paul crispin because his problem is that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2030.49,
+   "end": 2038.06,
+   "text": "he had reached his objectives when you have reached the thing your objectives then you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2038.06,
+   "end": 2042.24,
+   "text": "you have to look at them and accept the fact that you have.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2042.24,
+   "end": 2053.08,
+   "text": "And the worst example, which has attained the objectives",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2053.08,
+   "end": 2057.26,
+   "text": "of 2,000 years, which is to get anybody in school",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2057.26,
+   "end": 2059.02,
+   "text": "and keep them there indefinitely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2072.03,
+   "end": 2075.19,
+   "text": "There are many ways of doing that, I guess, yes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2075.19,
+   "end": 2077.75,
+   "text": "But I mean, but it's essentially all within",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2077.75,
+   "end": 2079.37,
+   "text": "the established business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2080.43,
+   "end": 2088.25,
+   "text": "And mind you, you may vary the option, incidentally.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2088.25,
+   "end": 2095.25,
+   "text": "The only sensible thing you can do is optimize what you have, get as much out of it as you can,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2095.25,
+   "end": 2103.08,
+   "text": "and not float, and wait until you see another tide.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2104.78,
+   "end": 2124.88,
+   "text": "The alternatives they have, the alternative of basic business,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2129.58,
+   "end": 2301.59,
+   "text": "and the other fellow says our business is man-invested.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.863
+  },
+  {
+   "start": 2301.59,
+   "end": 2662.09,
+   "text": "one integrates so as to bring together the most",
+   "speaker": "drucker",
+   "drucker_coverage": 0.967
+  },
+  {
+   "start": 2662.09,
+   "end": 2670.06,
+   "text": "segment of a chain all right choose the chain starts with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2670.06,
+   "end": 2673.34,
+   "text": "the bull and the bull",
+   "speaker": "drucker",
+   "drucker_coverage": 0.896
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 50.1,
+ "created_utc": "2026-09-20T23:10:30+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

@@ -1,0 +1,2352 @@
+{
+ "pointer": "3561",
+ "media": "3561.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1791.3,
+ "segments": [
+  {
+   "start": 2.86,
+   "end": 5.74,
+   "text": "give it there about the company and sometimes they don't know what the company makes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 7.1,
+   "end": 11.1,
+   "text": "there's only one way you're going to get them interested in the company and that's not by",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 11.1,
+   "end": 15.34,
+   "text": "telling them how interesting you are and having the picture of the ceo on the annual report",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 16.14,
+   "end": 22.78,
+   "text": "uh you've got to make it financially worth their while and i came up with a very simple suggestion",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 23.5,
+   "end": 30.22,
+   "text": "which was for differential dividends depending on how long you have owned the stock uh actually i",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 30.22,
+   "end": 34.46,
+   "text": "assets, stock dividends, differential stock dividends for every year or two years or three",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 34.46,
+   "end": 40.82,
+   "text": "years or whatever. For every period of time that you own the stock, you get a stock dividend which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 40.82,
+   "end": 46.48,
+   "text": "those who have owned the stock for only shorter periods of time do not get. There's a great deal",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 46.48,
+   "end": 51.9,
+   "text": "of interest in this proposal because it does make sense. I mean, over a period of years,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 52.4,
+   "end": 57.98,
+   "text": "you build up people who, if they sit with the stock, to begin with, are pretty much protected",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 57.98,
+   "end": 64.94,
+   "text": "against loss. That is, if they are the recipients of differential stock dividends, advantageous",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 64.94,
+   "end": 69.84,
+   "text": "stock dividends, over a period of 10 years, in effect, their purchase price has been reduced",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 69.84,
+   "end": 77.34,
+   "text": "by 30%, 40%, even regardless of the cash dividends they receive. And that pretty much protects",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 77.34,
+   "end": 84.1,
+   "text": "them against any decline in the price of the stock, and that means they're never going",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 84.1,
+   "end": 88.1,
+   "text": "to be wildly unhappy with you. And of course, if the stock goes up, they're going to be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 88.1,
+   "end": 98.66,
+   "text": "very, very happy indeed. So the analytical basis is very clear. And I spoke to the heads",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 98.66,
+   "end": 102.86,
+   "text": "of several of the largest corporations in the company on this matter, and they said,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 102.86,
+   "end": 110.14,
+   "text": "that's a very interesting idea. Let's see if we can do it. And they put their lawyers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 110.14,
+   "end": 122.51,
+   "text": "on it naturally, and naturally with what results you know. Whenever a corporate CEO doesn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 122.51,
+   "end": 132.04,
+   "text": "want to do anything, whenever he wants to cave in or not do anything, he consults counsel.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 132.04,
+   "end": 138.04,
+   "text": "And I began to receive all sorts of learned documents explaining why this was very difficult",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 138.04,
+   "end": 142.14,
+   "text": "under SEC regulations, and et cetera, et cetera, et cetera.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 142.24,
+   "end": 144.22,
+   "text": "And finally, at one point, going on for nine years,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 144.28,
+   "end": 146.74,
+   "text": "and I had really, I had thrown the idea to them,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 146.82,
+   "end": 149.16,
+   "text": "thinking it's there, baby, let them run with it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 149.26,
+   "end": 151.72,
+   "text": "I'm not going to launch a campaign",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 151.72,
+   "end": 153.04,
+   "text": "for a stockholder constituency.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 153.94,
+   "end": 156.48,
+   "text": "And at one point, only about a year ago,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 156.54,
+   "end": 158.36,
+   "text": "I got terribly irritated at the fact",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 158.36,
+   "end": 160.2,
+   "text": "that nine years had passed and nothing had happened.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 161.3,
+   "end": 162.94,
+   "text": "And so I wrote to Harold Williams,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 163.04,
+   "end": 164.6,
+   "text": "and I said, I want an official opinion.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 165.26,
+   "end": 165.9,
+   "text": "I know Harold.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 165.9,
+   "end": 169.74,
+   "text": "line. I said, I want an official opinion from you. Is there an SEC",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 169.74,
+   "end": 173.96,
+   "text": "problem in this or not? And Harold Williams sent it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 173.96,
+   "end": 177.86,
+   "text": "around to his staff, and he sent me a very legalistic document. Turns out there's no SEC",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 177.86,
+   "end": 181.8,
+   "text": "problem at all with differential stock dividends. There",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 181.8,
+   "end": 185.1,
+   "text": "may be problems at the state level",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 185.1,
+   "end": 187.3,
+   "text": "with state legislation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 188.7,
+   "end": 193.52,
+   "text": "If there are such problems, and even then no one seems to be quite sure,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 193.52,
+   "end": 198.62,
+   "text": "it. But they're easily solved. I mean, what state legislature is not going to benefit investors at",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 198.62,
+   "end": 203.62,
+   "text": "the expense of speculators? It would be, I think, a very popular move. Why shouldn't they let",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 203.62,
+   "end": 210.9,
+   "text": "corporations do that if corporations want to do it? The sad truth, and I've come to this conclusion",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 210.9,
+   "end": 215.88,
+   "text": "most reluctantly, is that the reason it isn't happening is not because it's difficult, not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 215.88,
+   "end": 221.82,
+   "text": "because there are legal hurdles, because the last thing in the world that CEOs want is an active,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 221.82,
+   "end": 229.58,
+   "text": "concerned, interested stockholder constituency. I think, I suppose, a CEO every night before",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 229.58,
+   "end": 233.76,
+   "text": "he goes to sleep has many nightmares. One of them would be to wake up in the morning",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 233.76,
+   "end": 244.39,
+   "text": "and find his office full of stockholders. And this is so, and it's understandable. It's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 244.39,
+   "end": 247.15,
+   "text": "like a professor waking up in the morning and finding his house full of students. I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 247.15,
+   "end": 254.73,
+   "text": "mean, we have those nightmares too. But in the end, if you take seriously your role as",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 254.73,
+   "end": 262.95,
+   "text": "a part of a political faction, or as a political faction contending with other political factions,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 262.95,
+   "end": 269.29,
+   "text": "you have to take seriously the responsibility of organizing your potential strength.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 270.41,
+   "end": 277.49,
+   "text": "And it seems to me sad and negligent that corporations should have failed to explore",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 277.49,
+   "end": 280.33,
+   "text": "this idea more seriously",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 280.33,
+   "end": 281.29,
+   "text": "than they have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 281.29,
+   "end": 284.33,
+   "text": "because I do think that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 284.33,
+   "end": 285.59,
+   "text": "over a period of time",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 285.59,
+   "end": 286.83,
+   "text": "they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 286.83,
+   "end": 290.23,
+   "text": "it would be very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 290.23,
+   "end": 291.99,
+   "text": "very useful to them",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 291.99,
+   "end": 294.35,
+   "text": "I also think",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 294.35,
+   "end": 295.97,
+   "text": "there's so many other things that corporations",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 295.97,
+   "end": 298.03,
+   "text": "can and should do",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 298.03,
+   "end": 302.41,
+   "text": "I don't think, and here I disagree",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 302.41,
+   "end": 304.19,
+   "text": "I have to say I really disagree with Peter",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 304.19,
+   "end": 306.05,
+   "text": "I don't want to see American corporations",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 306.05,
+   "end": 310.89,
+   "text": "sit down with Peter Drucker or with me or with anybody and say, don't tell us what's good for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 310.89,
+   "end": 326.14,
+   "text": "the corporation. Tell us what we should do that's good for the country. Please. And business is for",
+   "speaker": "drucker",
+   "drucker_coverage": 0.705
+  },
+  {
+   "start": 326.14,
+   "end": 334.74,
+   "text": "business. Businessmen have a basic trained incapacity to understand politics well. Because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 334.74,
+   "end": 339.28,
+   "text": "in business, the whole mode of business is different from the mode of politics. Business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 339.28,
+   "end": 349.08,
+   "text": "is a decision-making activity. It's a practical activity of a decision-making kind. It doesn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 349.08,
+   "end": 353.58,
+   "text": "matter whether decision-making is hierarchical or consensual, but it's a decision-making",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 353.58,
+   "end": 359.08,
+   "text": "activity. Politics is not a decision-making activity. It's an activity in which you rarely",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 359.08,
+   "end": 363.5,
+   "text": "get the opportunity or the pleasure of making a decision. Most of the time, it is a negotiating",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 363.5,
+   "end": 367.94,
+   "text": "activity, which is, incidentally, why lawyers tend to be quite good at it and have played",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 367.94,
+   "end": 374.96,
+   "text": "such a prominent role in modern democratic politics.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 374.96,
+   "end": 381.36,
+   "text": "I think that corporations coping with this new environment, and this environment that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 381.36,
+   "end": 389.6,
+   "text": "will persist for quite a while, really have to think of changing, of not only trying to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 389.6,
+   "end": 397.74,
+   "text": "secure a solid base with a vested interest in the corporations, and I don't think the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 397.74,
+   "end": 403.8,
+   "text": "pension funds will provide. That because the pension funds involved in the corporation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 403.8,
+   "end": 408.84,
+   "text": "is consistent with any kind of management of the corporation, and it's consistent with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 408.84,
+   "end": 414.24,
+   "text": "socialized corporations, with Ralph Nader's corporations, as well as the ones that exist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 414.24,
+   "end": 422.42,
+   "text": "And I really am most interested in a corporation as a bulwark of a free society. Even the least",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 422.42,
+   "end": 429.06,
+   "text": "admirable corporations are that, just as I agree, I think the proliferation of churches",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 429.06,
+   "end": 433.24,
+   "text": "and religious institutions in this society are bulwarks of a free society. I don't agree",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 433.24,
+   "end": 439.06,
+   "text": "with all of them, obviously. I only agree with one. And I don't even like some of them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 439.92,
+   "end": 445.26,
+   "text": "But never mind. The fact that they're there is very important. And the fact that they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 445.26,
+   "end": 450.24,
+   "text": "exist as independent centers of power is very important. Therefore, I think it's very important",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 450.24,
+   "end": 452.34,
+   "text": "and that corporations continue to exist",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 452.34,
+   "end": 456.86,
+   "text": "as independent sources of power.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 456.86,
+   "end": 458.94,
+   "text": "For this to happen, however, vested interests",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 458.94,
+   "end": 460.12,
+   "text": "will have to be created.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 460.12,
+   "end": 462.4,
+   "text": "I think corporate leadership is gonna be attentive",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 462.4,
+   "end": 463.74,
+   "text": "to anything, and they should be more attentive",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 463.74,
+   "end": 467.46,
+   "text": "to small business, without the buttressing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 467.46,
+   "end": 469.3,
+   "text": "of small business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 469.3,
+   "end": 472.2,
+   "text": "Small business has the political strength.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 472.2,
+   "end": 473.58,
+   "text": "You want to get something through Congress,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 473.58,
+   "end": 475.06,
+   "text": "don't go to the top CEOs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 475.06,
+   "end": 477.94,
+   "text": "Go to those local undertakers, those local druggists,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 477.94,
+   "end": 479.92,
+   "text": "those local, you forgot one very important,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 479.92,
+   "end": 482.0,
+   "text": "small business group, the local automobile dealers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 482.34,
+   "end": 486.8,
+   "text": "Not this year, perhaps, but the richest man in town",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 486.8,
+   "end": 488.66,
+   "text": "is usually the local automobile dealer,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 488.74,
+   "end": 491.22,
+   "text": "not the plant manager of a major factory.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 492.66,
+   "end": 494.46,
+   "text": "These are the people with influence.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 494.62,
+   "end": 497.36,
+   "text": "These are the people who are the business establishment",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 497.36,
+   "end": 500.68,
+   "text": "in local communities, and they are the important ones.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 502.02,
+   "end": 503.26,
+   "text": "Businesses find that difficult.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 503.46,
+   "end": 504.94,
+   "text": "Business leaders find that difficult.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 505.12,
+   "end": 508.54,
+   "text": "Corporate leaders then go for a stockholder constituency.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 508.54,
+   "end": 520.7,
+   "text": "In addition, of course, there is the cold question of how you communicate with other factions in society or with other potential allies or potential adversaries.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 520.7,
+   "end": 536.48,
+   "text": "I really think business communications are an absolutely terrible state, largely because they have been handled mainly by personnel relations, which are out of date, as Peter says, or by public relations, which is not the name of the game today.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 537.48,
+   "end": 542.18,
+   "text": "Public relations is an activity whereby you try to persuade journalists to think well of you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 544.16,
+   "end": 547.48,
+   "text": "Not a very productive activity at the moment.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 549.6,
+   "end": 554.32,
+   "text": "And it was only a productive activity when journalists didn't care what they wrote about business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 555.14,
+   "end": 559.32,
+   "text": "It was only a productive activity when journalists and publishers were bribed by business, to put it very bluntly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 559.32,
+   "end": 568.6,
+   "text": "the corporation has to have a sense of its communications with its employees",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 568.6,
+   "end": 576.56,
+   "text": "corporations don't share problems with employees very interesting they boast of their accomplishment",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 576.56,
+   "end": 582.02,
+   "text": "but corporate leadership corporate management hates sharing problems with anyone including",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 582.02,
+   "end": 586.98,
+   "text": "of course stockholders it's interesting uh i've been interested in the automobile situation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 586.98,
+   "end": 593.3,
+   "text": "Now, American automobile companies really have been disadvantaged by government regulations",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 593.3,
+   "end": 597.14,
+   "text": "vis-\u00e0-vis the foreign imports.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 597.14,
+   "end": 604.38,
+   "text": "There's just no question about that, all sorts of government regulations.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 604.38,
+   "end": 610.8,
+   "text": "But at no point that I have been able to determine has the management of corporations been going",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 610.8,
+   "end": 616.08,
+   "text": "down to their workers and saying, look, this is the problem, and explaining in great detail",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 616.08,
+   "end": 622.7,
+   "text": "why we're not doing well. I don't believe Chrysler ever did that to its employees, explaining",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 622.7,
+   "end": 627.18,
+   "text": "why we're having the problems we're having. I don't expect them to confess their sins",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 627.18,
+   "end": 632.54,
+   "text": "of lousy management. That would be too much to expect, but at least to explain why the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 632.54,
+   "end": 639.86,
+   "text": "government regulations were having that particular impact upon Chrysler. I don't believe there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 639.86,
+   "end": 643.98,
+   "text": "was any effort to communicate to employees in that way. Corporate leaders don't like",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 643.98,
+   "end": 648.94,
+   "text": "communicating problems, but communicating problems are what really is interesting.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 648.94,
+   "end": 650.98,
+   "text": "No one's interested in just success stories.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 650.98,
+   "end": 654.88,
+   "text": "Problems, particularly if they're going to affect your life and your job and your career,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 654.88,
+   "end": 657.52,
+   "text": "are very interesting indeed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 657.52,
+   "end": 662.98,
+   "text": "I don't understand why drug companies aren't explaining to their employees some of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 662.98,
+   "end": 666.88,
+   "text": "problems they have with the Food and Drug Administration.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 666.88,
+   "end": 669.6,
+   "text": "People should know this.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 669.6,
+   "end": 673.76,
+   "text": "And similarly with every industry, all of which has enormous problems with foreign competition",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 673.76,
+   "end": 676.64,
+   "text": "perhaps, but always with government,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 676.64,
+   "end": 680.52,
+   "text": "no effort is made to, I won't even use the word educate,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 680.52,
+   "end": 683.54,
+   "text": "but just simply to inform their employees",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 683.54,
+   "end": 686.64,
+   "text": "in a continuous way about the problems",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 686.64,
+   "end": 687.9,
+   "text": "the business is facing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 687.9,
+   "end": 690.94,
+   "text": "So suddenly, when things go bad,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 690.94,
+   "end": 694.64,
+   "text": "everyone is not surprised, and being surprised",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 694.64,
+   "end": 697.56,
+   "text": "becomes very suspicious of what is going on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 699.08,
+   "end": 701.44,
+   "text": "No point in communicating this with the union leadership.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 701.44,
+   "end": 703.6,
+   "text": "You want to communicate it with the employees.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 704.72,
+   "end": 710.46,
+   "text": "And the last point I wish to make involves the relationship of these corporate leaders",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 710.46,
+   "end": 714.9,
+   "text": "who, as I agree, are here to stay, heads of major organizations,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 715.6,
+   "end": 721.76,
+   "text": "with the most powerful community in our society, namely the intellectual and academic community.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 722.4,
+   "end": 726.6,
+   "text": "The situation is improving, but very, very slowly.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 726.6,
+   "end": 731.28,
+   "text": "in part because even today",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 731.28,
+   "end": 735.02,
+   "text": "your average CEO doesn't understand",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 735.02,
+   "end": 737.74,
+   "text": "how important the intellectual",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 737.74,
+   "end": 740.14,
+   "text": "and academic communities are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 740.14,
+   "end": 742.74,
+   "text": "though I've begun to get through to them now",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 742.74,
+   "end": 744.7,
+   "text": "by saying look what do you have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 744.7,
+   "end": 747.12,
+   "text": "vis-a-vis the academic community",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 747.12,
+   "end": 747.74,
+   "text": "you have money",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 747.74,
+   "end": 749.76,
+   "text": "you can ring up a senator",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 749.76,
+   "end": 752.26,
+   "text": "and he'll probably return your call",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 752.26,
+   "end": 754.16,
+   "text": "you have influence of that kind",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 754.16,
+   "end": 761.86,
+   "text": "but they have hostages they've got your children as hostages you know when we have a situation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 761.86,
+   "end": 767.34,
+   "text": "today when i would wager half the children of the chief executives offices of this country",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 767.34,
+   "end": 774.8,
+   "text": "despise business or have a low opinion of business as an activity you begin to wonder how in god's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 774.8,
+   "end": 779.86,
+   "text": "name is business going to communicate how is it going to successfully defend the business system",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 779.86,
+   "end": 786.92,
+   "text": "And the answer is that in a war between the business and academic communities, the academic community will always win.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 787.54,
+   "end": 789.2,
+   "text": "It may lose a temporary battle.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 789.52,
+   "end": 793.62,
+   "text": "It will always win the war in the long run because it has the children.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 794.34,
+   "end": 797.42,
+   "text": "They own the children, yours and mine.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 798.6,
+   "end": 805.72,
+   "text": "And so this gulf that exists between the academic intellectual community on the one hand and the business community on the other is tragic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 805.72,
+   "end": 811.22,
+   "text": "Efforts must be made to bridge it on both sides.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 811.22,
+   "end": 816.84,
+   "text": "I have no great illusions as to how easy it's going to be, but it's very difficult.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 816.84,
+   "end": 818.58,
+   "text": "And you run into all sorts of difficulties.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 818.58,
+   "end": 822.92,
+   "text": "You run into the difficulty that business executives are too busy to read, and being",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 822.92,
+   "end": 828.16,
+   "text": "too busy to read, their intellectual muscles atrophy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 828.16,
+   "end": 832.12,
+   "text": "Not their analytical muscles, they're still perfectly good, competent at analyzing a problem",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 832.12,
+   "end": 835.32,
+   "text": "very cogently, but they're intellectual muscles,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 835.32,
+   "end": 837.22,
+   "text": "which are not the same thing as analytical muscles.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 837.22,
+   "end": 838.92,
+   "text": "Intellectual muscles being the muscle",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 838.92,
+   "end": 842.9,
+   "text": "which permits you to play with an idea,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 842.9,
+   "end": 846.28,
+   "text": "to entertain it, speculate about it, think about it,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 846.28,
+   "end": 849.92,
+   "text": "not necessarily come to a conclusion about it right away,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 849.92,
+   "end": 854.17,
+   "text": "not in a decision-making context.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 854.17,
+   "end": 856.21,
+   "text": "I don't really know what to do about this,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 856.21,
+   "end": 858.83,
+   "text": "except that I do think that larger corporations",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 858.83,
+   "end": 864.77,
+   "text": "are going to have to somehow internalize",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 864.77,
+   "end": 867.69,
+   "text": "their knowledge, the attitudes, not necessarily",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 867.69,
+   "end": 869.73,
+   "text": "the attitudes, the knowledge and expertise",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 869.73,
+   "end": 871.79,
+   "text": "of the academic and intellectual milieu.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 871.79,
+   "end": 876.79,
+   "text": "They really need, they've got to somehow",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 876.95,
+   "end": 878.93,
+   "text": "learn what's happening in that world,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 878.93,
+   "end": 880.69,
+   "text": "learn to appreciate in that world,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 880.69,
+   "end": 884.03,
+   "text": "have people fairly high up who read it,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 884.03,
+   "end": 886.61,
+   "text": "who read what's written in that world.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 886.61,
+   "end": 888.93,
+   "text": "I'll take a test right now.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 888.93,
+   "end": 891.89,
+   "text": "I assume the majority of you are business executives.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 891.89,
+   "end": 895.89,
+   "text": "How many of you subscribe to the New Republic?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 895.89,
+   "end": 901.49,
+   "text": "How many of you subscribe to commentary?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 901.49,
+   "end": 905.49,
+   "text": "You don't know what's happening in the world. It's true.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 905.49,
+   "end": 909.49,
+   "text": "You really don't. That's where the future is being shaped.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 909.49,
+   "end": 913.49,
+   "text": "It's where your future is being shaped, and not necessarily in those two magazines.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 913.49,
+   "end": 917.49,
+   "text": "So I think I picked the two best, one slightly right of center,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 917.49,
+   "end": 921.49,
+   "text": "one slightly left of center, but in magazines of that kind.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 921.49,
+   "end": 936.35,
+   "text": "Somehow or other, the corporation has to have links with that other world of action, the world of ideas where your future and mine, I guess, will be shaped.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 936.35,
+   "end": 951.31,
+   "text": "Well, I could go on indefinitely, but it's time for the break, and I can't go on indefinitely. I could go on for a while, but it's time for the break. In any case, we will have further occasion in the question period to expand on any of these points.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 951.49,
+   "end": 955.35,
+   "text": "Okay, we'll take a break for coffee, and then we turn for the question period.",
+   "speaker": "other",
+   "drucker_coverage": 0.262
+  },
+  {
+   "start": 959.76,
+   "end": 967.3,
+   "text": "Ms. Stanley will make an occasional pass up and down the aisle if there are other cards, question cards for the people.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 968.96,
+   "end": 969.3,
+   "text": "Okay.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 971.88,
+   "end": 973.46,
+   "text": "We run low on cards.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 973.54,
+   "end": 982.97,
+   "text": "We're going to open this up for live questions, so this was an effort really to try to get this started.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 982.97,
+   "end": 1012.51,
+   "text": "Let me \u2013 there are a set of questions here which really ask for you to react to the effectiveness of the constituency-building campaigns of some specific industries, notably the oil companies, the steel industry, and the auto companies.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1012.51,
+   "end": 1017.47,
+   "text": "Could you comment some on ways in which they have \u2013",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1017.47,
+   "end": 1020.47,
+   "text": "Well, why don't you start out on this one?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1020.47,
+   "end": 1026.42,
+   "text": "I read some of these calls and to talk about mobile and so on.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.995
+  },
+  {
+   "start": 1026.42,
+   "end": 1034.42,
+   "text": "And let me go back to something Professor Kristol said, which one cannot emphasize enough",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1034.42,
+   "end": 1042.42,
+   "text": "when he said that he's an old enough political scientist to know that one has to build on interest",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1042.42,
+   "end": 1047.42,
+   "text": "and cannot build on sentiment.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1047.42,
+   "end": 1051.6,
+   "text": "And public relations people do not understand that,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1051.6,
+   "end": 1058.34,
+   "text": "bluntly. And interests have to be overt, visible, and institutionalized to be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1058.34,
+   "end": 1063.7,
+   "text": "effective. This is a lesson as old as Aristotle. If I sound old-fashioned, this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1063.7,
+   "end": 1070.24,
+   "text": "is because the lesson is. And how do we institutionalize it? What, to my mind, is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1070.24,
+   "end": 1086.18,
+   "text": "lacking in the campaigns today, and why the impact is, I think, they are rhetorical successes,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1086.18,
+   "end": 1092.06,
+   "text": "is that there is no follow-up, and that has to be institutionalized in an interest, and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1092.06,
+   "end": 1098.76,
+   "text": "how I don't know whether that is through inside the business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1098.76,
+   "end": 1104.8,
+   "text": "And by the way, when Irv Kristol and I say large company, we mean different things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1104.8,
+   "end": 1113.52,
+   "text": "Because he's looking at the Fortune 500 or Fortune 1000, and I think that in terms of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1113.52,
+   "end": 1122.58,
+   "text": "its behavior, its structure, the company he thinks is small business, couple of hundred",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1122.58,
+   "end": 1128.36,
+   "text": "employees and local really is part of the small business world and not of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1128.36,
+   "end": 1133.44,
+   "text": "large business world and not the cigar store owner or the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1133.44,
+   "end": 1142.6,
+   "text": "carpenter's world. How does one institutionalize the interest so that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1142.6,
+   "end": 1150.38,
+   "text": "it's overt and that it is real and not just an appeal to rhetoric? I think that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1150.38,
+   "end": 1155.18,
+   "text": "this a great problem. Somebody here in the course asked what could Chrysler do",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1155.18,
+   "end": 1159.82,
+   "text": "well now it's a little late you know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1160.94,
+   "end": 1167.72,
+   "text": "but what could Chrysler have done that is a great question and they didn't do",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1167.72,
+   "end": 1182.9,
+   "text": "anything. And here is the steel industry and it's again very late and in many",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1182.9,
+   "end": 1191.9,
+   "text": "ways of course the large steel plant is technologically on the verge of being",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1191.9,
+   "end": 1197.54,
+   "text": "obsolete and if we have a serious recession we could probably, the world",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1197.54,
+   "end": 1204.56,
+   "text": "could get by for 20 years with many plants using scrap because we have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1204.56,
+   "end": 1210.8,
+   "text": "produced enough steel since 1945 not to have to mine any iron ore if there is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1210.8,
+   "end": 1216.42,
+   "text": "any drop in steel demand if it doesn't keep on expanding and so the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1216.42,
+   "end": 1222.2,
+   "text": "worldwide future of the very big steel mill is not particularly brilliant I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1222.2,
+   "end": 1232.76,
+   "text": "But what could steel have done to institutionalize the fact that the jobs of the steel workers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1232.76,
+   "end": 1237.96,
+   "text": "of this country depend on steel remaining competitive?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1237.96,
+   "end": 1244.62,
+   "text": "Well that's largely a matter of capital investment, a matter of training, a matter of productivity,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1244.62,
+   "end": 1255.02,
+   "text": "a matter of making a good deal of the labor cost burden flexible, related to steel production",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1255.02,
+   "end": 1259.74,
+   "text": "and profits rather than the fixed amounts and so on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1259.74,
+   "end": 1263.48,
+   "text": "These are the kinds of questions we haven't asked.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1263.48,
+   "end": 1270.66,
+   "text": "And then I think no matter how hard hitting a campaign is and how much readership it gets",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1270.66,
+   "end": 1273.38,
+   "text": "and so on, the impact is very small.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1273.38,
+   "end": 1274.48,
+   "text": "Wouldn't you agree?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1275.32,
+   "end": 1275.66,
+   "text": "Yes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1275.66,
+   "end": 1282.12,
+   "text": "There are a couple of questions.",
+   "speaker": "other",
+   "drucker_coverage": 0.285
+  },
+  {
+   "start": 1283.62,
+   "end": 1295.7,
+   "text": "One on whether you see any prospect of getting your differential stock dividend program through.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1296.18,
+   "end": 1304.1,
+   "text": "Concern that on one question that the business community has had great difficulty even getting investors",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1304.1,
+   "end": 1310.22,
+   "text": "to join with them in trying to go after the double taxation of dividends",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1310.22,
+   "end": 1315.66,
+   "text": "that the shareholders typically aren't organized politically",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1315.66,
+   "end": 1321.34,
+   "text": "and aren't very good about even going after things which may be in their interest.",
+   "speaker": "other",
+   "drucker_coverage": 0.06
+  },
+  {
+   "start": 1321.34,
+   "end": 1325.98,
+   "text": "Well, double taxation of dividends is a very interesting case, in fact.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1326.1,
+   "end": 1327.36,
+   "text": "It's never quite been written up.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1327.98,
+   "end": 1329.98,
+   "text": "Now, it's an ambiguous conception.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1331.38,
+   "end": 1333.72,
+   "text": "The question is, what kind of law do you want?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1333.72,
+   "end": 1337.96,
+   "text": "The truth is that the business community, by which I mean mainly the very large corporations,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1339.14,
+   "end": 1346.26,
+   "text": "never were in favor and are to this day not particularly in favor of ending the double taxation of dividends",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1346.26,
+   "end": 1352.58,
+   "text": "if that simply means that the people who receive the dividends don't pay the corporate tax that has already been paid.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1353.42,
+   "end": 1357.24,
+   "text": "I mean, really, in the end, it's a question of who gets the money, who gets the cash.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1357.24,
+   "end": 1364.88,
+   "text": "and the executives of large corporations want to amend the double taxation of dividends",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1364.88,
+   "end": 1368.86,
+   "text": "in such a way so that the corporation keeps more of the cash",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1368.86,
+   "end": 1371.5,
+   "text": "while individuals have obviously another interest.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1373.54,
+   "end": 1376.64,
+   "text": "Also, I think another reason why that thing never took off",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1376.64,
+   "end": 1381.44,
+   "text": "was because it was quite obviously not going to get through in that form,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1381.44,
+   "end": 1388.0,
+   "text": "though you'll notice we just did get a $200 exclusion, $400 for married couple exclusion",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1388.0,
+   "end": 1394.96,
+   "text": "of taxes on the first $400 of dividends. I see no reason why that can't go up to $2,000,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1394.96,
+   "end": 1401.76,
+   "text": "$3,000, which would appeal, no, I don't know whether it really would represent capital",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1401.76,
+   "end": 1405.36,
+   "text": "formation, but it certainly looked like capital formation would have a great deal of appeal",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1405.36,
+   "end": 1412.72,
+   "text": "bill to the politicians. My own view is that if\u2014I mean, I would certainly urge it. I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1412.72,
+   "end": 1417.64,
+   "text": "wouldn't urge it on this administration because I'd be wasting my breath. But if",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1417.64,
+   "end": 1423.8,
+   "text": "we get a new administration, I would certainly try to build on that exclusion. I think that's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1423.8,
+   "end": 1430.44,
+   "text": "the way to go. The moment you have a $200\u2014the new bill, part of the energy bill, oddly enough\u2014a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1430.44,
+   "end": 1442.46,
+   "text": "$200 exclusion of taxes on interest and dividends, $400 for joint filing, I would start building",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1442.46,
+   "end": 1449.68,
+   "text": "that up, get to $1,000, $2,000, $3,000, until it really begins to make a difference affecting",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1449.68,
+   "end": 1452.62,
+   "text": "large numbers of people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1452.62,
+   "end": 1459.6,
+   "text": "I'm for that on economic grounds, I'm for that on political grounds, but you're going",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1459.6,
+   "end": 1464.4,
+   "text": "to need a new administration to do that, and you're going to need a new attitude toward",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1464.4,
+   "end": 1466.4,
+   "text": "taxation in general.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1466.4,
+   "end": 1473.46,
+   "text": "Well, there is a second possible approach which is kind of beginning to come out of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1473.46,
+   "end": 1480.94,
+   "text": "the shadows, and some of my labor union friends and the staffers in Washington who actually",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1480.94,
+   "end": 1491.54,
+   "text": "run the labor union movement, it isn't run by the council, are now looking at the need",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1491.54,
+   "end": 1500.18,
+   "text": "to do something about capital formation, and the fear they have that this would result",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1500.18,
+   "end": 1507.56,
+   "text": "in what they see as anti-labor taxation legislation, and they are toying with the idea that that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1507.56,
+   "end": 1518.66,
+   "text": "part of a corporation's income which represents the ownership stake of the pension funds and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1518.66,
+   "end": 1524.0,
+   "text": "so on, the pension funds themselves do not pay dividend on their income, they are tax",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1524.0,
+   "end": 1530.5,
+   "text": "exempt, as you know, largely, that that part that, let's say, pension funds or employees",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1530.5,
+   "end": 1546.3,
+   "text": "own 18% of U.S. Steel, then 18% of the corporation income tax of U.S. Steel will not pay corporation",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1546.3,
+   "end": 1548.58,
+   "text": "income tax on that 18%.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1548.58,
+   "end": 1555.48,
+   "text": "In other words, saying this is basically for the benefit of employees rather than for wicked",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1555.48,
+   "end": 1557.98,
+   "text": "capitalists anyhow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1557.98,
+   "end": 1563.44,
+   "text": "And I don't know whether that's going to go far, but it's an interesting idea and it would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1563.44,
+   "end": 1568.02,
+   "text": "come to grips with at least part of that problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1568.02,
+   "end": 1574.96,
+   "text": "And I think you'll hear more about it simply because there is going to be a very real problem",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1574.96,
+   "end": 1584.0,
+   "text": "of maintaining the pension funds in an inflationary time, in the time of low profits, and this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1584.0,
+   "end": 1588.28,
+   "text": "This is one way of bolstering pension funds.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1588.28,
+   "end": 1594.76,
+   "text": "I'm not a great believer in those hidden or over-earned subsidies, but I've given up hope",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1594.76,
+   "end": 1599.88,
+   "text": "that we can get rid of them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1599.88,
+   "end": 1603.78,
+   "text": "I think we can only riddle them with more exemptions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1603.78,
+   "end": 1607.58,
+   "text": "Gentleman in back there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1607.58,
+   "end": 1608.58,
+   "text": "Yes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1608.58,
+   "end": 1630.8,
+   "text": "yes the question is what about the movement which does exist and I to have",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.415
+  },
+  {
+   "start": 1630.8,
+   "end": 1638.94,
+   "text": "been approached to tax shelter dividends that are reinvested presumably in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1638.94,
+   "end": 1646.5,
+   "text": "same company. Well, one can understand why corporations should approve that. I don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1646.5,
+   "end": 1651.68,
+   "text": "really like it myself. I don't see why the dividend should be reinvested in the same",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1651.68,
+   "end": 1656.74,
+   "text": "company. I mean, unless you could get them to agree that if reinvested anywhere, they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1656.74,
+   "end": 1664.46,
+   "text": "are tax sheltered. But then you're really going to make it complicated. You're talking",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1664.46,
+   "end": 1668.66,
+   "text": "about something to encourage savings investment. I think there are simpler",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1668.66,
+   "end": 1674.24,
+   "text": "ways of getting at that same. Simpler ways, yeah easily. The simplest ways to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1674.24,
+   "end": 1680.86,
+   "text": "abolish the most asinine tax we have which is a corporation income tax. It is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1680.86,
+   "end": 1689.98,
+   "text": "a tax largely on the consumer. It's a cost. But politically I don't think you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1689.98,
+   "end": 1697.26,
+   "text": "will see it abolished. Now that tax shelter idea is actually the Swedish system as you know where",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1697.26,
+   "end": 1705.5,
+   "text": "companies can pay corporation income tax on a five years basis and every five years they cast the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1705.5,
+   "end": 1712.22,
+   "text": "books and show what has been reinvested in productive facilities and that part of the profit",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1712.22,
+   "end": 1719.96,
+   "text": "is exempted from corporation income tax. And let me say, we are pretty good at writing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1719.96,
+   "end": 1726.08,
+   "text": "laws to create full employment for lawyers and accountants, but the Swedes are better.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1727.38,
+   "end": 1731.0,
+   "text": "And this is probably their most successful law.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1733.28,
+   "end": 1741.58,
+   "text": "Several people have picked up the idea of developing stronger constituencies among employees,",
+   "speaker": "other",
+   "drucker_coverage": 0.027
+  },
+  {
+   "start": 1741.58,
+   "end": 1746.8,
+   "text": "And there's several questions which really focus on the issue of how do you do that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1748.12,
+   "end": 1753.56,
+   "text": "Specifically, how do you work more through the pension funds to accomplish this?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1754.28,
+   "end": 1759.58,
+   "text": "What ought a company do in terms of the organization of its personnel function",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1760.12,
+   "end": 1767.0,
+   "text": "and the redesign of its rewards and incentive structures and job structures to encourage it?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1767.0,
+   "end": 1771.8,
+   "text": "but is there any applicability of the European idea of co-determination",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1771.8,
+   "end": 1775.86,
+   "text": "as a part of the effort to build the employee constituency?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1778.19,
+   "end": 1779.67,
+   "text": "Co-determination, that's your question.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1780.35,
+   "end": 1785.35,
+   "text": "Let me say, you were all handed a book of mine that is not yet officially out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 23.98,
+ "created_utc": "2026-09-20T22:49:36+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

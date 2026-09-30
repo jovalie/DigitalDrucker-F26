@@ -1,0 +1,1974 @@
+{
+ "pointer": "5015",
+ "media": "5015.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2643.4,
+ "segments": [
+  {
+   "start": 2.1,
+   "end": 38.36,
+   "text": "We have three things we can do the next hour and a half, finishing up this case. We can spend a little time on pure speculation, mainly about these strategies, which of those not appear the right ones to you, but what kind of implications each of them have in terms of a basic assumption, basic expectations.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 39.36,
+   "end": 47.9,
+   "text": "specifications and kind of implications, what you have to do to make it work.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.883
+  },
+  {
+   "start": 47.9,
+   "end": 55.34,
+   "text": "We can spend some time on the related question, which really makes sense only after we have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 55.34,
+   "end": 65.95,
+   "text": "decided which are serious alternatives, of what consequences for management and management",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 65.95,
+   "end": 73.77,
+   "text": "structure are they can they go on what are the essentials of their management",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 73.77,
+   "end": 82.02,
+   "text": "system or structure which is should maintain and what are the things that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 82.02,
+   "end": 88.2,
+   "text": "will have to change like and we can spend and will spend some time on what",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 88.2,
+   "end": 93.4,
+   "text": "have we learned from this case we are not the very interested in running in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 93.4,
+   "end": 101.4,
+   "text": "electrical suppliers at least i am not i know when i'm well off and uh but what have we learned",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 102.6,
+   "end": 111.91,
+   "text": "strategy decisions strategy problems and i think we might start out with the question",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 112.47,
+   "end": 119.67,
+   "text": "looking at those few serious strategies and let me see this strategies we have ruled out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 120.31,
+   "end": 123.59,
+   "text": "now we have said there's a serious strategy which is do nothing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 123.59,
+   "end": 130.65,
+   "text": "of which that manufacturing thing is a minor variation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 132.62,
+   "end": 134.7,
+   "text": "It essentially keeps the business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 134.9,
+   "end": 136.7,
+   "text": "We have optimized it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 137.12,
+   "end": 141.42,
+   "text": "Maybe manufacturing, if you think this is the way to optimize it,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 141.46,
+   "end": 143.62,
+   "text": "maybe there are other ways of optimizing it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 144.4,
+   "end": 147.02,
+   "text": "But open a fewer branch here,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 147.14,
+   "end": 150.48,
+   "text": "where we see in Pasco, Washington, an opportunity,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 150.48,
+   "end": 155.52,
+   "text": "and if we can buy a decent house in Denver, we'll buy it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 155.52,
+   "end": 161.24,
+   "text": "If not, we stay out of Denver, and we manage what we have, and we get the most out of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 168.66,
+   "end": 179.93,
+   "text": "We have something that is manageable, and we know how to manage beyond that we don't.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.823
+  },
+  {
+   "start": 182.14,
+   "end": 183.26,
+   "text": "That's strategy one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 184.6,
+   "end": 199.44,
+   "text": "Strategy two is we know our territory, and there is no reason why we should not parallel our system.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.832
+  },
+  {
+   "start": 199.44,
+   "end": 210.44,
+   "text": "whereas one that distributes plumbing supplies, the same end-user, not the same customer necessarily,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 210.44,
+   "end": 219.44,
+   "text": "though in many cases the same in our territory, and you know, you need one as badly as the other in construction.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 219.44,
+   "end": 228.68,
+   "text": "These are the two things you need.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 228.68,
+   "end": 234.12,
+   "text": "You might say it is perhaps a little more likely that the American population will go",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 234.12,
+   "end": 239.94,
+   "text": "back to the outdoor privy than that it will go back to living in a tent, but not much",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 239.94,
+   "end": 240.94,
+   "text": "more likely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 240.94,
+   "end": 249.7,
+   "text": "The risk I'm willing to take on here, or anybody worried about taking that risk of the population",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 249.7,
+   "end": 255.7,
+   "text": "going to Alto Previz. Well, if we wanted to, the environmentalists wouldn't let us.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 255.7,
+   "end": 265.7,
+   "text": "And so, it's a risk I'm willing to take. And as long as they don't go back to Alto Previz",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 265.7,
+   "end": 273.7,
+   "text": "and they're washing in the brook, or they're not washing at all, you see, that is very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 273.7,
+   "end": 279.76,
+   "text": "realized that our ancestors didn't switch from washing in the brook to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 279.76,
+   "end": 290.98,
+   "text": "washing with running hot water. They didn't wash at all. So as long as they don't do",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 290.98,
+   "end": 298.58,
+   "text": "any such radical things, and it's not very likely yet, then the same fellow who",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 298.58,
+   "end": 319.2,
+   "text": "buys electrical wiring and switches and plugs and what have you also has to buy pipe and all the",
+   "speaker": "drucker",
+   "drucker_coverage": 0.927
+  },
+  {
+   "start": 319.2,
+   "end": 329.68,
+   "text": "things you need sinks all the things you need for plumbing and we know the places maybe we don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 329.68,
+   "end": 336.88,
+   "text": "have the plumbing contractor the different person from the electrical contractor although in many",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 336.88,
+   "end": 343.28,
+   "text": "places they are the same or the same man use it higher post primers and electricians the small",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 343.28,
+   "end": 352.82,
+   "text": "builder but we do know the kind of business we understand it and you know probably we have to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 352.82,
+   "end": 363.46,
+   "text": "learn it take a year or two but that's all and we stay in our territory uh essentially",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 363.46,
+   "end": 369.54,
+   "text": "you have a stock of trained people because there's really no good reason why a fellow",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 369.54,
+   "end": 376.38,
+   "text": "who has learned to run an electrical wholesale house in a small town in Oregon can't fairly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 376.38,
+   "end": 383.58,
+   "text": "fast learn to run a plumbing supply house. Sure, there are product problems, but that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 383.58,
+   "end": 394.0,
+   "text": "gives him a catalog. And the credit problem is the same, no great problem, but we can",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 394.0,
+   "end": 406.76,
+   "text": "parallel or we can again stay in the same territory going to that 40 percent of what have you maybe",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 406.76,
+   "end": 415.08,
+   "text": "have of the market in the territory we aren't in which is the big city the larger the center market",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 415.08,
+   "end": 439.44,
+   "text": "We can forget territory and look for a market, a society, and a climate that is very similar",
+   "speaker": "drucker",
+   "drucker_coverage": 0.774
+  },
+  {
+   "start": 439.44,
+   "end": 446.92,
+   "text": "to the one we have learned to operate in, but has not yet been tacked, whether the backyard",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 446.92,
+   "end": 457.1,
+   "text": "seems to be, and that, oh, the most obvious one would be the Texas area, where it's been",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 457.1,
+   "end": 463.98,
+   "text": "very rapid urban growth. Not, as you seem to think, all concentrated in Dallas, not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 463.98,
+   "end": 473.38,
+   "text": "even all concentrated in Dallas and Houston. Actually, the smaller cities, places, maybe",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 473.38,
+   "end": 481.38,
+   "text": "a fear of them, but she doesn't want to be there, like Lubbock, and Midland, and Odessa.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 481.38,
+   "end": 498.83,
+   "text": "After much faster abuement of what also, and where the systematic deconversion of haphazard",
+   "speaker": "drucker",
+   "drucker_coverage": 0.857
+  },
+  {
+   "start": 498.83,
+   "end": 506.51,
+   "text": "loafer or not even businesses suppliers into an organized and managed business has yet",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 507.55,
+   "end": 512.43,
+   "text": "can yet hasn't happened yet so we have an opportunity we know how to do that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 515.39,
+   "end": 521.95,
+   "text": "and let's assume these all the available strategies how do you and we know you want to know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 521.95,
+   "end": 533.95,
+   "text": "not which is right for us, but what does each assume and what does each imply. How would you go tackling this?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 533.95,
+   "end": 542.96,
+   "text": "How would you go analyzing a strategy to find out what's really in it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 542.96,
+   "end": 553.16,
+   "text": "May I please say that all of you suffer from the same terrible defect. You try to be intelligent.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.902
+  },
+  {
+   "start": 553.16,
+   "end": 576.82,
+   "text": "You are afraid of the simple. Don't. It is terribly easy to be intelligent and almost always wrong. Be simple. One can always upgrade, you know. One can always say, well, that's an obvious question.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.958
+  },
+  {
+   "start": 576.82,
+   "end": 578.82,
+   "text": "I don't know such thing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 580.82,
+   "end": 581.82,
+   "text": "Next one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 581.82,
+   "end": 585.82,
+   "text": "But it's very hard to climb down from the level in which you operate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 585.82,
+   "end": 589.84,
+   "text": "to where you make sense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 589.84,
+   "end": 599.62,
+   "text": "So don't try to be...",
+   "speaker": "drucker",
+   "drucker_coverage": 0.642
+  },
+  {
+   "start": 599.62,
+   "end": 601.62,
+   "text": "We can't hear you, I'm sorry.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 601.62,
+   "end": 606.62,
+   "text": "I don't think that the plumbing thing can be considered a serious problem.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.5
+  },
+  {
+   "start": 606.62,
+   "end": 608.62,
+   "text": "Go on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 608.62,
+   "end": 610.62,
+   "text": "Can you all hear?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 610.62,
+   "end": 612.62,
+   "text": "Good.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 612.62,
+   "end": 640.88,
+   "text": "I think you have to look at the both ends of the, of the thing, which is the end user, that they've acquired in the relationship with electrical suppliers, which they have for many, many years, which may lead them to, for sure, 10 years, 10 years maximum, because that little shop in Venetia, where they started out from 10 years ago, had no such strength.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.398
+  },
+  {
+   "start": 640.88,
+   "end": 650.06,
+   "text": "Well, remembering the alternatives, in general, I think there's a heck of a lot more alternatives that are better for us than that.",
+   "speaker": "other",
+   "drucker_coverage": 0.129
+  },
+  {
+   "start": 651.18,
+   "end": 651.9,
+   "text": "Go on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 655.59,
+   "end": 666.31,
+   "text": "If we dig into it, it would seem to me that utilizing the strengths that they have, they have many good people in some 20 branches.",
+   "speaker": "other",
+   "drucker_coverage": 0.076
+  },
+  {
+   "start": 666.71,
+   "end": 668.03,
+   "text": "Is that the one you have?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 668.85,
+   "end": 669.79,
+   "text": "That's all it's had.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 669.79,
+   "end": 671.67,
+   "text": "Oh, 200.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 671.67,
+   "end": 688.03,
+   "text": "So among those 200 managers, certainly they have the people that can man the same type of business in the larger cities.",
+   "speaker": "other",
+   "drucker_coverage": 0.204
+  },
+  {
+   "start": 689.31,
+   "end": 691.37,
+   "text": "And it's the same type of business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 691.37,
+   "end": 695.09,
+   "text": "But you told those sellers to come back.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.438
+  },
+  {
+   "start": 695.67,
+   "end": 702.25,
+   "text": "And when you're in the suburbs of cities where housing takes place, it's much like the other end of the bill.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 702.25,
+   "end": 710.25,
+   "text": "So, I think we're staying within the same geographical area, outside the geographical area,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 710.25,
+   "end": 714.25,
+   "text": "and minimizing the screen flying that they're doing.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 714.25,
+   "end": 719.25,
+   "text": "I don't even think that that funding field is a serious strategy at all.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.35
+  },
+  {
+   "start": 719.25,
+   "end": 730.53,
+   "text": "Do you mind if I turn hopefully pedantic and say we aren't ready to have opinions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 730.53,
+   "end": 747.92,
+   "text": "We are now ready, at most, to say that is the typical way management acts, and that's why they make those horrible mistakes.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 748.22,
+   "end": 759.94,
+   "text": "They do not stop to say objectively what's in each of these courses, and until we know this, nobody is there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 759.94,
+   "end": 791.02,
+   "text": "You put it down and look at it. You see, there are two questions. First, when you hear a case like this, when I ask what do we, I put it down on paper. Because you'll be surprised to disregard what, and put instead what you think more.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 791.02,
+   "end": 819.98,
+   "text": "That's terribly easy. The temptation is overwhelming and unless you force yourself, I'm sorry to be very pedantic. One is pedantic. There are certain areas in which one is never brilliant. The diagnosis is an area in which, for Christ's sake, beware the brilliant guy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 819.98,
+   "end": 828.46,
+   "text": "But unlike the MDs, we unfortunately do not vary on this.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 830.88,
+   "end": 831.82,
+   "text": "They stay around.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 832.88,
+   "end": 836.1,
+   "text": "So the brilliant diagnostician is protected.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 836.7,
+   "end": 840.58,
+   "text": "No longer quite as much as you asked before they might practice you,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 841.04,
+   "end": 842.38,
+   "text": "but still adequately.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 843.0,
+   "end": 843.68,
+   "text": "We are not.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 844.16,
+   "end": 845.6,
+   "text": "So don't be brilliant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 847.6,
+   "end": 849.06,
+   "text": "And so what do we know?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 849.62,
+   "end": 851.42,
+   "text": "And one puts it down on paper,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 851.42,
+   "end": 858.74,
+   "text": "And someone looks at it and says, my God, I didn't realize the fact that was.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 859.08,
+   "end": 861.5,
+   "text": "Secondly, one says, all right, yeah.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 919.53,
+   "end": 923.37,
+   "text": "See, but they also seem to imply that what meaning.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 932.88,
+   "end": 935.58,
+   "text": "It's got one salesman and a warehouse.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 946.15,
+   "end": 947.07,
+   "text": "That's why it works.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 950.25,
+   "end": 951.65,
+   "text": "That they marry.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 953.49,
+   "end": 957.4,
+   "text": "They're typical, non-nature.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 957.62,
+   "end": 968.71,
+   "text": "Wouldn't go into being, to good excuse for not being a musician.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 968.71,
+   "end": 978.36,
+   "text": "But who knows his customers who are also in the small town, not great decisions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 978.36,
+   "end": 991.66,
+   "text": "Kaufmann is a small local contractor who has a remodeling job here and a condominium here and a row house there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 991.66,
+   "end": 995.66,
+   "text": "Also not a captain of industry.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 995.66,
+   "end": 1012.2,
+   "text": "And if he wanted to be one, he wouldn't have gone in.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.879
+  },
+  {
+   "start": 1012.2,
+   "end": 1016.2,
+   "text": "He's just a local salesman and delivery man.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1016.2,
+   "end": 1020.4,
+   "text": "And you married that, because that you know how to claim,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1020.4,
+   "end": 1038.18,
+   "text": "that you can get in the school, no problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1038.18,
+   "end": 1041.82,
+   "text": "Make a decent living, never move out of town,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1041.82,
+   "end": 1043.66,
+   "text": "have to make no decisions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1043.66,
+   "end": 1044.96,
+   "text": "What decision does that?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1044.96,
+   "end": 1054.75,
+   "text": "So like he makes the great decision",
+   "speaker": "drucker",
+   "drucker_coverage": 0.847
+  },
+  {
+   "start": 1054.75,
+   "end": 1058.79,
+   "text": "that Joe and Jim both put up at the same loading dock,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1058.79,
+   "end": 1066.12,
+   "text": "the same time, whom does he say good morning to first?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1066.12,
+   "end": 1068.32,
+   "text": "The extent of his decisions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1068.32,
+   "end": 1071.36,
+   "text": "Beyond this, no decision.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1071.36,
+   "end": 1076.54,
+   "text": "He either got the merchandise in stock or he ain't got it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1076.54,
+   "end": 1082.2,
+   "text": "And if he ain't got it in stock, he knows two things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1082.2,
+   "end": 1084.64,
+   "text": "He knows, because it's in his book,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1084.64,
+   "end": 1089.0,
+   "text": "that this, whatever it is, T-joint or what have you,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1089.0,
+   "end": 1091.24,
+   "text": "will do the job of what the fellow wants,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1091.24,
+   "end": 1093.12,
+   "text": "and that we have in stock.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1093.12,
+   "end": 1094.54,
+   "text": "So he give him that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1094.54,
+   "end": 1097.1,
+   "text": "Or there's a telephone at your corner,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1098.32,
+   "end": 1102.62,
+   "text": "Pasco or the nearest site, the bigger, large town,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1102.62,
+   "end": 1125.64,
+   "text": "say to your colleagues say have you got the managers standard the system couldn't operate",
+   "speaker": "drucker",
+   "drucker_coverage": 0.935
+  },
+  {
+   "start": 1125.64,
+   "end": 1130.12,
+   "text": "who the hell can have 200 managers General Motors doesn't have that many",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1131.56,
+   "end": 1140.06,
+   "text": "it's a hell of a lot of managers uh if you really mean managers General Motors had a lot of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1140.06,
+   "end": 1146.06,
+   "text": "professionals and technicians and very few managers probably more than 200. it's a little bigger than",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1146.06,
+   "end": 1166.83,
+   "text": "as well the only one who assumes that we have managers when we can move is exactly and don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1166.83,
+   "end": 1179.76,
+   "text": "assume that just because it's the same thing in san francisco it is in corona down here",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1181.28,
+   "end": 1190.38,
+   "text": "maybe the environment makes all the difference the only place where one can assume the environment to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1190.38,
+   "end": 1199.04,
+   "text": "be relatively is a manufacturing plant for the simple reason that it does not produce for the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1199.04,
+   "end": 1212.03,
+   "text": "environment but its market is elsewhere but well otherwise the market Chico Chino down here is a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1212.03,
+   "end": 1225.96,
+   "text": "very different environment but don't assume what your job is to bring out what the other person",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1225.96,
+   "end": 1233.64,
+   "text": "assumes and then to ask him do you really mean that and six times out of ten and say hell no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1233.64,
+   "end": 1242.96,
+   "text": "I didn't realize that. And I don't think it's right. He knows the condition. You don't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1245.2,
+   "end": 1250.0,
+   "text": "But he may not have thought, he may not have thought it through, and he may also have had",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1250.0,
+   "end": 1261.53,
+   "text": "opinion rather than analysis. So put down what each assumes. He analytically, if anybody says,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1261.53,
+   "end": 1267.17,
+   "text": "I don't think that's right, say, down fighter. We aren't ready. That comes late.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1267.17,
+   "end": 1277.25,
+   "text": "At the present moment, nobody has enough. We are putting down what implicitly in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1277.25,
+   "end": 1282.37,
+   "text": "these proposed courses of action. Then we're going to look at them and say, do we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1282.37,
+   "end": 1297.52,
+   "text": "really mean it? Let me see. One does this. In early 1960, a very large university",
+   "speaker": "drucker",
+   "drucker_coverage": 0.934
+  },
+  {
+   "start": 1297.52,
+   "end": 1309.05,
+   "text": "He came to me with expansion, alternatives, violent opinions.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.913
+  },
+  {
+   "start": 1309.13,
+   "end": 1314.11,
+   "text": "And it took me a long time to get those very learned people to the point where they were willing to think.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1314.43,
+   "end": 1325.69,
+   "text": "But finally, I got them to the point where I said, what are the basic assumptions regarding students and student population?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1325.69,
+   "end": 1332.85,
+   "text": "And got out the assumption.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.651
+  },
+  {
+   "start": 1333.67,
+   "end": 1339.05,
+   "text": "And I said, you know, do you really mean it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1339.05,
+   "end": 1348.15,
+   "text": "because what's implied in your assumption, essentially, is that by the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1348.15,
+   "end": 1355.77,
+   "text": "year 1995 or thereabouts, you will not be admitted to first grade unless you first",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1355.77,
+   "end": 1363.9,
+   "text": "have a PhD. You could consider that probable, but he had assumed it was an",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1363.9,
+   "end": 1370.57,
+   "text": "exponential expansion, which everybody is assuming. I once looked at demographics and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1370.57,
+   "end": 1381.57,
+   "text": "And I was one of the first ones to predict the expansion, when I predicted it was 57, the expansion of the human population to 9 million people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1381.57,
+   "end": 1389.92,
+   "text": "I was considered insane, but it was a very simple prediction. You all had to look at this figure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1389.92,
+   "end": 1402.42,
+   "text": "And, but five years later, it's even a bit clear that like every other exponential curve, this answer would not keep on growing forever.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1402.42,
+   "end": 1406.42,
+   "text": "And the only question was, when was it plateaued?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1406.42,
+   "end": 1411.34,
+   "text": "And one could disagree on three to five years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1411.34,
+   "end": 1430.07,
+   "text": "But then, because then you argue, like that distinguished man said,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1430.07,
+   "end": 1433.07,
+   "text": "that obviously going to college is good for you,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1433.07,
+   "end": 1451.4,
+   "text": "and therefore everybody will have to be emotional.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1451.4,
+   "end": 1464.11,
+   "text": "I would argue that just because we like to become a national university",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1464.11,
+   "end": 1466.11,
+   "text": "when we are a regional one,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1466.11,
+   "end": 1475.0,
+   "text": "And the only chance we have of becoming a national is for the total student population to become big enough,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1475.0,
+   "end": 1481.0,
+   "text": "because we aren't going to take it away from Harvard, Princeton, Chicago, and so on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1481.0,
+   "end": 1489.37,
+   "text": "Therefore, it has to grow, because we want to be a national university, which is the way...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1489.37,
+   "end": 1494.61,
+   "text": "effect all he didn't realize if you have been I realized who in Boston tell me",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1494.61,
+   "end": 1555.59,
+   "text": "till I said it wasn't proper and as a result was very very underfunded without",
+   "speaker": "drucker",
+   "drucker_coverage": 0.984
+  },
+  {
+   "start": 1555.59,
+   "end": 1572.01,
+   "text": "any breath to spare and no one up because anybody was right otherwise you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1572.01,
+   "end": 1583.44,
+   "text": "know the things that you do the things that and which is the most dangerous of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1583.44,
+   "end": 1586.49,
+   "text": "I didn't say that, unfortunately.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1591.1,
+   "end": 1621.03,
+   "text": "And so, and start out first outside.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.967
+  },
+  {
+   "start": 1621.67,
+   "end": 1622.69,
+   "text": "Because it's easier.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1626.47,
+   "end": 1632.91,
+   "text": "What do we, well, in this particular case, what's the most important?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1633.25,
+   "end": 1634.85,
+   "text": "Underline all these assumptions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1635.83,
+   "end": 1637.51,
+   "text": "It's demographic, believe me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1638.29,
+   "end": 1639.89,
+   "text": "So what do we believe?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1639.89,
+   "end": 1646.67,
+   "text": "Now, there are very real assumptions here regarding not the size of the population.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1647.31,
+   "end": 1657.37,
+   "text": "But we, and here we are in the small town.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.751
+  },
+  {
+   "start": 1657.37,
+   "end": 1666.49,
+   "text": "If you mean that literally, then we are in the wrong place.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1666.49,
+   "end": 1673.49,
+   "text": "Anybody know enough about population trends to see how the American population has been moving for a long time?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1673.49,
+   "end": 1698.52,
+   "text": "We are beginning to look very much like the solar system.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.521
+  },
+  {
+   "start": 1698.52,
+   "end": 1705.52,
+   "text": "A lot of fairly loose constellations with empty space between them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1705.52,
+   "end": 1713.52,
+   "text": "The inner city is getting empty, though they are the first signs of a possible reversal of the trend.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1713.52,
+   "end": 1716.52,
+   "text": "But wait ten more years before you better it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1716.52,
+   "end": 1725.69,
+   "text": "And the countryside is getting to be an in-between the metropolitan area,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1725.69,
+   "end": 1732.69,
+   "text": "which essentially in terms of land use is in-between the two.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1732.69,
+   "end": 1750.16,
+   "text": "And in terms of population density, it's closer to the metropolitan area than to the rural area, about two-thirds of the way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1752.76,
+   "end": 1759.8,
+   "text": "That's where the population is, which is fairly high density, but not suburban density.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1759.8,
+   "end": 1768.97,
+   "text": "If you fly over Los Angeles, one of those little commuter planes, you realize that most of the time you see empty space, don't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1769.41,
+   "end": 1778.62,
+   "text": "a lot of it. And yet it is densely populated. You're never more than three or four miles",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1778.62,
+   "end": 1797.22,
+   "text": "away from a cluster of houses. But at the same time, by, with some exception of the",
+   "speaker": "drucker",
+   "drucker_coverage": 0.866
+  },
+  {
+   "start": 1797.22,
+   "end": 1812.88,
+   "text": "outstanding one, these metropolitan areas really organized towards a center. They organized",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1812.88,
+   "end": 1834.34,
+   "text": "what's the professor all we girls lead out so to speak another and the shopping center that's where",
+   "speaker": "drucker",
+   "drucker_coverage": 0.93
+  },
+  {
+   "start": 1834.34,
+   "end": 1840.98,
+   "text": "it's easy to get to and easy to get from now you may say that the petroleum energy problem with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1840.98,
+   "end": 1851.28,
+   "text": "changes it might believe me more important probably so many young couples postpone children",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1851.28,
+   "end": 1857.76,
+   "text": "and are therefore not but so far there has been very little slackening of the preference for the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1857.76,
+   "end": 1863.6,
+   "text": "single family home not of the demand that is lacking of demand but that's large economic",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1863.6,
+   "end": 1870.0,
+   "text": "single family home prices have gone up much faster than either moving home or much that dwelling",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1872.45,
+   "end": 1878.85,
+   "text": "then it doesn't work there may be a change but so far this hasn't happened and therefore",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1879.73,
+   "end": 1888.67,
+   "text": "uh maybe if our friends are in small towns it's brilliant small towns and not in the small town",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1888.67,
+   "end": 1899.98,
+   "text": "like ontario here next door pomona or corona or monrovia which are small towns legally but not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1901.26,
+   "end": 1908.14,
+   "text": "demographically they are metropolitan areas if they are really in small towns they're probably",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1908.14,
+   "end": 1919.23,
+   "text": "in the wrong place there is no sign of a revival of the small while some new factors might lead to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1919.23,
+   "end": 1930.83,
+   "text": "a revival of the core city mass transportation for instance it really comes which almost",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1930.83,
+   "end": 1937.55,
+   "text": "inevitably means rigid transportation you can go from place a to play b for as we see automobile",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1937.55,
+   "end": 1946.11,
+   "text": "you can go from place n to any other place that's why some of us are not convinced yet",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1946.11,
+   "end": 1951.11,
+   "text": "that mass transportation, A, makes any sense, and B, will happen.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1951.11,
+   "end": 1954.11,
+   "text": "Well, I'm convinced we're going to spend a lot of money on it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1954.11,
+   "end": 1957.11,
+   "text": "That's easy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1957.11,
+   "end": 1964.11,
+   "text": "But what the automobile gives you is that freedom to go where you want to go.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1964.11,
+   "end": 1969.11,
+   "text": "And in a streetcar, you know, you go where the streetcar wants to go.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1969.11,
+   "end": 1972.11,
+   "text": "Or a train, or a bus.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1972.11,
+   "end": 1981.39,
+   "text": "and so and the exactly same the example any where would you look go to look for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1981.39,
+   "end": 1990.72,
+   "text": "the best mass transportation system but where no no Moscow is very good",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1990.72,
+   "end": 1997.88,
+   "text": "Moscow has a short subway line and that's it Tokyo Tokyo now Tokyo has",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1997.88,
+   "end": 2028.1,
+   "text": "easily the best mass transport in and out of steadily going it's also the most",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2028.1,
+   "end": 2068.85,
+   "text": "And the reason is to fight their way through a subway station or what have you, but to get from where they want to start their home to where they want to go, their workplace. And you may say this is irrational, but don't ever say that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2068.85,
+   "end": 2076.05,
+   "text": "Man always then says, what is irrationality?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2076.05,
+   "end": 2084.76,
+   "text": "And maybe it doesn't take long.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2084.76,
+   "end": 2087.76,
+   "text": "It takes long, but maybe.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2087.76,
+   "end": 2093.23,
+   "text": "But it's more compound than you have above all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2093.23,
+   "end": 2095.23,
+   "text": "You have freedom.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2095.23,
+   "end": 2100.05,
+   "text": "You don't always follow an arrow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2100.05,
+   "end": 2105.05,
+   "text": "So maybe that in a very densely crowded place like Japan,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2105.05,
+   "end": 2107.05,
+   "text": "in a very socially very rigid place,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2107.05,
+   "end": 2112.55,
+   "text": "that freedom you have that you can there decide if it's only to take one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2112.55,
+   "end": 2122.05,
+   "text": "overcrowded back road as against another one. It's worth something. So don't start out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2122.05,
+   "end": 2128.41,
+   "text": "with demographics here. What do they assume? What are the opportunities? We don't know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2128.41,
+   "end": 2136.42,
+   "text": "enough about them. They may be in the right place, but we don't know. When they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2136.42,
+   "end": 2141.94,
+   "text": "say small town they may mean the ontarios and covinas and what have you we don't know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2143.3,
+   "end": 2155.98,
+   "text": "but they may also mean what has historically been meant by a small town",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2155.98,
+   "end": 2169.93,
+   "text": "something on the pennsylvania railroad and uh or on the santa fe uh and you don't know",
+   "speaker": "drucker",
+   "drucker_coverage": 0.892
+  },
+  {
+   "start": 2169.93,
+   "end": 2177.21,
+   "text": "so what do they assume where the population going to be and there is very little evidence that it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2177.21,
+   "end": 2189.11,
+   "text": "is going to be in the small town and in lesser it's going to be in the rural what do these",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2189.11,
+   "end": 2196.87,
+   "text": "strategies assume in respect to this one factor which we cannot have to speculate good solid",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2196.87,
+   "end": 2214.9,
+   "text": "evidence and what does it assume uh regarding the spending habits of the same people and that is",
+   "speaker": "drucker",
+   "drucker_coverage": 0.945
+  },
+  {
+   "start": 2214.9,
+   "end": 2224.89,
+   "text": "where it is most important to realize that our friends are not in the housing market but are in",
+   "speaker": "drucker",
+   "drucker_coverage": 0.85
+  },
+  {
+   "start": 2224.89,
+   "end": 2239.13,
+   "text": "the housing, the two, anybody know what I'm saying? Anybody know the historical facts",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2239.13,
+   "end": 2249.06,
+   "text": "of those countries and the rest of the world? Historically, the American behavior has been",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2249.06,
+   "end": 2255.28,
+   "text": "totally different from the rest of the world. Historically, in this country, we have had",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2255.28,
+   "end": 2269.05,
+   "text": "a 250-year unbroken, even in severe depression times, towards more living space. The colonial",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2269.05,
+   "end": 2274.73,
+   "text": "house was, in terms of living space, a very small house. You buy an old one in Vermont,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2274.73,
+   "end": 2288.9,
+   "text": "you find out, then you realize that they lived there with 18 children. And the amount, the",
+   "speaker": "drucker",
+   "drucker_coverage": 0.718
+  },
+  {
+   "start": 2288.9,
+   "end": 2298.43,
+   "text": "share of disposable income that goes on housing equipment has fluctuated very sharply. Went",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2298.43,
+   "end": 2307.44,
+   "text": "up in the federal period very sharply, the golden age of the furniture maker in America,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2307.44,
+   "end": 2314.16,
+   "text": "where he got a lot of money. The people were willing to spend in very poor houses,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2314.16,
+   "end": 2321.18,
+   "text": "most of the houses were very poor, a lot of money on good furniture. Went down very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2321.18,
+   "end": 2330.65,
+   "text": "sharply, climbed up very slowly in the 1900s, collapsed, went down very sharply in the early",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2330.65,
+   "end": 2351.4,
+   "text": "the age of the Grand Rapids, Orange Bay, if it was that good. And, uh, fluctuating. Been going up fairly",
+   "speaker": "drucker",
+   "drucker_coverage": 0.928
+  },
+  {
+   "start": 2351.4,
+   "end": 2360.78,
+   "text": "steeply since World War II. How many one-bathroom houses do you now know? Would you, if you were a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2360.78,
+   "end": 2366.3,
+   "text": "builder in the suburbs, would you build your one-bathroom house? No, but in the 20s it was standard.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2366.3,
+   "end": 2385.13,
+   "text": "uh five eight room houses with one bathroom three bedroom house pictures well the 20s still",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2385.13,
+   "end": 2397.64,
+   "text": "without garage was not that uncommon and so on and so forth one plug a bedroom room been going",
+   "speaker": "drucker",
+   "drucker_coverage": 0.92
+  },
+  {
+   "start": 2397.64,
+   "end": 2412.38,
+   "text": "up fairly fast however to a continuing expansion of cubic space square meter square feet per person",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2412.38,
+   "end": 2420.57,
+   "text": "living spaces and there is evidence now but it's very early but the rest of the world let me say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2420.57,
+   "end": 2428.89,
+   "text": "there has been no comparable expansion of living space per person the japanese living space per",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2428.89,
+   "end": 2436.73,
+   "text": "person is almost the same it was 250 years ago and if you think if you that's why you feel so cramped",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2436.73,
+   "end": 2460.03,
+   "text": "But essentially we know that the measures which one of the city planners in 18th century Japan used when they rebuilt Tokyo, which burned down every 20 years, a good nice fire that destroyed it, was rebuilt to standards.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2460.03,
+   "end": 2469.44,
+   "text": "and the standards are exactly the same in which most Japanese still live in terms of living space.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2469.44,
+   "end": 2486.62,
+   "text": "Essentially, in Europe, the increase has been very small. The council houses the British",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2486.62,
+   "end": 2497.24,
+   "text": "government has been building have exactly the same living space as their model laborers' cottage,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2497.88,
+   "end": 2507.02,
+   "text": "the humanitarian landlord of 1800 with, you know, very romantic, women infested,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2507.02,
+   "end": 2515.52,
+   "text": "unheated, no running water, but very romantic, wild roses, but just very little carpet.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2515.52,
+   "end": 2521.52,
+   "text": "The same living space the council houses have. Now they have bathrooms, they have electric",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2521.52,
+   "end": 2530.47,
+   "text": "light, obviously. They have no heat, you know. But the same space. And the same is true with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2530.47,
+   "end": 2538.33,
+   "text": "the workers' houses in Amsterdam or in Sweden. In no increase in living space, but a tremendous",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2538.33,
+   "end": 2544.21,
+   "text": "does increase in the amount of money that goes inside the house that's where",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2544.21,
+   "end": 2549.39,
+   "text": "the in the rest of the world the increase has gone and there's evidence",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2549.39,
+   "end": 2554.09,
+   "text": "in this country that we are at a very much higher level because we have almost",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2554.09,
+   "end": 2558.67,
+   "text": "three times the square feet of the Japanese and almost two times those of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2558.67,
+   "end": 2636.99,
+   "text": "the Europeans but almost four times those of the Russian investment but also",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2636.99,
+   "end": 2643.37,
+   "text": "because it's planned so much better so that the same square footage gives you",
+   "speaker": "drucker",
+   "drucker_coverage": 0.942
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 34.23,
+ "created_utc": "2026-09-20T23:11:01+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

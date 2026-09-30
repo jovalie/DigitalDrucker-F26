@@ -1,0 +1,2401 @@
+{
+ "pointer": "5107",
+ "media": "5107.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 3605.6,
+ "segments": [
+  {
+   "start": 2.77,
+   "end": 24.37,
+   "text": "of manufacturing employees work, not in a chamber, but on a chamber design, five or six percent, one out of twenty, max, even in the end.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.769
+  },
+  {
+   "start": 24.37,
+   "end": 42.02,
+   "text": "But in clerical operations, it's six percent. Here are the claims people in insurance come and act their way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 42.02,
+   "end": 51.02,
+   "text": "There are the key punch operators. There are the people, the punch card people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 51.02,
+   "end": 60.2,
+   "text": "There are the order handling, there are the credits and billing into that form.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 60.2,
+   "end": 65.5,
+   "text": "A good deal is assembly of the whole product without anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 65.5,
+   "end": 70.2,
+   "text": "Convey your belt because the product is not heavy enough to be your belt.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 70.2,
+   "end": 77.2,
+   "text": "You can hand, put it across the desk by hand from one basket or you have a swivel basket.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 77.2,
+   "end": 80.24,
+   "text": "Any of you ever seen it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 80.24,
+   "end": 84.94,
+   "text": "You out basket, you turn it over, it's the next girl's in basket.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 84.94,
+   "end": 91.94,
+   "text": "You see, that's an assembly. That's basically a conveyor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 91.94,
+   "end": 96.94,
+   "text": "Only paper doesn't weigh that much. You don't have that big wrapping paper, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 96.94,
+   "end": 98.94,
+   "text": "It doesn't look very dramatic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 98.94,
+   "end": 105.5,
+   "text": "There are 79 workers who can be found in clerical offices.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 105.5,
+   "end": 108.5,
+   "text": "And there are no clerical workers alone in production.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 108.5,
+   "end": 114.45,
+   "text": "There are clerical employees at the social field,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 114.45,
+   "end": 120.91,
+   "text": "not the ones that sit in an office, they're not in the plant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 120.91,
+   "end": 133.85,
+   "text": "It means they don't get their hands too dirty under the rug.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 133.85,
+   "end": 143.14,
+   "text": "Yesterday meant that socialiness was far more acceptable than factory work,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 143.14,
+   "end": 186.1,
+   "text": "which became unacceptable this century because it was the mark of irrespective advice.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 186.1,
+   "end": 190.78,
+   "text": "So here, this is one way of looking at it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 190.78,
+   "end": 200.78,
+   "text": "This assumes, now, that Dr. Perez is right when he says the business of the bank is getting money and lending money.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 200.78,
+   "end": 214.65,
+   "text": "What?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.351
+  },
+  {
+   "start": 214.65,
+   "end": 216.65,
+   "text": "Only partially, it's also...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 216.65,
+   "end": 217.65,
+   "text": "I can't hear you, Ted.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 217.65,
+   "end": 224.65,
+   "text": "Only partially, it's also providing a service, and he's a part of that service.",
+   "speaker": "other",
+   "drucker_coverage": 0.264
+  },
+  {
+   "start": 224.65,
+   "end": 238.84,
+   "text": "Now, if you had gone back 50 years, would you have borrowed the stocks of Perez or not?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.658
+  },
+  {
+   "start": 238.84,
+   "end": 254.58,
+   "text": "In the entire world banking world, do you know who he was?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.619
+  },
+  {
+   "start": 254.58,
+   "end": 273.07,
+   "text": "And only Martin. Otherwise, not only was Perez...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 273.07,
+   "end": 295.65,
+   "text": "that's a very accurate statement, because basically you go back to in the 1920s, who used the bank?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.889
+  },
+  {
+   "start": 295.65,
+   "end": 310.72,
+   "text": "A business community. If you had worked for the Claremont Colleges in 1925 or for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 310.72,
+   "end": 324.2,
+   "text": "for their senior citizens retirement or for whatever the treaty set forth would have been",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 324.2,
+   "end": 338.54,
+   "text": "of the lofty some of you were forced. How would you have gotten paid if you had a bank account?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.756
+  },
+  {
+   "start": 338.54,
+   "end": 363.5,
+   "text": "In the 19th century, there was the company town and the company stores and those were",
+   "speaker": "drucker",
+   "drucker_coverage": 0.84
+  },
+  {
+   "start": 363.5,
+   "end": 371.42,
+   "text": "mostly used and employees were not paid in cash but were given credit in the company.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 371.7,
+   "end": 397.38,
+   "text": "And state after state, the great, the first great age, the equivalent to Ralph Nader in the 1880s, was the crusade against payment and credit.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 397.38,
+   "end": 406.9,
+   "text": "The anti-trucking law. The anti-trucking law was a great achievement.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 406.9,
+   "end": 432.39,
+   "text": "the bad but with the results of Delaware's defeating the anti-tracking law, the only",
+   "speaker": "drucker",
+   "drucker_coverage": 0.961
+  },
+  {
+   "start": 432.39,
+   "end": 441.38,
+   "text": "state of the Union. Hardly because the U.K. established checking accounts, an independent",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 441.38,
+   "end": 464.31,
+   "text": "bank for the state by taking the child of the very enlightened philosopher-scientist",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 464.31,
+   "end": 472.82,
+   "text": "with enlightened ideas, and one of them was, in those days, was called the hero. Anybody",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 472.82,
+   "end": 491.38,
+   "text": "ever heard of the hero or did the bank account or anybody know who invented it by the name",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 491.38,
+   "end": 504.38,
+   "text": "where would it likely to come here or what language but italian as we see and most",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 504.38,
+   "end": 522.67,
+   "text": "enlightenment someone came out of the florence of the house branch of the house it was the testing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 522.67,
+   "end": 529.95,
+   "text": "lab it was the test market of things like there was a dutchie big enough so that results were",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 529.95,
+   "end": 535.95,
+   "text": "and yet small enough that you could control it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 535.95,
+   "end": 538.95,
+   "text": "It was the equivalent of Denver or Fresno or Oshkosh.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 538.95,
+   "end": 544.22,
+   "text": "The zero is an invention.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 544.22,
+   "end": 559.61,
+   "text": "Lordly, they would get things with the landlords and work with them",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 559.61,
+   "end": 565.1,
+   "text": "until you got the postal zero.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 565.1,
+   "end": 567.1,
+   "text": "And it was fair to use.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 567.1,
+   "end": 579.43,
+   "text": "That, and it was a European way of getting",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 579.43,
+   "end": 591.38,
+   "text": "There were payment systems in which the payee was not under the thumb of the payee.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.916
+  },
+  {
+   "start": 591.38,
+   "end": 600.38,
+   "text": "You had an independent authority that protected said account so that it shouldn't be one of the great problems for us.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 600.38,
+   "end": 607.3,
+   "text": "The small businessman of 1820, with his company so much,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 607.3,
+   "end": 613.3,
+   "text": "went into a cash freeze, dipped into the accounts of his employees to finance himself.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 613.3,
+   "end": 624.3,
+   "text": "went bankrupt and they were holding the bag. Again and again and again, one of them would come and he would remove those accounts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 624.3,
+   "end": 632.3,
+   "text": "But it also made it possible for people to have a little money without having cash.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 632.3,
+   "end": 641.3,
+   "text": "It was too much of a temptation for him. Things involved were not so significant in the idea.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 641.3,
+   "end": 652.74,
+   "text": "And of course, Florence took what had been a commercial idea of the economy, popularized it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 652.74,
+   "end": 658.74,
+   "text": "And so Delaware, with the DuPont, with the strong ties that DuPont had to the European",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 658.74,
+   "end": 664.74,
+   "text": "Enlightenment, had thought it was, in effect, was a non-governmental deal in the banks of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 664.74,
+   "end": 667.74,
+   "text": "Delaware for DuPont employees.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 667.74,
+   "end": 669.74,
+   "text": "And so it's like, Lord, they're defeated.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 669.74,
+   "end": 671.74,
+   "text": "But every other street has it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 671.74,
+   "end": 681.74,
+   "text": "And you have to repeal them or at least get to the point where you disregard them before you can really put paychecks into a checking account, a paying check.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 681.74,
+   "end": 699.54,
+   "text": "Or at least you have to get a court ruling that to give an employee a check will not pay the violation of the anti-fucking law, which I think is before or so.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 699.54,
+   "end": 709.71,
+   "text": "Ah, but the most popular sites you'll find it in comforts of the unrivaled prince.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 709.71,
+   "end": 713.71,
+   "text": "You'll find it in fields of rye, of novice.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 713.71,
+   "end": 719.71,
+   "text": "On Friday evening, their wives went to the France gate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 719.71,
+   "end": 727.71,
+   "text": "to smear their husbands who came out of the France with their money in their pockets",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 727.71,
+   "end": 745.16,
+   "text": "and to get the men home without the stuff that they have and he was",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 745.16,
+   "end": 752.16,
+   "text": "didn't have a lot of time and services were business services and they were very limited",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 752.16,
+   "end": 762.78,
+   "text": "there were tech clearing for businesses but mostly, you know, there was no federal reserve system",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 762.78,
+   "end": 773.97,
+   "text": "The check dealing was for banks. New York City banks had a monopoly on national checks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 773.97,
+   "end": 778.7,
+   "text": "It was a correspondent bank, very lucrative.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 778.7,
+   "end": 789.32,
+   "text": "And if the Chase Bank took you on as a correspondent bank, you had a tremendous question asked of you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 789.32,
+   "end": 792.32,
+   "text": "because you paid checks in three days or four days.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 792.32,
+   "end": 802.47,
+   "text": "You didn't have to wait to find out whether the checks you got from their customers were found or not.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 802.47,
+   "end": 808.48,
+   "text": "And on the other hand, the Chase charged handsomely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 808.48,
+   "end": 820.58,
+   "text": "We still see on government checks you get the notation that no bank is allowed to charge a fee for handling children.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 820.58,
+   "end": 828.29,
+   "text": "That's a remnant of the free federal reserve case.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 828.29,
+   "end": 852.04,
+   "text": "And so, banks, the banking business, getting savings of individuals, and all the mechanisms that go with the money,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.958
+  },
+  {
+   "start": 852.04,
+   "end": 863.14,
+   "text": "who does the best job in traditional banking, you know, who gets the largest cost and back into it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 863.14,
+   "end": 889.76,
+   "text": "Japanese get 98% of the savings of, we get about 14 to about 7. Now we are, the English are more familiar.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 889.76,
+   "end": 896.76,
+   "text": "Now, that doesn't mean that our savings do not get used, but there are so many other savings channels.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 896.76,
+   "end": 903.76,
+   "text": "Savings and loans, also investors go through the stock exchange, bypass the bank system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 903.76,
+   "end": 906.76,
+   "text": "In Japan, everything goes through the Congress Bank.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 906.76,
+   "end": 919.86,
+   "text": "In Germany, practically all the money, only the mortgage money, is form credit.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 919.86,
+   "end": 928.67,
+   "text": "In this country, the only part of the country where form credit goes through the bank,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 928.67,
+   "end": 940.2,
+   "text": "in the rest of the country going bank on credit, additional funds.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 940.2,
+   "end": 949.94,
+   "text": "So the banking system here is easy in Germany and it's easy for me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 949.94,
+   "end": 955.94,
+   "text": "With that it is the largest of half a dozen parallel systems.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 955.94,
+   "end": 958.94,
+   "text": "Some of them completely bypassed,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 958.94,
+   "end": 964.18,
+   "text": "then directly get the individual,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 964.18,
+   "end": 987.84,
+   "text": "that's why the disappearance of the individual investor from the very old.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 987.84,
+   "end": 1019.28,
+   "text": "for businesses. Why do you have your bank account, your personal one, where you have it?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.952
+  },
+  {
+   "start": 1019.28,
+   "end": 1039.77,
+   "text": "Why did you fix the bank? Location. Convenient. Let me say that there's a public opinion survey",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1040.73,
+   "end": 1046.97,
+   "text": "in which they ask people what bank do your bank with and more than I think 40 percent",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1046.97,
+   "end": 1059.69,
+   "text": "has to say either let me look at my checkbook or it's that bank at the north they did not pick",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1059.69,
+   "end": 1067.92,
+   "text": "a bank before that they're all insured by the fdic aren't they anybody really picked a bank",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1067.92,
+   "end": 1097.15,
+   "text": "before the checkbooks of the bank they you come here at the end of the whole of little",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1097.15,
+   "end": 1107.04,
+   "text": "to give you a sample of the United California Bank and say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1107.04,
+   "end": 1110.04,
+   "text": "show me your checkbook.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1110.04,
+   "end": 1112.04,
+   "text": "Little boys.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1112.04,
+   "end": 1122.99,
+   "text": "Then they go to the bank, and the color of the check matches",
+   "speaker": "drucker",
+   "drucker_coverage": 0.863
+  },
+  {
+   "start": 1122.99,
+   "end": 1125.97,
+   "text": "might help.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1125.97,
+   "end": 1128.97,
+   "text": "But that is not really the kind of customer the banks are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1128.97,
+   "end": 1132.92,
+   "text": "having in the city.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1132.92,
+   "end": 1133.92,
+   "text": "In Kenwood, they have no choice.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1133.92,
+   "end": 1137.27,
+   "text": "There ain't no other.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1137.27,
+   "end": 1146.79,
+   "text": "But I don't think that we have 6,000 students here,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1146.79,
+   "end": 1150.59,
+   "text": "what have you, as all of them have a local bank account.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1150.59,
+   "end": 1153.63,
+   "text": "They are total combined bank accounts.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1153.63,
+   "end": 1164.74,
+   "text": "They're not mixed, because not one of them",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1164.74,
+   "end": 1166.24,
+   "text": "can add in to the stock.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1205.94,
+   "end": 1224.86,
+   "text": "Yeah, very interesting.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1224.86,
+   "end": 1235.41,
+   "text": "By an increase, there's no bank in the company.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1235.41,
+   "end": 1240.84,
+   "text": "Commonly demand, more banks sell you a fee.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1240.84,
+   "end": 1243.18,
+   "text": "That they give you, if you need a loan,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1243.18,
+   "end": 1249.33,
+   "text": "they do better than the loans are going to give them,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1249.33,
+   "end": 1252.33,
+   "text": "by filling out a checklist which is identical",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1252.33,
+   "end": 1254.99,
+   "text": "for all numbers, all American banks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1254.99,
+   "end": 1261.39,
+   "text": "If it isn't, you hear from the bank examiner of the control of the currency in a hell of a hurry.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1262.35,
+   "end": 1264.59,
+   "text": "Do we have any bank statements? Oh, you are, aren't you?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1264.97,
+   "end": 1274.06,
+   "text": "That $800 billion syndicate, you know, for that short-term loan on North Sea Oil,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1274.2,
+   "end": 1278.78,
+   "text": "99 years production loan, which is now considered commercial banking,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1279.26,
+   "end": 1283.14,
+   "text": "that is not something every bank can do, I'm glad to say.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1283.14,
+   "end": 1292.62,
+   "text": "There's export credit you want for Venezuela.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1292.62,
+   "end": 1295.62,
+   "text": "That depends on how much you have already lent to Venezuela.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1295.62,
+   "end": 1299.93,
+   "text": "And that credit officer doesn't decide that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1299.93,
+   "end": 1305.93,
+   "text": "There is a mechanical formula, which is loan committed back home.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1305.93,
+   "end": 1309.93,
+   "text": "And Venezuela, we go that far and no further.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1309.93,
+   "end": 1320.36,
+   "text": "And that loan officer fills out the check sheet.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.856
+  },
+  {
+   "start": 1320.36,
+   "end": 1325.36,
+   "text": "And that's a perfectly good loan to shipment of taxes to Venezuela.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1325.36,
+   "end": 1333.42,
+   "text": "but we are we have too much in Venezuela so he can't give it and if it's such it doesn't work",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1333.42,
+   "end": 1340.94,
+   "text": "out even if we don't have anything in Venezuela he can't give it and what he does is he sells",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1340.94,
+   "end": 1350.29,
+   "text": "but he doesn't make a loan he sells the relationships uh the services increasing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1351.41,
+   "end": 1357.73,
+   "text": "you talk to the young people who travel for the commercial bank to get their own they sell the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1357.73,
+   "end": 1365.41,
+   "text": "lockbox here because that is a sieve they don't fill in because they have nothing to offer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1366.37,
+   "end": 1376.88,
+   "text": "that the next boy or girl who come in can't offer this but the city is differentiated",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1377.76,
+   "end": 1383.44,
+   "text": "and yet the banks don't get paid now they've all reached the point where they cost the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1383.44,
+   "end": 1395.9,
+   "text": "banks have learned in the last ten years to cost because the job is not yet done very well",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1395.9,
+   "end": 1404.72,
+   "text": "because at least they become conscious of the fact that they don't charge for it yet",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1404.72,
+   "end": 1409.72,
+   "text": "and yet that's what the customer needs, the customer really pries it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1409.72,
+   "end": 1429.0,
+   "text": "convenience is his location, they are all equally friendly, very incompetent",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1429.0,
+   "end": 1438.54,
+   "text": "if I buy travel of six I have to show the deal how to do it because",
+   "speaker": "drucker",
+   "drucker_coverage": 0.686
+  },
+  {
+   "start": 1438.54,
+   "end": 1443.44,
+   "text": "But every time, the first time she has done it, she has always said,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1443.6,
+   "end": 1447.36,
+   "text": "I know how to do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1448.3,
+   "end": 1451.38,
+   "text": "I've done it often enough, so I can show her.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1451.82,
+   "end": 1467.02,
+   "text": "The conduct is keen, and maybe what Terence is telling me,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.737
+  },
+  {
+   "start": 1467.02,
+   "end": 1473.34,
+   "text": "and then you know what he says is wrong.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1473.68,
+   "end": 1476.92,
+   "text": "Then that has to be under the control of the banter.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1480.73,
+   "end": 1481.99,
+   "text": "You better go over there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1483.15,
+   "end": 1485.83,
+   "text": "I can give you number two.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1485.83,
+   "end": 1495.13,
+   "text": "twist as it came, basically in the relationship between, or its strategy and structure, because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1495.13,
+   "end": 1514.91,
+   "text": "as if Perez is essentially saying, it's based on the analogy with the manufacturing, production",
+   "speaker": "drucker",
+   "drucker_coverage": 0.899
+  },
+  {
+   "start": 1514.91,
+   "end": 1523.04,
+   "text": "process in manufacturing. And then the question is, does he really, not whether he's writing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1523.04,
+   "end": 1545.8,
+   "text": "You see banking as a business, look these things I know nothing to do with, Mr. Reinhardt and Mr. Che, I wouldn't know what to do with it. Did you get fed?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1545.8,
+   "end": 1553.8,
+   "text": "If you got fed you don't need it. Let me ask those of you who didn't, what do you do with them?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1553.8,
+   "end": 1555.8,
+   "text": "Front of the corner",
+   "speaker": "drucker",
+   "drucker_coverage": 0.6
+  },
+  {
+   "start": 1588.16,
+   "end": 1590.16,
+   "text": "It's a lottery.",
+   "speaker": "other",
+   "drucker_coverage": 0.17
+  },
+  {
+   "start": 1590.16,
+   "end": 1594.3,
+   "text": "It's a lottery.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.918
+  },
+  {
+   "start": 1594.3,
+   "end": 1599.7,
+   "text": "It's the bottle of our best white wine.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.963
+  },
+  {
+   "start": 1608.49,
+   "end": 1610.49,
+   "text": "He blessed it.",
+   "speaker": "other",
+   "drucker_coverage": 0.255
+  },
+  {
+   "start": 1610.49,
+   "end": 1618.19,
+   "text": "Basically, it is we have to decide on the fundamental definition.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.869
+  },
+  {
+   "start": 1618.19,
+   "end": 1633.07,
+   "text": "And in traditional banking definition, which a lot of bankers still maintain.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1633.07,
+   "end": 1652.22,
+   "text": "And maybe like banking is the economy circulatory system for money and credit, for the allocation of resources.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1652.22,
+   "end": 1659.04,
+   "text": "If that's how you define banking, then Perez is quite right.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1660.81,
+   "end": 1667.91,
+   "text": "He said to me, I know he's a banker, but the English school, what I knew, had nothing to do with the business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1668.81,
+   "end": 1671.59,
+   "text": "It's a support, it's a cost center.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1671.59,
+   "end": 1684.17,
+   "text": "And basically the fact that you have 70% of your employees, that just shows you that you don't know how to manufacture.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.921
+  },
+  {
+   "start": 1684.17,
+   "end": 1692.17,
+   "text": "That's all it is. You see, fundamentally they need to have large parties of people in their kind of encompass.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1692.17,
+   "end": 1696.17,
+   "text": "That's all it is. They aren't smart enough to do it any other way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1696.17,
+   "end": 1704.17,
+   "text": "and being slightly smarter than the average human being would never fit away, you know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1704.17,
+   "end": 1708.17,
+   "text": "during those elaborate clerical operations.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1708.17,
+   "end": 1711.17,
+   "text": "But they just don't smart enough.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1711.17,
+   "end": 1722.02,
+   "text": "And you have to be, you strengthen your banking operations, your banking business,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1722.02,
+   "end": 1727.62,
+   "text": "by freeing your banker from the chores,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1727.62,
+   "end": 1742.6,
+   "text": "so that they can give all their attention to their twin business of getting more into the bank and getting money out of the bank",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1742.6,
+   "end": 1755.48,
+   "text": "and all the things you have to do, the process data and the massage, all that all costs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1755.48,
+   "end": 1771.82,
+   "text": "I'm basically saying there's nothing to do with it, there's no better way of doing it, but it stands in the same relationship to surgery",
+   "speaker": "drucker",
+   "drucker_coverage": 0.908
+  },
+  {
+   "start": 1771.82,
+   "end": 1783.92,
+   "text": "that sterilizing instrument, that's where the bodies are in surgery, that's where you have three nurses who want surgery",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1783.92,
+   "end": 1793.32,
+   "text": "and it's a better sterilizing instrument, it's a better cancer by the way, but this is not surgery",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1793.32,
+   "end": 1809.32,
+   "text": "And it's quite likely not the citizens of the country to make damn sure somebody does it, not once but three times, because the malpractice suit is against him and not against the structure of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1809.32,
+   "end": 1819.32,
+   "text": "And to make damn sure that they're sterilized, or he takes patients, but he will not do it. But it better be done, and done well.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1819.32,
+   "end": 1869.48,
+   "text": "He gets paid 400 or a week if he gets paid a lot, and he gets paid 400 or a minute.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.91
+  },
+  {
+   "start": 1869.48,
+   "end": 1877.28,
+   "text": "And he, surgery is not sterilizing him.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1877.28,
+   "end": 1881.91,
+   "text": "So, you get to heaven.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1881.91,
+   "end": 1886.24,
+   "text": "That's one way of looking at it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1886.24,
+   "end": 1916.68,
+   "text": "But you can look at this case also, and maybe this is no longer, or not, maybe you have a situation in commercial banking today in this country, and increasingly in developed countries, where banking is circulatory system of the economy, but what you circulate is no longer money-based.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1916.68,
+   "end": 1955.72,
+   "text": "And then you have a criticism. One of the real criticisms condemns you to not getting paid for what is real value to the customer. So that increasingly you get paid by by-products. Or then you have no way of controlling your value.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.936
+  },
+  {
+   "start": 1955.72,
+   "end": 1965.83,
+   "text": "Anybody know the elementary rule about what is value to the customer?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1965.83,
+   "end": 1973.68,
+   "text": "Customers act on the products and services that are at most.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1973.68,
+   "end": 1981.43,
+   "text": "You never get whatever you get for free.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1981.43,
+   "end": 1985.7,
+   "text": "Cannot be empty our way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1985.7,
+   "end": 1990.68,
+   "text": "And let me say this is very unpopular.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1990.68,
+   "end": 2001.6,
+   "text": "For saying, this was Sigmund Freud's great climb in the Vienna of his day.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2001.6,
+   "end": 2010.48,
+   "text": "He said that in the Vienna medical community there is a charge for psychotherapy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2010.48,
+   "end": 2015.48,
+   "text": "Patients won't get well, because they won't have disease.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2015.48,
+   "end": 2022.48,
+   "text": "And here we are all of those, many doctors, most of them, 85% of them do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2022.48,
+   "end": 2030.48,
+   "text": "A great majority, really people who, if they hadn't lost their faith, had become rabbis,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2030.48,
+   "end": 2036.48,
+   "text": "wanted to be healers, and the great tradition of the Jewish leader is not this.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2036.48,
+   "end": 2048.44,
+   "text": "The ones I knew when I was a young boy, always a friend, the man who put them in business when he came back from Paris,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2048.44,
+   "end": 2057.44,
+   "text": "The great, great man of the Eastern, Eastern Diagnostics, the father of psychosomatic medicine,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2057.44,
+   "end": 2068.98,
+   "text": "I was hammered by him, and agnostic, whatever, grandfather, whatever, great-grandfather, whatever, and so on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2068.98,
+   "end": 2078.73,
+   "text": "Never sent him away. His wife was his family.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.846
+  },
+  {
+   "start": 2078.73,
+   "end": 2101.02,
+   "text": "But Ernestine, the wife, was not allowed to tell her husband, and the patient didn't say no, but she allowed Emma to tell her husband not to, but she did.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2101.02,
+   "end": 2127.06,
+   "text": "But the old man never, I think, or immediately.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2127.06,
+   "end": 2133.82,
+   "text": "At least in psychotherapy, customers, what they pay for.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2133.82,
+   "end": 2141.44,
+   "text": "A broken left is healing, but a broken right is not.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2141.44,
+   "end": 2154.43,
+   "text": "And what really hurts them in tradition was not the choice, it has to be appreciated, if you like.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2154.43,
+   "end": 2158.43,
+   "text": "That really hurts.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.75
+  },
+  {
+   "start": 2158.43,
+   "end": 2174.74,
+   "text": "But customers, you see, one learns, one learns that you are quite willing to give a lecture for free for a good cause.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2174.74,
+   "end": 2181.28,
+   "text": "You are quite willing to charge an enmity and donate it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2181.28,
+   "end": 2196.32,
+   "text": "But if only because it's one thing, modernization isn't going to make any effort to get customary to the world.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2196.32,
+   "end": 2200.36,
+   "text": "John on the hook.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2200.36,
+   "end": 2211.74,
+   "text": "Yes, Manureen, it is a sad lesson and it also proves the wisdom of what every religious teacher has always said,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2211.74,
+   "end": 2227.59,
+   "text": "that you don't give charity to do good, to do your own good, not for what you do to others, but what you do for yourself.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2227.59,
+   "end": 2236.35,
+   "text": "And then it doesn't make any difference that there is a certain value, it's irrelevant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2236.35,
+   "end": 2248.35,
+   "text": "So, one of the most dangerous things to do in a business is to get paid for something that isn't really valuable to the customer.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2248.35,
+   "end": 2258.58,
+   "text": "And especially if you are historically locked into this, it is extremely difficult to sell.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2258.58,
+   "end": 2269.96,
+   "text": "Your customers expect that you make your money out of the margin between what you pay for money you get in and what you get for money you lend out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2269.96,
+   "end": 2290.4,
+   "text": "The debt margin has been shrinking, and largely because of the debt penetration.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2290.4,
+   "end": 2308.97,
+   "text": "It will have little cost to any effort, in that the cost of the business is a very high.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2308.97,
+   "end": 2313.97,
+   "text": "And then you get the advances, the economies of scale.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2313.97,
+   "end": 2315.97,
+   "text": "You know what I'm talking about?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2315.97,
+   "end": 2322.36,
+   "text": "Then you go up to 70%, that's your option.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2322.36,
+   "end": 2332.05,
+   "text": "you have to list relationships between costs and then you push above it and you've got to grow up much, much faster.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2332.05,
+   "end": 2347.38,
+   "text": "We love seeing our reign as we get the last, well maybe it's the last 20% we're on worship, or the last 30% we're on worship,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2347.38,
+   "end": 2351.18,
+   "text": "in some efforts the last 40% we're on worship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2351.18,
+   "end": 2358.62,
+   "text": "one of the reasons why our school costs are so high is that probably when you talk about",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2359.58,
+   "end": 2368.94,
+   "text": "schools with the existing technology of the uh that oftentimes around 60 percent of the fourth",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2368.94,
+   "end": 2380.06,
+   "text": "grade yes that's up to that the effort needed until we can improve we go above the next 40",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2383.1,
+   "end": 2392.44,
+   "text": "in New Orleans, when he was a master, he was perfectly happy with 20% of the kids he didn't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2392.44,
+   "end": 2404.51,
+   "text": "learn anything. That was expensive. And 40%, well that was easy and was very cost-beneficial,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2404.51,
+   "end": 2413.53,
+   "text": "it was very good. And 60% here, we come to a game at 90, a game at 100. And that's terribly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2413.53,
+   "end": 2424.1,
+   "text": "But then you get up to 60% you get there in the break of your case or in the same category.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2424.1,
+   "end": 2434.27,
+   "text": "Then you get more and more kids who are typically normal of not feeling the main sense of distribution.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2434.27,
+   "end": 2453.65,
+   "text": "You have to, and you think you need to hospitalize 50 of them, add it.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.897
+  },
+  {
+   "start": 2453.65,
+   "end": 2463.65,
+   "text": "And so you have set some points. There's the optimal point. Beyond the optimal, you have the maximum point.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2463.65,
+   "end": 2473.1,
+   "text": "But beyond the maximum, you're actually losing. And you're undoubtedly going to get paid for your backup.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2473.1,
+   "end": 2502.42,
+   "text": "And not only are the banks today, from the outside point of view, quite clearly trying to lift the handoff.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.949
+  },
+  {
+   "start": 2502.42,
+   "end": 2514.45,
+   "text": "But in the most expensive state, it is always cheaper, for anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2514.45,
+   "end": 2522.45,
+   "text": "If you have to give alarm clocks to somebody open an account, you know, how long does it take before,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2522.45,
+   "end": 2529.45,
+   "text": "even the reason that the German high school sophomores catch on to the point,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2529.45,
+   "end": 2538.45,
+   "text": "to gain and open that $5 account or $50 account at bank branch number one,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2538.45,
+   "end": 2543.55,
+   "text": "get the alarm clock, close it after two days, take the $50,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2544.37,
+   "end": 2549.07,
+   "text": "go across the street and get the $50, and keep on doing this.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2549.59,
+   "end": 2551.17,
+   "text": "You know, you don't have to do that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2551.17,
+   "end": 2552.09,
+   "text": "How many people are in the bank?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2555.24,
+   "end": 2556.84,
+   "text": "Money is all the time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2556.84,
+   "end": 2566.84,
+   "text": "That's why all these executive fringes are so horribly expensive in order to deliver the tax collection,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2566.84,
+   "end": 2572.84,
+   "text": "except a few pennies away from that Indian predatory tax collection.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2572.84,
+   "end": 2576.84,
+   "text": "You pay me none more. That's all I want.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2576.84,
+   "end": 2578.84,
+   "text": "Lord, you're much more.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2578.84,
+   "end": 2584.84,
+   "text": "All right, it may be worth the tight satisfaction of not giving you the tax collection.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2584.84,
+   "end": 2588.84,
+   "text": "I yield to no man in my contempt for the tax collector.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2592.84,
+   "end": 2594.84,
+   "text": "There is a point beyond which it doesn't change.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2594.84,
+   "end": 2602.1,
+   "text": "All of our solutions are well beyond that point.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2602.1,
+   "end": 2609.1,
+   "text": "We don't pay five dollars to get the fixed taxes that would save twenty cents.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2609.1,
+   "end": 2612.1,
+   "text": "But that makes very little sense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2612.1,
+   "end": 2617.1,
+   "text": "But psychic satisfaction may be great.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2617.1,
+   "end": 2624.38,
+   "text": "So when you get paid for bank cards, rather than for your main cards, you are in danger.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2624.38,
+   "end": 2627.38,
+   "text": "That's always typical of a condition.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2627.38,
+   "end": 2638.5,
+   "text": "And maybe what the banking system is teaching these people is not deep, but a circulatory system for detailed information.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2638.5,
+   "end": 2643.97,
+   "text": "What you call services are essentially information.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2643.97,
+   "end": 2654.56,
+   "text": "A credit card is an information system, not a credit system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2654.56,
+   "end": 2675.24,
+   "text": "and that is protection, we protect you, you don't have to carry cash in order to protect the storekeeper, the Bank of America takes that with.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2675.24,
+   "end": 2693.01,
+   "text": "Let's have an aspect, these are all services having to do with the information stream of the modern economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2693.01,
+   "end": 2702.63,
+   "text": "And the banks are not getting paid for this, all that we have to do is anyhow we might be able to give it to the system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2702.63,
+   "end": 2712.22,
+   "text": "He asked her to overhead her throat. She said, not to her throat overhead, but to cut back overhead.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2712.22,
+   "end": 2717.22,
+   "text": "So there you have it. The question is, is Dr. Perez right?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2717.22,
+   "end": 2722.22,
+   "text": "In Colombia or Mexico, wherever he is, he may still be right.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2722.22,
+   "end": 2725.22,
+   "text": "In this country, I would doubt he learned it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2725.22,
+   "end": 2732.22,
+   "text": "In this country, you see, you have those banks that are holding the head and are becoming",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2732.22,
+   "end": 2737.22,
+   "text": "But officially, we don't have many national banks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2737.22,
+   "end": 2751.14,
+   "text": "We now have many national banks, but they are also the biggest.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2751.14,
+   "end": 2754.14,
+   "text": "But it's not that they are national because they are the biggest.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2754.14,
+   "end": 2756.14,
+   "text": "It's the other way around.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2756.14,
+   "end": 2764.14,
+   "text": "They are the biggest because they think that despite all our very peculiar legislation and regulations,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2764.14,
+   "end": 2770.14,
+   "text": "the country has become one economy and therefore requires one banking system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2770.14,
+   "end": 2780.14,
+   "text": "Our regulation came in in 1837, by and large, when the country was not monetized, when it did not require a banking system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2780.14,
+   "end": 2788.14,
+   "text": "Even then it was very dubious economically. But today our regulation is weakens the country and the economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2788.14,
+   "end": 2803.1,
+   "text": "It weakens the banking system. And therefore you have what in effect is a national system, certainly for business.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.833
+  },
+  {
+   "start": 2803.1,
+   "end": 2833.4,
+   "text": "And not just for victims, nurses, student firefighters, hell no, that's not what the young loan officers from the Bank of America, who traveled out of the Bank of America after in Chicago and New York, they are not faithful, all of them go to Standard Oil and New Zealand to Exxon, but not one of them expects anything much from Exxon.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2833.4,
+   "end": 2843.4,
+   "text": "If only we could want the federal expenditure to visit with the 28-year-old Stanford MBA fresh out of graduate school to pull horns on him.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2843.4,
+   "end": 2853.16,
+   "text": "That's not the only expenditure. But the 60, 70, 80 million dollar account, that's what we have.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2853.16,
+   "end": 2872.0,
+   "text": "So we have been building very rapidly a national banking business that's not based on having an office in a student business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2872.0,
+   "end": 2889.98,
+   "text": "How many banks does the country actually need to have a viable, a very big country?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2889.98,
+   "end": 2895.79,
+   "text": "Well, now it depends.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.742
+  },
+  {
+   "start": 2895.79,
+   "end": 2906.07,
+   "text": "One looks at, here in Europe, across Europe, there is slightly more population and slightly smaller economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2906.07,
+   "end": 2911.05,
+   "text": "And there are about a dozen in Europe.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2911.05,
+   "end": 2916.48,
+   "text": "There are many more local and regional ones.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2916.48,
+   "end": 2936.77,
+   "text": "But there are three German banks, and two French banks, and three English banks, and basically one Italian bank.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2936.77,
+   "end": 2949.12,
+   "text": "Then there are nine, another second tier, two in Sweden, two in Holland, three in Switzerland.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2949.12,
+   "end": 2977.22,
+   "text": "And captain, the European bank is very strong in the national area, and you are not going to, this will go directly to the political, but it will go directly to the financial.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2977.22,
+   "end": 2987.63,
+   "text": "And you might see you then have American banks,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2987.63,
+   "end": 2996.36,
+   "text": "I believe, you know, Europeans,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.656
+  },
+  {
+   "start": 2996.36,
+   "end": 3000.36,
+   "text": "a very strong position with the American companies,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3000.36,
+   "end": 3005.66,
+   "text": "the non-American ones,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3005.66,
+   "end": 3009.66,
+   "text": "the American or European countries,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3009.66,
+   "end": 3011.66,
+   "text": "the Central and Middle American banks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3011.66,
+   "end": 3014.66,
+   "text": "But that's the banking system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3014.66,
+   "end": 3018.22,
+   "text": "All the rest of them,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3018.22,
+   "end": 3022.22,
+   "text": "you know, some of them are doing very nicely.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3022.22,
+   "end": 3045.66,
+   "text": "They don't count. And if you buy with Schiffer-Einstein, nobody is going to know where to buy it.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.957
+  },
+  {
+   "start": 3045.66,
+   "end": 3062.05,
+   "text": "I hope the Bank of America knows better than the other one.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.939
+  },
+  {
+   "start": 3062.05,
+   "end": 3075.45,
+   "text": "And so, Swiss banks, you would not know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3075.45,
+   "end": 3088.29,
+   "text": "More general banks. They are very important for exchange.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3088.29,
+   "end": 3093.34,
+   "text": "But that's it. Otherwise, the banks would say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3093.34,
+   "end": 3120.86,
+   "text": "So here is a continent, roughly two hours, it gets by with a first year of making ten, the second year of ten, and it gets by very nicely and it's not under-banked. Nobody has suffered from a lack of banking.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3120.86,
+   "end": 3136.51,
+   "text": "So obviously this is, you have big competition and there was, so that would be sensitive for this country.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3136.51,
+   "end": 3142.82,
+   "text": "And we are different. Not legally, not officially, but actually.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3142.82,
+   "end": 3157.41,
+   "text": "Of course, economic logic is different. But that is increasingly linked on these issues and not on one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3157.41,
+   "end": 3161.41,
+   "text": "And I'm being able to give you a two-day float.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3161.41,
+   "end": 3166.41,
+   "text": "Some of you know what I'm talking about if you don't forget it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3166.41,
+   "end": 3169.41,
+   "text": "And he's had these affairs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3169.41,
+   "end": 3178.43,
+   "text": "So maybe the banks of this country, of the Paris, will no longer make sense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3178.43,
+   "end": 3180.43,
+   "text": "That's one way of looking at it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3180.43,
+   "end": 3183.03,
+   "text": "It's another way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3183.03,
+   "end": 3186.03,
+   "text": "It's a very specific case in this.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3186.03,
+   "end": 3189.03,
+   "text": "Basic problem of basic problems.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3189.03,
+   "end": 3196.97,
+   "text": "Also think of the relationship between all of these countries.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3196.97,
+   "end": 3207.83,
+   "text": "Most of the things you hear about the social is very mild.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3207.83,
+   "end": 3213.93,
+   "text": "How many of you have been in this space?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3213.93,
+   "end": 3218.91,
+   "text": "How many of you are threatened by...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3218.91,
+   "end": 3219.91,
+   "text": "Have you seen anybody?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3219.91,
+   "end": 3225.5,
+   "text": "I know a lot, but I wish it was their food.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3229.5,
+   "end": 3232.5,
+   "text": "Every time I stand in line at the supermarket,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3232.5,
+   "end": 3236.29,
+   "text": "I look at the moron.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3236.29,
+   "end": 3245.44,
+   "text": "You know, he's a casualty.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3245.44,
+   "end": 3253.48,
+   "text": "But God tells you if you have to do it without one, you know, there really ought to be a better way.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3253.48,
+   "end": 3273.06,
+   "text": "You ought to be able to want to have, and every time I look at your heart, human beings are very poor and don't do work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3273.06,
+   "end": 3278.56,
+   "text": "That's particularly what I don't see.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3278.56,
+   "end": 3288.84,
+   "text": "But if you have to do it at home, the worst way to do it is to have human beings who don't do work and send over kids.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3288.84,
+   "end": 3301.72,
+   "text": "That's the worst way, because then you set up, that's what you're forced to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3301.72,
+   "end": 3309.67,
+   "text": "And most of the things you hear about the impact of technology are popular.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.874
+  },
+  {
+   "start": 3309.67,
+   "end": 3334.0,
+   "text": "What people do not realize is that all of you know, don't you, that in the 20s and 30s and 40s,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3334.0,
+   "end": 3338.0,
+   "text": "the American textile industry moved from the England to the United States.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3338.0,
+   "end": 3349.49,
+   "text": "You know that is your fault.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.652
+  },
+  {
+   "start": 3349.49,
+   "end": 3400.41,
+   "text": "In other words, you really were, you said, you had in the sense, you left in the sense, mind, what's the sense of the chronological thing that they had gone through, meaning the chronological thing that several times in history, it's very old, probably, it wasn't very long after our remote ancestors came out of the sea and controlled them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 35.56,
+ "created_utc": "2026-09-20T23:04:16+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

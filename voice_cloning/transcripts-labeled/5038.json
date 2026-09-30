@@ -1,0 +1,2345 @@
+{
+ "pointer": "5038",
+ "media": "5038.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2701.0,
+ "segments": [
+  {
+   "start": 0.92,
+   "end": 2.24,
+   "text": "Okay, now what do you want?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3.36,
+   "end": 5.96,
+   "text": "Let me repeat some administrative.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 7.22,
+   "end": 10.62,
+   "text": "Anybody who wants a book autographed, I'd be happy to.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 11.86,
+   "end": 15.88,
+   "text": "Number two, if I run beyond nine o'clock, will you tell me?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 16.84,
+   "end": 21.4,
+   "text": "You know I'm asked. Some of you all the time will know that I don't ever watch o'clock.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 23.1,
+   "end": 25.66,
+   "text": "Several of you have asked me two questions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 25.66,
+   "end": 42.22,
+   "text": "One, if I can't come on the evening, can I send a colleague of mine? Secondly, if I think my boss might be able to learn something, can I bring him here as a guest?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 42.22,
+   "end": 49.22,
+   "text": "Both questions please, here he is on cue, being all recognized.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 49.22,
+   "end": 55.22,
+   "text": "Paul, you want to talk about substitutes and bosses and guests?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 55.22,
+   "end": 62.22,
+   "text": "Because I don't know the rules. All I know is that you'll find a way of taking your money.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 72.22,
+   "end": 73.52,
+   "text": "Well, he's done it all.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 73.68,
+   "end": 76.54,
+   "text": "I've been telling them this is altruism, and they don't believe it.",
+   "speaker": "other",
+   "drucker_coverage": 0.189
+  },
+  {
+   "start": 78.3,
+   "end": 84.74,
+   "text": "If you must miss a session, please feel free to give your ticket to another person.",
+   "speaker": "other",
+   "drucker_coverage": 0.031
+  },
+  {
+   "start": 85.0,
+   "end": 86.9,
+   "text": "We're pleased to have you do that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 87.58,
+   "end": 91.5,
+   "text": "If you would ask them not to sign for you, that's forgery,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 91.78,
+   "end": 96.94,
+   "text": "but to sign, and if they would then, say, print in,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 96.94,
+   "end": 99.88,
+   "text": "or if you print in your name, we can identify the module",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 99.88,
+   "end": 106.76,
+   "text": "and just for some of this productivity information that Dr. was talking about, what has transpired.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 108.58,
+   "end": 113.92,
+   "text": "If you like your bosses, if you don't have too many of them, if they don't come too frequently,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 114.12,
+   "end": 118.1,
+   "text": "we're happy to have them, but we'd like to, because of the dinner, we'd like to have you let us know.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 119.44,
+   "end": 125.7,
+   "text": "But certainly, if you'd like to bring them by, you know, occasionally with discretion, fine.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 125.7,
+   "end": 131.56,
+   "text": "But at any rate, we would very much like to have you use the ticket if you must be away.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 132.46,
+   "end": 135.28,
+   "text": "Can I insert a little matter?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 135.4,
+   "end": 141.48,
+   "text": "You received a blue slip, which some of you need to fill out,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 141.56,
+   "end": 143.86,
+   "text": "principally to give us your Social Security number.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 145.46,
+   "end": 149.26,
+   "text": "We need that to enter registration into our computer system.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 150.2,
+   "end": 154.02,
+   "text": "Would you mind if we took a couple of minutes to fill that out, and if you could pass it?",
+   "speaker": "other",
+   "drucker_coverage": 0.267
+  },
+  {
+   "start": 154.02,
+   "end": 159.3,
+   "text": "Do you have any other administrative matters before the House of Representatives?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 159.3,
+   "end": 169.46,
+   "text": "The cases between now and next Tuesday so that we can then decide which case we begin",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 171.06,
+   "end": 178.34,
+   "text": "and be ready to start discussing a case next Tuesday so we won't decide until next Tuesday which one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 178.34,
+   "end": 197.1,
+   "text": "I have one request I you for those of you who want credit for this course",
+   "speaker": "drucker",
+   "drucker_coverage": 0.707
+  },
+  {
+   "start": 197.1,
+   "end": 209.39,
+   "text": "academic credit I don't care when you turn in your paper I have noted but let",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 209.39,
+   "end": 218.69,
+   "text": "me suggest to you strongly that you try to do so before the next module starts I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 218.69,
+   "end": 227.45,
+   "text": "are not because it makes life otherwise difficult for the real really important",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 227.45,
+   "end": 232.79,
+   "text": "person in this program who is neither for Albrecht nor I but for the administrative",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 232.79,
+   "end": 245.0,
+   "text": "assistance but also because experience has proven that one doesn't do a good",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 245.0,
+   "end": 255.1,
+   "text": "job if one delays the paper beyond the kind of unit to which it pertains. Then",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 255.1,
+   "end": 261.34,
+   "text": "this unit closes I think on the 20th or the 19th of November, I think it's the 19th,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 261.34,
+   "end": 270.08,
+   "text": "and here it is Christmas and you are in the next unit if you are in one far",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 270.08,
+   "end": 276.56,
+   "text": "removed from this and this sits on your desk and you're all the people and it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 276.56,
+   "end": 284.18,
+   "text": "becomes a chore and a nuisance and a millstone around the neck. And so you sit",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 284.18,
+   "end": 295.39,
+   "text": "down at two o'clock in the morning and kind of push her out and it shows. So if",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 295.39,
+   "end": 304.19,
+   "text": "you possibly can do it if you want to get credit before we adjourn not for my sake",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 305.71,
+   "end": 311.15,
+   "text": "and really not for the sake of a grade which in this program doesn't matter much",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 311.15,
+   "end": 316.83,
+   "text": "but for the sake of your satisfaction it isn't much fun to do school work",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 316.83,
+   "end": 345.59,
+   "text": "You know, we talked earlier today about the need to know how you and your business, and incidentally, same is true for non-businesses, are really doing, corrected for inflationary distortion in terms of sales and profits.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 345.59,
+   "end": 360.64,
+   "text": "Capital account. We talked about the need to manage for liquidity and we talked about the need to know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 361.28,
+   "end": 369.12,
+   "text": "your productivity figures and incidentally let me say the productivity figures are of greater",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 369.12,
+   "end": 378.16,
+   "text": "importance to the non-business the public service institutions where they are the only things you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 378.16,
+   "end": 388.24,
+   "text": "have. A profit figure, if you have one, is not a very meaningful one in a hospital or a university,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 389.12,
+   "end": 402.13,
+   "text": "and nobody knows what it means in a government agency. A productivity figure is very meaningful.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.846
+  },
+  {
+   "start": 402.13,
+   "end": 413.43,
+   "text": "The crisis of the hospital is not a cost inflation, it's a productivity crisis. The",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 413.43,
+   "end": 423.78,
+   "text": "hospital has become notoriously less productive no matter how you define it but if you look at",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 424.98,
+   "end": 430.34,
+   "text": "what the hospital gets out of a bed in terms that makes sense to a hospital",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 431.22,
+   "end": 442.07,
+   "text": "which is people who are discharged that for the time being cured or improved who has not improved",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 442.07,
+   "end": 450.6,
+   "text": "in the 20s we say well the 20s we didn't put a terminal cancer patient in the hospital we let him",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 450.6,
+   "end": 459.88,
+   "text": "pay to let him die at home in his bed maybe for better uh here but it's still a fact that the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 459.88,
+   "end": 468.2,
+   "text": "hospital is not more productive it's still a fact that in any terms that make sense to the hospital",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 468.2,
+   "end": 476.04,
+   "text": "you don't get more results out of it. That's the basic crisis. The rest are simple.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 477.16,
+   "end": 482.36,
+   "text": "And maybe the same thing is true of the university or the school.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 484.76,
+   "end": 491.16,
+   "text": "And so in public service institutions where we don't have, where we don't manage",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 491.16,
+   "end": 502.56,
+   "text": "for economic results. The productivity measurements which tell us to what extent we get the results",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 502.56,
+   "end": 509.56,
+   "text": "that are the right results for us, general economic service claims, are out of the resources",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 509.56,
+   "end": 516.56,
+   "text": "entrusted to us, maybe more important and more meaningful, and in public service institutions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 516.56,
+   "end": 526.08,
+   "text": "even less use and so i would strongly urge your public service people in here whether that's a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 526.08,
+   "end": 540.1,
+   "text": "library or a hospital or a school or a water district so try to think through what productivity",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 540.1,
+   "end": 548.5,
+   "text": "measures are appropriate to us and try to get some information so that you have some",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 548.58,
+   "end": 556.08,
+   "text": "managerial control. If you let productivity slide, no matter whether the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 556.08,
+   "end": 563.4,
+   "text": "taxpayers are willing to vote for ambition, no matter whether the liberal",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 563.4,
+   "end": 570.82,
+   "text": "mystique declares you to be good, let me say the trouble with the liberal mystique is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 570.82,
+   "end": 578.74,
+   "text": "that it's a fashion, and like every fashion it ships a raid amongst you, and so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 578.74,
+   "end": 586.42,
+   "text": "one better not count on it for much longer no matter how much you can get out of the budget",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 587.06,
+   "end": 593.54,
+   "text": "of the city or the county or the federal government if your productivity goes down",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 593.54,
+   "end": 601.06,
+   "text": "in terms of the results that are meaningful to your institution you're going to win prices",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 601.06,
+   "end": 612.06,
+   "text": "fairly fast, five years or so. So make sure, don't say productivity, that's a business measure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 612.06,
+   "end": 621.06,
+   "text": "It's a measure for the utilization of resources for results. And in public service institutions",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 621.06,
+   "end": 626.06,
+   "text": "it may be more important simply because you've got no other measures. The other measures,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 626.06,
+   "end": 640.27,
+   "text": "a business at least has some of them. They're not terribly good, they're rubber, but at least you have, you have it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 640.27,
+   "end": 649.27,
+   "text": "In the other institutions we don't, and then these then become the only available ways of saying,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 649.27,
+   "end": 663.32,
+   "text": "Are we actually learning to do a better job? Or are we at least holding tonight? Or are we doing a less good job?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 663.32,
+   "end": 681.86,
+   "text": "Let me, for the rest of our time, and I want to have a little time for questions, put in two more things I would look at today, and if those of you who were here before say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 681.86,
+   "end": 688.86,
+   "text": "but here is Brooker again riding his hobby horses. I'll have no objection, yes I do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 688.86,
+   "end": 699.57,
+   "text": "This is the time to make sure that your efforts are concentrated.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 699.57,
+   "end": 709.07,
+   "text": "You know, some of us are... Good. Can you hear me now? Thanks, thanks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 709.07,
+   "end": 715.07,
+   "text": "Some of us are old enough to remember World War II, but for goodness sake don't mention World War II",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 715.07,
+   "end": 721.01,
+   "text": "undergraduate these days, let me say, you'll get the answer something back like,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 721.01,
+   "end": 731.75,
+   "text": "isn't this when they destroyed the Persian fleet? And the undergraduate was right, let me say.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 731.75,
+   "end": 747.27,
+   "text": "But in World War II, I was a privileged servant boy. I was commanded to sit in",
+   "speaker": "drucker",
+   "drucker_coverage": 0.936
+  },
+  {
+   "start": 747.27,
+   "end": 755.91,
+   "text": "several times at General MacArthur's strategic conferences. I was the lowliest of lowly spear",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 755.91,
+   "end": 766.11,
+   "text": "carriers and a civilian to boot. And you have no idea how low that was. But still. And I did not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 766.11,
+   "end": 775.51,
+   "text": "like the old man between you and me. You know, he was one of those you either wear his body and so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 775.51,
+   "end": 785.51,
+   "text": "or you couldn't stand him. And it was the other way around. He either protected you the way a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 785.51,
+   "end": 797.11,
+   "text": "mother would protect her cubs, or you were beyond damnation. That was the latter category, but still",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 797.11,
+   "end": 805.19,
+   "text": "I sat in there. It was a very impressive performance. The old man didn't open his mouth to the very end.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 805.51,
+   "end": 812.51,
+   "text": "He listened. These were the discussions about which of these islands do we land on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 812.51,
+   "end": 819.51,
+   "text": "He listened to his staff people about intelligence reporting so many Japanese there,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 819.51,
+   "end": 823.51,
+   "text": "and the geographers reporting this had to be,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 823.51,
+   "end": 827.51,
+   "text": "and usually the geographers didn't know what they were talking about",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 827.51,
+   "end": 831.51,
+   "text": "because they were using old Japanese charts,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 831.51,
+   "end": 839.31,
+   "text": "the Japanese believe in economy and something useless you don't send the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 839.31,
+   "end": 846.21,
+   "text": "geographer there you just throw the chart the way you think it might be not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 846.21,
+   "end": 853.29,
+   "text": "one of those thoughts they're not to be right and meteorologists talking about",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 853.29,
+   "end": 860.55,
+   "text": "weather and logistics people about bringing in equipment and the Navy about",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 860.55,
+   "end": 867.99,
+   "text": "how many landing craft it could put ashore and what umbrella it could put up against air attacks,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 867.99,
+   "end": 874.15,
+   "text": "very complex things. And the old gentleman listened and listened and listened, occasionally",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 874.15,
+   "end": 883.43,
+   "text": "asked a question. But then the staff settled on Rabaul, Taraba, what have you, and then the old",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 883.43,
+   "end": 894.07,
+   "text": "man would come in with the final question which always was all right boys we have a beach at there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 894.07,
+   "end": 901.51,
+   "text": "but do we have a beach and nine times out of ten it turned out there was no beach",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 903.03,
+   "end": 912.39,
+   "text": "just the beaches and the few times he forgot to ask that question or the few times he was",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 912.39,
+   "end": 917.71,
+   "text": "sure there was a beach and he didn't let himself get out of the water. That's when",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 917.71,
+   "end": 925.57,
+   "text": "victims are horrible casualties. Palau is the best example. Only a beaches, but what do you do?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 925.57,
+   "end": 932.63,
+   "text": "Can't move any place. There ain't no beach. Only mountains around. And then you sit",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 932.63,
+   "end": 939.15,
+   "text": "there and you don't have to have very good Japanese artillery, you know, to fix any casualties on you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 939.15,
+   "end": 946.19,
+   "text": "that. But that's not terribly difficult to shoot fish in a barrel. And I've never forgotten this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 946.19,
+   "end": 954.27,
+   "text": "thing. Look at your businesses with that question. In the last 10 years, practically every business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 954.27,
+   "end": 962.67,
+   "text": "I know has expanded in, and not only businesses, their worst offenders are universities. Much worse",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 962.67,
+   "end": 975.68,
+   "text": "offended into a hell of a lot of features and there ain't no beach there. No matter how good a job you do, you can't get any.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 975.68,
+   "end": 995.84,
+   "text": "Now this is the time to concentrate where your efforts will. The worst offenders, by the way, in business have not been the conglomerates but the commercial banks.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.95
+  },
+  {
+   "start": 995.84,
+   "end": 1009.63,
+   "text": "We have gotten into an enormous number of issues where there is just nothing to be gained, no matter how good and successful.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.927
+  },
+  {
+   "start": 1009.63,
+   "end": 1021.63,
+   "text": "Constant, this is the time to look at your business and see where are the areas where if we do a really good job, and good jobs are not easy,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1021.63,
+   "end": 1047.02,
+   "text": "Right now, I think all of us have lived. We can really get results. This Thursday, my friend and colleague, Proctor Thompson, is going to start a unit on cost-effectiveness analysis, and I'm really anticipating some of the things he's going to talk about.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1047.02,
+   "end": 1054.02,
+   "text": "And listen to Proctor, those of you who are coming here, and to his guests.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1054.02,
+   "end": 1061.02,
+   "text": "Because this is the way to look at things, you see, not how great is the risk.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1061.02,
+   "end": 1068.02,
+   "text": "The worst mistakes one makes because one moves into things that have small risks,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1068.02,
+   "end": 1072.02,
+   "text": "but even smaller opportunities.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1072.02,
+   "end": 1079.62,
+   "text": "one doesn't minimize risk, one maximizes opportunity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1079.62,
+   "end": 1087.62,
+   "text": "There are things that mistakes are made before one moves into something it looks awfully good.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1087.62,
+   "end": 1095.62,
+   "text": "But it turns out that it's, no matter how hard you're trying, how successful you are,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1095.62,
+   "end": 1105.57,
+   "text": "there just isn't much to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.799
+  },
+  {
+   "start": 1105.57,
+   "end": 1116.36,
+   "text": "because one does make the amphibian landing at great cost, and finally one has secured the beach.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1116.36,
+   "end": 1125.46,
+   "text": "But the cost of expanding the beach is political.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.78
+  },
+  {
+   "start": 1125.46,
+   "end": 1129.46,
+   "text": "Now you're up against Westinghouse and GE and IBM and Xerox,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1129.46,
+   "end": 1141.05,
+   "text": "and the only way you can expand is to take it away from them.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.914
+  },
+  {
+   "start": 1141.05,
+   "end": 1145.05,
+   "text": "Then one always says, but we have the quality.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1145.05,
+   "end": 1159.49,
+   "text": "Everybody in this room has said it. Except that from the customer's point of view, the product is indistinguishable. You have quality the way the engineer defines quality. You know what the engineer's definition of quality is? Anybody here?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1159.49,
+   "end": 1168.49,
+   "text": "No, something that costs a great deal. That's number one. And it's very difficult to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1168.49,
+   "end": 1173.49,
+   "text": "That, ladies and gentlemen, is incompetent. It's incompetent.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1173.49,
+   "end": 1184.49,
+   "text": "And so, one says, what does success mean? Does it make it really a differentiation for the user?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1184.49,
+   "end": 1207.99,
+   "text": "means for differentiation. Ah, what you call quality may not be one at all. You have a toaster and instead of popping up in front, the pieces of toast come up on the sides. That's a terrific technological breakthrough and you have to invent the law of gravity to do it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1207.99,
+   "end": 1211.99,
+   "text": "Do you really think your wives notice it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1211.99,
+   "end": 1226.62,
+   "text": "It is a meaningful differentiation to the one who, the only one, knows what quality is, is the user.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1226.62,
+   "end": 1230.62,
+   "text": "We know only what cost is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1230.62,
+   "end": 1233.62,
+   "text": "So one looks and concentrates.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1233.62,
+   "end": 1242.12,
+   "text": "This is the time to liquidate, withdraw, spin off, sell off, what have you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1242.12,
+   "end": 1249.12,
+   "text": "I'm always in favor of making money out of my mistakes, but it doesn't always work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1249.12,
+   "end": 1255.62,
+   "text": "You see, the only ones who have the license to do that, as you know, are internists.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1255.62,
+   "end": 1261.12,
+   "text": "And even surgeons have a committee that watches.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1261.12,
+   "end": 1266.4,
+   "text": "and but the rest of us can't always make money out of our homes because they're like",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1267.44,
+   "end": 1274.24,
+   "text": "so if i find a beach where now i know i should never have landed there i tried to find somebody",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1274.24,
+   "end": 1283.95,
+   "text": "as willing to pay for it uh but in any event contain it make sure you don't for more resources",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1283.95,
+   "end": 1291.55,
+   "text": "and above all resources on money the critical resources in a time of turbulence are good",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1293.71,
+   "end": 1303.1,
+   "text": "there are few really performing and you will find that your good people are on those beaches",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1303.1,
+   "end": 1308.94,
+   "text": "because they are tough they are difficult you're open on all sides and everybody can shoot with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1308.94,
+   "end": 1317.18,
+   "text": "you and everybody does and so you put your best man in it and as a result he's tied down there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1317.18,
+   "end": 1324.22,
+   "text": "by constant enemy fire and he can't have any good so make sure you pull him out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1325.34,
+   "end": 1347.4,
+   "text": "and put him where results are. This is the time above one another to concentrate and to look at one's business and say, now, all right, we have tried a few things that worked. We have tried a few things that didn't work. Mind you, these are the harmless things. Failure liquidates themselves.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1347.4,
+   "end": 1353.4,
+   "text": "Where are the things that almost wouldn't? These are the things we want.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1353.4,
+   "end": 1359.4,
+   "text": "If you can't land at all, you're driven off by the shore batteries at heavy costs,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1359.4,
+   "end": 1366.4,
+   "text": "alright, you have lost a couple of ships and more men than you like to think about,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1366.4,
+   "end": 1370.4,
+   "text": "but at least you know. That's been a failure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1370.4,
+   "end": 1379.15,
+   "text": "It's a Tarawa and Palau operation, the two most costly ones in the world.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1379.15,
+   "end": 1390.72,
+   "text": "Well, we had no business with this, because it wasn't anything else to be had.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1392.72,
+   "end": 1399.72,
+   "text": "And there were successes in the sense that after unspeakable, because the things we had were teachers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1399.72,
+   "end": 1409.8,
+   "text": "And then, where were the things where you had succeeded in the sense that now you are a factor,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1409.8,
+   "end": 1428.16,
+   "text": "You don't have the technical competence to go beyond this one little instrument you have.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.809
+  },
+  {
+   "start": 1428.16,
+   "end": 1433.16,
+   "text": "You don't have the marketing strength. You don't have the capital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1433.16,
+   "end": 1456.5,
+   "text": "That's that wonderful instrument that mills, milling, ceramics, glazes, blue changes to green. Very important. Nobody has ever been able to do it before. And you have it. Here, all right, very fine. There are about 11 places in the world that need it, and you have them all.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1456.5,
+   "end": 1468.86,
+   "text": "Who is willing to pay your money for this?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.676
+  },
+  {
+   "start": 1468.86,
+   "end": 1476.86,
+   "text": "There's a very old story, talking to Peggy Smith, that reminded me of it, which one always remembers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1476.86,
+   "end": 1480.86,
+   "text": "The story goes to music history.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1480.86,
+   "end": 1490.25,
+   "text": "that Johannes Brahms around the 1880s or thereabouts",
+   "speaker": "drucker",
+   "drucker_coverage": 0.787
+  },
+  {
+   "start": 1490.25,
+   "end": 1495.25,
+   "text": "heard an eight-year-old incredible music approach to the pianist.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1495.25,
+   "end": 1499.25,
+   "text": "Little Jewish boy from Russia, he died and needed a scholarship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1499.25,
+   "end": 1505.25,
+   "text": "So he sent him to one of the music patrons of Vienna for a scholarship",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1505.25,
+   "end": 1509.25,
+   "text": "and then he heard that the patron had turned him down",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1509.25,
+   "end": 1514.25,
+   "text": "and a few days later he ran into that rich man on the street",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1514.25,
+   "end": 1536.7,
+   "text": "And said, I don't understand, Baron, why you turned down the brilliant child I sent you. Incredibly gifted. And the Baron said, you know, my dear Brahms, I have absolutely no interest in having so many wars played in 57 seconds. Remember that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1536.7,
+   "end": 1541.7,
+   "text": "If that's all you can do, don't give a scholarship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1541.7,
+   "end": 1547.98,
+   "text": "Now there's a kind of joker in that pack.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1547.98,
+   "end": 1554.98,
+   "text": "That little boy's name was Maurice Rosenstorn, who then became the greatest pianist of early 20th century Europe.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1554.98,
+   "end": 1557.98,
+   "text": "That's a decisive point.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.84
+  },
+  {
+   "start": 1557.98,
+   "end": 1560.98,
+   "text": "Don't you remember that, do you?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.327
+  },
+  {
+   "start": 1560.98,
+   "end": 1569.02,
+   "text": "Remember only that one doesn't pay for having so many forms played in history.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1569.02,
+   "end": 1574.62,
+   "text": "bad enough to have it paid in 60 cents, you see, for those of you who haven't paid it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1574.62,
+   "end": 1585.66,
+   "text": "And so where do you have things that sap your strength, require resources,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1585.66,
+   "end": 1592.22,
+   "text": "represent great triumphs of vanity over common sense,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1592.22,
+   "end": 1597.9,
+   "text": "or of engineering over economics, those are the two most dangerous triumphs there are,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1597.9,
+   "end": 1603.34,
+   "text": "most expensive one, and that will not lead anywhere.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1603.34,
+   "end": 1609.74,
+   "text": "And the test is not what your marketing people project.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1609.74,
+   "end": 1614.46,
+   "text": "Everybody in this room has a marketing man who can project anything, I hope.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1614.46,
+   "end": 1620.7,
+   "text": "Don't you? The test is experience. For four years you have projected that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1620.7,
+   "end": 1625.18,
+   "text": "you are going to get into the scientific instrument,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1625.18,
+   "end": 1633.9,
+   "text": "and all you have is still that one thing that's just a ceramic maker when a base changes from one",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1633.9,
+   "end": 1643.66,
+   "text": "color to another and it's a very specific technology and very highly developed but the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1643.66,
+   "end": 1652.35,
+   "text": "only application there is is just that application and then one says where is there somebody who's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1652.35,
+   "end": 1664.63,
+   "text": "who's got a broad range of instruments for the ceramic industry, to whom this is of use in addition, and how much are we worth.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1664.63,
+   "end": 1676.63,
+   "text": "So concentrate your resources now where results and growth are, and look especially for the beaches that have no beach.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1676.63,
+   "end": 1689.63,
+   "text": "Because in a turbulent time, the premium is of people who know how to handle a situation for which there is no precedent. That's the definition of a turbulence.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1689.63,
+   "end": 1693.45,
+   "text": "suddenly in your oldest market",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1693.45,
+   "end": 1695.07,
+   "text": "which you are now inside out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1695.07,
+   "end": 1697.27,
+   "text": "something goes wrong",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1697.27,
+   "end": 1700.77,
+   "text": "and you have no idea what it is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1700.77,
+   "end": 1704.17,
+   "text": "and then there is a premium on the man",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1704.17,
+   "end": 1706.37,
+   "text": "who can handle himself",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1706.37,
+   "end": 1708.85,
+   "text": "without you holding his hand",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1708.85,
+   "end": 1711.67,
+   "text": "without you huddling with him",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1711.67,
+   "end": 1716.01,
+   "text": "without you being able to direct him",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1716.01,
+   "end": 1727.12,
+   "text": "Or who knows when to come back to you and say, look, I need to discuss this.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.82
+  },
+  {
+   "start": 1727.12,
+   "end": 1733.5,
+   "text": "Or look, there's something going on out there which I don't understand.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1733.5,
+   "end": 1740.5,
+   "text": "Or look, there's a cloud on the horizon and it's still tiny, not even as large as a man's hand.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1740.5,
+   "end": 1745.77,
+   "text": "But I don't like to look so.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1745.77,
+   "end": 1750.27,
+   "text": "And who at the same time can look at things and say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1750.27,
+   "end": 1753.27,
+   "text": "now this we know how to manage.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1753.27,
+   "end": 1756.27,
+   "text": "This I can do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1756.27,
+   "end": 1766.61,
+   "text": "As premium on having the man who has learned and experienced",
+   "speaker": "drucker",
+   "drucker_coverage": 0.855
+  },
+  {
+   "start": 1766.61,
+   "end": 1770.11,
+   "text": "and reliability in the sense that you can,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1770.11,
+   "end": 1774.61,
+   "text": "you can sleep some of these nights, you don't worry about it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1774.61,
+   "end": 1778.11,
+   "text": "You know that if things go wrong, he'll tell you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1778.11,
+   "end": 1786.58,
+   "text": "He isn't going to brush an elephant under the rug, he's not going to surprise you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1786.58,
+   "end": 1796.58,
+   "text": "But you also know that he has been through complicated, obscure, confused situations.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1796.58,
+   "end": 1799.58,
+   "text": "He isn't going to panic.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1799.58,
+   "end": 1812.4,
+   "text": "But on the other hand, you know that if the wind drops to, goes up to 50 miles an hour and the temperature drops to zero,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1813.02,
+   "end": 1818.42,
+   "text": "he isn't going to say, we are going to make this peak tonight.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1818.8,
+   "end": 1823.28,
+   "text": "He's going to say the chill factor is too much for me and I'm going to kill the mountain.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1823.64,
+   "end": 1826.74,
+   "text": "The mountain is still going to be there next summer, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1826.74,
+   "end": 1834.74,
+   "text": "He has a little bit. He knows when it makes no sense.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1834.74,
+   "end": 1847.98,
+   "text": "And they're not very many. When you look at your businesses, you'll find they are all in the places where there are no results.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1847.98,
+   "end": 1852.98,
+   "text": "Because that's where one puts one's best people. Those are the really tough ones.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1852.98,
+   "end": 1859.58,
+   "text": "They're really difficult. And you need them today where your results are.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1859.58,
+   "end": 1867.58,
+   "text": "And so constantly look at your business and see what are the things we went into.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1867.58,
+   "end": 1872.58,
+   "text": "They looked all right. They didn't turn out too badly or you would be out of luck.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1872.58,
+   "end": 1880.89,
+   "text": "But the question is always, knowing what we now know, would we do?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1880.89,
+   "end": 1895.42,
+   "text": "And if the answer is no, then one doesn't say, should we go out, but how fast can we go out?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.931
+  },
+  {
+   "start": 1895.42,
+   "end": 1901.06,
+   "text": "And this is the time to do it, because to go back",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1901.06,
+   "end": 1903.92,
+   "text": "to the hurricane metaphor, this is no time",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1903.92,
+   "end": 1908.48,
+   "text": "to carry unnecessary overhead structure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1908.48,
+   "end": 1913.0,
+   "text": "This is when one trims, and when there's a minimum of safety,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1913.0,
+   "end": 1915.98,
+   "text": "and not just a maximum.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1915.98,
+   "end": 1918.32,
+   "text": "And the final thing to say, and this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1918.32,
+   "end": 1921.94,
+   "text": "may be the most important one, and I'm",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1921.94,
+   "end": 1925.0,
+   "text": "actually leading into things, Proctor Thompson,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1925.0,
+   "end": 1934.18,
+   "text": "may be talking about on Thursday, and Jim Giles is going to talk about it a little later this year.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1934.18,
+   "end": 1948.84,
+   "text": "Learn in your business to factor into your decisions the one economy that has predictive value.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1948.84,
+   "end": 1959.24,
+   "text": "That's the world economy. You know here in Southern California, which I've known now for about 40 years,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1959.24,
+   "end": 1966.76,
+   "text": "you have about 150 businesses in los angeles which are now sizable businesses",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1968.44,
+   "end": 1973.24,
+   "text": "most of whom were started by graduates of the class for mona class of 1920",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1973.8,
+   "end": 1980.68,
+   "text": "which must have been the leanest greediest and most accomplished class ever graduated",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1980.68,
+   "end": 1985.24,
+   "text": "from anybody all sons of missionary all terribly hungry obviously",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1985.24,
+   "end": 2008.66,
+   "text": "And they all started, not all, they started businesses. And in those years, you wouldn't believe it, California was an underdeveloped country, in every sense of the word, except in respect to sunshine, where it was better than it's now.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2008.66,
+   "end": 2017.22,
+   "text": "uh but while it was had been for a long time politically part of the united states",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2018.02,
+   "end": 2022.66,
+   "text": "economically it was not it was separated from the united states",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2025.7,
+   "end": 2031.38,
+   "text": "by three thousand miles of desert into santa fe railroad those very powerful separators",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2031.38,
+   "end": 2041.38,
+   "text": "And for most eastern businesses, there was no point doing business in California.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2041.38,
+   "end": 2048.38,
+   "text": "You had a million inhabitants or so. I mean, you could have forgotten how many there were in 1920.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2048.38,
+   "end": 2051.38,
+   "text": "There wasn't very many. Anybody know?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2051.38,
+   "end": 2077.06,
+   "text": "Spread over a lot of empty space. Transportation was very difficult and very expensive and very slow.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.786
+  },
+  {
+   "start": 2077.06,
+   "end": 2086.41,
+   "text": "While family incomes were always high in California, the lifestyle was also different so that it wasn't quite the same market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2086.41,
+   "end": 2102.01,
+   "text": "And so every Easter business was perfectly willing to hand over their very small piece of technology to a California company or to give them an exclusive sales representation and to technology.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2102.01,
+   "end": 2112.01,
+   "text": "You had a lot of companies, about 20, and an enormous number of them are now very substantial companies,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2112.01,
+   "end": 2119.01,
+   "text": "150, 200, 300, 400 million. This is well before the aerospace industry.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2119.01,
+   "end": 2125.01,
+   "text": "And Hollywood, let me say, contrary to what you read, never was economically important.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2125.01,
+   "end": 2131.01,
+   "text": "It just means a front page, but it never employed anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2131.01,
+   "end": 2138.01,
+   "text": "I never spent much money here, just that it offered for business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2138.01,
+   "end": 2150.67,
+   "text": "But very prosaic companies making hand tools and sealer pipes and adhesive labels.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2150.67,
+   "end": 2155.31,
+   "text": "You mentioned there's three that came straight out of Pomona and are in here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2155.31,
+   "end": 2158.35,
+   "text": "Explain why we have such a lovely business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2158.35,
+   "end": 2161.79,
+   "text": "And so on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2161.79,
+   "end": 2167.84,
+   "text": "And I've been talking to a good many of them over the years.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2167.84,
+   "end": 2173.28,
+   "text": "I became interested in them well over 20 years ago when I first came out here for three weeks.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2173.28,
+   "end": 2177.12,
+   "text": "Some of course in Pomona, funded for one of them of course.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2177.12,
+   "end": 2183.44,
+   "text": "uh and you know everything most of the founders are still alive they're getting on in years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2183.44,
+   "end": 2189.52,
+   "text": "but they're still alive and you talk to them and see how did you build a local",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2190.72,
+   "end": 2200.69,
+   "text": "through a distributor the agent for somebody's connected in new york making rents or whatever it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2200.69,
+   "end": 2218.69,
+   "text": "what it was about, into a national factory company. Or how do you build the agent, an agent for a small tractor company out of Peoria, into the largest designer and builder of specialized agricultural machinery?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2218.69,
+   "end": 2225.69,
+   "text": "And you get the same answer. Not in these words, but that was in the mouth too.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2225.69,
+   "end": 2234.69,
+   "text": "Well, of course, I wrote the tie. You have to do something awfully foolish not to succeed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2234.69,
+   "end": 2252.69,
+   "text": "But also I learned very early that while the Californian market was totally separate, and seemed totally isolated, and for totally different reasons,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2252.69,
+   "end": 2264.69,
+   "text": "I learned very early to look at the national economy and to make my decisions on its basis.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2264.69,
+   "end": 2268.69,
+   "text": "So this explains why they survived the Depression.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2268.69,
+   "end": 2274.69,
+   "text": "The Depression hit California about 18 months after it hit the rest of the country, 24 months after.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2274.69,
+   "end": 2281.16,
+   "text": "And those that looked at California only went under.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2281.16,
+   "end": 2288.76,
+   "text": "They expected California to be immune. And those that looked at the U.S. economy and said,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2289.64,
+   "end": 2295.96,
+   "text": "I don't like what I see. And while we have the Sierra and the Rocky Mountains and the desert",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2296.68,
+   "end": 2302.44,
+   "text": "and the Santa Fe railroad between us and the unpleasantness in New York and Chicago,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2302.44,
+   "end": 2313.75,
+   "text": "i better behave as if it might be until you survive and when you ask him how much time did",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2313.75,
+   "end": 2319.11,
+   "text": "you spend on this is it all practically none at all did you subscribe to a few national",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2319.11,
+   "end": 2324.07,
+   "text": "publications and not just the census magazine i don't even know where the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2324.07,
+   "end": 2330.71,
+   "text": "census was around those days or whatever the program was uh today let me say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2330.71,
+   "end": 2340.44,
+   "text": "learn to look at the world economy, even if your business is purely local only.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2340.44,
+   "end": 2350.33,
+   "text": "And if you look at the businesses in the world that have done well these last 50 years in the economy,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2350.33,
+   "end": 2355.33,
+   "text": "they are the ones who have taken their cues from the world economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2355.33,
+   "end": 2369.73,
+   "text": "And there is no country in which economic forecasts based on domestic figures were reliable.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2369.73,
+   "end": 2378.73,
+   "text": "Whether this is this country, or France, the worst case is England, or Germany.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2378.73,
+   "end": 2388.73,
+   "text": "The Japanese, all their success, largely due to the fact that they never based any of their projections on their domestic economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2388.73,
+   "end": 2394.73,
+   "text": "What always started out as a world economy and then said, what should the domestic economy then be?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2394.73,
+   "end": 2400.49,
+   "text": "To take full advantage of it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2400.49,
+   "end": 2407.49,
+   "text": "Domestic economies have been grossly misleading.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2407.49,
+   "end": 2414.49,
+   "text": "Partly, let me say, because the economists overrate their capacity.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2414.49,
+   "end": 2423.49,
+   "text": "We don't know nearly as much about economics as the economists the last ten years believe.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2423.49,
+   "end": 2427.49,
+   "text": "They suffer from a very bad case of arrogance.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2427.49,
+   "end": 2436.49,
+   "text": "Partly, for reasons which I think some of my colleagues in this program will talk to you about.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2436.49,
+   "end": 2447.59,
+   "text": "Partly, however, because the dynamics were not internationally, but in the world economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2447.59,
+   "end": 2452.59,
+   "text": "What a world economy is, is very hard to define.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2452.59,
+   "end": 2457.59,
+   "text": "And you might have to be very primitive and very elementary,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2457.59,
+   "end": 2466.94,
+   "text": "and define an economy as a unity or community of information",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2466.94,
+   "end": 2472.94,
+   "text": "information and expectations in respect to material satisfaction.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2472.94,
+   "end": 2477.94,
+   "text": "Now that is much too primitive for the modern economy,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2477.94,
+   "end": 2480.94,
+   "text": "who talks money and credit and whatever,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2480.94,
+   "end": 2482.94,
+   "text": "but it's fundamental.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2482.94,
+   "end": 2486.94,
+   "text": "And that's probably what an economy really is,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2486.94,
+   "end": 2490.94,
+   "text": "the community of information and expectations",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2490.94,
+   "end": 2493.94,
+   "text": "in respect to material satisfaction,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2493.94,
+   "end": 2503.22,
+   "text": "Not in respect to the salvation of your soul, not in respect to aesthetics, those have an impact.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2503.22,
+   "end": 2510.42,
+   "text": "But to material satisfaction then, for goodness sake, don't ask me what that term means.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2510.42,
+   "end": 2517.7,
+   "text": "It's not that built-in services sound awfully concrete till you take a closer look.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2517.7,
+   "end": 2528.3,
+   "text": "And how do you factor this course into the goods and services definition?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2528.3,
+   "end": 2538.5,
+   "text": "How do you factor the fact that better health care consists, despite low P-Pay,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2538.5,
+   "end": 2545.31,
+   "text": "not so much of getting better, but of being able to go to the doctor?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2545.31,
+   "end": 2547.81,
+   "text": "That is better definition for most of us.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2547.81,
+   "end": 2555.68,
+   "text": "the real definition is to have services available not to have what they can do we don't really know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2556.4,
+   "end": 2563.76,
+   "text": "uh so how do you factor the fact that things aren't quite that simple i don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2563.76,
+   "end": 2570.96,
+   "text": "accept the fact that the world thank god is more diverse than any one academic discipline",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2570.96,
+   "end": 2584.08,
+   "text": "is willing to admit. But the world economy has become a reality. What I'm",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2584.08,
+   "end": 2589.78,
+   "text": "talking about, that's probably no place in the world, there may be central Tibet",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2589.78,
+   "end": 2594.82,
+   "text": "centers, I haven't been there, or in the valleys in the mountains of New Guinea, where I have been,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2594.82,
+   "end": 2607.74,
+   "text": "I have no intention of it, but where you might, on the screen at the back of me,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.923
+  },
+  {
+   "start": 2607.74,
+   "end": 2613.32,
+   "text": "someplace there behind the blackboard, you throw a picture of a mushroom cloud,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2613.32,
+   "end": 2627.91,
+   "text": "you throw a picture of a space vehicle taking off, you show a picture of an",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2627.91,
+   "end": 2664.4,
+   "text": "automobile, get the thinking started. That wasn't true 50 years ago. You have a community of expectations. People everywhere want the same thing. They can't necessarily afford it. But up there in the",
+   "speaker": "drucker",
+   "drucker_coverage": 0.904
+  },
+  {
+   "start": 2664.4,
+   "end": 2675.13,
+   "text": "in Miami, in the Indian Pueblo. Unchanged in Zimbabwe. Maybe they don't really know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2675.13,
+   "end": 2685.48,
+   "text": "how you and I live, but they think we all live in 84-room houses. But they are closer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2685.48,
+   "end": 2693.48,
+   "text": "to reality. They think they know. And you have a world economy which is a community",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2693.48,
+   "end": 2699.8,
+   "text": "of shared expectations and appetites and values in respect to material satisfaction.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 28.27,
+ "created_utc": "2026-09-20T23:07:35+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

@@ -1,0 +1,784 @@
+{
+ "pointer": "4900",
+ "media": "4900.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 1862.2,
+ "segments": [
+  {
+   "start": 2.19,
+   "end": 6.39,
+   "text": "Far East for over 30 years. I've been interested in the Far East since the June day in 1934",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 6.39,
+   "end": 10.71,
+   "text": "when I was in London, walked up and down Piccadilly Circus",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 10.71,
+   "end": 14.53,
+   "text": "was a Saturday, without a raincoat, which shows you how young and",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 14.53,
+   "end": 18.13,
+   "text": "stupid I was when a sudden summer shower came",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 18.13,
+   "end": 22.47,
+   "text": "and I fled under the nearest doorway, which was the Piccadilly",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 22.47,
+   "end": 26.49,
+   "text": "Arcades, where the Royal Academies, and they had",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 26.49,
+   "end": 30.41,
+   "text": "an exhibition of Japanese paintings. And I was hooked for life.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 32.19,
+   "end": 37.19,
+   "text": "Pure accident, if you will, or pure providence, or pure guardian angel.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 37.19,
+   "end": 42.19,
+   "text": "And since then I have been interested in Japanese paintings, and then I became interested in Japanese history.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 42.19,
+   "end": 48.19,
+   "text": "And at one time I was supposed to know something about Japanese history. I don't really.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 48.19,
+   "end": 57.19,
+   "text": "Which is very exciting simply because it violates, so to speak, all the things we in the West think are normal.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 57.19,
+   "end": 69.19,
+   "text": "But Buddhists have almost no knowledge of Buddhism, just enough to know what the Japanese painting signifies.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 69.19,
+   "end": 89.9,
+   "text": "And theology and religion have been strictly Western, Lutheran, High Church Episcopalian for many years.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 89.9,
+   "end": 117.7,
+   "text": "This and no are not terribly active in the diocese, obviously the worst slum areas in the world.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 117.7,
+   "end": 130.44,
+   "text": "Well, Patterson isn't so bad, but the Jersey City, never a little counseling of, let me say, I have.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 130.44,
+   "end": 148.68,
+   "text": "The problem of the intelligent Negro, age 14, discourages him.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 161.44,
+   "end": 164.72,
+   "text": "This is what it's connected, Mr. Diocese, without me.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 165.0,
+   "end": 172.94,
+   "text": "We built up a small layman's organization without a title that just does community jobs.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 172.94,
+   "end": 175.54,
+   "text": "and I just fell into this",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 175.54,
+   "end": 177.3,
+   "text": "where the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 177.3,
+   "end": 179.38,
+   "text": "consolidated central high schools",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 179.38,
+   "end": 180.56,
+   "text": "in these areas we have",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 180.56,
+   "end": 183.08,
+   "text": "friends and the faculty just give us",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 183.08,
+   "end": 185.4,
+   "text": "to all the kids, those things get",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 185.4,
+   "end": 187.12,
+   "text": "their own, the kids now know that",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 187.12,
+   "end": 189.2,
+   "text": "two or three times a month",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 189.2,
+   "end": 191.3,
+   "text": "somebody sits down in the parish house",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 191.3,
+   "end": 193.4,
+   "text": "in Trinity Cathedral and is willing",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 193.4,
+   "end": 194.34,
+   "text": "to listen to you",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 194.34,
+   "end": 197.38,
+   "text": "and so I see a good",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 197.38,
+   "end": 197.72,
+   "text": "many",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 197.72,
+   "end": 201.36,
+   "text": "fairly bright negro boys, age 14",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 201.36,
+   "end": 202.76,
+   "text": "15, all need encouragement",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 202.76,
+   "end": 214.47,
+   "text": "In a mutual life insurance company and see a negro in a fairly responsible position.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 214.47,
+   "end": 222.82,
+   "text": "They don't believe. This is not true of the girls. The girls are being discouraged.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 222.82,
+   "end": 227.82,
+   "text": "Partly because traditionally trained negro girls could get better jobs.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 227.82,
+   "end": 230.82,
+   "text": "There were nurses' jobs, teachers' jobs and so on.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 230.82,
+   "end": 254.88,
+   "text": "And also because, just listen.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 254.88,
+   "end": 256.88,
+   "text": "I say, look child, don't be so stupid.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 256.88,
+   "end": 273.21,
+   "text": "I've been infected like the rest of us, I have no background in psychology and let me",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 273.21,
+   "end": 281.93,
+   "text": "say in my approach, I'm a fairly well trained theologian, catholic theologian essentially",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 281.93,
+   "end": 293.36,
+   "text": "trained, and one does not physics until one has to, you know, one gets there soon enough",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 293.36,
+   "end": 299.4,
+   "text": "and so I don't fall back on psychology until I have to, one gets there soon enough, in",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 299.4,
+   "end": 304.64,
+   "text": "other words, on things one cannot prove or identify or validate, one has to get there",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 304.64,
+   "end": 305.58,
+   "text": "soon enough.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 306.02,
+   "end": 310.96,
+   "text": "But as long as one can go without using them, one goes without them.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 310.96,
+   "end": 316.74,
+   "text": "That's why in my marketing work, I never go into motivation research.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 319.08,
+   "end": 319.88,
+   "text": "Oh, they're soon enough.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 319.98,
+   "end": 325.36,
+   "text": "But first I say, let's first find out the objective situation of the customer and his",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 325.36,
+   "end": 325.86,
+   "text": "values.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 326.5,
+   "end": 328.96,
+   "text": "And then maybe we understand the customer.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 328.96,
+   "end": 333.1,
+   "text": "We don't have to guess in things nobody can verify.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 334.1,
+   "end": 340.62,
+   "text": "And that's why in my management work I try to find out what is right",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 340.62,
+   "end": 343.08,
+   "text": "before I'm worrying about who is right or wrong.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 343.58,
+   "end": 347.18,
+   "text": "And that's why I try out what are the objective needs of the situation",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 347.18,
+   "end": 351.12,
+   "text": "before I am willing to think about the interpersonal.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 352.68,
+   "end": 357.04,
+   "text": "Get there soon enough.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 357.04,
+   "end": 372.62,
+   "text": "discipline. Not to indulge in fancy as long as you can have fact. And psychology",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 372.62,
+   "end": 384.21,
+   "text": "bluntly is fancy. It's imagination. Goddammit, I can't even look into myself. So this is the black box problem.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 384.21,
+   "end": 386.85,
+   "text": "It's just...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 386.85,
+   "end": 388.85,
+   "text": "It's all science, in other words.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 388.85,
+   "end": 391.85,
+   "text": "Well, I don't care whether it's science or not. I use it all the time, of course.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 391.85,
+   "end": 392.85,
+   "text": "All the time.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 392.85,
+   "end": 398.6,
+   "text": "When you go into a consulting job, is one of your first tasks...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 398.6,
+   "end": 402.4,
+   "text": "A perceptualizer.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 402.4,
+   "end": 408.96,
+   "text": "it perceptual not conceptually i'm not a conceptual person but i see patterns i see configurations",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 408.96,
+   "end": 415.68,
+   "text": "i see relationships but i do not uh concepts are not really very look i'm not very bright",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 415.68,
+   "end": 422.04,
+   "text": "you were talking to me logically about your consulting because you were describing it as",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 422.04,
+   "end": 435.82,
+   "text": "the same thing i do with all senses right now yeah and as you write it yes uh very often the",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 435.82,
+   "end": 458.49,
+   "text": "beautiful victim my client here i'm with somebody selecting myself and like all pride it's probably",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 458.49,
+   "end": 474.4,
+   "text": "wrong on being understanding people, seeing them in the round, that behavior is possible",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 474.4,
+   "end": 475.84,
+   "text": "for this man and what is.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 475.84,
+   "end": 482.57,
+   "text": "I don't try to think a problem through in terms of the people involved, if I possibly",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 482.57,
+   "end": 491.41,
+   "text": "can, to face up to the fact that the problem in here is that the root of it is the fact",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 491.41,
+   "end": 499.89,
+   "text": "that this man cannot do certain things, cannot accept certain things, cannot see certain",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 499.89,
+   "end": 500.89,
+   "text": "things.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 500.89,
+   "end": 503.3,
+   "text": "But one doesn't start out with that.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 503.3,
+   "end": 545.97,
+   "text": "I try to look at danger myself, because since I see from her father an intuitive approach,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 550.4,
+   "end": 557.77,
+   "text": "a gestalt view, I try to balance it, which is not really congenial to me.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 557.77,
+   "end": 571.85,
+   "text": "You know, I have long ago lived, and maybe this is true, but it's never either or.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 572.07,
+   "end": 582.02,
+   "text": "You mention yourself as an...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 582.02,
+   "end": 583.02,
+   "text": "Well, strictly, yes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 583.44,
+   "end": 589.73,
+   "text": "He was an intuitive man, he saw, yes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 596.82,
+   "end": 597.78,
+   "text": "Not true of Linnorvik.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 598.0,
+   "end": 600.42,
+   "text": "True of Linnorvik.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 602.93,
+   "end": 604.55,
+   "text": "His vignettes and things were...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 604.55,
+   "end": 613.42,
+   "text": "The question is, Lynn has very graphic stories, but Lynn thinks in terms of fixed positions.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 613.42,
+   "end": 622.89,
+   "text": "And he doesn't see himself in anything, but Herb Simon is...",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 622.89,
+   "end": 630.21,
+   "text": "He has strengths, but he would consider it an insult.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 630.21,
+   "end": 638.21,
+   "text": "But Herb's great strengths that he sees, he would probably consider it an even worse insult,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 638.21,
+   "end": 640.21,
+   "text": "but I've said it to his face.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 640.21,
+   "end": 645.21,
+   "text": "Herb is the last, I think, of the classical organization people.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 645.21,
+   "end": 652.44,
+   "text": "His organization theory is strictly classical organization theory.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 652.44,
+   "end": 653.44,
+   "text": "Wouldn't you agree?",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 653.44,
+   "end": 654.44,
+   "text": "It's an organization.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 654.44,
+   "end": 655.44,
+   "text": "It's Martin Simon.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 655.44,
+   "end": 656.44,
+   "text": "Yes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 656.44,
+   "end": 657.44,
+   "text": "Yes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 657.44,
+   "end": 658.44,
+   "text": "Yes.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 658.44,
+   "end": 659.44,
+   "text": "Precisely.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 659.44,
+   "end": 660.44,
+   "text": "But he wouldn't see it this way.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 660.44,
+   "end": 661.44,
+   "text": "No, he wouldn't.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 661.44,
+   "end": 662.44,
+   "text": "He's using new techniques.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 662.44,
+   "end": 663.44,
+   "text": "He's using new words.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 663.44,
+   "end": 664.44,
+   "text": "And new words.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 664.44,
+   "end": 665.44,
+   "text": "Yeah.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 665.44,
+   "end": 667.44,
+   "text": "And he's using new techniques, but he's using traditional concepts completely.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 667.44,
+   "end": 676.68,
+   "text": "The Wellsprings is a facility to see not so much people, I don't think Herb Simon sees",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 676.68,
+   "end": 679.89,
+   "text": "people.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 679.89,
+   "end": 687.18,
+   "text": "If someone has the kind of your bone structure,",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 73.74,
+ "created_utc": "2026-09-20T22:54:03+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

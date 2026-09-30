@@ -1,0 +1,3248 @@
+{
+ "pointer": "5005",
+ "media": "5005.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 3602.0,
+ "segments": [
+  {
+   "start": 3.34,
+   "end": 14.34,
+   "text": "Are we ready yet? Remember we decided that we will do Banca American till numero tres today",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 14.34,
+   "end": 18.34,
+   "text": "in Spanish by the way, anybody?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 18.34,
+   "end": 26.78,
+   "text": "And then the second afternoon I will go back and finish up the Art Museum",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 26.78,
+   "end": 31.9,
+   "text": "but we kind of got tired of the Art Museum.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 31.9,
+   "end": 39.55,
+   "text": "Who wants to start with Bank of America until number three and tell me what the case is?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 39.55,
+   "end": 44.55,
+   "text": "Who has been to something similar by the way? Anybody?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 44.55,
+   "end": 48.55,
+   "text": "Or is that something you haven't encountered?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 48.55,
+   "end": 61.0,
+   "text": "No? One of the things American businesses and American institutions don't usually do",
+   "speaker": "drucker",
+   "drucker_coverage": 0.759
+  },
+  {
+   "start": 61.0,
+   "end": 64.0,
+   "text": "and in the rest of the world it's standard.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 64.0,
+   "end": 75.16,
+   "text": "If you have a hotel chain in London and you go into the laundry business before somebody",
+   "speaker": "drucker",
+   "drucker_coverage": 0.776
+  },
+  {
+   "start": 75.16,
+   "end": 84.16,
+   "text": "and you set up what you eat, you know, you set it up as a separate laundry which tries",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 84.16,
+   "end": 90.16,
+   "text": "to become the leading laundry business, institutional laundry business in your country.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 90.16,
+   "end": 100.65,
+   "text": "And if you have a hotel chain in Great Britain and you eat, you bake your own rolls and bread",
+   "speaker": "drucker",
+   "drucker_coverage": 0.905
+  },
+  {
+   "start": 100.65,
+   "end": 114.24,
+   "text": "case, you become the leading critic because you're the only one who has been to American",
+   "speaker": "drucker",
+   "drucker_coverage": 0.926
+  },
+  {
+   "start": 114.24,
+   "end": 122.24,
+   "text": "companies who have somewhat similar, but a different approach. There are tax and SEC",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 122.24,
+   "end": 135.48,
+   "text": "reasons why we don't follow that route, but we are minors. We are usually dedicated to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 135.48,
+   "end": 151.1,
+   "text": "kind of empire but before most the company used to have a policy that it",
+   "speaker": "drucker",
+   "drucker_coverage": 0.84
+  },
+  {
+   "start": 151.1,
+   "end": 164.84,
+   "text": "would make the call and no more by it but make 20 have control and therefore",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 164.84,
+   "end": 172.5,
+   "text": "quality control GM at the opposite point every accessory division in GM has to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 172.5,
+   "end": 177.9,
+   "text": "It says, at least half its output is competitive in the outset of GM.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 178.42,
+   "end": 181.18,
+   "text": "Keep it on it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 183.34,
+   "end": 186.69,
+   "text": "That is at 18-4 plug.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 187.07,
+   "end": 193.0,
+   "text": "You realize that most of the things, and if you have Chrysler cars,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 194.22,
+   "end": 199.04,
+   "text": "most of the Chrysler accessories you buy are made by GM.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 203.48,
+   "end": 212.76,
+   "text": "Now there's almost a supply of a press truck.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.838
+  },
+  {
+   "start": 212.76,
+   "end": 225.36,
+   "text": "So there you have one American corporation, a big one, that has been going a very similar",
+   "speaker": "drucker",
+   "drucker_coverage": 0.921
+  },
+  {
+   "start": 225.36,
+   "end": 226.36,
+   "text": "route.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 226.36,
+   "end": 229.36,
+   "text": "Sears, let me say, is not too far.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 229.36,
+   "end": 235.36,
+   "text": "The Sears, who's Sears' largest supplier, you know?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 235.36,
+   "end": 238.63,
+   "text": "Whirlpool.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 238.63,
+   "end": 249.75,
+   "text": "All the old appliances are now increasingly not only kitchen appliances, but living room",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 249.75,
+   "end": 251.75,
+   "text": "appliances, too.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 251.75,
+   "end": 257.75,
+   "text": "And Workful, from the beginning of its foundation, was right after World War II.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 257.75,
+   "end": 285.32,
+   "text": "He was quite deliberately an appliance supplier and decided afterwards to make it a major and independent company.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 285.32,
+   "end": 294.43,
+   "text": "Both the RCA, the banks of the RCA appliance business, brought in a dealer system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 294.43,
+   "end": 318.23,
+   "text": "And Whirlpool is by far the largest American appliance producer, where it's about, just about exactly, a little more than 50% sold under the Whirlpool brand direct, and a little less than 50% sold under the Sears brand, Kenmore and so on, through Sears.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 318.23,
+   "end": 344.28,
+   "text": "Now Sears no longer owns Whirlpool, they've invested in it, they've sold off, though they probably again own it with chunks because they fold it into Whirlpool, the kitchen range company they own, and the air conditioner and so on, but by and large the relationship is no longer an ownership one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 344.28,
+   "end": 355.82,
+   "text": "But it's just as close as ever, and basically all the WorkPool management, other than the fact that people come out of Sears,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 355.82,
+   "end": 364.82,
+   "text": "one of the good career ladders for Sears executives, and WorkPool is now about a $4 billion business or something,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 364.82,
+   "end": 368.72,
+   "text": "or something set over the five binomials or more.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 368.72,
+   "end": 371.04,
+   "text": "So this isn't totally unknown.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 371.04,
+   "end": 373.8,
+   "text": "But it has none of the popularity,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 373.8,
+   "end": 382.26,
+   "text": "this kind of setting up a supplier outside.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 382.26,
+   "end": 385.26,
+   "text": "It is predictable that it will become more popular",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 385.26,
+   "end": 386.26,
+   "text": "in this country.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 386.26,
+   "end": 387.88,
+   "text": "But I will see very soon.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 387.88,
+   "end": 400.92,
+   "text": "What's the problem all about?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.502
+  },
+  {
+   "start": 400.92,
+   "end": 401.42,
+   "text": "Conflicts?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 401.42,
+   "end": 413.36,
+   "text": "And you wouldn't have the conflict.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.874
+  },
+  {
+   "start": 413.36,
+   "end": 414.28,
+   "text": "Now, wait a minute.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 414.28,
+   "end": 431.4,
+   "text": "Those DM accessory divisions are not, won't, and DM 100%, they sell 60% of their output outside of DM.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 432.18,
+   "end": 447.73,
+   "text": "It's only when it became a bank that's competitive that there was a problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 447.93,
+   "end": 448.77,
+   "text": "Then there was none.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 449.67,
+   "end": 450.57,
+   "text": "What is the problem?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 450.57,
+   "end": 461.67,
+   "text": "I think it's probably an ethical problem in that when you control one of your competitors",
+   "speaker": "other",
+   "drucker_coverage": 0.129
+  },
+  {
+   "start": 461.67,
+   "end": 470.04,
+   "text": "and A&S suppliers, you may be a student.",
+   "speaker": "other",
+   "drucker_coverage": 0.184
+  },
+  {
+   "start": 470.24,
+   "end": 471.1,
+   "text": "Who owns it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 475.35,
+   "end": 477.89,
+   "text": "Am I doing data processing for a competitor?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 478.21,
+   "end": 479.29,
+   "text": "Do I interfere with anyone?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 479.61,
+   "end": 486.97,
+   "text": "The GM sells auto parts,",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.596
+  },
+  {
+   "start": 487.65,
+   "end": 490.05,
+   "text": "but they can only sell them to other automobile people.",
+   "speaker": "other",
+   "drucker_coverage": 0.229
+  },
+  {
+   "start": 490.89,
+   "end": 493.27,
+   "text": "Well, they sell them directly to you and me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 493.57,
+   "end": 495.83,
+   "text": "Your biggest market, and I'm sure it's the answer market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 496.03,
+   "end": 497.03,
+   "text": "But it's still automobile.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 497.67,
+   "end": 499.85,
+   "text": "Well, now, look, who else is going to put it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 499.85,
+   "end": 502.13,
+   "text": "What else are you going to do with an engine product?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 502.13,
+   "end": 512.13,
+   "text": "A few people put up, my secretary just put up, remodeled her house and her garden.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 512.13,
+   "end": 519.13,
+   "text": "She put in, her husband is an engineer, they put an old engine block as a piece of sculpture into the front lawn.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 519.13,
+   "end": 523.13,
+   "text": "So there is a limited market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 523.13,
+   "end": 527.13,
+   "text": "But how many do you think you're going to sell that way?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 527.13,
+   "end": 532.13,
+   "text": "What else do you do with a spark plug except putting it in an automotive engine?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 532.13,
+   "end": 552.14,
+   "text": "So, what they don't quite get is the fact of the relevance of PM's automobile accessory division making automobile accessories, which then have to go into a car, complex by themselves, have very limited utility.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 552.14,
+   "end": 558.14,
+   "text": "Well, if they can do that, why can't banks serve other banks or service organizations serve more than one bank?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.833
+  },
+  {
+   "start": 558.14,
+   "end": 561.14,
+   "text": "Why can't they? They do here. That's not the problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 561.14,
+   "end": 569.66,
+   "text": "the fact that any banker in this house, do we have any banker here?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 569.66,
+   "end": 575.64,
+   "text": "Have we got a correspondent's bank? What's a correspondent's bank?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 575.64,
+   "end": 582.96,
+   "text": "That's where you have a friend in the business. What bank are you with?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 582.96,
+   "end": 590.58,
+   "text": "Western Bancorp. Do you have any correspondent's bank? Many. What do you do for them?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 590.58,
+   "end": 600.92,
+   "text": "supply various services such as transfer of funds loan participation check",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 600.92,
+   "end": 616.15,
+   "text": "clearing check clearing this here here is any large bank as a very is very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 616.15,
+   "end": 626.38,
+   "text": "eager buying customers clients smaller banks banks that are not in central",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 626.38,
+   "end": 631.34,
+   "text": "reserve cities such as los angeles or san francisco",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 631.34,
+   "end": 644.2,
+   "text": "but in fresno tucson who need services they can't afford",
+   "speaker": "drucker",
+   "drucker_coverage": 0.922
+  },
+  {
+   "start": 644.2,
+   "end": 647.64,
+   "text": "how much data processing are you willing to sell",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 647.64,
+   "end": 651.16,
+   "text": "to banks well western bank corp is a multi-state",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 651.16,
+   "end": 655.4,
+   "text": "uh bank holding company we have 22 affiliates",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 655.4,
+   "end": 659.48,
+   "text": "you're willing to sell data processing certainly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 659.48,
+   "end": 662.84,
+   "text": "you're probably not doing very well but that's another matter",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 662.84,
+   "end": 669.16,
+   "text": "anybody know he's doing very well what no bank of america is being very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 669.16,
+   "end": 675.48,
+   "text": "fluid what's the biggest data processing",
+   "speaker": "drucker",
+   "drucker_coverage": 0.763
+  },
+  {
+   "start": 675.48,
+   "end": 692.63,
+   "text": "business in the world to which you subscribe",
+   "speaker": "drucker",
+   "drucker_coverage": 0.854
+  },
+  {
+   "start": 692.63,
+   "end": 696.39,
+   "text": "the way you would subscribe to any other time sharing business",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 696.39,
+   "end": 703.5,
+   "text": "or this isn't the time sharing as much as the program sharing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 703.5,
+   "end": 711.42,
+   "text": "50 corps develop their programs for money transfers cash flow check clearing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 712.14,
+   "end": 717.1,
+   "text": "float management what the hell have you i'm not a commercial banker",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 721.67,
+   "end": 726.87,
+   "text": "not this for anybody who is willing to pay the price",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 729.59,
+   "end": 740.97,
+   "text": "any problem so you might see that you have problems with data processing anyhow",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 741.05,
+   "end": 778.96,
+   "text": "There are problems of privacy, there is a very big problem of fraud, we don't know the extent, but it may be very substantial, because it's very easy to get in, and occasionally something surfaces, I get equity funding, or a few other things, but we don't, and all the computers, manufacturers and designers are very concerned.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 778.98,
+   "end": 788.87,
+   "text": "with how one really got access and spent a great deal of money trying to find out which.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 788.87,
+   "end": 799.92,
+   "text": "But these are problems with any. The big bank and the smaller bank, that is the customer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 799.92,
+   "end": 809.92,
+   "text": "for data processing services, have in common. They share that problem. They are not competitive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 809.92,
+   "end": 829.99,
+   "text": "Oh sure, that's the way they look at it.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.427
+  },
+  {
+   "start": 829.99,
+   "end": 833.55,
+   "text": "What's the problem?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 833.55,
+   "end": 844.23,
+   "text": "It's a business, a subsidiary, that's been set up to make a profit, and now the",
+   "speaker": "drucker",
+   "drucker_coverage": 0.906
+  },
+  {
+   "start": 844.23,
+   "end": 848.23,
+   "text": "management is trying to cut back on the making of the profit.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 848.23,
+   "end": 850.23,
+   "text": "Oh, I see.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 850.23,
+   "end": 853.23,
+   "text": "But they don't want to be competitive.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 853.23,
+   "end": 868.16,
+   "text": "Are they afraid that the subsidiary will become larger than the store was?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.464
+  },
+  {
+   "start": 868.16,
+   "end": 898.02,
+   "text": "But, is that the problem in good manners?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.481
+  },
+  {
+   "start": 898.02,
+   "end": 902.02,
+   "text": "Look, except one thing in fact,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 902.02,
+   "end": 906.02,
+   "text": "that when you have to worry about manners,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 906.02,
+   "end": 915.55,
+   "text": "there is something very wrong in the structure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 915.55,
+   "end": 926.31,
+   "text": "If people get upset before somebody didn't follow the proper channels,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 926.31,
+   "end": 929.31,
+   "text": "Well, there's a problem there, and it's not good news.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 929.31,
+   "end": 935.31,
+   "text": "The fact that people then get excited about he didn't ask permission if he should have,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 935.31,
+   "end": 937.31,
+   "text": "because they don't know whether he should have.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 937.31,
+   "end": 940.31,
+   "text": "Nothing in here that tells you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 940.31,
+   "end": 943.31,
+   "text": "Only I know that was his prison,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 943.31,
+   "end": 951.62,
+   "text": "and he had full authority to accept customers and to set his own rates and what have you,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 951.62,
+   "end": 954.62,
+   "text": "and he didn't violate anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 954.62,
+   "end": 979.88,
+   "text": "But also if one does it, you have to. And I believe manners are terribly important. Manners are the lubricant of any organization. Don't let people get away with bad manners. Don't accept the prevailing delusion of the young that to say good morning is not being candid.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 979.88,
+   "end": 993.41,
+   "text": "You say good morning, it's nothing to do with how you feel, it has to do with how you want the other person to feel when he meets you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 993.41,
+   "end": 1001.41,
+   "text": "And so one insists on people saying good morning, and one never, never, never, never economizes on lubricating oil.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1001.41,
+   "end": 1011.41,
+   "text": "Rule number one, no matter how high the Arab push oil prices, lubricating oil is still cheap.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1011.41,
+   "end": 1015.41,
+   "text": "And one never economizes on lubrication.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1015.41,
+   "end": 1023.72,
+   "text": "Always if you can solve a problem by lubrication, it's actually better.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1023.72,
+   "end": 1025.72,
+   "text": "And so one insists on good manners.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1025.72,
+   "end": 1032.72,
+   "text": "But I don't believe there are people getting excited about formality.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1032.72,
+   "end": 1036.72,
+   "text": "And that the formality is the real problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1036.72,
+   "end": 1040.72,
+   "text": "The real problem is something more underlying.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1040.72,
+   "end": 1042.72,
+   "text": "You just have a symptom.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1042.72,
+   "end": 1112.84,
+   "text": "otherwise people shrug it off yes we think today yes look CS doesn't own any Whirlpool today and assume that Kmart comes to Whirlpool and wants Whirlpool to deliver iceboxes to Kmart what would CS reaction be",
+   "speaker": "drucker",
+   "drucker_coverage": 0.758
+  },
+  {
+   "start": 1112.84,
+   "end": 1137.33,
+   "text": "What? I want to applaud them. Do you really think so? They are Christians. They say legally, do you know what their reaction would be? Have to be?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.551
+  },
+  {
+   "start": 1137.33,
+   "end": 1147.33,
+   "text": "No. Nor? No reaction legally. None whatever legally in this country.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1147.33,
+   "end": 1155.68,
+   "text": "Today, what would their actual reaction be? What would their workful management reaction be?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1155.68,
+   "end": 1162.28,
+   "text": "We actually need to protect Sears first.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.427
+  },
+  {
+   "start": 1164.29,
+   "end": 1166.27,
+   "text": "No, we've got to protect Earth first.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1168.33,
+   "end": 1169.45,
+   "text": "I'm not sure.",
+   "speaker": "other",
+   "drucker_coverage": 0.0
+  },
+  {
+   "start": 1170.09,
+   "end": 1175.33,
+   "text": "You mean that Sears is more dependent on us than we are on Sears?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.922
+  },
+  {
+   "start": 1175.37,
+   "end": 1175.87,
+   "text": "Perhaps.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1175.87,
+   "end": 1186.74,
+   "text": "I can assure you there wouldn't be no need for it.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.678
+  },
+  {
+   "start": 1187.02,
+   "end": 1199.46,
+   "text": "Their officiousness would not need it.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.92
+  },
+  {
+   "start": 1199.52,
+   "end": 1200.8,
+   "text": "No, they wouldn't do anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1201.26,
+   "end": 1202.18,
+   "text": "They would say no.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1204.58,
+   "end": 1205.14,
+   "text": "Why?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1205.52,
+   "end": 1214.64,
+   "text": "They're afraid of offending the loudest customer.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.671
+  },
+  {
+   "start": 1214.64,
+   "end": 1219.82,
+   "text": "One may not even live offending.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1219.82,
+   "end": 1229.2,
+   "text": "Direct competitive over.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1229.2,
+   "end": 1233.52,
+   "text": "Now, there may and there are, you know,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1233.52,
+   "end": 1236.48,
+   "text": "one always has to think through the situation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1236.48,
+   "end": 1239.02,
+   "text": "If this were the bottom of a recession,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1239.02,
+   "end": 1244.66,
+   "text": "and World War II would be 60% empty,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1244.66,
+   "end": 1251.78,
+   "text": "and losing money hand over fist, and having to lay off people,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1251.78,
+   "end": 1260.31,
+   "text": "in danger of insolvency they would probably welcome any order and Sears would not only not be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1260.31,
+   "end": 1267.81,
+   "text": "offended but would heave a sigh of relief simply because Sears is dependent on Whirlpool and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1267.81,
+   "end": 1281.21,
+   "text": "sending a depression anything that helps Whirlpool be very warmly overseen. On the other hand in today's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1281.21,
+   "end": 1295.6,
+   "text": "market the plant business is booming Sears probably not be terribly amused",
+   "speaker": "drucker",
+   "drucker_coverage": 0.861
+  },
+  {
+   "start": 1295.6,
+   "end": 1308.21,
+   "text": "though so and so's trying to put the squeeze on us the next time we come",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1308.21,
+   "end": 1320.89,
+   "text": "you're going to be told that Kmart pays 18 cents more for that gasket and also",
+   "speaker": "drucker",
+   "drucker_coverage": 0.921
+  },
+  {
+   "start": 1320.89,
+   "end": 1327.11,
+   "text": "we pay for the design and the Kmart people get the free ride and anyhow",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1327.11,
+   "end": 1345.24,
+   "text": "Now, this comes a little close to kind of corporate swinging,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.724
+  },
+  {
+   "start": 1345.24,
+   "end": 1354.93,
+   "text": "and they can't hear you.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.69
+  },
+  {
+   "start": 1354.93,
+   "end": 1369.32,
+   "text": "And it's a direct competitor in the same shopping center.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.931
+  },
+  {
+   "start": 1369.32,
+   "end": 1371.6,
+   "text": "Well, how can they prevent Kmart from doing it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1371.6,
+   "end": 1373.54,
+   "text": "You know, Kmart is offering it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1373.54,
+   "end": 1375.2,
+   "text": "You see, there's people that see it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1375.2,
+   "end": 1376.9,
+   "text": "There might be people that see it and say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1376.9,
+   "end": 1380.33,
+   "text": "you know, wait a minute.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1380.33,
+   "end": 1385.76,
+   "text": "Kmart's going to get it someplace.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1385.76,
+   "end": 1390.68,
+   "text": "And it's lowering the cost base for our stuff.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1390.68,
+   "end": 1396.68,
+   "text": "But the first reaction was being offended, not on any rational grounds,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1396.68,
+   "end": 1404.68,
+   "text": "simply because he is a member of the family compacting with the common enemy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1404.68,
+   "end": 1408.31,
+   "text": "It's not very rational.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1408.31,
+   "end": 1413.31,
+   "text": "The second reaction might well be that, well, maybe this isn't bad.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1413.31,
+   "end": 1415.31,
+   "text": "K-Mart gets it anyhow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1415.31,
+   "end": 1419.31,
+   "text": "There's no way we can prevent K-Mart from carrying appliances.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1419.31,
+   "end": 1425.4,
+   "text": "There are lots of people who are still in the plant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1425.4,
+   "end": 1433.05,
+   "text": "You think that America knows this because, but still has",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1433.05,
+   "end": 1436.09,
+   "text": "a huge recalibrated plant, even though it's out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1436.09,
+   "end": 1441.01,
+   "text": "of the recalibrated business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1441.01,
+   "end": 1444.97,
+   "text": "It's terribly unhappy to get a little whiff.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1444.97,
+   "end": 1446.23,
+   "text": "Or Westinghouse.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1446.23,
+   "end": 1449.71,
+   "text": "Well, Westinghouse has locked it, converted it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1449.71,
+   "end": 1452.83,
+   "text": "But Westinghouse has those big Canadian plants and plant",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1452.83,
+   "end": 1460.24,
+   "text": "plants.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.73
+  },
+  {
+   "start": 1460.24,
+   "end": 1466.24,
+   "text": "very complex legal structure under which it can't produce in Canada under the Westinghouse name.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1466.24,
+   "end": 1475.24,
+   "text": "And here are those big Canadian plants. You don't think Westinghouse would be quite willing to make it for Kmart?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1475.24,
+   "end": 1484.24,
+   "text": "And Kmart gets this stuff, you know. Kmart is a very lively appliance competitor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1484.24,
+   "end": 1487.84,
+   "text": "who would say, let me see, it's a totally non-national reaction,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1488.16,
+   "end": 1490.0,
+   "text": "but you can be sure it's going to be there.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1490.64,
+   "end": 1496.93,
+   "text": "And the ownership has nothing to do with it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1496.93,
+   "end": 1499.13,
+   "text": "In this case, it's pure retirement.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1500.79,
+   "end": 1504.07,
+   "text": "And to deal with the relationship.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1514.23,
+   "end": 1515.39,
+   "text": "What are the alternatives?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1525.17,
+   "end": 1528.43,
+   "text": "What alternatives are available for doing this kind of work?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1528.61,
+   "end": 1531.54,
+   "text": "Do you like the ER right now?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1531.9,
+   "end": 1533.46,
+   "text": "Well, how are they right now?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1533.68,
+   "end": 1536.95,
+   "text": "Right now, the ER is doing well.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1536.95,
+   "end": 1540.57,
+   "text": "In other words, consider it a business and optimize the business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1540.61,
+   "end": 1545.61,
+   "text": "That's not continuing with the way they are, that's the way they've become.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1545.61,
+   "end": 1547.61,
+   "text": "Optimize the business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1547.61,
+   "end": 1549.61,
+   "text": "Alternative one.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1549.61,
+   "end": 1559.38,
+   "text": "What's alternative two, yes?",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.386
+  },
+  {
+   "start": 1559.38,
+   "end": 1562.38,
+   "text": "In other words, serve everybody except other banks?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1562.38,
+   "end": 1573.92,
+   "text": "Limit the service to other banks.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.35
+  },
+  {
+   "start": 1573.92,
+   "end": 1579.79,
+   "text": "Put it down.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1579.79,
+   "end": 1584.79,
+   "text": "They could pull it back in-house maybe and make it a department instead of a separate organization.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.4
+  },
+  {
+   "start": 1584.79,
+   "end": 1588.81,
+   "text": "And do what with it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1588.81,
+   "end": 1590.81,
+   "text": "And they control it anyhow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1590.81,
+   "end": 1592.81,
+   "text": "Forget that now.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1592.81,
+   "end": 1601.58,
+   "text": "irrelevant that's a matter of what the name on the door how much does it cost to get the name",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1601.58,
+   "end": 1614.38,
+   "text": "on the door changed 85 cents a little more today but no the name on the door is 85 dollars all",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1614.38,
+   "end": 1623.26,
+   "text": "right. That's the extent one doesn't worry about. That's petty cash.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1623.26,
+   "end": 1633.66,
+   "text": "What's the alternative for running the business, not for pretending. What way are you trying to sell it?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.985
+  },
+  {
+   "start": 1633.66,
+   "end": 1635.5,
+   "text": "Well, just let it serve the bank.",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.543
+  },
+  {
+   "start": 1635.5,
+   "end": 1642.34,
+   "text": "Let it serve the bank only. Any other alternatives?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1642.34,
+   "end": 1654.46,
+   "text": "send it off and not have it serve us at home so what then we and then we would have to do",
+   "speaker": "drucker",
+   "drucker_coverage": 0.711
+  },
+  {
+   "start": 1654.46,
+   "end": 1663.8,
+   "text": "something about ourselves but then we could buy from you no that's not that's an ownership act",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1663.8,
+   "end": 1690.46,
+   "text": "do we or don't we continue to buy from you you can build your own an alternative one is",
+   "speaker": "drucker",
+   "drucker_coverage": 0.606
+  },
+  {
+   "start": 1690.46,
+   "end": 1699.52,
+   "text": "optimize data processing as a business and then you don't put any restraint on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1699.52,
+   "end": 1720.68,
+   "text": "unless you don't put them on if you do that can you treat any customer",
+   "speaker": "uncertain",
+   "drucker_coverage": 0.575
+  },
+  {
+   "start": 1720.68,
+   "end": 1747.35,
+   "text": "different from any other why not but why not what I can't hear you that would not",
+   "speaker": "drucker",
+   "drucker_coverage": 0.644
+  },
+  {
+   "start": 1747.35,
+   "end": 1753.63,
+   "text": "That's right. Even if you are in this country, you can treat customers differently.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1753.63,
+   "end": 1755.63,
+   "text": "Depends on what it is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1755.63,
+   "end": 1757.63,
+   "text": "On what the customer wants.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1757.63,
+   "end": 1759.63,
+   "text": "Ah, why couldn't you do it?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1759.63,
+   "end": 1768.51,
+   "text": "On what it is you are saying.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.775
+  },
+  {
+   "start": 1768.51,
+   "end": 1778.08,
+   "text": "You can very easily have a contract.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1778.08,
+   "end": 1781.08,
+   "text": "In fact, everybody has it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1781.08,
+   "end": 1790.58,
+   "text": "Here is the natural gas contract, which I'm sure the Fairmont Colleges have,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1790.58,
+   "end": 1798.58,
+   "text": "which gives the natural gas companies their right to discriminate against the colleges in the event of a gas shortage",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1799.58,
+   "end": 1804.58,
+   "text": "because they are an industrial customer, maybe beyond, but if you will.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1805.58,
+   "end": 1810.58,
+   "text": "Residential customers get proxies. There are no stakeholders, I think.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1813.94,
+   "end": 1817.94,
+   "text": "There's an interruption of service, the idea is that.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1817.94,
+   "end": 1824.16,
+   "text": "it may be the wrong idea and in the rest of the world it would be considered the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1824.16,
+   "end": 1832.82,
+   "text": "wrong idea the rest of the world says jobs come first comfort comes second we don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1832.82,
+   "end": 1840.38,
+   "text": "anymore we may have to come back to it we used to but you know lots of battles you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1840.38,
+   "end": 1849.76,
+   "text": "have today are being fought because public utilities in particular works out",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1849.76,
+   "end": 1861.78,
+   "text": "preference to do which made sense to the public more ease up in 40 years ago in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1861.78,
+   "end": 1870.38,
+   "text": "which jobs came first fear of employment was great and in which you therefore",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1870.38,
+   "end": 1879.92,
+   "text": "made rates in such a way as to encourage your industrial user simply because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1879.92,
+   "end": 1885.92,
+   "text": "the industry locates very heavily on the basis of energy costs anybody ever hear",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1885.92,
+   "end": 1893.56,
+   "text": "that anybody know why why energy costs are important in the location of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1893.56,
+   "end": 1900.6,
+   "text": "industry so there's amongst very few costs that can be determined it's not that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1900.6,
+   "end": 1906.06,
+   "text": "energy is such a big part of the total there's a fairly small one but energy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1906.06,
+   "end": 1910.72,
+   "text": "costs can be determined with great accuracy most other costs are very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1910.72,
+   "end": 1919.36,
+   "text": "hard with most other areas it's very hard with taxes and energy costs and freight costs which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1919.36,
+   "end": 1926.64,
+   "text": "together are perhaps a third of typically manufacturing costs and most are however very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1926.64,
+   "end": 1937.12,
+   "text": "clear and defined and you can actually count them and most other costs are very big and hard",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1937.12,
+   "end": 1945.16,
+   "text": "and difficult and so industrial location decisions are being made quite rightly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1945.96,
+   "end": 1953.0,
+   "text": "on the basis of the cost element you can actually measure and predict by the way because they are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1953.0,
+   "end": 1961.72,
+   "text": "usually long-range contracts one way or another or long-range trends and so energy costs play a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1961.72,
+   "end": 1968.79,
+   "text": "a very heavy role in differential cost and you may see the fact that New",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1968.79,
+   "end": 1974.33,
+   "text": "England energy costs are one third higher than those of the Middle East,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1974.33,
+   "end": 1982.71,
+   "text": "Midwest, Central Eastern states, Kentucky, Tennessee and so on. But considering that for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1982.71,
+   "end": 1988.41,
+   "text": "most manufacturing processes your total energy costs are 8% so you're",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1988.41,
+   "end": 1994.81,
+   "text": "talking of a two percent cost differential that should really not play much of the road and you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1994.81,
+   "end": 2004.57,
+   "text": "are wrong not because it's so visible and it's so tangible and also you have long-range contracts",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2004.57,
+   "end": 2011.77,
+   "text": "which is called constant element you can nail down and in the past get preferential treatment",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2011.77,
+   "end": 2027.98,
+   "text": "on the raping in which certain customers got rates partly where where",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2027.98,
+   "end": 2033.94,
+   "text": "it's preferential rate making not only permitted but necessary do you know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2033.94,
+   "end": 2045.32,
+   "text": "anybody know enough price theory where you have a problem of pink road to average road",
+   "speaker": "drucker",
+   "drucker_coverage": 0.868
+  },
+  {
+   "start": 2045.32,
+   "end": 2060.15,
+   "text": "where you have to maintain a capacity and pay full costs no matter what the demand is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2060.15,
+   "end": 2068.31,
+   "text": "and where in the normal course of events, let's say over a year, your main demand fluctuates",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2068.31,
+   "end": 2079.47,
+   "text": "a great deal, then it makes abundant sense to price in such a way that on the one hand",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2079.47,
+   "end": 2085.47,
+   "text": "you'll get less for what fills capacities as empty.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2085.47,
+   "end": 2091.57,
+   "text": "On the other hand, you can postpone satisfaction",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2091.57,
+   "end": 2097.63,
+   "text": "of that capacity, and then your Robinson-Patman",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2097.63,
+   "end": 2099.97,
+   "text": "or other discriminations do not apply.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2099.97,
+   "end": 2102.81,
+   "text": "But they don't say that you cannot treat customers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2102.81,
+   "end": 2103.95,
+   "text": "differentially.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2103.95,
+   "end": 2105.83,
+   "text": "What does the law say, do you know?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2105.83,
+   "end": 2112.0,
+   "text": "You cannot treat customers differentially",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2112.0,
+   "end": 2121.68,
+   "text": "unless you can prove differential costs in servicing them you cannot give a customer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2121.68,
+   "end": 2136.18,
+   "text": "a price advantage that is not equalized by a cost event now where the line goes it used to be",
+   "speaker": "drucker",
+   "drucker_coverage": 0.931
+  },
+  {
+   "start": 2139.32,
+   "end": 2149.64,
+   "text": "that our law was satisfied that if you have a book they take my last big book of mine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2150.04,
+   "end": 2160.04,
+   "text": "We now broke our Gotham mix to convert it into a poor textbook.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2160.04,
+   "end": 2163.04,
+   "text": "Ten years ago, the publisher would have...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2163.04,
+   "end": 2167.04,
+   "text": "I think that cover you have is yellow or red or whatever it is.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2167.04,
+   "end": 2168.04,
+   "text": "What?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2168.04,
+   "end": 2169.04,
+   "text": "I think it's red.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2169.04,
+   "end": 2170.04,
+   "text": "It's red.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2170.04,
+   "end": 2175.44,
+   "text": "Buddy would have put the yellow one on and would have called it a textbook edition.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2175.44,
+   "end": 2177.44,
+   "text": "The only thing different would have been.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2177.44,
+   "end": 2180.95,
+   "text": "And he would have so related.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2180.95,
+   "end": 2187.95,
+   "text": "About 30% less, 40% less, and the justification would have been that we sell a textbook,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2187.95,
+   "end": 2194.95,
+   "text": "you sell 500 copies, you know, at a throw, and you have much lower distribution costs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2194.95,
+   "end": 2198.95,
+   "text": "The only problem is when they went then into court with that argument",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2198.95,
+   "end": 2202.95,
+   "text": "and produced a cost that turned out to be a higher distribution cost.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2202.95,
+   "end": 2204.95,
+   "text": "So they lost that case.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2204.95,
+   "end": 2211.68,
+   "text": "But they themselves didn't know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2211.68,
+   "end": 2218.21,
+   "text": "They're always assumed if you sell 500 copies as against one,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2218.21,
+   "end": 2220.21,
+   "text": "you must have lower distribution costs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2220.21,
+   "end": 2223.21,
+   "text": "And the discount is lower to the college store.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2223.21,
+   "end": 2227.21,
+   "text": "But the pill price rate is so high.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2227.21,
+   "end": 2230.21,
+   "text": "And to see the selling people.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2230.21,
+   "end": 2231.21,
+   "text": "Effort is so great.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2231.21,
+   "end": 2234.21,
+   "text": "You have to visit professors, leave copies,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2234.21,
+   "end": 2237.21,
+   "text": "go and brief an adoption meeting.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2237.21,
+   "end": 2242.21,
+   "text": "You spend an unbelievable amount of savings hours on it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2242.21,
+   "end": 2249.51,
+   "text": "that when you actually cost, when you actually costed it out, it turned out that they had no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2249.51,
+   "end": 2255.43,
+   "text": "argument. But that's not because they couldn't price differentially, because they could not prove",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2256.55,
+   "end": 2264.07,
+   "text": "that it cost differentially. They may have been very inept in the choice of their accountants,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2264.07,
+   "end": 2272.07,
+   "text": "but another matter. So there is differential pricing, and where you have that peak low,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2272.07,
+   "end": 2292.39,
+   "text": "and also then there's differential shift but let me say i am a bakery can you imagine that",
+   "speaker": "drucker",
+   "drucker_coverage": 0.779
+  },
+  {
+   "start": 2293.11,
+   "end": 2298.47,
+   "text": "i run a bakery and i sell it to the supermarkets",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2300.15,
+   "end": 2305.59,
+   "text": "and i also have a contract with whoever has the feeding contract here to call it a starter",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2305.59,
+   "end": 2309.03,
+   "text": "and supply them with bakery products.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2312.11,
+   "end": 2316.37,
+   "text": "And my contract provides that I can, if need be,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2316.79,
+   "end": 2321.43,
+   "text": "provide them a daily.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2322.01,
+   "end": 2325.63,
+   "text": "Can you imagine this?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2326.15,
+   "end": 2329.53,
+   "text": "Contract provides that I would normally provide them every day.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2330.75,
+   "end": 2333.43,
+   "text": "But if I have any delivery problem,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2337.27,
+   "end": 2340.03,
+   "text": "now, Washington's birthday yesterday,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2340.03,
+   "end": 2342.89,
+   "text": "my plant, my bakery is well closed.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2342.89,
+   "end": 2351.91,
+   "text": "such and I have had to pay or the rentals have to be double time or triple",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2351.91,
+   "end": 2358.9,
+   "text": "time so instead of having six bakers running I've only three running and that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2358.9,
+   "end": 2367.74,
+   "text": "supply the supermarket and I will not supply the Claremont colleges and UCLA",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2367.74,
+   "end": 2373.04,
+   "text": "and all the hospitals can you imagine such a contract it's standard in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2373.04,
+   "end": 2382.2,
+   "text": "bakery business I have to give you a week's notice and then simply because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2382.2,
+   "end": 2389.56,
+   "text": "you can't sell old bread in a supermarket but the CMC kids don't know",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2389.56,
+   "end": 2400.23,
+   "text": "the difference nobody knows the difference basically bread doesn't spoil and if you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2400.23,
+   "end": 2405.19,
+   "text": "toast it anyhow as most of us do because otherwise it has the consistency of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2405.19,
+   "end": 2415.95,
+   "text": "sponge rubber. It doesn't go stage that fast. A week is, but two days, no. And yet",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2415.95,
+   "end": 2424.53,
+   "text": "supermarkets won't touch it. And cafeterias and restaurants and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2424.53,
+   "end": 2436.25,
+   "text": "hospitals and even restaurants don't care great. Not every day. And that's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2436.25,
+   "end": 2451.92,
+   "text": "That's worth money to the bakery, not much, but a little bit, simply because there is no real urgency to get bread in real time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2451.92,
+   "end": 2468.87,
+   "text": "How about data? How about telephone service? Could you do it? I don't see that. Could you do it?",
+   "speaker": "drucker",
+   "drucker_coverage": 0.823
+  },
+  {
+   "start": 2468.87,
+   "end": 2491.94,
+   "text": "It was fairly, fairly common at one time, but eliminated it, was the, a technical invention,",
+   "speaker": "drucker",
+   "drucker_coverage": 0.848
+  },
+  {
+   "start": 2491.94,
+   "end": 2492.94,
+   "text": "the party line.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2492.94,
+   "end": 2503.32,
+   "text": "You only think that the party line works by itself, you are wrong.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.904
+  },
+  {
+   "start": 2503.32,
+   "end": 2511.32,
+   "text": "Party line needs some, you would consider them fairly simple gadgets, but still gadgets.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2511.32,
+   "end": 2524.4,
+   "text": "otherwise you get can only have said old-fashioned world one where everybody",
+   "speaker": "drucker",
+   "drucker_coverage": 0.656
+  },
+  {
+   "start": 2524.4,
+   "end": 2531.3,
+   "text": "could listen into everybody is now the party line as it was developed I think",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2531.3,
+   "end": 2540.06,
+   "text": "it's the Siemens the German pattern in the 20s we where you share the line but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2540.06,
+   "end": 2544.2,
+   "text": "if somebody else open it you will not you didn't get a diet or didn't get",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2544.2,
+   "end": 2554.94,
+   "text": "center operator and you couldn't listen your telephone was closed out uh which is still",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2556.14,
+   "end": 2565.37,
+   "text": "prevalent in europe very common and in japan uh which for most presidential customers is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2565.37,
+   "end": 2572.09,
+   "text": "perfectly adequate unless you happen to have somebody on the party and has got three teenagers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2572.09,
+   "end": 2580.09,
+   "text": "in the family then you're in trouble but and then the constant you said too many",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2580.09,
+   "end": 2586.67,
+   "text": "complaints that juggled the line for most presidential people who make four",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2586.67,
+   "end": 2599.94,
+   "text": "or five telephone calls a day that's up and so but before that you had a very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2599.94,
+   "end": 2611.54,
+   "text": "in common sense that residential customers got service when the central exchange was not busy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2614.42,
+   "end": 2621.62,
+   "text": "and during the peak hours when the professionals and the businesses used it well you had to wait",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2622.5,
+   "end": 2626.34,
+   "text": "or you may not be may not have been able to get it for an hour or two",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2626.98,
+   "end": 2635.8,
+   "text": "and you've got low residential rates and you could in effect handle far more subscribers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2638.94,
+   "end": 2648.26,
+   "text": "too much inconvenience all right there were always the complaints of the emergency but emergencies",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2648.26,
+   "end": 2658.3,
+   "text": "are rather rare and by and large most subscribers were perfectly satisfied",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2660.06,
+   "end": 2665.82,
+   "text": "so when they had it but then whenever they had a chance they upgraded themselves to a full nine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2665.82,
+   "end": 2676.45,
+   "text": "But building telephone stations is very expensive and it was far more expensive 50 years ago",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2676.45,
+   "end": 2684.45,
+   "text": "because the cost, the capital cost is in indirect proportionate to the density of the system.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2684.45,
+   "end": 2689.45,
+   "text": "When 100% of the households have telephones that they have in this country,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2689.45,
+   "end": 2697.85,
+   "text": "it costs you a fraction of what it cost you when only every 10 or 20 percent had",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2697.85,
+   "end": 2704.89,
+   "text": "it when in other words you have to string wires and build amplifiers and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2704.89,
+   "end": 2711.83,
+   "text": "boosters and only serve and how the top of that lots of rural neighbors houses",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2711.83,
+   "end": 2720.83,
+   "text": "close together, so that the capital cost was much greater than then, or proportionate.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2720.83,
+   "end": 2727.83,
+   "text": "And then it made a great deal of sense to price preferentially for a service that at",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2727.83,
+   "end": 2732.83,
+   "text": "that time for the customer was a luxury and marginal.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2732.83,
+   "end": 2742.11,
+   "text": "Not for the doctor, not for the business, they had to have it in the twenties, but for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2742.11,
+   "end": 2750.53,
+   "text": "But for the ordinary private household, who have the choice between having no telephone",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2750.53,
+   "end": 2757.87,
+   "text": "or getting minimal service at a minimal rate, and accepting that it would only be given",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2757.87,
+   "end": 2766.27,
+   "text": "on an if and when available basis, when today, where the telephone is their prime medium",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2766.27,
+   "end": 2771.99,
+   "text": "of communication, as far as with the post office, that would not work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2771.99,
+   "end": 2777.27,
+   "text": "today you have to have it in real time and you scream if you have to wait tenderly for the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2777.27,
+   "end": 2789.67,
+   "text": "diet don't you and rightly so so let me see the question is not whether you can give second class",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2789.67,
+   "end": 2803.0,
+   "text": "services sure you can why not if you price accordingly you cannot probably if you follow",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2803.0,
+   "end": 2812.92,
+   "text": "lady here and see banks don't get the full range services what you say then you can't price the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2812.92,
+   "end": 2826.16,
+   "text": "same way and that's probably awkward but probably is and rather not do it you know but you could do",
+   "speaker": "drucker",
+   "drucker_coverage": 0.736
+  },
+  {
+   "start": 2826.16,
+   "end": 2838.12,
+   "text": "it but it depends on what their service means to the customer if you're a bank and you have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2838.12,
+   "end": 2844.12,
+   "text": "your data processing done on a if and when available or selective basis what do you think",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2844.12,
+   "end": 2857.06,
+   "text": "i mean that's very much like saying my right leg works only on saturday afternoon",
+   "speaker": "drucker",
+   "drucker_coverage": 0.923
+  },
+  {
+   "start": 2860.58,
+   "end": 2863.62,
+   "text": "maybe then you're better off with the prosthesis",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2870.48,
+   "end": 2878.48,
+   "text": "once you have it you you put your data on as if on any kind of a program basis",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2878.48,
+   "end": 2885.15,
+   "text": "is, hey, your business can't run without it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2885.15,
+   "end": 2887.21,
+   "text": "You have to have it in real time.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2887.21,
+   "end": 2891.71,
+   "text": "Can you get, sorry, we have business today.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2891.71,
+   "end": 2894.03,
+   "text": "You'll get your checks cleared a week from today.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2898.28,
+   "end": 2901.24,
+   "text": "All right, if you have a blizzard such as Boston just",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2901.24,
+   "end": 2901.74,
+   "text": "now had.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2901.74,
+   "end": 2906.8,
+   "text": "Nobody got checks cleared for a couple of, almost 10 days.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2906.8,
+   "end": 2908.18,
+   "text": "Because nothing could move.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2908.18,
+   "end": 2912.94,
+   "text": "The checks, the problem wasn't that the clearing system",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2912.94,
+   "end": 2913.86,
+   "text": "didn't work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2913.86,
+   "end": 2920.82,
+   "text": "the checks were out in the branch banks and the trucks didn't run and you couldn't get them into",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2920.82,
+   "end": 2926.58,
+   "text": "the federal reserve bank of course but yeah but on the other hand customers also couldn't get to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2926.58,
+   "end": 2935.22,
+   "text": "the branches and withdraw for about a week nothing moved and you couldn't open any office because no",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2935.22,
+   "end": 2942.18,
+   "text": "employee could get to you for about a week a few hardy cross-country skiers ski down the ropes of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2942.18,
+   "end": 2947.86,
+   "text": "the cars, along the banks of the Charles, but it is more for fun than to go to work, you know.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2948.82,
+   "end": 2956.66,
+   "text": "Very few, I think, made it. Almost five days. And, of course, clearing the street when everybody is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2956.66,
+   "end": 2965.38,
+   "text": "forced to abandon his car in the middle of the street takes time. So by now, the school's still",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2965.38,
+   "end": 2973.22,
+   "text": "on over. Today is the first day I've tried to be open, two weeks later. People ask, but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2973.22,
+   "end": 2979.9,
+   "text": "how often do you have a blizzard? And everybody is equally out. And everybody knows the reason",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2979.9,
+   "end": 2987.44,
+   "text": "why. And the customer who calls in and wants to know his balance, when he said, but that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2987.44,
+   "end": 2993.48,
+   "text": "was my balance two weeks ago, but that's the only balance we can give you. But nobody can",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2993.48,
+   "end": 3001.32,
+   "text": "do better and how often does it happen next blizzard of this kind the last one of this kind",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3001.32,
+   "end": 3014.2,
+   "text": "in boston was 92 years ago you know probability is that another 92 years and so one isn't trying to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3014.92,
+   "end": 3023.08,
+   "text": "that's his work buffalo where blizzards like this happen twice every week in the winter and three",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3023.08,
+   "end": 3029.26,
+   "text": "times in leap years, you have a totally different system. Everybody's geared to it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3029.26,
+   "end": 3034.66,
+   "text": "Who knows a Minnesota? But fast, by the ocean, doesn't get much snow usually",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3034.66,
+   "end": 3045.44,
+   "text": "anyhow. No one doesn't make provisions for the rarest of accidents. But data",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3045.44,
+   "end": 3052.48,
+   "text": "processing is not something you can give on any basis except full service",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3052.48,
+   "end": 3060.88,
+   "text": "real-time. So the decision you have here is that alternative, let me say,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3060.88,
+   "end": 3068.48,
+   "text": "which surely those people in the bank would really love, that we optimize the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3068.48,
+   "end": 3075.78,
+   "text": "business, but we curtail service to competitors or we don't operate to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3075.78,
+   "end": 3090.16,
+   "text": "potential competitors. That is not available. It would be very nice if you could do it, but you can't.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3090.16,
+   "end": 3098.16,
+   "text": "by the nature of the service you give, not because of any legal constraint or any economic constraint,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3098.16,
+   "end": 3110.66,
+   "text": "and don't believe what we were told, that it is illegal to treat different customers differently.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3110.66,
+   "end": 3116.66,
+   "text": "This is not true. It is illegal to treat different customers differently",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3116.66,
+   "end": 3123.66,
+   "text": "unless there is an economic rationale provable for it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3123.66,
+   "end": 3130.55,
+   "text": "And the most provable one is differential costs.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3130.55,
+   "end": 3132.55,
+   "text": "Significant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3132.55,
+   "end": 3134.55,
+   "text": "And the other one, anybody know the other one?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3134.55,
+   "end": 3136.55,
+   "text": "Major one in this?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3136.55,
+   "end": 3143.76,
+   "text": "In American normal is to meet competition, bona fide.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3143.76,
+   "end": 3148.45,
+   "text": "Anything else?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3148.45,
+   "end": 3167.42,
+   "text": "I'm coming out with a new proprietary hammer which can also be used as a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3167.42,
+   "end": 3179.08,
+   "text": "crusade kit and as a signal player if I get lost in the mountains okay and I'm",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3179.08,
+   "end": 3194.05,
+   "text": "introducing that product in the market am I entitled to play games you know for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3194.05,
+   "end": 3205.58,
+   "text": "long you know for how long has until you say until he has competition now this particular case i think",
+   "speaker": "drucker",
+   "drucker_coverage": 0.913
+  },
+  {
+   "start": 3205.58,
+   "end": 3212.54,
+   "text": "the danger of competition is perhaps remote uh but let's assume you all think this isn't going to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3212.54,
+   "end": 3221.84,
+   "text": "work between you and me i agree with you but i'm jane bento and i have the paternal pride and i'm",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3221.84,
+   "end": 3231.58,
+   "text": "going to introduce the damn thing to all of us and does work anybody here remember the clock radio",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3231.58,
+   "end": 3239.42,
+   "text": "have you ever seen one have you ever seen a clock radio yes i can assure you that the damn thing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3239.42,
+   "end": 3249.26,
+   "text": "could not have worked everybody knew it because after all what the hell is new about that alarm",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3249.26,
+   "end": 3258.02,
+   "text": "clocks how long have you had an on top and how long have you had videos the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3258.02,
+   "end": 3268.43,
+   "text": "points in particular together who wants to be woken up the dancing was a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3268.43,
+   "end": 3274.09,
+   "text": "runaway success and incidentally only because the division general manager who",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3274.09,
+   "end": 3280.67,
+   "text": "invented designed and introduced it did not ask top management in your perfect",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3280.67,
+   "end": 3287.63,
+   "text": "well what their answer would have been. And who needs an electric toothbrush or an",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3287.63,
+   "end": 3298.7,
+   "text": "electric carving knife? It's the same general manager. I have never seen the",
+   "speaker": "drucker",
+   "drucker_coverage": 0.684
+  },
+  {
+   "start": 3298.7,
+   "end": 3306.87,
+   "text": "need for any of this. In a motel, I like an alarm clock, but I don't need the radio",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3306.87,
+   "end": 3319.67,
+   "text": "part. But most motels that have an alarm clock, it's a clock radio. My children all have",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3319.67,
+   "end": 3335.99,
+   "text": "so the damn thing works how long can I just keep on introductory pricing which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3335.99,
+   "end": 3342.53,
+   "text": "means I can give you a special price here will you have that chain of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3342.53,
+   "end": 3350.16,
+   "text": "hardware stores in Southern California if you take five thousands of these I",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3350.16,
+   "end": 3361.94,
+   "text": "give you a 30% off list introductory offer I can send you and pick the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3361.94,
+   "end": 3370.27,
+   "text": "membership of the Sierra Club and make a coupon deal with them contact all kinds",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3370.27,
+   "end": 3402.0,
+   "text": "of things for how long no somebody complains not I mean there's no legal",
+   "speaker": "drucker",
+   "drucker_coverage": 0.795
+  },
+  {
+   "start": 3402.0,
+   "end": 3409.74,
+   "text": "barrier there's no legal this thing it discriminatory treatment of customers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3409.74,
+   "end": 3419.36,
+   "text": "You know, I might even go very easy to Bill Blair, who has those hardware stores in Southern",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3419.36,
+   "end": 3422.92,
+   "text": "California, and say, I give you a year's excuse.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3426.37,
+   "end": 3427.89,
+   "text": "I won't sell to anybody else.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3428.89,
+   "end": 3431.47,
+   "text": "You're not a licensed franchisee.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3431.65,
+   "end": 3445.8,
+   "text": "You agree to buy 50,000 of the John Singhs, and in consideration on consignment, you don't",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3445.8,
+   "end": 3446.88,
+   "text": "have to take any.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3446.88,
+   "end": 3456.24,
+   "text": "you agree to take them and try best offer best effort and a consideration of this i give you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3456.24,
+   "end": 3466.93,
+   "text": "an 18-month exclusive on the operation anybody else in a market area done every day perfectly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3468.29,
+   "end": 3475.49,
+   "text": "perfectly discriminatory and perfectly product introduction and there is no room which is then",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3475.49,
+   "end": 3491.0,
+   "text": "the rule of reason when is a product either no longer in the introductory stage and sure the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3491.0,
+   "end": 3499.08,
+   "text": "clock radio is well past that stage but i'm not so sure that the electric carving knife has now been",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3499.08,
+   "end": 3506.28,
+   "text": "on the market for 10 years so you could probably might still be able to order everything in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3506.28,
+   "end": 3526.7,
+   "text": "It depends on if that is still something that is a specialty product and that is not, really hasn't yet found its market niche.",
+   "speaker": "drucker",
+   "drucker_coverage": 0.853
+  },
+  {
+   "start": 3526.7,
+   "end": 3534.7,
+   "text": "No, we have no time for this. This is a matter of business. Not the matter of whether it's proprietary or not, it's something else.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3534.7,
+   "end": 3540.7,
+   "text": "You can't discriminate among customers in a proprietary format either.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3540.7,
+   "end": 3555.56,
+   "text": "So that it isn't true that there is no system, but it has to have an economic rationale,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3555.56,
+   "end": 3563.56,
+   "text": "either a cost rationale, or an innovation rationale, or a competitive rationale.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3563.56,
+   "end": 3574.56,
+   "text": "You cannot arbitrarily, you cannot do it to give an advantage to one customer over another",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3574.56,
+   "end": 3579.56,
+   "text": "that is not justified by economic rationality.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3579.56,
+   "end": 3583.56,
+   "text": "But let me say that's not what we are dealing with here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3583.56,
+   "end": 3589.29,
+   "text": "We're dealing with something far more important than it is,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3589.29,
+   "end": 3596.88,
+   "text": "the characteristic of goods or services.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 3596.88,
+   "end": 3598.88,
+   "text": "And it is very...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 31.71,
+ "created_utc": "2026-09-20T22:57:22+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}

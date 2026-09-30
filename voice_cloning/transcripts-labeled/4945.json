@@ -1,0 +1,2387 @@
+{
+ "pointer": "4945",
+ "media": "4945.flac",
+ "model": "large-v3",
+ "language": "en",
+ "duration_s": 2757.0,
+ "segments": [
+  {
+   "start": 3.47,
+   "end": 9.39,
+   "text": "Good morning. I'm Sam Craig, the Associate Dean for Academic Affairs, and it's my pleasure to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 9.39,
+   "end": 15.09,
+   "text": "welcome you again to the Graduate School of Business for the second day of the Peter F.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 15.15,
+   "end": 21.41,
+   "text": "Drucker Symposium. This is one of the more exciting and provocative events that take place",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 21.41,
+   "end": 27.43,
+   "text": "each year at the Graduate School of Business, and it's exciting and provocative because of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 27.43,
+   "end": 32.53,
+   "text": "Peter Drucker a man has been characterized as the founding father of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 32.53,
+   "end": 37.93,
+   "text": "the science of management management the most important management thinker of our",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 37.93,
+   "end": 45.31,
+   "text": "time a foremost philosopher of American society now with Peter today is mr.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 45.31,
+   "end": 49.81,
+   "text": "Donald Nicholson president of paine-weber one of the nation's leading",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 49.81,
+   "end": 54.99,
+   "text": "full-service securities firm mr. Nicholson has been in 30 business for",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 54.99,
+   "end": 62.85,
+   "text": "over 30 years. One brief announcement before I turn the floor over to Peter",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 62.85,
+   "end": 67.65,
+   "text": "Drucker and to Mr. Nicholson is we're going to try to get both sets of remarks",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 67.65,
+   "end": 72.09,
+   "text": "in before the coffee break to allow more time for questions. Many of you were here",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 72.09,
+   "end": 76.05,
+   "text": "yesterday, didn't feel there was enough time for questions, so we'll",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 76.05,
+   "end": 80.31,
+   "text": "try to allow more time for questions after the coffee break. Professor Drucker.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 80.31,
+   "end": 86.67,
+   "text": "Thank you very much, Sam Craig. And let me say again how delighted I am to be back",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 86.67,
+   "end": 94.31,
+   "text": "at my old home and how happy I am to see so many old friends around here. And as",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 94.31,
+   "end": 107.45,
+   "text": "you know, our topic is markets and segmentation myths and realities. And as",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 107.45,
+   "end": 122.02,
+   "text": "As all of you, I think, know, a good many of major markets began to change, to be closer,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 122.02,
+   "end": 123.02,
+   "text": "thank you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 123.02,
+   "end": 124.02,
+   "text": "How is this?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 124.02,
+   "end": 125.02,
+   "text": "Thank you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 125.02,
+   "end": 135.02,
+   "text": "Began to become fluid and things that had looked as solid as granite for 30 or 50 years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 135.02,
+   "end": 146.68,
+   "text": "began to become very, very liquid and changing, maybe in the late 60s, early 70s.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 146.68,
+   "end": 152.26,
+   "text": "And since then, markets have changed, some of them, I think, beyond recognition.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 152.26,
+   "end": 161.06,
+   "text": "I think anyone who knew the financial markets or can remember the financial markets of 1960",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 161.06,
+   "end": 167.14,
+   "text": "would have a hard time recognizing today's financial market uh i don't think anybody would",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 167.14,
+   "end": 177.94,
+   "text": "have considered it possible conceivable that you could sell 260 billion dollars worth of mutual",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 177.94,
+   "end": 188.74,
+   "text": "funds in a year as was done uh last year or that one of the leading treasury bill uh brokers happens",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 188.74,
+   "end": 197.7,
+   "text": "to be a japanese brokerage i don't think anybody in 1970 would have even considered that figments",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 197.7,
+   "end": 203.7,
+   "text": "of the imagination that would have been kind of signs of a seriously disordered mind",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 207.68,
+   "end": 213.28,
+   "text": "and let me say if you talk to people and see a robot you will find that they are equally",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 213.28,
+   "end": 221.76,
+   "text": "bewildered by a consumer market that just makes no sense to them, and that quite obviously",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 221.76,
+   "end": 228.96,
+   "text": "they do not yet understand and know how to cope with.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 228.96,
+   "end": 240.24,
+   "text": "And I'm not so sure that the people at GM would be able to explain the consumer marketing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 240.24,
+   "end": 248.48,
+   "text": "goods and understand it or accept that what has happened really could have happened.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 248.48,
+   "end": 255.3,
+   "text": "So the changes have been very great indeed in all markets, including, let me say, the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 255.3,
+   "end": 262.68,
+   "text": "market for academia, where the changes may have been even greater and where even the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 262.68,
+   "end": 268.76,
+   "text": "academicians, I don't know them or understand them, before so far they are being covered",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 268.76,
+   "end": 274.34,
+   "text": "by a tremendous boom, and a boom, like any high tide,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 274.34,
+   "end": 281.24,
+   "text": "tends to obscure changes in the underlying structure.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 281.24,
+   "end": 285.2,
+   "text": "But at the same time, most of the things",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 285.2,
+   "end": 289.4,
+   "text": "which all of us predicted when these changes began",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 289.4,
+   "end": 291.62,
+   "text": "have not happened.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 291.62,
+   "end": 294.74,
+   "text": "What has happened are very different things.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 294.74,
+   "end": 297.86,
+   "text": "And I don't think it is possible yet",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 297.86,
+   "end": 302.98,
+   "text": "to see what the market will look like when",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 302.98,
+   "end": 306.08,
+   "text": "the transition is over.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 306.08,
+   "end": 309.68,
+   "text": "It's not even, I think, quite easy to see how far along",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 309.68,
+   "end": 314.73,
+   "text": "we are in the transition.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 314.73,
+   "end": 317.01,
+   "text": "Just this morning, up in the dean's office,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 317.01,
+   "end": 321.77,
+   "text": "when Don Nicholson came in, we talked about the treaty.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 321.77,
+   "end": 324.63,
+   "text": "And he kind of said he thinks we are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 324.63,
+   "end": 330.37,
+   "text": "I'm not putting words in your mouth, I don't think so.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 330.37,
+   "end": 335.43,
+   "text": "Well I'm not sure, but he's the expert.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 335.43,
+   "end": 341.89,
+   "text": "And considering how much we have been through in the financial markets, I kind of wonder.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 341.89,
+   "end": 353.15,
+   "text": "But then I don't think it's yet easy to say what the new segmentation will be.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 353.15,
+   "end": 360.71,
+   "text": "But I think it is already possible to say what is not going to work or what does not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 360.71,
+   "end": 363.13,
+   "text": "work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 363.13,
+   "end": 369.87,
+   "text": "And it's probably not easy yet to say when the transition will be over, when we will",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 369.87,
+   "end": 374.27,
+   "text": "again have a period of comparative stability.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 374.27,
+   "end": 389.47,
+   "text": "But I think it is possible to say, in some markets, where the, shall we say, boundary",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 389.47,
+   "end": 390.85,
+   "text": "lines are.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 390.85,
+   "end": 395.47,
+   "text": "What I mean to say is that, for instance, when you look at the health care market, which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 395.47,
+   "end": 407.21,
+   "text": "has changed perhaps next to the financial market the most, it is possible to say that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 407.21,
+   "end": 413.03,
+   "text": "No matter what the economic pressures are, no matter what the pressures from the doctors",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 413.03,
+   "end": 423.87,
+   "text": "are and so on, the modern medicine requires an organized center for the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 423.87,
+   "end": 430.45,
+   "text": "And that such present attempt, I don't know whether you know this, 40% of all American",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 430.45,
+   "end": 439.49,
+   "text": "physicians now have to do medical testing in their own offices in a desperate attempt",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 440.45,
+   "end": 449.57,
+   "text": "to protect their revenue because lab work is not regulated there are no government ceilings on it",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 450.85,
+   "end": 457.73,
+   "text": "and so with their fees for medicare which is where most of the practices for older people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 457.73,
+   "end": 467.81,
+   "text": "sharply pertains to the government. They are desperately and frantically going into medical",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 467.81,
+   "end": 476.03,
+   "text": "testing, which is a wonderful move for the people who make that equipment. I hope that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 476.03,
+   "end": 482.01,
+   "text": "if you have to go to a doctor, you will ask whether he does medical testing, and if he",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 482.01,
+   "end": 489.83,
+   "text": "does you see I'll go to another doctor because not one of those doctors knows how to calibrate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 489.83,
+   "end": 497.91,
+   "text": "their person and not one of them really knows qualified personnel and as you all know medical",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 497.91,
+   "end": 503.99,
+   "text": "tests are bad enough they are very unreliable 60 percent of them are wrong and the other ones",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 503.99,
+   "end": 509.95,
+   "text": "are getting lost it's not as bad it's not as bad as the IRS but it's getting close",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 509.95,
+   "end": 520.95,
+   "text": "and you better go, you know, to either a big clinic that you have a group practice or to a hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 521.51,
+   "end": 529.45,
+   "text": "So one can say with some predictability that when it comes to testing,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 529.45,
+   "end": 534.19,
+   "text": "but also when it comes to life, whether in surgery and so on,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 534.19,
+   "end": 558.43,
+   "text": "We need the hospital. That's a very small part of its traditional function. And if you're in the hospital business, you're not necessarily a desirable report. Nobody knows how to run a hospital in which a very substantial majority of the patients do not survive and leave the hospital skewered.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 558.43,
+   "end": 563.43,
+   "text": "That is not the place in which people do good work.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 563.43,
+   "end": 564.67,
+   "text": "So we have a problem.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 564.67,
+   "end": 568.15,
+   "text": "But one can see some boundary line.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 568.15,
+   "end": 573.07,
+   "text": "And so this is what I think we are going to try to do.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 573.07,
+   "end": 577.99,
+   "text": "And in terms of the financial market,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 577.99,
+   "end": 580.37,
+   "text": "Don is going to look ahead.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 580.37,
+   "end": 585.25,
+   "text": "And I'm going to try to report on what I think has happened.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 585.25,
+   "end": 589.25,
+   "text": "And so when you look at it, the first thing to say",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 589.25,
+   "end": 592.37,
+   "text": "is that when you have a phenomenon like this, in which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 592.37,
+   "end": 598.25,
+   "text": "you have fundamental changes in all markets, or in most markets,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 598.25,
+   "end": 602.93,
+   "text": "you have to assume that not that there are common causes,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 602.93,
+   "end": 607.73,
+   "text": "but that the entire, shall we say, geology is changing.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 607.73,
+   "end": 610.69,
+   "text": "That these are not things that are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 610.69,
+   "end": 621.01,
+   "text": "cost of what is happening in finance or in health care or in the consumer market you have to assume",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 621.01,
+   "end": 628.77,
+   "text": "that there are common causes because it's simply the coincidence the probability of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 628.77,
+   "end": 635.49,
+   "text": "the coincidence that in half a dozen different major areas at the same time separate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 635.49,
+   "end": 639.37,
+   "text": "and independent things are moving.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 639.77,
+   "end": 644.05,
+   "text": "That's just not, I would say, the probability is close to zero.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 644.91,
+   "end": 648.29,
+   "text": "You have to assume that you have fundamental change.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 649.09,
+   "end": 653.01,
+   "text": "And the first thing, of course, to say is in analyzing things,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 653.01,
+   "end": 655.01,
+   "text": "don't start with your market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 656.43,
+   "end": 658.89,
+   "text": "Start with what is going on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 659.81,
+   "end": 662.37,
+   "text": "And there are a few things to be said.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 662.37,
+   "end": 684.29,
+   "text": "One is that, you know, around 1929, we entered a centralizing period that's been greatly accelerated after World War II, with the emergence of management, and the hospital is a good place to demonstrate it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 684.29,
+   "end": 697.29,
+   "text": "Before 1930, no practitioner would have put a pain patient into a hospital except for surgery, and surgery only after 1890.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 697.29,
+   "end": 713.29,
+   "text": "And even surgery. Even when a child of a respectable family had to have his tonsils out, that was done in the doctor's office, maybe in the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 713.29,
+   "end": 720.49,
+   "text": "the hospital but then the child was sent home and there was always an aunt available and spinster",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 720.49,
+   "end": 726.09,
+   "text": "or or you could get the nurse for very little money and nobody thought of keeping the child",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 726.09,
+   "end": 736.57,
+   "text": "overnight in the hospital uh and in 1929 30 the trend reversed and for almost 50 years uh",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 736.57,
+   "end": 744.67,
+   "text": "And the prevailing medical rule was that whatever age you are, you are better off in the hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 744.67,
+   "end": 751.53,
+   "text": "And around 1975 that changed, not for economic reasons, they only changed it up.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 751.53,
+   "end": 757.17,
+   "text": "And now the prevailing rule is that whatever age you are, you are better off outside the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 757.17,
+   "end": 758.17,
+   "text": "hospital.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 758.17,
+   "end": 768.97,
+   "text": "into freestanding surgicals and into the HMOs and home health service and what have you.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 768.97,
+   "end": 777.79,
+   "text": "And it began to assist the mental hospital, which we basically disbanded in this country.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 777.79,
+   "end": 792.74,
+   "text": "and began to decentralize. And we did the same thing in all areas. We centralized, whether",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 792.74,
+   "end": 800.34,
+   "text": "in government or in education. After World War II, we built the Consolidated High School,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 800.34,
+   "end": 811.87,
+   "text": "largely because we knew that the one-room schoolhouse or two-room schoolhouse was then",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 811.87,
+   "end": 818.67,
+   "text": "modern, deprived educational environment. But the real reason is that we sought",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 821.63,
+   "end": 827.31,
+   "text": "management and in those days we were sure that we could only manage big enterprises",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 828.11,
+   "end": 834.35,
+   "text": "and the bigger the better and the more manageable. Well it hasn't quite worked out that way and in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 834.35,
+   "end": 842.35,
+   "text": "education we may have been the most centralizing of the more let's say this university",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 842.35,
+   "end": 850.59,
+   "text": "for the university of michigan with their close to 60 000 students and i there we have not just",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 850.59,
+   "end": 859.23,
+   "text": "begun to decentralize but let me say it is not perhaps without meaning that in the last",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 860.27,
+   "end": 866.35,
+   "text": "few years when the total number of young people in politics has been going down",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 866.35,
+   "end": 876.35,
+   "text": "the prestige medium-sized liberal arts colleges have had the greatest increase in applications.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 876.35,
+   "end": 883.35,
+   "text": "The Oberlin and Williams and so on, their applications have risen at the rate of 18%",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 883.35,
+   "end": 890.35,
+   "text": "compound now for seven years, which is the fastest rate in applications ever reported",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 890.35,
+   "end": 897.35,
+   "text": "in American education history, and the large universities are holding their own.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 897.35,
+   "end": 907.35,
+   "text": "And this is perhaps a sign that even in education, the decentralizing trend is running politically.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 907.35,
+   "end": 918.35,
+   "text": "And at the same time, we have a new centralizing one that is going slow.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 918.35,
+   "end": 925.15,
+   "text": "there are very few shows in education, shows in finance, shows almost anything.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 926.11,
+   "end": 934.59,
+   "text": "There are no local businesses anymore, just as after the 19, after 1920s there were no regional",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 934.59,
+   "end": 941.07,
+   "text": "businesses in this country anymore. Every business was in the national market, so every business is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 941.07,
+   "end": 943.47,
+   "text": "in a global economy.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 943.47,
+   "end": 946.67,
+   "text": "And the fine print you might look at",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 946.67,
+   "end": 949.01,
+   "text": "is the holy demographics.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 949.01,
+   "end": 955.89,
+   "text": "I would put it this way, is the basic fundamental changes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 955.89,
+   "end": 963.21,
+   "text": "in the value system of different kinds of customers.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 963.21,
+   "end": 967.59,
+   "text": "The only one that still has the value system, which",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 967.59,
+   "end": 975.67,
+   "text": "most marketers take for granted are blue-collar workers and blue-collar workers are rapidly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 975.67,
+   "end": 983.03,
+   "text": "disappear share of the population but even they don't have the values these marketers",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 983.03,
+   "end": 991.96,
+   "text": "because when you look at this century it is the greatest increase in all the capacities",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 991.96,
+   "end": 999.96,
+   "text": "to generate wealth again with frederick taylor and it's unbelievable that there's no precedence",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 999.96,
+   "end": 1009.88,
+   "text": "and in developed countries we can produce about 18 to 25 times the wealth we could produce a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1009.88,
+   "end": 1019.72,
+   "text": "hundred years ago and where has this tremendous increase gone the largest single share has gone",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1019.72,
+   "end": 1032.92,
+   "text": "to media, not to material goods. The low-collar worker of 1905 or 6 worked 3,200 hours. The unionized",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1032.92,
+   "end": 1043.32,
+   "text": "low-collar worker today works 1,750 hours a year, just a little more than half. So that he has taken",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1043.32,
+   "end": 1051.08,
+   "text": "half the increase in political power in legal. Now that's not true of the likes of me.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1051.08,
+   "end": 1064.52,
+   "text": "You'll work more than your predecessors did in 1905. Easy. In 1905, the typical lawyer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1064.52,
+   "end": 1075.87,
+   "text": "worked five and a half short days, and night work was, I know, easy. There weren't no corporate",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1075.87,
+   "end": 1087.07,
+   "text": "law firm and the typical doctor spent really very few hours working most hours he spent contemplating",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1087.07,
+   "end": 1094.11,
+   "text": "the rear end of the horse as he jogged from one farm to another the acts of working time was three",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1094.11,
+   "end": 1100.27,
+   "text": "or four hours a day and all those wonderful stories of him sitting up to the dying tide",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1100.27,
+   "end": 1108.19,
+   "text": "yes but not every night uh he made sure that everybody knew it when he did it once a year",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1108.19,
+   "end": 1121.44,
+   "text": "and so uh uh no knowledge workers work longer hours uh but not manual workers and the next",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1122.32,
+   "end": 1132.0,
+   "text": "year has gone to education which around 1900 took no more than about two percent so they're very much",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1132.0,
+   "end": 1156.42,
+   "text": "smaller GMP as against the 10 or 11% it takes now. And then comes health care that took no share of the GMP in 1900 and now takes 11%. And those three have taken probably 70 to 80% of that incredible increase in the capacity to generate wealth.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1156.42,
+   "end": 1175.42,
+   "text": "And while each of them needs good, none of them is seen as a good, to the point that we see where it's very difficult to define what economics sees with the old definition that we see with the material satisfactions no longer holds.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1175.42,
+   "end": 1183.42,
+   "text": "These are not material satisfactions. These are non-spiritual satisfactions, but not material.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1183.42,
+   "end": 1193.42,
+   "text": "And that may be a very important factor in the change in the market.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1193.42,
+   "end": 1204.42,
+   "text": "And then one that, so I would also add the fact that we have reached a level of income",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1204.42,
+   "end": 1211.42,
+   "text": "in all developed countries in which income is no longer a relevant factor.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1211.42,
+   "end": 1224.42,
+   "text": "for 80% of the population, 10% are poor, no, 15% perhaps may be poor, and 5% may be so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1224.42,
+   "end": 1231.04,
+   "text": "wealthy, again, that they don't fall into the role, but 80% are not middle class, no,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1231.74,
+   "end": 1240.4,
+   "text": "but 80% are not basically determined by income, they are restrained by income.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1241.42,
+   "end": 1253.04,
+   "text": "It went so that income classifications are beginning to be secondary, they're not irrelevant.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1253.04,
+   "end": 1262.42,
+   "text": "And in 1920s, early 20s, modern marketing began, went quite independently into different",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1262.42,
+   "end": 1273.7,
+   "text": "places till people invented or discovered the socio-economic classification by income.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1273.7,
+   "end": 1281.86,
+   "text": "Alfred Sloan in this country as a practicing manager in General Motors and a group of",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1283.14,
+   "end": 1290.58,
+   "text": "statisticians, sociologists in Vienna who then emigrated in the late 20s to Columbia University",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1290.58,
+   "end": 1296.26,
+   "text": "fall through the clauses and so on, on the basis simply of statistical data.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1297.78,
+   "end": 1304.98,
+   "text": "When that is not over, but it's become a rich thing, that's what GM doesn't understand by the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1304.98,
+   "end": 1318.18,
+   "text": "way, and I don't think he or she is. And so that other things determine what people buy, how they",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1318.18,
+   "end": 1326.5,
+   "text": "buy and where you buy age and lifestyle and what have you and so let's look at for a few minutes at",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1326.5,
+   "end": 1335.46,
+   "text": "various markets and let's begin with the consumer market and you know what have been the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1336.34,
+   "end": 1343.06,
+   "text": "successes and what have been the failures the failure is easy the failure is the as well",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1343.06,
+   "end": 1356.91,
+   "text": "and you may say you can explain it by the fact that for 50 years he has never had a problem",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1356.91,
+   "end": 1365.67,
+   "text": "and if for 50 years you are successful then believe me you can't even handle a splinter in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1365.67,
+   "end": 1371.93,
+   "text": "your finger but that's not the whole answer because these are very easy people working very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1371.93,
+   "end": 1382.25,
+   "text": "hard and then look at the successes and you will soon begin to see if you look at successes in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1382.25,
+   "end": 1391.77,
+   "text": "general merchandise on the one hand something like i don't know the eastern don't know north",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1391.77,
+   "end": 1407.93,
+   "text": "stone which is a west coast thing of a shopping center nine-story up but which basically is not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1407.93,
+   "end": 1420.84,
+   "text": "upper class that's the whole point which is high price exquisite and then you look at the profile",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1420.84,
+   "end": 1432.36,
+   "text": "of the customers and it goes but it is totally classless okay the jet set wouldn't buy it more so",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1433.64,
+   "end": 1438.44,
+   "text": "and on the other hand well some others i think are conspicuous by their absence",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1439.0,
+   "end": 1446.6,
+   "text": "but otherwise there is that the customers are not under liquidity are not different",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1446.6,
+   "end": 1459.91,
+   "text": "They are not indifferentiated by age. They range from blue-collar families to business people, executives.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1459.91,
+   "end": 1467.91,
+   "text": "There are people, in other words, who are willing to take quite a bit more to get to certain.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1467.91,
+   "end": 1490.08,
+   "text": "And at the other extreme of the spectrum, you have the successes like the Limited or like what the Walmart, which are basically focused on enormous array of choice, no service whatsoever.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1490.08,
+   "end": 1518.51,
+   "text": "came out pioneering. And in between, it doesn't work. And insofar as old establishments have been able to turn themselves around, if you look at R.H. Macy, Macy has created D.C. Kelly, which has been written by two different kinds of stories.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1518.51,
+   "end": 1526.51,
+   "text": "And none of them is the old Macy's, the Macy's I knew when I first came to New York 50 odd years ago.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1526.51,
+   "end": 1538.82,
+   "text": "One is basically an attempt to provide the service in finding some of the Macy's suburban stores here.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1538.82,
+   "end": 1547.82,
+   "text": "And one is actually a very successful San Francisco store as they came up and both were.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1547.82,
+   "end": 1555.82,
+   "text": "and the old Macy is gone and that's what saved Macy otherwise Macy would have faced the fate of Kimball",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1555.82,
+   "end": 1563.58,
+   "text": "which tried to maintain the old so and all of you know Bloomingdale which basically sets an",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1563.58,
+   "end": 1570.14,
+   "text": "old stone pattern there are no stones that are in service between you and me Bloomingdale in my",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1570.14,
+   "end": 1579.26,
+   "text": "opinion hasn't really watched it and so clearly there is the segmentation which are different",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1579.26,
+   "end": 1588.22,
+   "text": "values and now comes the shopper when you look at two shops you know they are exactly the same you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1588.22,
+   "end": 1596.06,
+   "text": "cannot tell the profile but also when you get credited for it they both have the same people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1596.06,
+   "end": 1604.78,
+   "text": "have an accounting book. In other words, you have the same people shopping, having, being able to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1604.78,
+   "end": 1612.94,
+   "text": "have two value systems in the shop, and do the shop different goods we don't know in different places.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1612.94,
+   "end": 1621.26,
+   "text": "But clearly you can either go one way or the other. You can't, the middle way you don't satisfy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1621.26,
+   "end": 1628.14,
+   "text": "anyone anymore you don't give enough service so that people say i go there because the service is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1628.14,
+   "end": 1635.66,
+   "text": "good and you don't offer enough variety and enough private a bargain so that people say i go there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1635.66,
+   "end": 1642.62,
+   "text": "because it's the one place you know i'm not going to spend a lot of money for blue jeans for a nine",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1642.62,
+   "end": 1650.3,
+   "text": "year old boy before he has put them on he has already outgrown them uh and uh in between there",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1650.3,
+   "end": 1657.5,
+   "text": "is no market and that was the market and when you look at health care let me see you find very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1657.5,
+   "end": 1671.16,
+   "text": "similar phenomena and when you look however at consumer business you all know that in the last",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1671.16,
+   "end": 1678.04,
+   "text": "few years the large advertising agencies all over the world have been in a wise merge of frenzy",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1678.04,
+   "end": 1685.84,
+   "text": "and this is usually explained by saying that marketing has become global and you",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1685.84,
+   "end": 1691.72,
+   "text": "know to an old-timer like me that's a very suspect explanation when you see",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1691.72,
+   "end": 1696.7,
+   "text": "that kind of activity the normal explanation is that the market has",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1696.7,
+   "end": 1702.04,
+   "text": "become saturated and there are people who believe that the good Lord ordained",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1702.04,
+   "end": 1707.86,
+   "text": "that you have to grow 20% a year believe the good Lord ordained nothing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1707.86,
+   "end": 1718.52,
+   "text": "of the world. And then they think they can overcome a mature market that no longer grows",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1718.52,
+   "end": 1729.11,
+   "text": "by merging. The result inevitably is sharply decreased profitability and the shake-out.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1729.11,
+   "end": 1734.55,
+   "text": "And I think that's what's going, what's ahead in the advertising industry. Because it's",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1734.55,
+   "end": 1740.55,
+   "text": "clear that the market is saturated. There is only so much advertising you can put on",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1740.55,
+   "end": 1748.55,
+   "text": "television, and we have exceeded it. And in all countries, the media are saturated with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1748.55,
+   "end": 1755.55,
+   "text": "advertising. And by the same time, advertising is beginning to have less and less results.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1755.55,
+   "end": 1763.55,
+   "text": "The marginal return on the advertising dollars is going down very sharply, simply because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1763.55,
+   "end": 1769.97,
+   "text": "no distinction anymore and then the advertising agencies are under extreme",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1769.97,
+   "end": 1777.01,
+   "text": "pressure and you see those mega miracles but when you look at the global market",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1777.01,
+   "end": 1785.75,
+   "text": "yes and no we already see that it isn't true that there is global marketing yes",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1785.75,
+   "end": 1799.67,
+   "text": "there is global marketing for some things, mostly for immediate consumer goods with high visibility,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1800.87,
+   "end": 1807.83,
+   "text": "whether they're two-seat or stereo. For everything else, markets are fragmented.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1808.63,
+   "end": 1815.27,
+   "text": "They are not becoming bigger and more global. You have some global markets that are highly",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1815.27,
+   "end": 1824.23,
+   "text": "specialized let's say for ski where you have the same kind of people buying the same skis",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1824.23,
+   "end": 1834.71,
+   "text": "or the same exercise equipment in all developed countries and the affluent people in developing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1834.71,
+   "end": 1843.03,
+   "text": "countries and they are tiny markets and yet they are worldwide and require worldwide marketing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1843.03,
+   "end": 1861.15,
+   "text": "And at the same time you have increasing fragmentation in the development of local states. So the real trends in marketing are not global. The things that have been global for a long time remain global.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1861.15,
+   "end": 1872.83,
+   "text": "The other things become either socially fragmented or locally fragmented, and so the global market",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1872.83,
+   "end": 1873.83,
+   "text": "knows.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1873.83,
+   "end": 1882.25,
+   "text": "The global information, the global market knows.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1882.25,
+   "end": 1887.91,
+   "text": "And now you look at finance, where we all knew.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1887.91,
+   "end": 1892.91,
+   "text": "And when I say we, I include myself, I'm not saying I knew better than anybody else.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1892.91,
+   "end": 1893.91,
+   "text": "None of us did.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1893.91,
+   "end": 1894.91,
+   "text": "This is hindsight.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1894.91,
+   "end": 1907.37,
+   "text": "That there would be the financial supermarkets and that more financial products would be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1907.37,
+   "end": 1912.37,
+   "text": "bought or sold through the same distribution channels.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1912.37,
+   "end": 1915.37,
+   "text": "And you know it hasn't happened.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1915.37,
+   "end": 1929.3,
+   "text": "In fact, what something much more interesting has happened, the distinction between different",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1929.3,
+   "end": 1935.74,
+   "text": "kinds of customers has become greater, not lesser.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1935.74,
+   "end": 1958.5,
+   "text": "What I'm saying is that we have the most active stock market ever, and the American individual",
+   "speaker": "drucker",
+   "drucker_coverage": 0.956
+  },
+  {
+   "start": 1958.5,
+   "end": 1966.9,
+   "text": "investor has been a net seller of uh listed and unlisted securities the last 10 years",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1967.86,
+   "end": 1977.94,
+   "text": "he has been trading steadily in direct holding in companies against holdings in intermediaries",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1978.82,
+   "end": 1985.7,
+   "text": "the pension funds it doesn't control also the mutual but i don't know what proportion of mutual",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1985.7,
+   "end": 1992.4,
+   "text": "front page represents basically exchange rather than new investments. Maybe",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1992.4,
+   "end": 1999.44,
+   "text": "Donald knows, but it's a substantial one. And yet at the same time the distinction between",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 1999.44,
+   "end": 2012.07,
+   "text": "products has largely disappeared. Here is that. Well, take my neighbor, maybe the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2012.07,
+   "end": 2019.09,
+   "text": "richest man in the small town in which I live, who has five pharmacies. And I said,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2019.09,
+   "end": 2028.08,
+   "text": "five five doors and she says you know if you don't have a big pharmacy chain the owner has to be",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2029.2,
+   "end": 2036.66,
+   "text": "in the store at least one day a week and i like to play golf one day a week",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2038.98,
+   "end": 2046.66,
+   "text": "and so he has five pharmacies a gold mine and she works very hard and she does a good job and",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2046.66,
+   "end": 2057.06,
+   "text": "And she knows the secret of a farmer, any retail business, is to be friendly, to be nice to the customers, to serve them.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2057.28,
+   "end": 2061.98,
+   "text": "And she makes sure that they say, keep your smile, and that they know customers by name,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2062.44,
+   "end": 2066.28,
+   "text": "and that when you come in, they say, what can we do for you, Mr. Doctor, and that's it.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2067.2,
+   "end": 2072.14,
+   "text": "Otherwise, she has exactly the same product every other drugstore in the country has.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2072.14,
+   "end": 2085.22,
+   "text": "But you don't have to go to him to buy Colgate or Toothpaste, or to have the prescriptions.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2085.22,
+   "end": 2086.22,
+   "text": "And I don't...",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2086.22,
+   "end": 2089.98,
+   "text": "He's quite surely has an enormous interest.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2089.98,
+   "end": 2095.6,
+   "text": "And you know, what does he buy?",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2095.6,
+   "end": 2104.72,
+   "text": "What he buys, he no longer distinguishes between what every financial textbook tells you, a",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2104.72,
+   "end": 2113.66,
+   "text": "totally different products. He buys real estate trusts and taxed as a partnership, maybe in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2113.66,
+   "end": 2121.84,
+   "text": "so far as Uncle Sam allows him, and mutual funds and deferred annuities. Basically very",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2121.84,
+   "end": 2129.94,
+   "text": "conservative, defensive life. He's more concerned with conserving what he's making than with",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2129.94,
+   "end": 2141.94,
+   "text": "making money by investing. But the products to him are not differentiated, they are simply",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2141.94,
+   "end": 2164.86,
+   "text": "fortunate forms of investment. But he is quite true in where he buys. For 20 years we have",
+   "speaker": "drucker",
+   "drucker_coverage": 0.804
+  },
+  {
+   "start": 2164.86,
+   "end": 2173.66,
+   "text": "that the commercial bank really is the best way to sell to the individual affluent person,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2173.66,
+   "end": 2182.78,
+   "text": "these other customers anyhow. Well, that's why it hasn't worked. Somehow, this is not how we,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2182.78,
+   "end": 2189.74,
+   "text": "the public, see the commercial bank. The Swiss have done it better. I know it's the traditional",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2189.74,
+   "end": 2208.62,
+   "text": "broker-dealer and so far without the talent. And here we see a robot and here we see a figure, now there's an enormous",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2208.62,
+   "end": 2215.74,
+   "text": "class of investors and investment is just as much a purchase for the family as",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2215.74,
+   "end": 2222.08,
+   "text": "automobile insurance or refrigerator and so thereby being with us and that we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2222.08,
+   "end": 2227.96,
+   "text": "don't have anybody anything you don't know it's not been a great success in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2227.96,
+   "end": 2233.24,
+   "text": "fact so far they have been able to do is dismantle in which as far as I can see",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2233.24,
+   "end": 2244.68,
+   "text": "because we do not really like to discuss IRA next door to where our neighbor shop",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2244.68,
+   "end": 2252.28,
+   "text": "for her daughter's underwear. No, we don't. It is not the right environment. Also, we",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2252.28,
+   "end": 2260.18,
+   "text": "have a sneaking suspicion that those people who have been trained to be sales",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2260.18,
+   "end": 2266.72,
+   "text": "clerks in furniture are perhaps not ideally equipped to advise us on our",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2266.72,
+   "end": 2275.98,
+   "text": "investment. They somehow don't quite trust us. It has not worked. And if you look at",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2275.98,
+   "end": 2283.98,
+   "text": "the same time you know very few firms have been able to build both an institutional",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2283.98,
+   "end": 2290.94,
+   "text": "and the retail business a very small number of new york-based flyer houses",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2290.94,
+   "end": 2295.1,
+   "text": "of whom we have one here how many are there three or four or something",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2296.38,
+   "end": 2305.02,
+   "text": "at most everybody has tried and the most successful one have been regionals who only",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2305.02,
+   "end": 2313.18,
+   "text": "go in the retail business. A.G. Becker in St. Louis, who don't touch the institutional business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2313.18,
+   "end": 2317.98,
+   "text": "And on the other hand, there are the institutional houses, there's ornaments and so on.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2318.7,
+   "end": 2327.02,
+   "text": "And in very few cases has anybody been successful in servicing both.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2327.02,
+   "end": 2340.16,
+   "text": "and the large banks have been very good in expanding in all areas of money but",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2340.16,
+   "end": 2345.62,
+   "text": "they have been totally unsuccessful by and large in expanding in the capital",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2345.62,
+   "end": 2352.4,
+   "text": "market except pension fund yes but situation we don't look to them in this",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2352.4,
+   "end": 2355.66,
+   "text": "country now that's not the law of nature it's not",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2355.66,
+   "end": 2363.18,
+   "text": "Germany. On the other hand, if you look at Germany, the German large banks, which were",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2363.18,
+   "end": 2370.99,
+   "text": "institutional primarily, have not been able to get the retail business,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2372.59,
+   "end": 2378.59,
+   "text": "even though they are trying very hard. The retail business is dominated in Germany by",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2378.59,
+   "end": 2388.43,
+   "text": "city bank affiliate. They have 50% of the German, 48% of the German retail banking business.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2391.31,
+   "end": 2399.39,
+   "text": "Partly, maybe the German large banks were asleep at the switch, but not very long. But fundamentally,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2399.39,
+   "end": 2406.75,
+   "text": "the German family is not comfortable in those marble halls of the Deutsche Bank,",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2406.75,
+   "end": 2412.35,
+   "text": "and knows that they are not really welcome they are no matter what the deutsche bank says",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2413.23,
+   "end": 2420.67,
+   "text": "and they aren't believe yeah still and these aren't their kinds of people",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2423.15,
+   "end": 2428.59,
+   "text": "and so we have no financial supermarket but the new",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2428.59,
+   "end": 2438.49,
+   "text": "segmentation is not by traditional product and not by traditional distributive channel it is",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2438.49,
+   "end": 2451.4,
+   "text": "by customer acceptance of the kind of institution that is fitting for this kind of business and the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2451.4,
+   "end": 2458.66,
+   "text": "large buyer house is fitting for this or the regional broker. And even",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2458.66,
+   "end": 2464.0,
+   "text": "though my hunch is that none of the regional brokers, there's more than four",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2464.0,
+   "end": 2469.94,
+   "text": "or five percent of its business enlisted stock exchange securities, they are still",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2469.94,
+   "end": 2477.52,
+   "text": "stock exchange houses and that gives them a credibility. When on the other",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2477.52,
+   "end": 2486.9,
+   "text": "hand in the institutional market by a large institutions deal with people who",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2486.9,
+   "end": 2495.04,
+   "text": "were institutional and so you have the segmentation by customers and no longer",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2495.04,
+   "end": 2506.44,
+   "text": "by product line and so what can one say one can say first this is a time not to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2506.44,
+   "end": 2517.18,
+   "text": "go by what anybody tells you including me but to make sure you're out in the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2517.18,
+   "end": 2524.84,
+   "text": "market you are sure and let me say this is a time when that oldest rule of the",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2524.84,
+   "end": 2532.44,
+   "text": "marketer becomes important we have been telling you for as long as we have been",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2532.44,
+   "end": 2541.28,
+   "text": "talk marketing which is now about 40 odd years that the most important people to",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2541.28,
+   "end": 2549.68,
+   "text": "know are your non-customers the ones who should be wedding they are far they are",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2549.68,
+   "end": 2553.88,
+   "text": "they're really important people if only because you always outnumber your",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2553.88,
+   "end": 2563.93,
+   "text": "customers and this is a tank because you can't go anymore but people have been",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2563.93,
+   "end": 2574.25,
+   "text": "our customers and therefore they are our customers. You have to go back. The market is changing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2574.25,
+   "end": 2585.41,
+   "text": "in ways which are not historic and then one better understand and know and see the geological",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2585.41,
+   "end": 2594.93,
+   "text": "four lines before the earthquake and the second thing to say is look for the fundamentals",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2595.57,
+   "end": 2603.57,
+   "text": "because this is a general change and not one that is financial and hospital",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2605.25,
+   "end": 2616.72,
+   "text": "and underwear and what have your capital goods as clearly as the basic contours are changing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2617.52,
+   "end": 2631.94,
+   "text": "they are changing in part because of information in part because of fundamental changes because",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2631.94,
+   "end": 2641.7,
+   "text": "where is the way to put this that incomes are no longer a determinant of buying for the great bulk",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2641.7,
+   "end": 2649.14,
+   "text": "of people in the great bulk of circumstances incidentally the this is true in housing",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2652.9,
+   "end": 2661.14,
+   "text": "when you the old formula for you could predict in my time when i was an investment banker",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2662.58,
+   "end": 2670.74,
+   "text": "we had the largest english real estate concern is our main client and they could predict within",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2670.74,
+   "end": 2679.06,
+   "text": "a few pounds what kind of a house a family would buy simply because families bought to the point",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2681.06,
+   "end": 2686.21,
+   "text": "where the families bought houses so that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2689.41,
+   "end": 2700.69,
+   "text": "the service cost between 26 and 32 percent of their income period that doesn't work anymore or",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2702.05,
+   "end": 2707.01,
+   "text": "you young people working here in the financial district wouldn't pay what you pay for new",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2707.01,
+   "end": 2713.09,
+   "text": "york apartments our people living in my part of the world wouldn't pay what you have to pay in",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2713.09,
+   "end": 2722.37,
+   "text": "santa monica for a house uh obviously uh this is not the way that's not to be my children",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2722.37,
+   "end": 2732.53,
+   "text": "They look first at what do I need and what do I want, and if we can't afford it, that",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2732.53,
+   "end": 2736.61,
+   "text": "may force us to make a compromise.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2736.61,
+   "end": 2747.59,
+   "text": "But we don't start out, housing has not seen economically, but it's terms almost of personality.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  },
+  {
+   "start": 2747.59,
+   "end": 2753.03,
+   "text": "And so economics are a restraint and not a motivation.",
+   "speaker": "drucker",
+   "drucker_coverage": 1.0
+  }
+ ],
+ "host": "qcl",
+ "gpu": "Tesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB\nTesla V100-DGXS-32GB",
+ "rtf": 29.31,
+ "created_utc": "2026-09-20T22:52:43+00:00",
+ "speaker_pass": "speaker_id.py regions; segment tagged drucker >=60% coverage, other <=30%, uncertain between"
+}
