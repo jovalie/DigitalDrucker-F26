@@ -1,0 +1,27 @@
+{
+  "1981 reel — 10 s (recommended)": {
+    "file": "4796_696s_10s_normalized.wav",
+    "note": "1981 symposium, reel-to-reel, SNR 35 dB, widest band",
+    "transcript": "And the question about the President's administration that people don't ask is: why does everybody think it is so much of a difference?"
+  },
+  "1981 reel — 15 s": {
+    "file": "4796_688s_15s_normalized.wav",
+    "note": "1981 symposium, same answer with its lead-in",
+    "transcript": "You know, I'm being asked, I always wonder about the question people don't ask. And the question about the President's administration that people don't ask is: why does everybody think it is so much of a difference?"
+  },
+  "1981 reel — 30 s": {
+    "file": "4796_688s_30s_normalized.wav",
+    "note": "1981 symposium, more prosody (no transcript: falls back to cross-lingual copy)",
+    "transcript": ""
+  },
+  "1981 lecture — 15 s": {
+    "file": "4796_2352s_15s_normalized.wav",
+    "note": "1981 lecture register, \"Towards the Next Economics\" (no transcript)",
+    "transcript": ""
+  },
+  "1986 VHS — 10 s (noisy)": {
+    "file": "4849_340s_10s_audio_normalized.wav",
+    "note": "1986 lecture, VHS audio (SNR ~12 dB) — timbre only, not for cloning",
+    "transcript": ""
+  }
+}

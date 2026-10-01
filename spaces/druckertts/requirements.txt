@@ -1,0 +1,39 @@
+# The ZeroGPU image preinstalls gradio, spaces, huggingface_hub, torch, numpy and pydantic —
+# do not pin those (pins break the runtime or the preinstalled Gradio).
+# Everything else follows CosyVoice's own requirements.txt, except:
+#   * onnxruntime instead of onnxruntime-gpu (the ONNX models run on CPU here)
+#   * no openai-whisper   — app.py guards that import (CosyVoice-1 tokenizer path only)
+#   * no deepspeed / pyworld (training-only, heavy builds)
+#   * no version pins, so pip resolves against the preinstalled stack
+torchaudio
+onnxruntime
+onnx
+omegaconf
+hydra-core
+HyperPyYAML
+conformer
+lightning
+diffusers
+transformers
+soundfile
+librosa
+modelscope
+wetext
+inflect
+networkx
+rich
+gdown
+matplotlib
+pyarrow
+grpcio
+protobuf
+fastapi
+wget
+einops
+scipy
+tiktoken
+regex
+x-transformers==2.11.24
+unidecode
+pypinyin
+zhon
