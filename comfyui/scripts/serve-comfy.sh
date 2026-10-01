@@ -2,7 +2,7 @@
 # ComfyUI on GPU0 (V100). Listens on the tailnet IP when Tailscale is up, else localhost.
 set -euo pipefail
 B=/mnt/raid/shared/comfyui
-TS_IP="$(tailscale ip -4 2>/dev/null | head -1 || true)"
+TS_IP=""  # Tailscale removed 2026-09-30; loopback only
 LISTEN_IP="${COMFY_LISTEN_IP:-${TS_IP:-127.0.0.1}}"
 export CUDA_VISIBLE_DEVICES=0
 cd "$B/ComfyUI"

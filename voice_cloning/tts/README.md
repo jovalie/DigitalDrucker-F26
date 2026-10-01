@@ -3,7 +3,7 @@
 Text-to-speech in Peter Drucker's archived voice, with intonation prompting. Runs on **qclgpu,
 GPU1** (V100) and is reachable over the tailnet.
 
-- **UI / API:** <http://qclgpu.taild6baec.ts.net:8190> (or `http://100.69.136.49:8190`)
+- **UI / API:** `http://127.0.0.1:8190` over an SSH tunnel (`ssh -N -L 8190:127.0.0.1:8190 -p 5022 <user>@qclgpu.compute.cmc.edu`) — the portal binds to loopback since Tailscale was removed on qclgpu (2026-09-30)
 - **Engine:** [CosyVoice 2](https://github.com/FunAudioLLM/CosyVoice) `CosyVoice2-0.5B` (Apache-2.0),
   zero-shot clone from a 10–30 s archive clip, style controlled by a natural-language prompt.
 - **Models:** `/mnt/raid/shared/tts/pretrained_models/CosyVoice2-0.5B` (4.6 GB)
@@ -22,10 +22,10 @@ GPU1** (V100) and is reachable over the tailnet.
 
 ```bash
 # list voices + intonation presets
-curl -s http://100.69.136.49:8190/api/voices
+curl -s http://127.0.0.1:8190/api/voices
 
 # generate — intonation via natural-language prompt
-curl -s -X POST http://100.69.136.49:8190/api/tts -H 'Content-Type: application/json' -d '{
+curl -s -X POST http://127.0.0.1:8190/api/tts -H 'Content-Type: application/json' -d '{
   "text": "The best way to predict the future is to create it.",
   "voice": "drucker_1981_reel_10s",
   "mode": "instruct",

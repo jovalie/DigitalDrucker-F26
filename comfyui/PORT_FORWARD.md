@@ -10,7 +10,7 @@ Both the hostname and the route to port 5022 depend on it.
 ## 2. Open the tunnel — keep this terminal open
 
 ```bash
-ssh -N -L 8188:100.69.136.49:8188 -p 5022 <qcluser>@qclgpu.compute.cmc.edu
+ssh -N -L 8188:127.0.0.1:8188 -p 5022 <qcluser>@qclgpu.compute.cmc.edu
 ```
 
 `-N` = no shell, just the forward. If your key isn't the default one, add `-i ~/.ssh/<yourkey>`.
@@ -22,10 +22,11 @@ If the hostname doesn't resolve, use the IP instead: `<qcluser>@134.173.177.241`
 
 ## The two gotchas
 
-- **Target must be `100.69.136.49:8188`, not `localhost:8188`.** ComfyUI binds only to the
-  machine's Tailscale IP, so a forward to loopback dies and the browser shows
-  `NS_ERROR_NET_EMPTY_RESPONSE` (Firefox) / `ERR_EMPTY_RESPONSE` (Chrome). That empty response
-  *is* the symptom of a wrong forward target, not a broken server.
+- **ComfyUI listens on `127.0.0.1:8188`** (the machine's Tailscale was removed on 2026-09-30, and
+  the services were rebound to loopback), so the forward target is plain loopback — no tailnet IP
+  involved. `NS_ERROR_NET_EMPTY_RESPONSE` (Firefox) / `ERR_EMPTY_RESPONSE` (Chrome) means the
+  forwarded port has nothing behind it: wrong port, or the service is down (`systemctl is-active
+  comfyui`).
 - **`Could not resolve hostname qclgpu.compute.cmc.edu`** = VPN not up (or no DNS for the
   internal name). Either reconnect the VPN or pin it:
   `sudo sh -c 'echo "134.173.177.241 qclgpu.compute.cmc.edu" >> /etc/hosts'`
@@ -54,7 +55,7 @@ Host qclgpu-fwd
     HostName qclgpu.compute.cmc.edu
     Port 5022
     User <qcluser>
-    LocalForward 8188 100.69.136.49:8188
+    LocalForward 8188 127.0.0.1:8188
     ExitOnForwardFailure yes
     ServerAliveInterval 30
 ```
