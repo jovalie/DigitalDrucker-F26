@@ -3,15 +3,14 @@
 
 ## 0. SSH setup            
 
-**1. Create a key on your machine (once):**                                  
+**1. Create a key on your machine:** 
 ```
     mkdir -p ~/.ssh && chmod 700 ~/.ssh                                      
     ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519_laguna -C "your.name@cgu.edu" 
     chmod 600 ~/.ssh/id_ed25519_laguna ~/.ssh/id_ed25519_laguna.pub
 ```
 
-**2. Copy the PUBLIC key** (never the private one — the file without         
-`.pub`):
+**2. Copy the PUBLIC key** (do NOT copy the private key — the file without `.pub`):
 
 ```
 cat ~/.ssh/id_ed25519_laguna.pub
