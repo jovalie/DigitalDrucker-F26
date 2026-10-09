@@ -1,179 +1,110 @@
-# Runbook: ComfyUI on Laguna + port forwarding (for labmates)
+# Runbook: ComfyUI on Laguna + port forwarding
 
 Everything lives under `/project/JoaZheng_1796/drucker/` on Laguna, which is also the group's
 shared folder — so the nodes, models and outputs are the same for everyone.
 
 ---
 
-## 0. SSH setup (do this once)
+## 0. SSH setup            
 
-**a. Make a key** 
-
-```bash
-ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519_laguna -C "your.name@cgu.edu"
-# press Enter for no passphrase, or set one (recommended) and use ssh-agent
+**1. Create a key on your machine (once):**                                  
+```
+    mkdir -p ~/.ssh && chmod 700 ~/.ssh                                      
+    ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519_laguna -C "your.name@cgu.edu" 
+    chmod 600 ~/.ssh/id_ed25519_laguna ~/.ssh/id_ed25519_laguna.pub
 ```
 
-**b. Register the public key with CARC.** Two things have to be true before anything works:
+**2. Copy the PUBLIC key** (never the private one — the file without         
+`.pub`):
 
-1. Your CARC account is a **member of project `JoaZheng_1796`** (ask the PI — access is per project,
-   not automatic with an account).
-2. Your **public key** (`~/.ssh/id_ed25519_laguna.pub`) is added in the CARC account portal
-   ("SSH keys" / "Manage keys" section). Copy the whole line:
-
-```bash
+```
 cat ~/.ssh/id_ed25519_laguna.pub
 ```
 
-CARC often needs a few minutes to propagate a new key, and some systems want the key added to
-`~/.ssh/authorized_keys` on the login node as a fallback:
+Copy the the whole line, starting with `ssh-ed25519`.
 
-```bash
-ssh laguna1.carc.usc.edu 'mkdir -p ~/.ssh && chmod 700 ~/.ssh'
-cat ~/.ssh/id_ed25519_laguna.pub | ssh laguna1.carc.usc.edu 'cat >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys'
+**3. Add it in the CARC web portal:**                                        
+
+1. Sign in to the CARC user portal in your browser: **[https://laguna-ood.carc.usc.edu](https://laguna-ood.carc.usc.edu)**
+2. Go to **Files → Home Directory**.
+3. Open **.ssh** folder.
+4. Edit `authorized_keys` file.
+![Editing authorized_keys file](imgs/laguna_ssh.png)
+5. Paste your public key and hit Save.
+
+**4. Point your client at the key** — add this to your computer's `~/.ssh/config`:                                                
+```
+ Host laguna
+     HostName laguna1.carc.usc.edu
+     User <username>@cgu.edu 
+     IdentityFile ~/.ssh/id_ed25519_laguna
+     IdentitiesOnly yes
+     ServerAliveInterval 60
+     StrictHostKeyChecking accept-new
+```                     
+**5. Test it**
+```
+ssh laguna 'hostname; whoami; cat /project/JoaZheng_1796/drucker/comfy.sbatch'         
 ```
 
-**c. Add a shortcut** so you don't retype the username every time — put this in `~/.ssh/config`:
+![](/imgs/ssh_confirmation.png)
+                                                                
+**Troubleshooting**: `Permission denied (publickey)` usually means the key hasn't propagated yet, or the wrong file was pasted (it must be the `.pub`), or project membership is missing. 
 
-```sshconfig
-Host laguna
-    HostName laguna1.carc.usc.edu
-    User <username>@cgu.edu
-    IdentityFile ~/.ssh/id_ed25519_laguna
-    IdentitiesOnly yes
-    ServerAliveInterval 60
-    StrictHostKeyChecking accept-new
-```
+Try re-adding the public key in the web portal. 
 
-Then everything below gets shorter: `ssh laguna`, and
-`ssh -N -L 8199:<NODE>:8188 laguna` for the tunnel.
-
-**d. Check you're in:**
-
-```bash
-ssh laguna 'hostname; whoami; squeue -u $USER'
-ls /project/JoaZheng_1796/drucker            # should list the project folders
-```
-
-Notes: first connect will ask you to accept the host key (type `yes`); a warning about
-"post-quantum key exchange" is harmless. From off campus you may need the university VPN.
-To leave the project cleanly, remove your key from the portal and delete the `laguna` block from
-your config.
-
+The "post-quantum key
+exchange" warning is harmless.
+ 
 ---
 
-## 1. Before you start
+## 1. ComfyUI Requirements
 
 | You need | Details |
 |---|---|
 | Laguna access | A USC CARC account that's a member of project `JoaZheng_1796` |
 | SSH key | Your own key registered with CARC (an example below uses `~/.ssh/id_ed25519_laguna`) |
-| Login node | `laguna1.carc.usc.edu` — the *hostname* for the GPU nodes only resolves from inside |
-| Nothing else | No local ComfyUI install, no GPU on your laptop |
 
 ---
 
-## 1. Start ComfyUI (on the login node)
+
+## 2. Start ComfyUI on Laguna
 
 ```bash
-ssh laguna1
+ssh laguna
 sbatch /project/JoaZheng_1796/drucker/comfy.sbatch
-squeue -u $USER -o "%.10i %.2t %.10M %.12R"     # PD = waiting, R = running
+squeue -u $USER -o "%.10i %.2t %.10M %.12R"
 cat /project/JoaZheng_1796/drucker/logs/comfy_node.txt   # e.g. c22-11.carc.usc.edu
 ```
 
-The batch script starts ComfyUI on **port 8188**, listening only on the compute node, and writes
-the node it landed on to `logs/comfy_node.txt`. First start takes ~30–60 s.
+![](/imgs/comfy_job.png)
 
-**The job has an 8-hour wall limit.** When it ends, ComfyUI stops — resubmit and re-read the node
-name. The node can change between jobs, so always check `comfy_node.txt` before opening a tunnel.
+The batch script starts ComfyUI on **port 8188**, listening only on the compute node, and writes the
+node it landed on to `logs/comfy_node.txt`. 
 
 ---
 
-## 2. Port-forward it to your machine
+## 3. Port-forward ComfyUI to your machine
 
-Keep this terminal open (macOS/Linux):
+Exit the connection to your Laguna instance. When you've reconnected to your local machine, we'll open a port from your machine to our ComfyUI service on Laguna.
 
 ```bash
-ssh -N -L 8199:laguna1.carc.usc.edu:8188 -i ~/.ssh/id_ed25519_laguna JoaZheng@cmc.edu@laguna1.carc.usc.edu
+exit
+ssh -N -L 8199:<NODE>:8188 laguna
 ```
 
-- `-N` = forward only, no shell.
-- Replace `<NODE>` with the short name from `comfy_node.txt` (e.g. `c22-11`, without `.carc.usc.edu`).
-- Local port **8199** is a convention here (8188 is taken by another service on QCL).
+- Replace `<NODE>` with the **short** name from `comfy_node.txt` (e.g. `c22-11`, without`.carc.usc.edu`). The target must be the **compute node** — the login node does not run ComfyUI.
+- `-N` = forward only, no shell. Add `-f` to run it in the background.
+- Keep the terminal open to maintain the connection.
 
-Then open **http://localhost:8199** (plain `http`, not `https`).
+You won't receive a confirmation message when the port is successfully open. You can check the status by visiting ComfyUI itself.
 
-Quick check that it's really up:
+![](/imgs/open_port.png)
 
-```bash
-curl -s http://localhost:8199/system_stats | head -c 120     # shows the L40S + VRAM
-```
+Open **http://localhost:8199** to visit ComfyUI. (plain `http`, not `https`). First start takes ~30–60 s.
 
----
+![](/imgs/comfyui.png)
 
-## 3. What's in the install
-
-```
-/project/JoaZheng_1796/drucker/comfy/
-├── main.py                       ComfyUI itself (launched by comfy.sbatch)
-├── models/
-│   ├── checkpoints/              ltx-2.3-22b-dev-fp8
-│   ├── diffusion_models/         LTX-2.5 int8, MiniMax H3 (fl2va / ref2va), …
-│   ├── loras/                    distilled, id-lora talkvid, natural-face v2, realism, Pixar_Toon, skin-hair
-│   ├── text_encoders/            gemma-3-12b, gemma4 (LTX-2.5), qwen3vl (MiniMax)
-│   ├── vae/                      LTX-2.3 / LTX-2.5 video+audio VAEs, MiniMax VAEs
-│   └── latent_upscale_models/    LTX spatial upscalers
-├── user/default/workflows/       our saved workflows (T2V/I2V/FLF2V Studio + Identity Lock,
-│                                 MiniMax natural-face, realism, Pixar variants)
-├── input/                        reference images and audio you select in LoadImage / LoadAudio
-└── output/                       finished videos (also reachable through the web UI)
-```
-
-Workflows of interest: `LTX-2.5 Studio T2V/I2V/FLF2V + Identity Lock`, `video_ltx2_3_id_lora`
-(+ `_pixar06/08/10`), `video_minimax_h3_naturalface[_speech|_realism]`, `drucker_video_ltx2_3_…`.
-
----
-
-## 4. Everyday use
-
-1. Open the workflow from the **Workflows** panel (reload the browser tab after new files appear).
-2. Check the `LoadImage` / `LoadAudio` dropdowns — they list what's in `models`/`input`.
-3. Queue, and watch the queue panel. Two-stage LTX runs at 1280×720 / 12 s take ~15–20 min on one
-   L40S; MiniMax H3 at 20 steps takes ~20–30 min.
-4. Download results from the UI's output viewer, or copy them from `comfy/output/`.
-
-Useful habits:
-
-- **Record the settings** behind anything worth keeping (frame rate, length, LoRA strengths, seed
-  via *Extra options → control after generate = fixed*). Most of our wasted time came from
-  mismatched settings, not from the models.
-- **Match the model's native frame rate** — LTX-2.x expects 25 fps; rendering at 30 produces warped
-  motion and lip-sync drift.
-- **Keep clips short** (≈5–12 s) and heights multiples of 32 (704, not 720) to avoid odd sizes.
-
----
-
-## 5. If something breaks
-
-| Symptom | Fix |
-|---|---|
-| Browser can't connect | Tunnel closed → re-run step 2. Check `curl …/system_stats` first |
-| `squeue` shows no job | The 8 h limit expired → resubmit (step 1) and use the new node name |
-| `Address already in use` | An old tunnel holds 8199 → close it (`pkill -f "8199:"`) and re-open |
-| Workflow opens but a model is missing | The file isn't in `models/` — ask before downloading; check the loader's dropdown |
-| Job stuck at "pending (Resources)" | The GPU partition is full — wait; `sinfo -p gpu` shows availability |
-| Something else | Check `logs/comfy-<jobid>.out` for the traceback and share it |
-
----
-
-## 6. House rules
-
-- **Archival Drucker material stays on approved storage.** Don't upload his recordings or stills to
-  external/cloud services, and don't use the paid partner/API nodes (Kling, Sync.so, ElevenLabs,
-  Hailuo …) for his likeness.
-- **Everything generated is AI-assisted** and must be labelled as such wherever it's shared.
-- Long jobs belong on the GPU, not the login node — start big work through `sbatch`, never directly
-  on the login node.
-- Only one of us needs to run ComfyUI at a time; if it's already running, just tunnel to the
-  existing node instead of submitting a second job.
+### Notes
+**The tunnel dies with the job.** The 8-hour wall limit ends ComfyUI; resubmit (section 2),
+**re-read `comfy_node.txt`** — the node often changes — and reopen the tunnel with the new name.
