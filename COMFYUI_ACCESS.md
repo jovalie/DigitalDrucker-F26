@@ -1,9 +1,5 @@
 # Runbook: ComfyUI on Laguna + port forwarding
 
-Everything lives under `/project/JoaZheng_1796/drucker/` on Laguna, which is also the group's
-shared folder — so the nodes, models and outputs are the same for everyone.
-
----
 
 ## 0. SSH setup            
 
@@ -49,9 +45,7 @@ ssh laguna 'hostname; whoami; cat /project/JoaZheng_1796/drucker/comfy.sbatch'
 
 ![](/imgs/ssh_confirmation.png)
                                                                 
-**Troubleshooting**: `Permission denied (publickey)` usually means the key hasn't propagated yet, or the wrong file was pasted (it must be the `.pub`), or project membership is missing. 
-
-Try re-adding the public key in the web portal. 
+**Troubleshooting**: `Permission denied (publickey)` usually means the key hasn't propagated yet, or the wrong file was pasted (it must be the `.pub`), or project membership is missing. Try re-adding the public key in the web portal. 
 
 The "post-quantum key
 exchange" warning is harmless.
